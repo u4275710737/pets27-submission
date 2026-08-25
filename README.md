@@ -1,6 +1,6 @@
 # Artifact | PETS 2027 - Issue 2 | Is Echo Scanning Worth it? Exploring the Global Landscape of Echo Servers for Censorship Analyses
 
-In the following, we briefly describe the structure of this artifact, containing our scanning tools, data, and analysis scripts. Afterwards, we present the setup, how to use our artifact, and further notes on the used IP2Location database.
+In the following, we briefly describe the structure of this artifact, containing our scanning tools, data, analysis scripts, and used denylist. Afterwards, we present the setup, how to use our artifact, and further notes on the used IP2Location database.
 
 ## Disclaimer
 
@@ -14,7 +14,7 @@ Artifact/
 ├── Censor-Core (Core system of Censor-Scanner, the underlying tool we used)
 ├── Censor-EchoServerEvaluator (Submodule for our daily scans, including execution of zmap and nmap)
 ├── Censor-ProbeScanner (Submodule for executing censorship probes for discovery and reproducibility)
-├── data (Folder containing data of our scans and analysis scripts)
+├── data (Folder containing data of our scans, analysis scripts, and denylist)
     ├── daily scans (Folder containing our daily scan data, split for TCP and UDP)
     ├── pcaps (Pcaps from our censorship discovery and Echo reproduction probes, anonymized)
     ├── IP2LOCATION-LITE-DB5.BIN (IP2Location database file, see below for further information)
@@ -24,6 +24,8 @@ Artifact/
     ├── nmap_extractor.py (Analyzes the nmap scan output from our daily can and outputs numbers from paper)
     └── requirements.txt (Contains all Python requirements)
 ├── python_util (Contains useful scripts to start Echo and simple TCP/UDP servers)
+├── denylist.txt (Used denylist for the scans, also present in subfolders)
+├── LICENSE
 └── README.md
 ```
 

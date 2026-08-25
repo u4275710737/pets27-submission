@@ -1,0 +1,5 @@
+# AS23246 (GIGAIPNETCOM)
+# gigaipnet.com Inc
+#
+2803:c310:ff00::/44
+2803:c310:ff10::/48

@@ -1,0 +1,16 @@
+{
+  "asn": 208672,
+  "metadata": {
+    "handle": "CASINO",
+    "description": "Distribution Casino France SAS",
+    "countryCode": "FR",
+    "country": "France",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "45.90.136.0/24" ],
+    "ipv6": [ ]
+  }
+}

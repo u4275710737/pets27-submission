@@ -1,0 +1,14 @@
+{
+  "asn": 31030,
+  "metadata": {
+    "handle": "ASCORONA",
+    "description": "Roman Hochuli",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

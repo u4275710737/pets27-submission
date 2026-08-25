@@ -1,0 +1,16 @@
+{
+  "asn": 37644,
+  "metadata": {
+    "handle": "MIPT-AS",
+    "description": "Ministry of Posts Telecommunications and Technology",
+    "countryCode": "SO",
+    "country": "Somalia",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "196.11.62.0/24" ],
+    "ipv6": [ ]
+  }
+}

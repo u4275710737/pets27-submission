@@ -1,0 +1,14 @@
+{
+  "asn": 394920,
+  "metadata": {
+    "handle": "FTV-IAD",
+    "description": "FTV Business Services LLC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

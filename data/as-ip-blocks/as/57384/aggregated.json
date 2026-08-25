@@ -1,0 +1,14 @@
+{
+  "asn": 57384,
+  "metadata": {
+    "handle": "ASNETLINK",
+    "description": "NETLINK Ltd.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

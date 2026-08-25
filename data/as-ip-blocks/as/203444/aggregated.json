@@ -1,0 +1,16 @@
+{
+  "asn": 203444,
+  "metadata": {
+    "handle": "MAPMAKERSGROUP",
+    "description": "MapMakers Group Ltd",
+    "countryCode": "RU",
+    "country": "Russia",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ ]
+  }
+}

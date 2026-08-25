@@ -1,0 +1,16 @@
+{
+  "asn": 274254,
+  "metadata": {
+    "handle": "INTERMAX-COMUNICACIONES",
+    "description": "INTERMAX COMUNICACIONES S.A.S.",
+    "countryCode": "CO",
+    "country": "Colombia",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "209.61.59.0/24" ],
+    "ipv6": [ ]
+  }
+}

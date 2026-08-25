@@ -1,0 +1,14 @@
+{
+  "asn": 212349,
+  "metadata": {
+    "handle": "SERITEL",
+    "description": "Ser.I.Tel. (Servizi ed Impianti per Telecomunicazioni) srl",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

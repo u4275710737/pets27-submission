@@ -1,0 +1,14 @@
+{
+  "asn": 15135,
+  "metadata": {
+    "handle": "DYN-HC",
+    "description": "Oracle Corporation",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

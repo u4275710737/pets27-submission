@@ -1,0 +1,14 @@
+{
+  "asn": 135855,
+  "metadata": {
+    "handle": "APPLESTL-IN",
+    "description": "Applesoft Technologies",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

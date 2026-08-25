@@ -1,0 +1,14 @@
+{
+  "asn": 54458,
+  "metadata": {
+    "handle": "CENTRACOM-AF",
+    "description": "American Fiber INC.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

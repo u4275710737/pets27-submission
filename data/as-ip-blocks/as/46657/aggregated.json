@@ -1,0 +1,14 @@
+{
+  "asn": 46657,
+  "metadata": {
+    "handle": "KPS-HORIZON-NET-2",
+    "description": "KNIGHT POINT SYSTEMS, LLC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

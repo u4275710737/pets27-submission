@@ -1,0 +1,14 @@
+{
+  "asn": 212284,
+  "metadata": {
+    "handle": "ASNSWE",
+    "description": "Stadtwerke Emden GmbH",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

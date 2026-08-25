@@ -1,0 +1,14 @@
+{
+  "asn": 23940,
+  "metadata": {
+    "handle": "RAPL-AP",
+    "description": "Refinitiv Australia PTY Limited",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

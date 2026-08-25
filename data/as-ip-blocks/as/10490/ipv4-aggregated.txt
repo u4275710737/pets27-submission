@@ -1,0 +1,5 @@
+# AS10490 (SOUTHERN-CROSSROADS-SOX)
+# Georgia Institute of Technology
+#
+152.55.152.0/22
+170.140.99.0/24

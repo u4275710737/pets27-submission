@@ -1,0 +1,16 @@
+{
+  "asn": 208609,
+  "metadata": {
+    "handle": "VLADIMIRAS",
+    "description": "Vladimir Pakhomov",
+    "countryCode": "RU",
+    "country": "Russia",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ "2a14:7583:eff8::/48" ]
+  }
+}

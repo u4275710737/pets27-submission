@@ -1,0 +1,14 @@
+{
+  "asn": 202201,
+  "metadata": {
+    "handle": "HAIDER",
+    "description": "Hayder Sattar Mohammed",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

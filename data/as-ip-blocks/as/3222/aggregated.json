@@ -1,0 +1,14 @@
+{
+  "asn": 3222,
+  "metadata": {
+    "handle": "CINIAFI",
+    "description": "Cinia Oy",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

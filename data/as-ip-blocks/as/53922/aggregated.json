@@ -1,0 +1,16 @@
+{
+  "asn": 53922,
+  "metadata": {
+    "handle": "STUMBLEUPON",
+    "description": "StumbleUpon Inc.",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "74.220.89.0/24", "76.8.87.0/24", "216.38.67.0/24" ],
+    "ipv6": [ ]
+  }
+}

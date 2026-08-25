@@ -1,0 +1,4 @@
+# AS209486 (EGOMNET)
+# EgomNet Kft.
+#
+194.36.180.0/22

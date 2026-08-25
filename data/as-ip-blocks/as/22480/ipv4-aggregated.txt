@@ -1,0 +1,4 @@
+# AS22480 (SOCOLO-AS)
+# Beulahland Communications LLC
+#
+137.118.92.0/22

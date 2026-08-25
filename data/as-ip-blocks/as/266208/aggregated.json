@@ -1,0 +1,16 @@
+{
+  "asn": 266208,
+  "metadata": {
+    "handle": "ALLFIBER-TELECOM-SERVICOS",
+    "description": "Allfiber Telecom-Servicos de Telecomunicacoes-Ltda",
+    "countryCode": "BR",
+    "country": "Brazil",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "38.41.122.0/24", "192.140.40.0/22" ],
+    "ipv6": [ "2804:3c64::/32" ]
+  }
+}

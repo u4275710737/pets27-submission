@@ -1,0 +1,4 @@
+# AS135062 (IDNIC-INDOTECHMITRADIGITAL-ID)
+# PT Indotech Mitra Digital
+#
+2405:1c0:6044::/48

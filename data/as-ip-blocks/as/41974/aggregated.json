@@ -1,0 +1,14 @@
+{
+  "asn": 41974,
+  "metadata": {
+    "handle": "NETEN",
+    "description": "Neten S.p.A.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

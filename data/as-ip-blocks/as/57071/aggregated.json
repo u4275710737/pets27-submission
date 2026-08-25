@@ -1,0 +1,14 @@
+{
+  "asn": 57071,
+  "metadata": {
+    "handle": "AGRII-AS",
+    "description": "AGRII ROMANIA SRL",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

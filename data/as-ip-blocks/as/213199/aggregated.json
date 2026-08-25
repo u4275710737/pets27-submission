@@ -1,0 +1,14 @@
+{
+  "asn": 213199,
+  "metadata": {
+    "handle": "SYSTEMFUZION",
+    "description": "SYSTEM FUZION",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

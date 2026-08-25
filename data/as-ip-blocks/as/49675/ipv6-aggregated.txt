@@ -1,0 +1,4 @@
+# AS49675 (SKBKONTUR-AS)
+# SKB Kontur Production JSC
+#
+2a02:26a8:fffe::/47

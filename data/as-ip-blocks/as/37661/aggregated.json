@@ -1,0 +1,16 @@
+{
+  "asn": 37661,
+  "metadata": {
+    "handle": "CWG-UNIVERSITY-NG-AS",
+    "description": "CWG NIGERIA",
+    "countryCode": "NG",
+    "country": "Nigeria",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "access_provider"
+  },
+  "prefixes": {
+    "ipv4": [ "102.131.64.0/18", "154.68.192.0/18", "164.160.192.0/21", "196.27.136.0/24", "196.220.192.0/20", "196.220.224.0/20" ],
+    "ipv6": [ ]
+  }
+}

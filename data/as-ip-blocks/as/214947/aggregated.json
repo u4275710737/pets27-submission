@@ -1,0 +1,16 @@
+{
+  "asn": 214947,
+  "metadata": {
+    "handle": "KAWEB",
+    "description": "Kaweb Limited",
+    "countryCode": "GB",
+    "country": "United Kingdom",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "217.180.15.0/24" ],
+    "ipv6": [ "2a09:3600::/29" ]
+  }
+}

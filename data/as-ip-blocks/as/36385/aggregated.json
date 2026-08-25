@@ -1,0 +1,16 @@
+{
+  "asn": 36385,
+  "metadata": {
+    "handle": "GOOGLE-IT-CWB-NPIG",
+    "description": "Google Corp WAN backbone",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "access_provider"
+  },
+  "prefixes": {
+    "ipv4": [ "185.25.30.0/24" ],
+    "ipv6": [ "2a00:79e0:101::/48" ]
+  }
+}

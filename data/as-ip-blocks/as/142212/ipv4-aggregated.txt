@@ -1,0 +1,4 @@
+# AS142212 (IDNIC-DISKOMINFOKOBAR-ID)
+# Dinas Komunikasi Informatika Statistik dan Persandian Kabupaten Kotawaringin Barat
+#
+192.42.84.0/24

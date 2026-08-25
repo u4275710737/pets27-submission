@@ -1,0 +1,5 @@
+# AS200623 (NETBLAZER-LTD)
+# NetBlazer Ltd
+#
+72.18.73.0/24
+85.149.219.0/24

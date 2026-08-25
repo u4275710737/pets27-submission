@@ -1,0 +1,14 @@
+{
+  "asn": 268596,
+  "metadata": {
+    "handle": "ITANETBAHIA-COMUNICACAO-MULTIMIDIA",
+    "description": "ITANETBAHIA COMUNICA\u00c7\u00c3O MULTIMIDIA EIRELE",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

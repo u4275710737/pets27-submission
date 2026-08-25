@@ -1,0 +1,14 @@
+{
+  "asn": 200098,
+  "metadata": {
+    "handle": "NETRONICS",
+    "description": "Harald Heinzel",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

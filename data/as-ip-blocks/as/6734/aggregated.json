@@ -1,0 +1,14 @@
+{
+  "asn": 6734,
+  "metadata": {
+    "handle": "SPIN",
+    "description": "InAsset S.r.l.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

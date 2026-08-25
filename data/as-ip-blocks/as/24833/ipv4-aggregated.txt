@@ -1,0 +1,4 @@
+# AS24833 (LBS-NW-NET)
+# LBS Landesbausparkasse NordWest
+#
+195.244.10.0/23

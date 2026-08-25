@@ -1,0 +1,14 @@
+{
+  "asn": 328969,
+  "metadata": {
+    "handle": "ABOE1",
+    "description": "Albaraka Bank of Egypt",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

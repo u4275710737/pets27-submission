@@ -1,0 +1,14 @@
+{
+  "asn": 6188,
+  "metadata": {
+    "handle": "VPSDATACENTER",
+    "description": "Liquid Web, L.L.C",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

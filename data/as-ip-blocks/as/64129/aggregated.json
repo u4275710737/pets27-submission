@@ -1,0 +1,14 @@
+{
+  "asn": 64129,
+  "metadata": {
+    "handle": "SERVICIO-INGENIERIA-GOSUR-SPA",
+    "description": "SERVICIO DE INGENIERIA GOSUR SPA",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

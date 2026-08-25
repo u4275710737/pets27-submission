@@ -1,0 +1,14 @@
+{
+  "asn": 31819,
+  "metadata": {
+    "handle": "PRAESES",
+    "description": "Praeses Corporation",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

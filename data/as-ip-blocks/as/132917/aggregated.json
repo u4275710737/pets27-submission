@@ -1,0 +1,14 @@
+{
+  "asn": 132917,
+  "metadata": {
+    "handle": "YELLOWPAGESGROUP-AS-AP",
+    "description": "Yellow Pages Group",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

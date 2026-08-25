@@ -1,0 +1,14 @@
+{
+  "asn": 137993,
+  "metadata": {
+    "handle": "KVHK-AP",
+    "description": "Kingviews Adamas Systems Limited",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

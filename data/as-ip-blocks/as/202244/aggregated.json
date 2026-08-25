@@ -1,0 +1,14 @@
+{
+  "asn": 202244,
+  "metadata": {
+    "handle": "WEF-TRANS-AS",
+    "description": "PP WEF-TRANS",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

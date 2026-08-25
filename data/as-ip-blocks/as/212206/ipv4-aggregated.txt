@@ -1,0 +1,4 @@
+# AS212206 (MAXTELECOM)
+# Paks LLC
+#
+95.47.156.0/24

@@ -1,0 +1,14 @@
+{
+  "asn": 54329,
+  "metadata": {
+    "handle": "SUMOFIBER",
+    "description": "Sumofiber",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

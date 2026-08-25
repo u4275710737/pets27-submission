@@ -1,0 +1,14 @@
+{
+  "asn": 207998,
+  "metadata": {
+    "handle": "DATAMAX-HOSTING-AS",
+    "description": "DATAMAX Artur Cebula",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

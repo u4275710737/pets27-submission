@@ -1,0 +1,14 @@
+{
+  "asn": 46533,
+  "metadata": {
+    "handle": "ASN1",
+    "description": "Arias Resource Capital Management LP",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

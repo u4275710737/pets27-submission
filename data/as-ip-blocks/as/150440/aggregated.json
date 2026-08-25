@@ -1,0 +1,14 @@
+{
+  "asn": 150440,
+  "metadata": {
+    "handle": "NEERAHOST-AS-AP",
+    "description": "Neera Host",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

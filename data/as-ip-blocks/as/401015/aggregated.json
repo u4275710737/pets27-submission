@@ -1,0 +1,14 @@
+{
+  "asn": 401015,
+  "metadata": {
+    "handle": "SCIENCE-DMZ-RESEARCH-NETWORK",
+    "description": "Association for Computing Machinery Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

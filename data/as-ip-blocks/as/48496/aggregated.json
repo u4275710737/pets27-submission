@@ -1,0 +1,14 @@
+{
+  "asn": 48496,
+  "metadata": {
+    "handle": "EWAY",
+    "description": "Sia Nano IT",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

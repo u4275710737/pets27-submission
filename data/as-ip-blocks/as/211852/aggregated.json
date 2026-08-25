@@ -1,0 +1,14 @@
+{
+  "asn": 211852,
+  "metadata": {
+    "handle": "PDV-AS",
+    "description": "Podolskii Dmitrii Vladimirovich",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

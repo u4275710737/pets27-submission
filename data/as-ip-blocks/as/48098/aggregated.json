@@ -1,0 +1,14 @@
+{
+  "asn": 48098,
+  "metadata": {
+    "handle": "PROTVINO-NET",
+    "description": "Valikov Yury Aleksandrovich",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

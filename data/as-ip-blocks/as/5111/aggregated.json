@@ -1,0 +1,14 @@
+{
+  "asn": 5111,
+  "metadata": {
+    "handle": "ITCA",
+    "description": "it.canada",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

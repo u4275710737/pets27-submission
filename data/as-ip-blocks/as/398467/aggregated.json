@@ -1,0 +1,14 @@
+{
+  "asn": 398467,
+  "metadata": {
+    "handle": "HZYF",
+    "description": "HZYF Inc",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

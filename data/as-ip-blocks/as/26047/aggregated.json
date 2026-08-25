@@ -1,0 +1,14 @@
+{
+  "asn": 26047,
+  "metadata": {
+    "handle": "MGMEAD",
+    "description": "Meadgroup, Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

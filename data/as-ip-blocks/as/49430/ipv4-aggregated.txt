@@ -1,0 +1,4 @@
+# AS49430 (PIHLAJALINNA-AS)
+# Pihlajalinna Terveys Oy
+#
+193.24.100.0/24

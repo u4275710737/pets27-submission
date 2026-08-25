@@ -1,0 +1,14 @@
+{
+  "asn": 514,
+  "metadata": {
+    "handle": "DSADC-MECH",
+    "description": "United States Department of Defense (DoD)",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

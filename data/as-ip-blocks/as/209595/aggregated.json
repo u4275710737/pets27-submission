@@ -1,0 +1,16 @@
+{
+  "asn": 209595,
+  "metadata": {
+    "handle": "NCTS-AS",
+    "description": "NKT Syzran LLC",
+    "countryCode": "RU",
+    "country": "Russia",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "155.212.148.0/22" ],
+    "ipv6": [ ]
+  }
+}

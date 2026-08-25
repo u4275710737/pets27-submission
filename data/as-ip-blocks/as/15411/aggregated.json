@@ -1,0 +1,16 @@
+{
+  "asn": 15411,
+  "metadata": {
+    "handle": "DANISCO",
+    "description": "International N&H Denmark ApS",
+    "countryCode": "DK",
+    "country": "Denmark",
+    "origin": "authoritative",
+    "category": null,
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ ]
+  }
+}

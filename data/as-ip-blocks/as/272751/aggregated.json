@@ -1,0 +1,14 @@
+{
+  "asn": 272751,
+  "metadata": {
+    "handle": "OKNET-TELECOM",
+    "description": "Oknet Telecom LTDA",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 210522,
+  "metadata": {
+    "handle": "KAMMERLING",
+    "description": "Lukas Kaemmerling",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,4 @@
+# AS30999 (EMTEL-ASN)
+# Emtel is Mobile and Internet Service Provider in Mauritius
+#
+2001:4248::/32

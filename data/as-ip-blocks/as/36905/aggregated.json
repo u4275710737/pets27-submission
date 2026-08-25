@@ -1,0 +1,16 @@
+{
+  "asn": 36905,
+  "metadata": {
+    "handle": "CREOLINK-ASN",
+    "description": "Creolink Communications AS36905",
+    "countryCode": "CM",
+    "country": "Cameroon",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "access_provider"
+  },
+  "prefixes": {
+    "ipv4": [ "41.205.64.0/19", "41.223.28.0/22", "154.126.160.0/19" ],
+    "ipv6": [ ]
+  }
+}

@@ -1,0 +1,4 @@
+# AS197046 (AS-FIXNET)
+# FIXNET s.r.o.
+#
+2a03:ab00::/32

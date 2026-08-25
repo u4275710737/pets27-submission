@@ -1,0 +1,14 @@
+{
+  "asn": 38269,
+  "metadata": {
+    "handle": "PMI-AU",
+    "description": "Dimension Data Cloud Solutions Australia Pty Ltd",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

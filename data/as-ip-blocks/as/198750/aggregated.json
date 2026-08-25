@@ -1,0 +1,16 @@
+{
+  "asn": 198750,
+  "metadata": {
+    "handle": "PIXII",
+    "description": "Karan Choudhary",
+    "countryCode": "IN",
+    "country": "India",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ "2a06:9801:277::/48", "2a06:9801:600::/40", "2a0e:97c3:400::/38" ]
+  }
+}

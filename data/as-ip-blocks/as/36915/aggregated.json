@@ -1,0 +1,16 @@
+{
+  "asn": 36915,
+  "metadata": {
+    "handle": "AFOL-KE-AS",
+    "description": "Africa Online Kenya",
+    "countryCode": "KE",
+    "country": "Kenya",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "access_provider"
+  },
+  "prefixes": {
+    "ipv4": [ "41.207.64.0/19", "194.9.82.0/23" ],
+    "ipv6": [ "2001:4370::/32" ]
+  }
+}

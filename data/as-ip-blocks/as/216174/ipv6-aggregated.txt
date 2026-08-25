@@ -1,0 +1,6 @@
+# AS216174 (ASN-SNL)
+# Spearware Networks LLC
+#
+2602:fc19::/40
+2602:fc19:100::/48
+2a14:ae00:40::/44

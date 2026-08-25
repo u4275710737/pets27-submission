@@ -1,0 +1,4 @@
+# AS64218 (LEGACY-MIDSTATE-01)
+# Allied Universal Security Services
+#
+199.85.255.0/24

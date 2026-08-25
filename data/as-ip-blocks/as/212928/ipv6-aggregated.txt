@@ -1,0 +1,4 @@
+# AS212928 (AMSIX-EU-PP)
+# Amsterdam Internet Exchange B.V.
+#
+2a02:4b60:1::/48

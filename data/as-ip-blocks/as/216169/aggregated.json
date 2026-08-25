@@ -1,0 +1,16 @@
+{
+  "asn": 216169,
+  "metadata": {
+    "handle": "MTSERVER",
+    "description": "Mohammad Taha Mashhorrodi",
+    "countryCode": "IR",
+    "country": "Iran",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ ]
+  }
+}

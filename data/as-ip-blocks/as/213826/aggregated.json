@@ -1,0 +1,16 @@
+{
+  "asn": 213826,
+  "metadata": {
+    "handle": "DINCER",
+    "description": "Dincer Bilisim Teknoloji ve Egitim A.S.",
+    "countryCode": "TR",
+    "country": "Türkiye",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "85.159.117.0/24" ],
+    "ipv6": [ ]
+  }
+}

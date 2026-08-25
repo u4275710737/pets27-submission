@@ -1,0 +1,4 @@
+# AS397720 (NOVUS-INSIGHT)
+# Novus Insight
+#
+136.175.208.0/22

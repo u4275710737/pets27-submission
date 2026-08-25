@@ -1,0 +1,14 @@
+{
+  "asn": 6197,
+  "metadata": {
+    "handle": "BATI-ATL",
+    "description": "BellSouth Network Solutions Inc",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

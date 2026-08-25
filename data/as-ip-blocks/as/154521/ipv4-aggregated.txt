@@ -1,0 +1,4 @@
+# AS154521 (IDNIC-DPSNET-AS-ID)
+# PT Digital Prima Solution
+#
+198.22.37.0/24

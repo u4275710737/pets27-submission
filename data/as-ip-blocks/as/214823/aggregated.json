@@ -1,0 +1,14 @@
+{
+  "asn": 214823,
+  "metadata": {
+    "handle": "AS214823",
+    "description": "NOVA HOSTING VE BILISIM TEKNOLOJILERI A.S.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

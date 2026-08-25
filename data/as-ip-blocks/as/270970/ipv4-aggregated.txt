@@ -1,0 +1,4 @@
+# AS270970 (EMMANUEL-HERCULANO-PESSOA)
+# Likenet Serviços de Comunicação Multimídia LTDA
+#
+177.74.108.0/22

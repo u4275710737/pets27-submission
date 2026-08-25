@@ -1,0 +1,14 @@
+{
+  "asn": 10809,
+  "metadata": {
+    "handle": "NCIA",
+    "description": "FirstLight Fiber Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

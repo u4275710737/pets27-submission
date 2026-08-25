@@ -1,0 +1,16 @@
+{
+  "asn": 267009,
+  "metadata": {
+    "handle": "FONATA-TELECOMUNICACOES",
+    "description": "FONATA TELECOMUNICAÇÕES LTDA.",
+    "countryCode": "BR",
+    "country": "Brazil",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "45.226.252.0/22", "191.128.245.0/24", "191.160.42.0/23", "191.227.128.0/24" ],
+    "ipv6": [ "2804:46c0::/32" ]
+  }
+}

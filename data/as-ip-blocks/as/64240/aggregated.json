@@ -1,0 +1,14 @@
+{
+  "asn": 64240,
+  "metadata": {
+    "handle": "QBE-AMERICAS",
+    "description": "QBE Americas, Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

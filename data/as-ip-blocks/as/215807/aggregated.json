@@ -1,0 +1,14 @@
+{
+  "asn": 215807,
+  "metadata": {
+    "handle": "CELLNET",
+    "description": "Karter Ipock",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

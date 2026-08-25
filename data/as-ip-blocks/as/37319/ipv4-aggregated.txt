@@ -1,0 +1,4 @@
+# AS37319 (GUARANTY-TRUST-BANK-KENYA-LTD)
+# Guaranty Trust Bank (Kenya) Ltd
+#
+196.43.211.0/24

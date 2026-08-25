@@ -1,0 +1,14 @@
+{
+  "asn": 34147,
+  "metadata": {
+    "handle": "ROSBANK",
+    "description": "PJSC ROSBANK",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

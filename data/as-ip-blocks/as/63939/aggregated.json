@@ -1,0 +1,14 @@
+{
+  "asn": 63939,
+  "metadata": {
+    "handle": "UTTARA-BANK-BD",
+    "description": "Uttara Bank Bangladesh",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 215246,
+  "metadata": {
+    "handle": "NICOLAS-NEMESIUS",
+    "description": "Nicolas Paparusso",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

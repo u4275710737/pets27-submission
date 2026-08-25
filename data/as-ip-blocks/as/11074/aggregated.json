@@ -1,0 +1,16 @@
+{
+  "asn": 11074,
+  "metadata": {
+    "handle": "ZAYO-CCF-AS11074",
+    "description": "Zayo Bandwidth",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "76.8.92.0/24" ],
+    "ipv6": [ ]
+  }
+}

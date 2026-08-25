@@ -1,0 +1,4 @@
+# AS197417 (DEVORO)
+# UAB Devoro
+#
+2001:67c:24a4::/48

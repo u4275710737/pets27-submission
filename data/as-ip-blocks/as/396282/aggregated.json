@@ -1,0 +1,14 @@
+{
+  "asn": 396282,
+  "metadata": {
+    "handle": "STERLINGINFOSYSTEMS",
+    "description": "Sterling Infosystems, Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

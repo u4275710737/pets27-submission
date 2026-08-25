@@ -1,0 +1,16 @@
+{
+  "asn": 198790,
+  "metadata": {
+    "handle": "CROCNET",
+    "description": "Nikolai Gnusov",
+    "countryCode": "RU",
+    "country": "Russia",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ ]
+  }
+}

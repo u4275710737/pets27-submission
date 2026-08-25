@@ -1,0 +1,4 @@
+# AS31345 (MAGISTRAL2-AS)
+# Business Network Ltd
+#
+193.151.40.0/22

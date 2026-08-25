@@ -1,0 +1,14 @@
+{
+  "asn": 23946,
+  "metadata": {
+    "handle": "TOPNET-ID",
+    "description": "PT Dunia Informasi Teknologi (TOPNET)",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

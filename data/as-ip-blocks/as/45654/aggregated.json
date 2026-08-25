@@ -1,0 +1,14 @@
+{
+  "asn": 45654,
+  "metadata": {
+    "handle": "WBAGPL-AP",
+    "description": "Wireline B and G Pty Ltd",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 51849,
+  "metadata": {
+    "handle": "ESHGRO",
+    "description": "Eshgro B.V.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

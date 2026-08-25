@@ -1,0 +1,14 @@
+{
+  "asn": 17084,
+  "metadata": {
+    "handle": "IDS",
+    "description": "IDS",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

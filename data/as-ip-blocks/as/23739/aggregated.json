@@ -1,0 +1,16 @@
+{
+  "asn": 23739,
+  "metadata": {
+    "handle": "SYMBIO-AU",
+    "description": "My Net Fone Limited",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [
+      "125.236.86.0/24"
+    ],
+    "ipv6": []
+  }
+}

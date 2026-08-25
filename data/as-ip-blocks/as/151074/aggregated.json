@@ -1,0 +1,14 @@
+{
+  "asn": 151074,
+  "metadata": {
+    "handle": "VMW-TPE",
+    "description": "VMWare Incorporation",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

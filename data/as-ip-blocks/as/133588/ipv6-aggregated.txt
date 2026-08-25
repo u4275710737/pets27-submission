@@ -1,0 +1,4 @@
+# AS133588 (CNE-AS-AP)
+# Cambodian Network Exchange Co. Ltd.
+#
+2001:df6:1440::/48

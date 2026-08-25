@@ -1,0 +1,5 @@
+# AS152697 (HUIFA-AS-AP)
+# Nanning Huifa Technology Co Ltd
+#
+2406:840:fecd::/48
+2602:2e0:ff::/48

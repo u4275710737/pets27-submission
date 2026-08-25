@@ -1,0 +1,4 @@
+# AS208130 (ZEDTECH)
+# Zed Bulut Teknolojileri ve Sistem Yonetim Hizmetleri A.S.
+#
+194.26.108.0/24

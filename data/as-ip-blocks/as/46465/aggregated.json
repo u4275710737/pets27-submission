@@ -1,0 +1,14 @@
+{
+  "asn": 46465,
+  "metadata": {
+    "handle": "WBH",
+    "description": "William Beaumont Hospital",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

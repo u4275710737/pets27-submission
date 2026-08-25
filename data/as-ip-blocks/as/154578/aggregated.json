@@ -1,0 +1,16 @@
+{
+  "asn": 154578,
+  "metadata": {
+    "handle": "LEAPDIGITALS-AS-AP",
+    "description": "LEAP DIGITALS (PRIVATE) LIMITED",
+    "countryCode": "PK",
+    "country": "Pakistan",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "163.128.148.0/24" ],
+    "ipv6": [ ]
+  }
+}

@@ -1,0 +1,4 @@
+# AS12076 (MICROSOFT)
+# Microsoft Corporation
+#
+151.207.40.0/21

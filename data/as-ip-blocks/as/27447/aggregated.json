@@ -1,0 +1,16 @@
+{
+  "asn": 27447,
+  "metadata": {
+    "handle": "SRZLLPAS",
+    "description": "Schulte Roth & Zabel LLP",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "8.36.84.0/24" ],
+    "ipv6": [ ]
+  }
+}

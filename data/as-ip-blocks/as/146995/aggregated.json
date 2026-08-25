@@ -1,0 +1,16 @@
+{
+  "asn": 146995,
+  "metadata": {
+    "handle": "CNE-AS-AP",
+    "description": "Cambodian Network Exchange Co. Ltd.",
+    "countryCode": "KH",
+    "country": "Cambodia",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ ]
+  }
+}

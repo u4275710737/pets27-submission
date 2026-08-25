@@ -1,0 +1,14 @@
+{
+  "asn": 24567,
+  "metadata": {
+    "handle": "QTINC-AP",
+    "description": "QT Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

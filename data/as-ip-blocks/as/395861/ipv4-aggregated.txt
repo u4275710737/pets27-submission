@@ -1,0 +1,5 @@
+# AS395861 (MIA)
+# Medical Imaging Associates of Idaho Falls Inc.
+#
+52.144.120.0/23
+52.144.122.0/24

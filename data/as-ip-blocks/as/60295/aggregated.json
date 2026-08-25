@@ -1,0 +1,14 @@
+{
+  "asn": 60295,
+  "metadata": {
+    "handle": "OPEN-EARS-AS",
+    "description": "Jan Czmok",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

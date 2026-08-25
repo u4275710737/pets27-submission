@@ -1,0 +1,4 @@
+# AS267992 (REDE-DIGITAL-COMUNICACAO)
+# Rede Digital Comunicacao e Multimidia LTDA
+#
+2804:5658::/32

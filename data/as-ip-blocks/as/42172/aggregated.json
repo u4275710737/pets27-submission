@@ -1,0 +1,14 @@
+{
+  "asn": 42172,
+  "metadata": {
+    "handle": "FNIS-6",
+    "description": "Fidelity National Information Services, Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

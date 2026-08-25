@@ -1,0 +1,14 @@
+{
+  "asn": 5670,
+  "metadata": {
+    "handle": "VI-367-5670",
+    "description": "Vapor IO Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

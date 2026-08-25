@@ -1,0 +1,16 @@
+{
+  "asn": 401678,
+  "metadata": {
+    "handle": "BISECT-HOSTING",
+    "description": "BisectHosting",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "165.217.128.0/23", "165.217.142.0/24", "169.155.120.0/23" ],
+    "ipv6": [ ]
+  }
+}

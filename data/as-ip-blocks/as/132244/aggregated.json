@@ -1,0 +1,14 @@
+{
+  "asn": 132244,
+  "metadata": {
+    "handle": "CTRLSDC-IN",
+    "description": "CtrlS Datacenters Limited",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

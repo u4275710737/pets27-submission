@@ -1,0 +1,16 @@
+{
+  "asn": 265443,
+  "metadata": {
+    "handle": "AS-HUAWEI-SA",
+    "description": "Huawei do Brasil Telecomunicações Ltda.",
+    "countryCode": "BR",
+    "country": "Brazil",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "168.195.92.0/23" ],
+    "ipv6": [ ]
+  }
+}

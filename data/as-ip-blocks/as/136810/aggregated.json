@@ -1,0 +1,14 @@
+{
+  "asn": 136810,
+  "metadata": {
+    "handle": "TERRYCREWS-AP",
+    "description": "Terry Crews",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

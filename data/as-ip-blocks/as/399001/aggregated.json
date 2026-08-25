@@ -1,0 +1,14 @@
+{
+  "asn": 399001,
+  "metadata": {
+    "handle": "TPLLC-CO",
+    "description": "Third Point LLC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 905,
+  "metadata": {
+    "handle": "WRPS-01",
+    "description": "Waterloo regional police service",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

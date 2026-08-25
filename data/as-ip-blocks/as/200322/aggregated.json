@@ -1,0 +1,16 @@
+{
+  "asn": 200322,
+  "metadata": {
+    "handle": "XANKOM",
+    "description": "XANKOM SARL",
+    "countryCode": "FR",
+    "country": "France",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "access_provider"
+  },
+  "prefixes": {
+    "ipv4": [ "185.245.248.0/22" ],
+    "ipv6": [ "2a0d:7080::/29" ]
+  }
+}

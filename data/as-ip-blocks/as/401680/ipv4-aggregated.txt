@@ -1,0 +1,4 @@
+# AS401680 (TUSKEG)
+# Tuskegee University
+#
+192.203.127.0/24

@@ -1,0 +1,4 @@
+# AS273304 (SOMNET-MEXICO)
+# Somnet de México
+#
+38.58.38.0/24

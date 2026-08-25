@@ -1,0 +1,14 @@
+{
+  "asn": 212951,
+  "metadata": {
+    "handle": "DLAYER",
+    "description": "Digit Layer B.V.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

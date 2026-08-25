@@ -1,0 +1,5 @@
+# AS47400 (DYJIX-B)
+# Dyjix Association
+#
+2a10:4640:7::/48
+2a10:4646:30::/44

@@ -1,0 +1,14 @@
+{
+  "asn": 401595,
+  "metadata": {
+    "handle": "BEL-NET-94",
+    "description": "1022135 Ontario Incorporated",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

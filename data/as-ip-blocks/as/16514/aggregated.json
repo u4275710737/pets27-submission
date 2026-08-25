@@ -1,0 +1,14 @@
+{
+  "asn": 16514,
+  "metadata": {
+    "handle": "TRIPOS-INC",
+    "description": "Certara USA, Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

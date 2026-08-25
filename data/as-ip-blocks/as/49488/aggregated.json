@@ -1,0 +1,14 @@
+{
+  "asn": 49488,
+  "metadata": {
+    "handle": "AT-TLD-SERVICES",
+    "description": "nic.at GmbH",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

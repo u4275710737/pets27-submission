@@ -1,0 +1,14 @@
+{
+  "asn": 11761,
+  "metadata": {
+    "handle": "KKCLOUD",
+    "description": "kkcloud",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

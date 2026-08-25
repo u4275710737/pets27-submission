@@ -1,0 +1,14 @@
+{
+  "asn": 59924,
+  "metadata": {
+    "handle": "DATAHUB",
+    "description": "Iraq Data Hub for Internet Services and Information Technology,ltd",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

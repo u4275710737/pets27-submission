@@ -1,0 +1,14 @@
+{
+  "asn": 39546,
+  "metadata": {
+    "handle": "INTERCOM",
+    "description": "TOV Intercom",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

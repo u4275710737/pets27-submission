@@ -1,0 +1,14 @@
+{
+  "asn": 204730,
+  "metadata": {
+    "handle": "FLASHNET",
+    "description": "PHU Flashnet - Mariusz Sikora",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

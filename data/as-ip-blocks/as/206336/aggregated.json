@@ -1,0 +1,14 @@
+{
+  "asn": 206336,
+  "metadata": {
+    "handle": "LIG",
+    "description": "Iryna Alieksieieva",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

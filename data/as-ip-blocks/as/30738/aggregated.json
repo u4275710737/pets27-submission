@@ -1,0 +1,16 @@
+{
+  "asn": 30738,
+  "metadata": {
+    "handle": "NETART-AS",
+    "description": "NetArt Group s.r.o.",
+    "countryCode": "CZ",
+    "country": "Czechia",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "195.211.52.0/23", "195.211.54.0/24" ],
+    "ipv6": [ "2001:1468::/32" ]
+  }
+}

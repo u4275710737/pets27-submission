@@ -1,0 +1,4 @@
+# AS136865 (GLOBALMEDIANET-AS-ID)
+# PT. Global Media Rembang
+#
+2401:db40::/32

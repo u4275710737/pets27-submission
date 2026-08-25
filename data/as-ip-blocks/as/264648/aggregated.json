@@ -1,0 +1,16 @@
+{
+  "asn": 264648,
+  "metadata": {
+    "handle": "FONDO-ROTATORIO-MINISTERIO",
+    "description": "Fondo Rotatorio del Ministerio de Relaciones Exteriores",
+    "countryCode": "CO",
+    "country": "Colombia",
+    "origin": "authoritative",
+    "category": "government_admin",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "200.10.164.0/24" ],
+    "ipv6": [ ]
+  }
+}

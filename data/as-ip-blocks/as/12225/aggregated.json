@@ -1,0 +1,16 @@
+{
+  "asn": 12225,
+  "metadata": {
+    "handle": "CONSUMERINFO1",
+    "description": "Consumerinfo.com Inc.",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "74.117.21.0/24" ],
+    "ipv6": [ ]
+  }
+}

@@ -1,0 +1,4 @@
+# AS133835 (IDNIC-XOFAST-AS-ID)
+# CV Xtra Prosolusindo
+#
+2001:df4:5400::/48

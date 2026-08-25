@@ -1,0 +1,14 @@
+{
+  "asn": 202641,
+  "metadata": {
+    "handle": "NO-VITEC",
+    "description": "Vitec Software Group AB",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

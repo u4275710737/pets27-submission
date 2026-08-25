@@ -1,0 +1,16 @@
+{
+  "asn": 274201,
+  "metadata": {
+    "handle": "PARQUE-LAS-CIENCIAS",
+    "description": "PARQUE DE LAS CIENCIAS S.A.",
+    "countryCode": "UY",
+    "country": "Uruguay",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "38.95.180.0/24", "38.95.182.0/24" ],
+    "ipv6": [ ]
+  }
+}

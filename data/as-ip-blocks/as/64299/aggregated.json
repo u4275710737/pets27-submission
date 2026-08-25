@@ -1,0 +1,14 @@
+{
+  "asn": 64299,
+  "metadata": {
+    "handle": "IDNIC-PRODIGY-ID",
+    "description": "PT Interactive Prima Online",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

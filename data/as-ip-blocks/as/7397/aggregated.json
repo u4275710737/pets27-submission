@@ -1,0 +1,14 @@
+{
+  "asn": 7397,
+  "metadata": {
+    "handle": "DIGILINK-MDR",
+    "description": "Digilink",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

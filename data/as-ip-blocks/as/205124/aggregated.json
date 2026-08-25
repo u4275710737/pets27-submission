@@ -1,0 +1,14 @@
+{
+  "asn": 205124,
+  "metadata": {
+    "handle": "COLOCATION",
+    "description": "SC ITNS.NET SRL",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

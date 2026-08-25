@@ -1,0 +1,14 @@
+{
+  "asn": 209566,
+  "metadata": {
+    "handle": "NBIP-LAB",
+    "description": "Stichting NBIP-NaWas",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

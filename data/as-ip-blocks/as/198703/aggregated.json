@@ -1,0 +1,16 @@
+{
+  "asn": 198703,
+  "metadata": {
+    "handle": "BPA-AS",
+    "description": "Presse und Informationsamt der Bundesregierung",
+    "countryCode": "DE",
+    "country": "Germany",
+    "origin": "authoritative",
+    "category": "government_admin",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "194.39.222.0/23" ],
+    "ipv6": [ ]
+  }
+}

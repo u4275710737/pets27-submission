@@ -1,0 +1,4 @@
+# AS147137 (HELIUM-AS-ID)
+# PT Helium Sinergi Telekomunikasi
+#
+103.177.8.0/24

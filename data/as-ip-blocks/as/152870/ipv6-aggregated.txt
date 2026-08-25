@@ -1,0 +1,4 @@
+# AS152870 (KAICHI-NET)
+# Incorporated Educational Institution Kaichigakuen
+#
+2001:df5:bac0::/48

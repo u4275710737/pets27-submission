@@ -1,0 +1,5 @@
+# AS24211 (DETIK-AS-ID)
+# PT. Detik Ini JUga
+#
+2402:a000::/34
+2402:a000:8000::/33

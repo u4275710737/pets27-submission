@@ -1,0 +1,16 @@
+{
+  "asn": 209834,
+  "metadata": {
+    "handle": "BRNONET",
+    "description": "KAZA.cz s.r.o.",
+    "countryCode": "CZ",
+    "country": "Czechia",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "176.53.188.0/22" ],
+    "ipv6": [ ]
+  }
+}

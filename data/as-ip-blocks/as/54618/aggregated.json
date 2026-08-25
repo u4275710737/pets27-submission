@@ -1,0 +1,14 @@
+{
+  "asn": 54618,
+  "metadata": {
+    "handle": "SLICKDEALS",
+    "description": "SlickDeals",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

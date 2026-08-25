@@ -1,0 +1,16 @@
+{
+  "asn": 211814,
+  "metadata": {
+    "handle": "FORTISTLKM",
+    "description": "Fortis Telekomunikasyon Sanayi Ticaret Ltd Sti",
+    "countryCode": "TR",
+    "country": "Türkiye",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "188.125.170.0/24" ],
+    "ipv6": [ ]
+  }
+}

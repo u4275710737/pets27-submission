@@ -1,0 +1,4 @@
+# AS203969 (NEXULA-HOSTING-AS)
+# Nexula GmbH
+#
+185.110.152.0/22

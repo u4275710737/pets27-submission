@@ -1,0 +1,14 @@
+{
+  "asn": 393309,
+  "metadata": {
+    "handle": "BAYNETAS",
+    "description": "Bay District Schools",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

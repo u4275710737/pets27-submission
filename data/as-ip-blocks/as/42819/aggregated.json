@@ -1,0 +1,14 @@
+{
+  "asn": 42819,
+  "metadata": {
+    "handle": "KGIC",
+    "description": "OOO MediaSeti",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

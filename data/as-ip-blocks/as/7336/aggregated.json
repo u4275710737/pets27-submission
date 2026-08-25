@@ -1,0 +1,14 @@
+{
+  "asn": 7336,
+  "metadata": {
+    "handle": "LUNAVI-NY",
+    "description": "Lunavi, Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

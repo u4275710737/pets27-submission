@@ -1,0 +1,14 @@
+{
+  "asn": 38832,
+  "metadata": {
+    "handle": "NINE-AS-AP",
+    "description": "Fairfax Media Limited",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

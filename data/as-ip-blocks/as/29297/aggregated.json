@@ -1,0 +1,14 @@
+{
+  "asn": 29297,
+  "metadata": {
+    "handle": "LINKCONNECT-AS",
+    "description": "Southern Communications Ltd",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

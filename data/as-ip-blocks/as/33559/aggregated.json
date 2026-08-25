@@ -1,0 +1,14 @@
+{
+  "asn": 33559,
+  "metadata": {
+    "handle": "NODESDIRECT",
+    "description": "Nodes Direct",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

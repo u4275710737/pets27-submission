@@ -1,0 +1,14 @@
+{
+  "asn": 55000,
+  "metadata": {
+    "handle": "XNNET",
+    "description": "XNNET LLC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 137214,
+  "metadata": {
+    "handle": "MCT-AP",
+    "description": "Macquarie Technology Operations Pty Limited",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

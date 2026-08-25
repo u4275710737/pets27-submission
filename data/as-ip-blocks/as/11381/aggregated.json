@@ -1,0 +1,14 @@
+{
+  "asn": 11381,
+  "metadata": {
+    "handle": "NFIS",
+    "description": "Point Broadband Fiber Holding, LLC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

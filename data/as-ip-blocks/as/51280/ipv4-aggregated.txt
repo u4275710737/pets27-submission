@@ -1,0 +1,5 @@
+# AS51280 (AS51280)
+# Parsian Electronic Commerce PJSC
+#
+212.80.25.0/24
+212.80.26.0/23

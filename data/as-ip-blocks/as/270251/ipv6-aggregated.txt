@@ -1,0 +1,4 @@
+# AS270251 (GHOST-TELECOM)
+# Ghost Telecom
+#
+2804:6924::/32

@@ -1,0 +1,14 @@
+{
+  "asn": 8347,
+  "metadata": {
+    "handle": "CALLCENTRIC-WHOLESALE-INC",
+    "description": "Callcentric Wholesale Inc",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

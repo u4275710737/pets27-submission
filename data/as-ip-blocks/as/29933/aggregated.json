@@ -1,0 +1,14 @@
+{
+  "asn": 29933,
+  "metadata": {
+    "handle": "FIRSTDIGITAL",
+    "description": "FirstDigital Communications LLC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

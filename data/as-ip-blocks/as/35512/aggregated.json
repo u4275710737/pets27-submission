@@ -1,0 +1,14 @@
+{
+  "asn": 35512,
+  "metadata": {
+    "handle": "TELEMEDIA-AS",
+    "description": "Zajil International Telecom Company KSCC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

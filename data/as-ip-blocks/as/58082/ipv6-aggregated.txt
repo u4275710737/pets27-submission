@@ -1,0 +1,4 @@
+# AS58082 (AS-MESSAGENET)
+# Messagenet S.p.A.
+#
+2a01:9300::/32

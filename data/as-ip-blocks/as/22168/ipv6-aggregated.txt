@@ -1,0 +1,5 @@
+# AS22168 (SHADOWSERVER-FOUNDATION)
+# The Shadowserver Foundation Inc.
+#
+2001:550:d0c::/48
+2620:24:c040::/48

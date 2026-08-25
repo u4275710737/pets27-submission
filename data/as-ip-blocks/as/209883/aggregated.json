@@ -1,0 +1,16 @@
+{
+  "asn": 209883,
+  "metadata": {
+    "handle": "CONTRUST-SOLUTIONS",
+    "description": "Contrust Solutions S.R.L.",
+    "countryCode": "MD",
+    "country": "Moldova",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "45.115.27.0/24" ],
+    "ipv6": [ ]
+  }
+}

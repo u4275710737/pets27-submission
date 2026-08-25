@@ -1,0 +1,16 @@
+{
+  "asn": 133047,
+  "metadata": {
+    "handle": "CONGNGHEP9-VN",
+    "description": "P9 TECHNOLOGY COMPANY LIMITED",
+    "countryCode": "VN",
+    "country": "Vietnam",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "163.128.36.0/23" ],
+    "ipv6": [ ]
+  }
+}

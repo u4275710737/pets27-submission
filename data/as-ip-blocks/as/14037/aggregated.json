@@ -1,0 +1,14 @@
+{
+  "asn": 14037,
+  "metadata": {
+    "handle": "DZ",
+    "description": "6G Networks Inc",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

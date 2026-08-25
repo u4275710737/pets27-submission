@@ -1,0 +1,16 @@
+{
+  "asn": 212580,
+  "metadata": {
+    "handle": "CORUNET",
+    "description": "cupaco GmbH",
+    "countryCode": "CH",
+    "country": "Switzerland",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "asn": 213900,
+  "metadata": {
+    "handle": "RS",
+    "description": "RS Computers L.L.C",
+    "countryCode": "AL",
+    "country": "Albania",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "access_provider"
+  },
+  "prefixes": {
+    "ipv4": [ "38.99.95.0/24", "38.110.128.0/24", "38.190.150.0/24" ],
+    "ipv6": [ "2001:978:9700::/48", "2a13:c8c3:e8ff::/48" ]
+  }
+}

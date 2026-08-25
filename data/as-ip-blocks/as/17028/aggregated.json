@@ -1,0 +1,14 @@
+{
+  "asn": 17028,
+  "metadata": {
+    "handle": "HR40W",
+    "description": "Herzfeld & Rubin, P.C.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

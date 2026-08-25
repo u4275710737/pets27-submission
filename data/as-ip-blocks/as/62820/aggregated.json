@@ -1,0 +1,16 @@
+{
+  "asn": 62820,
+  "metadata": {
+    "handle": "TIGER-GLOBAL-MGMT",
+    "description": "Tiger Global Management LLC",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "overlaid",
+    "category": null,
+    "networkRole": null
+  },
+  "prefixes": {
+    "ipv4": [ "38.94.140.0/24", "38.94.142.0/24" ],
+    "ipv6": [ ]
+  }
+}

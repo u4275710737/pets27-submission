@@ -1,0 +1,14 @@
+{
+  "asn": 24650,
+  "metadata": {
+    "handle": "CHARLES-STANLEY",
+    "description": "Charles Stanley & Co Ltd",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 215971,
+  "metadata": {
+    "handle": "ARCDIG",
+    "description": "Arcdigital LLC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

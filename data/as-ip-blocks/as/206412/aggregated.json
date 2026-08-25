@@ -1,0 +1,14 @@
+{
+  "asn": 206412,
+  "metadata": {
+    "handle": "INFO-NET",
+    "description": "ZICOM NEXT SPOLKA Z OGRANICZONA ODPOWIEDZIALNOSCIA",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

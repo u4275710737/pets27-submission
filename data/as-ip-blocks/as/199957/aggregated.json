@@ -1,0 +1,14 @@
+{
+  "asn": 199957,
+  "metadata": {
+    "handle": "NATHAN-NET",
+    "description": "Nathan Lasseter",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

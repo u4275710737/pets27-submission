@@ -1,0 +1,14 @@
+{
+  "asn": 59870,
+  "metadata": {
+    "handle": "BOLDHORIZONS-EU",
+    "description": "Osiris Trading PTY LTD",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

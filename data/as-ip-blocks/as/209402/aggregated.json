@@ -1,0 +1,16 @@
+{
+  "asn": 209402,
+  "metadata": {
+    "handle": "BIC-FVG-AS",
+    "description": "BIC INCUBATORI FVG S.R.L.",
+    "countryCode": "IT",
+    "country": "Italy",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "access_provider"
+  },
+  "prefixes": {
+    "ipv4": [ "193.104.250.0/24" ],
+    "ipv6": [ ]
+  }
+}

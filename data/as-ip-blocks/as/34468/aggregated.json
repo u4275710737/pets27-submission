@@ -1,0 +1,16 @@
+{
+  "asn": 34468,
+  "metadata": {
+    "handle": "SM-SSIS",
+    "description": "S.P.A. Societa' Servizi Informatici Sammarinesi - S.S.I.S.",
+    "countryCode": "SM",
+    "country": "San Marino",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "45.65.80.0/22" ],
+    "ipv6": [ ]
+  }
+}

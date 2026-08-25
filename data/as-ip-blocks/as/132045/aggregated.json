@@ -1,0 +1,14 @@
+{
+  "asn": 132045,
+  "metadata": {
+    "handle": "DIALOG-LK",
+    "description": "Dialog Axiata Plc",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

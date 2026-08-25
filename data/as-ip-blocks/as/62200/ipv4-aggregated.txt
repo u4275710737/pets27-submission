@@ -1,0 +1,4 @@
+# AS62200 (ISPMANAGER-AS)
+# JSC Ispmanager
+#
+82.202.164.0/24

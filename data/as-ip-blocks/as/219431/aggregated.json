@@ -1,0 +1,16 @@
+{
+  "asn": 219431,
+  "metadata": {
+    "handle": "MANEKO-AS",
+    "description": "Artur Dibrova",
+    "countryCode": "UA",
+    "country": "Ukraine",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ "2a10:ab80:3ef::/48" ]
+  }
+}

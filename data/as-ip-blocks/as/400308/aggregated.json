@@ -1,0 +1,16 @@
+{
+  "asn": 400308,
+  "metadata": {
+    "handle": "ZY",
+    "description": "Zyberz LLC",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "16.216.81.0/24", "16.217.126.0/24", "16.217.135.0/24", "199.235.244.0/24" ],
+    "ipv6": [ ]
+  }
+}

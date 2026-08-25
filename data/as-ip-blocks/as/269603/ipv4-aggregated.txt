@@ -1,0 +1,4 @@
+# AS269603 (MM-TELECOMUNICACOES)
+# lynn telecom
+#
+45.189.248.0/22

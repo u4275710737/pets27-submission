@@ -1,0 +1,14 @@
+{
+  "asn": 134851,
+  "metadata": {
+    "handle": "FINOS-AS-IN",
+    "description": "FINOS SOFTWARE SOLUTION",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

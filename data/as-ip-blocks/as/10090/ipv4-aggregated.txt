@@ -1,0 +1,4 @@
+# AS10090 (LDSCHURCH-AS-AP)
+# The Church of Jesus Christ of Latter-Day Saints
+#
+198.60.76.0/24

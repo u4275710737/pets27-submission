@@ -1,0 +1,14 @@
+{
+  "asn": 393882,
+  "metadata": {
+    "handle": "TISDCS-ASN",
+    "description": "TISDCS",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

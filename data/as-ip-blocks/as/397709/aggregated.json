@@ -1,0 +1,16 @@
+{
+  "asn": 397709,
+  "metadata": {
+    "handle": "JRW-10",
+    "description": "JackRabbit Internet",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "23.148.208.0/24", "198.203.197.0/24" ],
+    "ipv6": [ "2602:fdca::/36" ]
+  }
+}

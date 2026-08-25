@@ -1,0 +1,4 @@
+# AS35382 (GLESYS-FI-2)
+# Glesys AB
+#
+2a02:5de0::/32

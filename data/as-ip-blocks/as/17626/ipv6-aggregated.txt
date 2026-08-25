@@ -1,0 +1,4 @@
+# AS17626 (YNL-AS-AP)
+# Yasuda Network LTD
+#
+2001:df0:c940::/48

@@ -1,0 +1,14 @@
+{
+  "asn": 208043,
+  "metadata": {
+    "handle": "A3IT",
+    "description": "Bredband2 AB",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

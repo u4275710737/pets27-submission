@@ -1,0 +1,14 @@
+{
+  "asn": 3348,
+  "metadata": {
+    "handle": "WIFINITY",
+    "description": "AVATEL TELECOM, SA",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 136272,
+  "metadata": {
+    "handle": "SUNONLINE-AS-AP",
+    "description": "SUN ONLINE",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

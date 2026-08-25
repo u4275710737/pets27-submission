@@ -1,0 +1,14 @@
+{
+  "asn": 60398,
+  "metadata": {
+    "handle": "CITCO",
+    "description": "Communication and International Trading Company S.A.R.L",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

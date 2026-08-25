@@ -1,0 +1,16 @@
+{
+  "asn": 4848,
+  "metadata": {
+    "handle": "AARONCHEUNG-AS",
+    "description": "Cheung Yuk Tong Aaron",
+    "countryCode": "HK",
+    "country": "Hong Kong SAR China",
+    "origin": "authoritative",
+    "category": null,
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ ]
+  }
+}

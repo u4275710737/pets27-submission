@@ -1,0 +1,4 @@
+# AS132708 (VNG-AS-AP)
+# VNG Singapore PTE. LTD.
+#
+2001:df4:6600::/48

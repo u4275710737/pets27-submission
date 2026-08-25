@@ -1,0 +1,14 @@
+{
+  "asn": 46092,
+  "metadata": {
+    "handle": "RAI",
+    "description": "RESOURCE AMERICA",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

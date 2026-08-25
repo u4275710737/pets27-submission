@@ -1,0 +1,16 @@
+{
+  "asn": 205507,
+  "metadata": {
+    "handle": "NURIKOINOT-AS",
+    "description": "NURI KOINOT LLC",
+    "countryCode": "TJ",
+    "country": "Tajikistan",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "92.119.185.0/24", "185.112.81.0/24" ],
+    "ipv6": [ ]
+  }
+}

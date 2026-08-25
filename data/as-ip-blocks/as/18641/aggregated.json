@@ -1,0 +1,14 @@
+{
+  "asn": 18641,
+  "metadata": {
+    "handle": "DATACONSULTANTSCORP",
+    "description": "Data Consultants Corp.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

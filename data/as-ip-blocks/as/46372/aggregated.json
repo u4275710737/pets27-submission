@@ -1,0 +1,14 @@
+{
+  "asn": 46372,
+  "metadata": {
+    "handle": "MPS",
+    "description": "Fidelity National Information Services, Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

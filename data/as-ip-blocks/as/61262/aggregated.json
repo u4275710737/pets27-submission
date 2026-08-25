@@ -1,0 +1,17 @@
+{
+  "asn": 61262,
+  "metadata": {
+    "handle": "GLOBE-35",
+    "description": "Airlinq Inc",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [
+      "185.39.52.0/24",
+      "185.81.136.0/24"
+    ],
+    "ipv6": []
+  }
+}

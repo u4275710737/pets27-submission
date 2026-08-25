@@ -1,0 +1,4 @@
+# AS142332 (TELNETINDONESIA-AS-ID)
+# Telnet Indonesia
+#
+2001:df2:7bc0::/48

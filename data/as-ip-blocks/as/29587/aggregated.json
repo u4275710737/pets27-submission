@@ -1,0 +1,14 @@
+{
+  "asn": 29587,
+  "metadata": {
+    "handle": "FRI3DCAMPNET-BY-HERMES-TELECOM",
+    "description": "Hermes Telecom BVBA",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

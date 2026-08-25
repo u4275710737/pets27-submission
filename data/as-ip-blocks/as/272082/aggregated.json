@@ -1,0 +1,16 @@
+{
+  "asn": 272082,
+  "metadata": {
+    "handle": "JARM-TELECOMUNICACIONES",
+    "description": "JARM TELECOMUNICACIONES SRL",
+    "countryCode": "DO",
+    "country": "Dominican Republic",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "170.150.196.0/22" ],
+    "ipv6": [ ]
+  }
+}

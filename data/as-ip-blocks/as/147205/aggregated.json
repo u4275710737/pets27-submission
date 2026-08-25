@@ -1,0 +1,14 @@
+{
+  "asn": 147205,
+  "metadata": {
+    "handle": "NONSTOP-IN",
+    "description": "NONSTOP NET SOLUTIONS PVT LTD",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

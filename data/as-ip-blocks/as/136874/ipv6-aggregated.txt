@@ -1,0 +1,4 @@
+# AS136874 (GARUDA-AS-ID)
+# PT. Garuda Media Telematika
+#
+2402:2c40::/48

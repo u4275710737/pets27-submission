@@ -1,0 +1,16 @@
+{
+  "asn": 269977,
+  "metadata": {
+    "handle": "HOSPITAL-MILITAR-CENTRAL",
+    "description": "HOSPITAL MILITAR CENTRAL",
+    "countryCode": "CO",
+    "country": "Colombia",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ "2801:1a:2800::/48" ]
+  }
+}

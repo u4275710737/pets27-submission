@@ -1,0 +1,16 @@
+{
+  "asn": 1311,
+  "metadata": {
+    "handle": "BARRA-NET-AS",
+    "description": "Barra International LLC",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "144.203.128.0/22", "144.203.132.0/23", "144.203.142.0/23", "193.164.145.0/24" ],
+    "ipv6": [ ]
+  }
+}

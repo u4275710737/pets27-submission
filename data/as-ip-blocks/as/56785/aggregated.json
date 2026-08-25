@@ -1,0 +1,16 @@
+{
+  "asn": 56785,
+  "metadata": {
+    "handle": "GUP-GK-BERLIN-AS",
+    "description": "RECONN LLC",
+    "countryCode": "RU",
+    "country": "Russia",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "91.105.239.0/24", "91.227.136.0/24" ],
+    "ipv6": [ ]
+  }
+}

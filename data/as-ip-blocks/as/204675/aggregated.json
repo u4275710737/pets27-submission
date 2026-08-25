@@ -1,0 +1,16 @@
+{
+  "asn": 204675,
+  "metadata": {
+    "handle": "DIGIBIT",
+    "description": "DIGIBIT TECH LTD",
+    "countryCode": "GB",
+    "country": "United Kingdom",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ ]
+  }
+}

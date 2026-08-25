@@ -1,0 +1,14 @@
+{
+  "asn": 46235,
+  "metadata": {
+    "handle": "TWN",
+    "description": "Trion Worlds Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

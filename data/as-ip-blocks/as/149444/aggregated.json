@@ -1,0 +1,14 @@
+{
+  "asn": 149444,
+  "metadata": {
+    "handle": "PDECI-AP",
+    "description": "Pampanga Digital Evolution Company (PADECO), Inc",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

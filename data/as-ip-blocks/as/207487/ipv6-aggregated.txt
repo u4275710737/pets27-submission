@@ -1,0 +1,5 @@
+# AS207487 (ROUTING-CAFE)
+# Gustav Caplan
+#
+2a14:14c0::/47
+2a14:14c0:2::/48

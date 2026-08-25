@@ -1,0 +1,14 @@
+{
+  "asn": 150620,
+  "metadata": {
+    "handle": "INNOVITI-AS-IN",
+    "description": "Innoviti Payment Solutions Private Limited",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

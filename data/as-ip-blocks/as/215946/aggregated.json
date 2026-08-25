@@ -1,0 +1,16 @@
+{
+  "asn": 215946,
+  "metadata": {
+    "handle": "NEXTFIBER",
+    "description": "NEXT Fiber SHPK",
+    "countryCode": "AL",
+    "country": "Albania",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ ]
+  }
+}

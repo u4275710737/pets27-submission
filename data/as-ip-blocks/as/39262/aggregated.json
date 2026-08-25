@@ -1,0 +1,16 @@
+{
+  "asn": 39262,
+  "metadata": {
+    "handle": "UKRPIPE",
+    "description": "Khartsyzsk Tube Works OJSC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [
+      "195.250.36.0/24"
+    ],
+    "ipv6": []
+  }
+}

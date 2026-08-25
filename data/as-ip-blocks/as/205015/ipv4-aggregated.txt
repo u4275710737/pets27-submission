@@ -1,0 +1,4 @@
+# AS205015 (NORTHERN)
+# Northern Telecom SARL
+#
+185.189.88.0/22

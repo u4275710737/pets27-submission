@@ -1,0 +1,4 @@
+# AS149453 (TUFANONLINE-AS-AP)
+# Tufan Online
+#
+2400:5020:100::/40

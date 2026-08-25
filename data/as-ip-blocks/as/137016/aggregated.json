@@ -1,0 +1,14 @@
+{
+  "asn": 137016,
+  "metadata": {
+    "handle": "FIRSTFOCUS-AS-AP",
+    "description": "First Focus Pty Ltd",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

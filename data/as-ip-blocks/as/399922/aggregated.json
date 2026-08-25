@@ -1,0 +1,16 @@
+{
+  "asn": 399922,
+  "metadata": {
+    "handle": "ST-AUG-NC",
+    "description": "Apogee Telecom Inc.",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "64.189.248.0/24" ],
+    "ipv6": [ ]
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 29053,
+  "metadata": {
+    "handle": "TELENET-JSC",
+    "description": "JSC ER-Telecom Holding",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

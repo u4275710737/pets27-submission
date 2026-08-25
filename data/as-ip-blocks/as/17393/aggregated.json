@@ -1,0 +1,16 @@
+{
+  "asn": 17393,
+  "metadata": {
+    "handle": "MVP1-BGP-CORE",
+    "description": "CMMS Data Group Inc.",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "206.109.77.0/24" ],
+    "ipv6": [ ]
+  }
+}

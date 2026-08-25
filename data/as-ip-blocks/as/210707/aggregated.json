@@ -1,0 +1,16 @@
+{
+  "asn": 210707,
+  "metadata": {
+    "handle": "COMPANY",
+    "description": "Dadeh Pardazesh Boroumand Kerman co. LLC",
+    "countryCode": "IR",
+    "country": "Iran",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "89.23.126.0/24" ],
+    "ipv6": [ ]
+  }
+}

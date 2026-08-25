@@ -1,0 +1,14 @@
+{
+  "asn": 61988,
+  "metadata": {
+    "handle": "ROKET-NET",
+    "description": "PE Roket.Net",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

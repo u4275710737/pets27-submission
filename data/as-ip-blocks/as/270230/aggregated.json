@@ -1,0 +1,14 @@
+{
+  "asn": 270230,
+  "metadata": {
+    "handle": "BANCO-NACIONAL-COMERCIO",
+    "description": "BANCO NACIONAL DE COMERCIO EXTERIOR",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

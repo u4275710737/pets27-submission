@@ -1,0 +1,14 @@
+{
+  "asn": 14451,
+  "metadata": {
+    "handle": "GEICO02",
+    "description": "GEICO",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

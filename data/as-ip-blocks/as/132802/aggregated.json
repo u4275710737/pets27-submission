@@ -1,0 +1,14 @@
+{
+  "asn": 132802,
+  "metadata": {
+    "handle": "EAAPPL-AP",
+    "description": "Electronic Arts Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

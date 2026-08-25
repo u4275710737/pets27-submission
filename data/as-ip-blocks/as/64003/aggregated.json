@@ -1,0 +1,16 @@
+{
+  "asn": 64003,
+  "metadata": {
+    "handle": "UKHPLSG-AS",
+    "description": "8 Anthony Road",
+    "countryCode": "SG",
+    "country": "Singapore",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "103.62.240.0/22" ],
+    "ipv6": [ ]
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 138865,
+  "metadata": {
+    "handle": "IDNIC-PRIMANTARA-ID",
+    "description": "PT. PRIMA NUSANTARA TELEKOMUNIKASI",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

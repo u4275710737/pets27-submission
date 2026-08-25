@@ -1,0 +1,14 @@
+{
+  "asn": 399025,
+  "metadata": {
+    "handle": "WESTNETWORKS-GNV-FL-02",
+    "description": "West Networks LLC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

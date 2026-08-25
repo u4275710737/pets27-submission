@@ -1,0 +1,16 @@
+{
+  "asn": 22969,
+  "metadata": {
+    "handle": "MARIETTA-FIBERNET",
+    "description": "Marietta Fibernet",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "67.213.160.0/21", "67.213.168.0/22" ],
+    "ipv6": [ ]
+  }
+}

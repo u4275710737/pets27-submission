@@ -1,0 +1,14 @@
+{
+  "asn": 24157,
+  "metadata": {
+    "handle": "VIBO-NET-AS",
+    "description": "Taiwan Star Telecom Corporation Limited.(Former Vibo Telecom Inc.)",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

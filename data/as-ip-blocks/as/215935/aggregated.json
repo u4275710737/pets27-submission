@@ -1,0 +1,16 @@
+{
+  "asn": 215935,
+  "metadata": {
+    "handle": "ORG-AA3392-RIPE",
+    "description": "Alphinity labs L.L.C-FZ",
+    "countryCode": "AE",
+    "country": "United Arab Emirates",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "178.254.182.0/24", "188.255.148.0/24", "202.155.124.0/23" ],
+    "ipv6": [ ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "asn": 154567,
+  "metadata": {
+    "handle": "IRINN-NETISPL-AS-IN",
+    "description": "NET INFOTECH SYSTEM PRIVATE LIMITED",
+    "countryCode": "IN",
+    "country": "India",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "163.128.104.0/23" ],
+    "ipv6": [ ]
+  }
+}

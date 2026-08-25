@@ -1,0 +1,4 @@
+# AS29643 (KBENDLOS-AS)
+# DPI Holding GmbH
+#
+193.228.84.0/22

@@ -1,0 +1,14 @@
+{
+  "asn": 210807,
+  "metadata": {
+    "handle": "XTOM",
+    "description": "xTom Pty Ltd",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

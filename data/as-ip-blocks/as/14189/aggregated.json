@@ -1,0 +1,14 @@
+{
+  "asn": 14189,
+  "metadata": {
+    "handle": "WITT-KIEFFER",
+    "description": "Witt-Kieffer",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

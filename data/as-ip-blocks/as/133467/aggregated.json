@@ -1,0 +1,14 @@
+{
+  "asn": 133467,
+  "metadata": {
+    "handle": "SNT-AS-AP",
+    "description": "SN TECHNOLOGY LIMITED",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

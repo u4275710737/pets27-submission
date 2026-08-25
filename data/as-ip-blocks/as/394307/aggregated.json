@@ -1,0 +1,14 @@
+{
+  "asn": 394307,
+  "metadata": {
+    "handle": "MW-AS",
+    "description": "Fairview Health Services",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

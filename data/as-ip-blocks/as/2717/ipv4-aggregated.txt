@@ -1,0 +1,4 @@
+# AS2717 (CUMMINS-AS1)
+# Cummins Inc.
+#
+192.158.44.0/24

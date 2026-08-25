@@ -1,0 +1,14 @@
+{
+  "asn": 215157,
+  "metadata": {
+    "handle": "ONLINENET",
+    "description": "OnlineNet LLC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

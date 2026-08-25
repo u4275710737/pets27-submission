@@ -1,0 +1,4 @@
+# AS209299 (AMB-CF-AS)
+# Ambientia Group Oy
+#
+185.192.15.0/24

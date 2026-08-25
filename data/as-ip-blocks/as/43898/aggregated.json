@@ -1,0 +1,14 @@
+{
+  "asn": 43898,
+  "metadata": {
+    "handle": "ORCL-AM-OCI1",
+    "description": "Oracle Svenska AB",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

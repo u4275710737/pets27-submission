@@ -1,0 +1,14 @@
+{
+  "asn": 152821,
+  "metadata": {
+    "handle": "IDNIC-CMEDIACV-AS-ID",
+    "description": "CV CMedia Nusantara",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

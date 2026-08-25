@@ -1,0 +1,14 @@
+{
+  "asn": 201255,
+  "metadata": {
+    "handle": "BSB",
+    "description": "BS&B Safety Systems Limited",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 270190,
+  "metadata": {
+    "handle": "QOS-NET",
+    "description": "QOS NET",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 62487,
+  "metadata": {
+    "handle": "SHAW-CABLESYSTEMS-LTD",
+    "description": "Shaw Cable Systems LTD",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

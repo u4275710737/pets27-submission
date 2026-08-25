@@ -1,0 +1,4 @@
+# AS17509 (STARNET)
+# STARNET Co. Ltd.
+#
+2404:3200::/32

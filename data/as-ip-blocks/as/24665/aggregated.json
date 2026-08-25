@@ -1,0 +1,14 @@
+{
+  "asn": 24665,
+  "metadata": {
+    "handle": "SUTC",
+    "description": "PJSC Rostelecom",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

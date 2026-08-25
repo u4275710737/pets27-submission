@@ -1,0 +1,14 @@
+{
+  "asn": 263969,
+  "metadata": {
+    "handle": "CLIGUE-TELECOMUNICACOES",
+    "description": "CLIGUE TELECOMUNICACOES LTDA -ME",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

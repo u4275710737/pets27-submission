@@ -1,0 +1,14 @@
+{
+  "asn": 212914,
+  "metadata": {
+    "handle": "GLOBALNETUA",
+    "description": "GLOBALNET UA LLC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

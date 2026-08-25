@@ -1,0 +1,4 @@
+# AS16784 (INETZ)
+# Inetz Media Group
+#
+199.16.170.0/23

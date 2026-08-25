@@ -1,0 +1,14 @@
+{
+  "asn": 59634,
+  "metadata": {
+    "handle": "ZETTA",
+    "description": "Zetta Connect Ltd",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

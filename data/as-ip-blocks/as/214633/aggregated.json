@@ -1,0 +1,14 @@
+{
+  "asn": 214633,
+  "metadata": {
+    "handle": "MITT-RIPE",
+    "description": "DEJIN MENG",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

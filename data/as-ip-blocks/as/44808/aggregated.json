@@ -1,0 +1,14 @@
+{
+  "asn": 44808,
+  "metadata": {
+    "handle": "EGNORGE",
+    "description": "EG Norge AS",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

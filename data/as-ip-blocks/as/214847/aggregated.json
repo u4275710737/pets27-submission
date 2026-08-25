@@ -1,0 +1,14 @@
+{
+  "asn": 214847,
+  "metadata": {
+    "handle": "IPVI",
+    "description": "Nicola Brown",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

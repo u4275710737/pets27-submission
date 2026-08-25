@@ -1,0 +1,16 @@
+{
+  "asn": 206325,
+  "metadata": {
+    "handle": "FANAVARIETKA",
+    "description": "Shabakieh Isfahan Co PJSC",
+    "countryCode": "IR",
+    "country": "Iran",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "178.157.1.0/24" ],
+    "ipv6": [ ]
+  }
+}

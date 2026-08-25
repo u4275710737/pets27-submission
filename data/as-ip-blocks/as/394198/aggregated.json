@@ -1,0 +1,14 @@
+{
+  "asn": 394198,
+  "metadata": {
+    "handle": "RSI",
+    "description": "Retail Solutions Inc",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

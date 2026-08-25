@@ -1,0 +1,14 @@
+{
+  "asn": 201707,
+  "metadata": {
+    "handle": "GOSTREAM",
+    "description": "Gostream B.V.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

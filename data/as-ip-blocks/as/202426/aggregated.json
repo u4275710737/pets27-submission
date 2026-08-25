@@ -1,0 +1,14 @@
+{
+  "asn": 202426,
+  "metadata": {
+    "handle": "ACCOUNTOR-FI",
+    "description": "Advania Finland Oy",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

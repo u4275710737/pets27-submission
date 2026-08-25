@@ -1,0 +1,14 @@
+{
+  "asn": 41407,
+  "metadata": {
+    "handle": "DOGGY",
+    "description": "Doggy AB",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 209654,
+  "metadata": {
+    "handle": "FIBERNETLB",
+    "description": "FIBER net lb s.a.r.l",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

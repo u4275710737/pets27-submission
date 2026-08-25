@@ -1,0 +1,14 @@
+{
+  "asn": 213439,
+  "metadata": {
+    "handle": "GLS-HUNGARY",
+    "description": "GLS General Logistics Systems Hungary Kft.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

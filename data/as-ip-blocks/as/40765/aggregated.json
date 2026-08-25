@@ -1,0 +1,14 @@
+{
+  "asn": 40765,
+  "metadata": {
+    "handle": "BARTLETTANDCO",
+    "description": "Bartlett & Co.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

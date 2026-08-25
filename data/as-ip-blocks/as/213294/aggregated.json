@@ -1,0 +1,16 @@
+{
+  "asn": 213294,
+  "metadata": {
+    "handle": "SAV-AS",
+    "description": "Shestavina Alevtina Vitalevna",
+    "countryCode": "RU",
+    "country": "Russia",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ "2a0d:ad41::/32", "2a11:9047::/32", "2a12:646::/32", "2a12:2800::/32", "2a12:2807::/32", "2a12:cf87::/32" ]
+  }
+}

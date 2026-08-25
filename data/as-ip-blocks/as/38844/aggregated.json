@@ -1,0 +1,14 @@
+{
+  "asn": 38844,
+  "metadata": {
+    "handle": "NTNU-TW",
+    "description": "National Taiwan Normal University",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

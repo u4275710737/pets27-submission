@@ -1,0 +1,4 @@
+# AS212211 (CDEK3-AS)
+# CDEK-Global LLC
+#
+194.49.120.0/23

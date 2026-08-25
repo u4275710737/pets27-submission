@@ -1,0 +1,5 @@
+# AS138119 (INTEGRASIA-AS-ID)
+# PT Integra Kreasitama Solusindo
+#
+103.126.28.0/22
+154.40.136.0/24

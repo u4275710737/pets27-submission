@@ -1,0 +1,6 @@
+# AS204572 (OFACGROUP)
+# Ofac societe cooperative
+#
+2a0d:8580::/32
+2a0e:e3c0::/29
+2a0e:e880::/29

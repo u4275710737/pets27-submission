@@ -1,0 +1,16 @@
+{
+  "asn": 213414,
+  "metadata": {
+    "handle": "PUNTO-COM",
+    "description": "MYNET S.R.L.",
+    "countryCode": "IT",
+    "country": "Italy",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "46.102.173.0/24" ],
+    "ipv6": [ ]
+  }
+}

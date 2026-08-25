@@ -1,0 +1,14 @@
+{
+  "asn": 15247,
+  "metadata": {
+    "handle": "RADIANT-VANCOUVER",
+    "description": "GOCO TECHNOLOGY LIMITED PARTNERSHIP",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

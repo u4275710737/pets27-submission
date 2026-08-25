@@ -1,0 +1,14 @@
+{
+  "asn": 139607,
+  "metadata": {
+    "handle": "TATTSGROUPLIMITED-AP",
+    "description": "Tatts Group Limited",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

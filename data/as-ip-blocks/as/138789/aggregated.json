@@ -1,0 +1,14 @@
+{
+  "asn": 138789,
+  "metadata": {
+    "handle": "SMARTC-IN",
+    "description": "Smartclick Internet Pvt Ltd",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

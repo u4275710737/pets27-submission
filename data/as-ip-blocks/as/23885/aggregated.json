@@ -1,0 +1,14 @@
+{
+  "asn": 23885,
+  "metadata": {
+    "handle": "ORACLEV6-AS-AP",
+    "description": "Oracle Corporation",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

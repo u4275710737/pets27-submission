@@ -1,0 +1,16 @@
+{
+  "asn": 266306,
+  "metadata": {
+    "handle": "CENTRALNETT-SERVICOS",
+    "description": "CENTRALNETT SERVIÇOS LTDA",
+    "countryCode": "BR",
+    "country": "Brazil",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "access_provider"
+  },
+  "prefixes": {
+    "ipv4": [ "170.79.218.0/23" ],
+    "ipv6": [ "2804:35c8::/32" ]
+  }
+}

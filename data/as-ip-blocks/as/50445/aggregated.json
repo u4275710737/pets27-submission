@@ -1,0 +1,14 @@
+{
+  "asn": 50445,
+  "metadata": {
+    "handle": "WIREFAST",
+    "description": "Wirefast Limited",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

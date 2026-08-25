@@ -1,0 +1,14 @@
+{
+  "asn": 56533,
+  "metadata": {
+    "handle": "NETCRACKER-AS",
+    "description": "Netcracker Technology EMEA Limited",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

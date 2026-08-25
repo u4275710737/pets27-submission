@@ -1,0 +1,5 @@
+# AS132231 (NFLL-AS-AP)
+# Network For Learning Limited
+#
+202.150.96.0/19
+202.189.172.0/22

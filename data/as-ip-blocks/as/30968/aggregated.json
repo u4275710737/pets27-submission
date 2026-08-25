@@ -1,0 +1,14 @@
+{
+  "asn": 30968,
+  "metadata": {
+    "handle": "INFOBOX",
+    "description": "OOO National Telecommunications",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

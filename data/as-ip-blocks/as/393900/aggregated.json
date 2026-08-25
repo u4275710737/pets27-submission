@@ -1,0 +1,14 @@
+{
+  "asn": 393900,
+  "metadata": {
+    "handle": "IQT1",
+    "description": "In-Q-Tel, Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

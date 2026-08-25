@@ -1,0 +1,14 @@
+{
+  "asn": 63188,
+  "metadata": {
+    "handle": "ICOGUNNISON",
+    "description": "Visionary Communications, Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

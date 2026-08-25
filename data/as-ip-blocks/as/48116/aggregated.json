@@ -1,0 +1,16 @@
+{
+  "asn": 48116,
+  "metadata": {
+    "handle": "HIGHSEC-AS",
+    "description": "Fredrik Holmqvist",
+    "countryCode": "SE",
+    "country": "Sweden",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "185.173.220.0/22" ],
+    "ipv6": [ ]
+  }
+}

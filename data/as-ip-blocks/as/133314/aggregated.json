@@ -1,0 +1,14 @@
+{
+  "asn": 133314,
+  "metadata": {
+    "handle": "BUBBLESERVER",
+    "description": "Bubble Server LLP",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

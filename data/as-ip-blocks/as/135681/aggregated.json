@@ -1,0 +1,14 @@
+{
+  "asn": 135681,
+  "metadata": {
+    "handle": "ICEXSYS-IN",
+    "description": "Indian Commodity Exchange Ltd.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

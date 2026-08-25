@@ -1,0 +1,14 @@
+{
+  "asn": 200180,
+  "metadata": {
+    "handle": "PREMIUMFAST",
+    "description": "PT. Premium Fast Network",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

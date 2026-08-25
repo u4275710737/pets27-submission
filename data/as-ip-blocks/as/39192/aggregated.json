@@ -1,0 +1,14 @@
+{
+  "asn": 39192,
+  "metadata": {
+    "handle": "JACKNET",
+    "description": "John Hadrill",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "asn": 46965,
+  "metadata": {
+    "handle": "SHAKESPEARETHEATRE",
+    "description": "Shakespeare Theatre Company",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "206.65.251.0/24" ],
+    "ipv6": [ ]
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 13981,
+  "metadata": {
+    "handle": "ITXM",
+    "description": "Institute for Transfusion Medicine",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

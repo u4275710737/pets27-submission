@@ -1,0 +1,16 @@
+{
+  "asn": 274577,
+  "metadata": {
+    "handle": "AZZURA-TECNOLOGIA-COMUNICACAO",
+    "description": "AZZURA TECNOLOGIA DA COMUNICACAO LTDA",
+    "countryCode": "BR",
+    "country": "Brazil",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ ]
+  }
+}

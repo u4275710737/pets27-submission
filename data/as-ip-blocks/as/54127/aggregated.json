@@ -1,0 +1,14 @@
+{
+  "asn": 54127,
+  "metadata": {
+    "handle": "BRICKSTORES",
+    "description": "Incomsite, Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

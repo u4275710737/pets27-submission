@@ -1,0 +1,16 @@
+{
+  "asn": 216195,
+  "metadata": {
+    "handle": "EGGIE",
+    "description": "Egbert Verhage",
+    "countryCode": "NL",
+    "country": "Netherlands",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "194.180.250.0/24" ],
+    "ipv6": [ "2a13:fc41::/48", "2a13:fc42::/32" ]
+  }
+}

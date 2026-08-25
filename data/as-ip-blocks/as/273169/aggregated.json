@@ -1,0 +1,14 @@
+{
+  "asn": 273169,
+  "metadata": {
+    "handle": "WISPLAY-NETWORKS-CA",
+    "description": "WISPLAY NETWORKS, C.A",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

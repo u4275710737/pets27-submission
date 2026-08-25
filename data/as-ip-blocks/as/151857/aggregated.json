@@ -1,0 +1,14 @@
+{
+  "asn": 151857,
+  "metadata": {
+    "handle": "NIVACLOUD-VN",
+    "description": "NIVA GROUP JONT STOCK COMPANY",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

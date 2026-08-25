@@ -1,0 +1,16 @@
+{
+  "asn": 266057,
+  "metadata": {
+    "handle": "X2-TELECOM",
+    "description": "RM dos Santos Informatica",
+    "countryCode": "BR",
+    "country": "Brazil",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "45.4.180.0/22" ],
+    "ipv6": [ ]
+  }
+}

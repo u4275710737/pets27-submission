@@ -1,0 +1,16 @@
+{
+  "asn": 206018,
+  "metadata": {
+    "handle": "CHONG601-AS",
+    "description": "CHONG JIN YI",
+    "countryCode": "MY",
+    "country": "Malaysia",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ "2602:fc09:f000::/48" ]
+  }
+}

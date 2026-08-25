@@ -1,0 +1,14 @@
+{
+  "asn": 36841,
+  "metadata": {
+    "handle": "ZAYO-NSV",
+    "description": "Zayo Bandwidth",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

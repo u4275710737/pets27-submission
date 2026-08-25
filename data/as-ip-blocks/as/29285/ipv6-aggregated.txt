@@ -1,0 +1,3 @@
+# AS29285 (AMTMGTS-AS)
+# PJSC Moscow city telephone network
+#

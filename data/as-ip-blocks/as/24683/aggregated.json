@@ -1,0 +1,16 @@
+{
+  "asn": 24683,
+  "metadata": {
+    "handle": "OSU-AS",
+    "description": "Federal State Budgetary Educational Institution Of Higher Education Orenburg State University Named After V. A. Bondarenko",
+    "countryCode": "RU",
+    "country": "Russia",
+    "origin": "authoritative",
+    "category": "education_research",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "62.76.152.0/24", "195.2.210.0/23" ],
+    "ipv6": [ ]
+  }
+}

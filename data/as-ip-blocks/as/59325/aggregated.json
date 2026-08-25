@@ -1,0 +1,14 @@
+{
+  "asn": 59325,
+  "metadata": {
+    "handle": "RISE-AS-AP",
+    "description": "Responsible Internet Sustainability Effort",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

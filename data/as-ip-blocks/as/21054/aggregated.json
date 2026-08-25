@@ -1,0 +1,16 @@
+{
+  "asn": 21054,
+  "metadata": {
+    "handle": "UK-NATWEST-AS21054",
+    "description": "Natwest Markets PLC",
+    "countryCode": "GB",
+    "country": "United Kingdom",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "155.136.0.0/16" ],
+    "ipv6": [ ]
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 216216,
+  "metadata": {
+    "handle": "EUISEO",
+    "description": "Euiseo Cha",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

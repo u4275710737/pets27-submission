@@ -1,0 +1,16 @@
+{
+  "asn": 150344,
+  "metadata": {
+    "handle": "VIFPT-VN",
+    "description": "FPT Wallet Company Limited",
+    "countryCode": "VN",
+    "country": "Vietnam",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "151.158.126.0/23" ],
+    "ipv6": [ ]
+  }
+}

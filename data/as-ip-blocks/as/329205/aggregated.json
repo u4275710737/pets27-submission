@@ -1,0 +1,14 @@
+{
+  "asn": 329205,
+  "metadata": {
+    "handle": "VUMA-FIBER-LIMITED",
+    "description": "VUMA FIBER LIMITED",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

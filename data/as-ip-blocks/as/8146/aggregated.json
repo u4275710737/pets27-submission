@@ -1,0 +1,14 @@
+{
+  "asn": 8146,
+  "metadata": {
+    "handle": "GNAC",
+    "description": "Global Networking and Computing, Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

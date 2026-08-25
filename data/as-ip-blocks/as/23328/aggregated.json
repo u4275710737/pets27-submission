@@ -1,0 +1,14 @@
+{
+  "asn": 23328,
+  "metadata": {
+    "handle": "EST-INC-ASN",
+    "description": "EST Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

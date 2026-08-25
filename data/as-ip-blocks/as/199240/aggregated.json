@@ -1,0 +1,16 @@
+{
+  "asn": 199240,
+  "metadata": {
+    "handle": "SKULBYTE",
+    "description": "Kadour Haj Kadour trading as Skulbyte Solutions",
+    "countryCode": "NL",
+    "country": "Netherlands",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ "2a03:5840:13d::/48" ]
+  }
+}

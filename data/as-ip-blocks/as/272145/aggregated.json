@@ -1,0 +1,16 @@
+{
+  "asn": 272145,
+  "metadata": {
+    "handle": "RDNP-SOCIEDAD-RESPONSABILIDAD",
+    "description": "R.D.N.P. SOCIEDAD DE RESPONSABILIDAD LIMITADA",
+    "countryCode": "AR",
+    "country": "Argentina",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "149.107.192.0/24" ],
+    "ipv6": [ ]
+  }
+}

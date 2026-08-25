@@ -1,0 +1,5 @@
+# AS58392 (SWW-AS-ID)
+# PT. Sewiwi Indonesia
+#
+103.11.134.0/23
+103.40.54.0/23

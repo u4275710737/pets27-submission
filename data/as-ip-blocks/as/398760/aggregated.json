@@ -1,0 +1,14 @@
+{
+  "asn": 398760,
+  "metadata": {
+    "handle": "SANDATA-NY5",
+    "description": "Sandata Technologies, LLC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 23377,
+  "metadata": {
+    "handle": "RADISSON-HOSPITALITY-INC",
+    "description": "Choice Hotels International, Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

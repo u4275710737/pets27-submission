@@ -1,0 +1,14 @@
+{
+  "asn": 57916,
+  "metadata": {
+    "handle": "LAROM-AS",
+    "description": "Larom TV SRL",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 141908,
+  "metadata": {
+    "handle": "IDNIC-TRANSDATAID-ID",
+    "description": "CV Trans Data Solution",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 213327,
+  "metadata": {
+    "handle": "VERZICCO",
+    "description": "Alessandro Verzicco",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

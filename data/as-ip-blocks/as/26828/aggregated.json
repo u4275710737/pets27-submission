@@ -1,0 +1,14 @@
+{
+  "asn": 26828,
+  "metadata": {
+    "handle": "IDSK",
+    "description": "InfoDesk",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

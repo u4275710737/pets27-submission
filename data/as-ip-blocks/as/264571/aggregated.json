@@ -1,0 +1,16 @@
+{
+  "asn": 264571,
+  "metadata": {
+    "handle": "NETFAR-INFORMATICA",
+    "description": "Netfar Informatica Ltda",
+    "countryCode": "BR",
+    "country": "Brazil",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "access_provider"
+  },
+  "prefixes": {
+    "ipv4": [ "38.224.252.0/24", "38.225.197.0/24", "138.36.80.0/22" ],
+    "ipv6": [ "2804:21c0::/32" ]
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 13792,
+  "metadata": {
+    "handle": "INTERNAP-BLK3",
+    "description": "Unitas Global",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

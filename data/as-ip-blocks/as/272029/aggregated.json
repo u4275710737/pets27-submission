@@ -1,0 +1,14 @@
+{
+  "asn": 272029,
+  "metadata": {
+    "handle": "FIBER-CABLE-EIRL",
+    "description": "FIBER CABLE E.I.R.L.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

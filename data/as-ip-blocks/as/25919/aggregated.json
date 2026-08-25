@@ -1,0 +1,14 @@
+{
+  "asn": 25919,
+  "metadata": {
+    "handle": "CMDGL-1",
+    "description": "CMD Group",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

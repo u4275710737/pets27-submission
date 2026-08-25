@@ -1,0 +1,16 @@
+{
+  "asn": 215330,
+  "metadata": {
+    "handle": "CDE-AS",
+    "description": "Chernenko Denis Evgenevich",
+    "countryCode": "RU",
+    "country": "Russia",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ "2a0d:ad43::/32", "2a11:9045::/32", "2a11:e2c3::/32", "2a12:a500::/32", "2a12:cf80::/32" ]
+  }
+}

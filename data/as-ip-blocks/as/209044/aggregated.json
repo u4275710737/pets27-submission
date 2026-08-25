@@ -1,0 +1,14 @@
+{
+  "asn": 209044,
+  "metadata": {
+    "handle": "ABAKUS",
+    "description": "synaforce GmbH",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

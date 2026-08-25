@@ -1,0 +1,14 @@
+{
+  "asn": 17122,
+  "metadata": {
+    "handle": "DISNEY-DATG-CPO",
+    "description": "Disney Worldwide Services, Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

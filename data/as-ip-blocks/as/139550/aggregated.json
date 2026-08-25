@@ -1,0 +1,14 @@
+{
+  "asn": 139550,
+  "metadata": {
+    "handle": "SSBS-IN",
+    "description": "Swami Samarth Broadband Service Private Limited",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

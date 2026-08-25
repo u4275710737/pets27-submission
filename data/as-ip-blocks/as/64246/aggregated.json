@@ -1,0 +1,16 @@
+{
+  "asn": 64246,
+  "metadata": {
+    "handle": "CRA-CO",
+    "description": "Cator Ruma & Associates Co.",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "192.88.50.0/24" ],
+    "ipv6": [ "2602:f65f:1::/48", "2602:f65f:2::/48" ]
+  }
+}

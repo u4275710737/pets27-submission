@@ -1,0 +1,14 @@
+{
+  "asn": 38966,
+  "metadata": {
+    "handle": "INTRALAN-AS",
+    "description": "IntraLAN Group Limited",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

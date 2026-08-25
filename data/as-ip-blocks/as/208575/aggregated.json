@@ -1,0 +1,14 @@
+{
+  "asn": 208575,
+  "metadata": {
+    "handle": "HAEMOGLOBIN",
+    "description": "Haemoglobin",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

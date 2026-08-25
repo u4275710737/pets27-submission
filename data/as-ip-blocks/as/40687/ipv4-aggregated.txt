@@ -1,0 +1,4 @@
+# AS40687 (STATE-STREET-BANK)
+# State Street Bank and Trust Company
+#
+192.250.92.0/22

@@ -1,0 +1,14 @@
+{
+  "asn": 19641,
+  "metadata": {
+    "handle": "BED-BATH-AND-BEYOND",
+    "description": "Bed Bath and Beyond Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

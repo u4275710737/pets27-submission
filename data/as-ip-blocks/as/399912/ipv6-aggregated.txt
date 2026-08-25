@@ -1,0 +1,4 @@
+# AS399912 (HAYO-TELECOM)
+# Hayo Telecom Inc
+#
+2604:9240::/32

@@ -1,0 +1,16 @@
+{
+  "asn": 47910,
+  "metadata": {
+    "handle": "HTBS-AS",
+    "description": "HiTech Business Solutions Ltd.",
+    "countryCode": "RU",
+    "country": "Russia",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "193.42.142.0/24" ],
+    "ipv6": [ ]
+  }
+}

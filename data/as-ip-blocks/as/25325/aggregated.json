@@ -1,0 +1,14 @@
+{
+  "asn": 25325,
+  "metadata": {
+    "handle": "BAHN",
+    "description": "DB Systel GmbH",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

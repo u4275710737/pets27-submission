@@ -1,0 +1,14 @@
+{
+  "asn": 32986,
+  "metadata": {
+    "handle": "KEYDEV",
+    "description": "Key Developments LLC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

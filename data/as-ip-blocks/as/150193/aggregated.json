@@ -1,0 +1,16 @@
+{
+  "asn": 150193,
+  "metadata": {
+    "handle": "IDNIC-OLEAN-AS-ID",
+    "description": "PT Olean Permata Telematika",
+    "countryCode": "ID",
+    "country": "Indonesia",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "103.211.26.0/23" ],
+    "ipv6": [ ]
+  }
+}

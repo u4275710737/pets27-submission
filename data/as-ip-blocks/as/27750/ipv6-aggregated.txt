@@ -1,0 +1,4 @@
+# AS27750 (COOPERACION-LATINO-AMERICANA)
+# Cooperación Latino Americana de Redes Avanzadas
+#
+2001:1348::/32

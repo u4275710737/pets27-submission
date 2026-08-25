@@ -1,0 +1,16 @@
+{
+  "asn": 215492,
+  "metadata": {
+    "handle": "BUTLER",
+    "description": "BUTLER CHAT I.K.E.",
+    "countryCode": "GR",
+    "country": "Greece",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "31.56.50.0/24" ],
+    "ipv6": [ "2a14:8100:10::/48" ]
+  }
+}

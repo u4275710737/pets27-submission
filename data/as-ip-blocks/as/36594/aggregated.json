@@ -1,0 +1,14 @@
+{
+  "asn": 36594,
+  "metadata": {
+    "handle": "MOL",
+    "description": "Medicine Online, Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

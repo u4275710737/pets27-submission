@@ -1,0 +1,14 @@
+{
+  "asn": 136961,
+  "metadata": {
+    "handle": "APOLLOGLOBAL-AP",
+    "description": "Apollo Global Corporation",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

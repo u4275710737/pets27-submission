@@ -1,0 +1,16 @@
+{
+  "asn": 354,
+  "metadata": {
+    "handle": "DNIC-ASBLK-00306-00371",
+    "description": "United States Department of Defense (DoD)",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ "2609:12b:5000::/40", "2609:e000:5000::/40" ]
+  }
+}

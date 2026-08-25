@@ -1,0 +1,14 @@
+{
+  "asn": 62174,
+  "metadata": {
+    "handle": "INTERPAN",
+    "description": "INTERPAN LTD.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

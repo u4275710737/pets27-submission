@@ -1,0 +1,4 @@
+# AS44973 (RZHAS-AS)
+# Rechenzentrum Hassfurt GmbH
+#
+2a02:218::/29

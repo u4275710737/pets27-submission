@@ -1,0 +1,14 @@
+{
+  "asn": 47762,
+  "metadata": {
+    "handle": "WESTCLOUD",
+    "description": "WEST CLOUD CONTACT SOLUTIONS LIMITED",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

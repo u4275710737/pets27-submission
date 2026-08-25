@@ -1,0 +1,16 @@
+{
+  "asn": 149004,
+  "metadata": {
+    "handle": "MNUL-AS-AP",
+    "description": "Morapido Net Unipessoal Lda.",
+    "countryCode": "TL",
+    "country": "Timor-Leste",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "103.176.12.0/23" ],
+    "ipv6": [ ]
+  }
+}

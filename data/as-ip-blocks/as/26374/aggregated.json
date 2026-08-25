@@ -1,0 +1,14 @@
+{
+  "asn": 26374,
+  "metadata": {
+    "handle": "BONDUELLENAM",
+    "description": "Nortera Foods Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

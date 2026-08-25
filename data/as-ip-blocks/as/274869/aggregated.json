@@ -1,0 +1,16 @@
+{
+  "asn": 274869,
+  "metadata": {
+    "handle": "IO-CUANTICA-SOCIEDAD",
+    "description": "IO CUANTICA SOCIEDAD ANÓNIMA CERRADA",
+    "countryCode": "PE",
+    "country": "Peru",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ "2803:2a30:1::/48", "2803:2a30:f000::/48" ]
+  }
+}

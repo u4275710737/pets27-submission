@@ -1,0 +1,14 @@
+{
+  "asn": 138632,
+  "metadata": {
+    "handle": "ENMOE-AS-AP",
+    "description": "Enmoe Network",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

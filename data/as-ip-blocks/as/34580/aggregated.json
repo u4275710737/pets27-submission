@@ -1,0 +1,14 @@
+{
+  "asn": 34580,
+  "metadata": {
+    "handle": "UNITLINE-MSK-NET1",
+    "description": "OOO MediaSeti",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

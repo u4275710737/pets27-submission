@@ -1,0 +1,14 @@
+{
+  "asn": 18912,
+  "metadata": {
+    "handle": "RTC-DESMONIES",
+    "description": "Des Moines Register & Tribune Co",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

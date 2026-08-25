@@ -1,0 +1,14 @@
+{
+  "asn": 209364,
+  "metadata": {
+    "handle": "OME-LOGIC-AS",
+    "description": "Ome Logic Ltd",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

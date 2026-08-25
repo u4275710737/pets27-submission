@@ -1,0 +1,14 @@
+{
+  "asn": 31982,
+  "metadata": {
+    "handle": "BRAHMAN-NY",
+    "description": "Brahman Capital",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

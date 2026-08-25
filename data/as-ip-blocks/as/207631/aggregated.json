@@ -1,0 +1,16 @@
+{
+  "asn": 207631,
+  "metadata": {
+    "handle": "CLOUD88",
+    "description": "Cloud88 S.R.L.",
+    "countryCode": "IT",
+    "country": "Italy",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "185.133.209.0/24", "185.197.134.0/24" ],
+    "ipv6": [ "2001:678:bd0::/48", "2a06:e881:7200::/40" ]
+  }
+}

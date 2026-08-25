@@ -1,0 +1,14 @@
+{
+  "asn": 268972,
+  "metadata": {
+    "handle": "ERBCOM-TELECOMUNICACOES-EIRELI",
+    "description": "ERBCOM TELECOMUNICACOES EIRELI - ME",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

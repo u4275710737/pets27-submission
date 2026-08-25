@@ -1,0 +1,3 @@
+# AS25066 (NKBM-AS)
+# Nova KBM d.d.
+#

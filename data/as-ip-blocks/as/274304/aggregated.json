@@ -1,0 +1,16 @@
+{
+  "asn": 274304,
+  "metadata": {
+    "handle": "MESHLINK",
+    "description": "MESHLINK S.R.L",
+    "countryCode": "DO",
+    "country": "Dominican Republic",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "38.106.78.0/23" ],
+    "ipv6": [ "2803:c430::/32" ]
+  }
+}

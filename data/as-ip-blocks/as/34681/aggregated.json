@@ -1,0 +1,14 @@
+{
+  "asn": 34681,
+  "metadata": {
+    "handle": "ITSERVICE",
+    "description": "Hubert Lewandowski trading as IT-SERVICE",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

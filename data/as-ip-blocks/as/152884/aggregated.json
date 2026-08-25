@@ -1,0 +1,16 @@
+{
+  "asn": 152884,
+  "metadata": {
+    "handle": "NEP-AS-AP",
+    "description": "NEP AUSTRALIA PTY LTD",
+    "countryCode": "AU",
+    "country": "Australia",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "160.20.120.0/24" ],
+    "ipv6": [ "2001:df3:d5c0::/48" ]
+  }
+}

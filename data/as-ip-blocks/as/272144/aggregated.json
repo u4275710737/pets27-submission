@@ -1,0 +1,14 @@
+{
+  "asn": 272144,
+  "metadata": {
+    "handle": "TELECOMUNICACIONES-HOSTINGNET-SPA",
+    "description": "TELECOMUNICACIONES HOSTINGNET SpA",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

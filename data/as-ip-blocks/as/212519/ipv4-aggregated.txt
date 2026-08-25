@@ -1,0 +1,4 @@
+# AS212519 (WISLAB)
+# WisCom Praxis- und Krankenhaus-Service GmbH
+#
+185.89.224.0/22

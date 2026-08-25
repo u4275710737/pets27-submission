@@ -1,0 +1,14 @@
+{
+  "asn": 400109,
+  "metadata": {
+    "handle": "GOTECH",
+    "description": "Go Technology Management, LLC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

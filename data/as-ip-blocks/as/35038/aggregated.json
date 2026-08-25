@@ -1,0 +1,16 @@
+{
+  "asn": 35038,
+  "metadata": {
+    "handle": "INESCTEC",
+    "description": "INESC TEC - Instituto De Engenharia De Sistemas E Computadores Tecnologia E Ciencia",
+    "countryCode": "PT",
+    "country": "Portugal",
+    "origin": "authoritative",
+    "category": "education_research",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "192.35.246.0/24", "192.135.129.0/24", "192.136.49.0/24", "194.117.24.0/21" ],
+    "ipv6": [ ]
+  }
+}

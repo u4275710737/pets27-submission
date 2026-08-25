@@ -1,0 +1,14 @@
+{
+  "asn": 215211,
+  "metadata": {
+    "handle": "GOLDIPV4",
+    "description": "GOLD IP L.L.C-FZ",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

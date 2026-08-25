@@ -1,0 +1,5 @@
+# AS262433 (QI-EQUIPAMENTOS-PARA)
+# QI Equipamentos para Informática Ltda.
+#
+38.236.92.0/23
+177.39.208.0/21

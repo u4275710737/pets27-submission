@@ -1,0 +1,14 @@
+{
+  "asn": 45030,
+  "metadata": {
+    "handle": "INTERPPHU-AS",
+    "description": "PPHU INTER Pawel Walczak",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

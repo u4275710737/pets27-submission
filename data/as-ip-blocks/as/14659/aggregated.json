@@ -1,0 +1,14 @@
+{
+  "asn": 14659,
+  "metadata": {
+    "handle": "ZID-1",
+    "description": "ZiD Internet",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

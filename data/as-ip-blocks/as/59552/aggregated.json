@@ -1,0 +1,14 @@
+{
+  "asn": 59552,
+  "metadata": {
+    "handle": "SON-IX-ROUTE-SERVERS",
+    "description": "Wobcom GmbH",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

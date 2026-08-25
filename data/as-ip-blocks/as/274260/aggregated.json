@@ -1,0 +1,16 @@
+{
+  "asn": 274260,
+  "metadata": {
+    "handle": "UNIVERSIDAD-LAICA-ELOY",
+    "description": "UNIVERSIDAD LAICA ELOY ALFARO DE MANABI",
+    "countryCode": "EC",
+    "country": "Ecuador",
+    "origin": "authoritative",
+    "category": "education_research",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "192.207.244.0/24" ],
+    "ipv6": [ "2801:19d::/48" ]
+  }
+}

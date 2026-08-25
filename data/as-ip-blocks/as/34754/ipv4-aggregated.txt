@@ -1,0 +1,5 @@
+# AS34754 (TELNET-AS)
+# Vivacom Bulgaria EAD
+#
+87.254.160.0/19
+88.87.0.0/19

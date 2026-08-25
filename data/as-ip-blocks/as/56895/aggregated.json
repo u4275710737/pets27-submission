@@ -1,0 +1,14 @@
+{
+  "asn": 56895,
+  "metadata": {
+    "handle": "SVIAZTELECOM",
+    "description": "Svyaztelecom ltd.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

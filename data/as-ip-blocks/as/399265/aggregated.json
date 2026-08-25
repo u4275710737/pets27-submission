@@ -1,0 +1,14 @@
+{
+  "asn": 399265,
+  "metadata": {
+    "handle": "AMSTERDAM-DC",
+    "description": "Red Hat Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

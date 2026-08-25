@@ -1,0 +1,14 @@
+{
+  "asn": 14066,
+  "metadata": {
+    "handle": "TELMETRICS",
+    "description": "Telmetrics Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

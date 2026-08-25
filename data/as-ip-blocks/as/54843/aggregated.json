@@ -1,0 +1,14 @@
+{
+  "asn": 54843,
+  "metadata": {
+    "handle": "INFOTECH",
+    "description": "INFO TECH INC.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

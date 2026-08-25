@@ -1,0 +1,14 @@
+{
+  "asn": 133904,
+  "metadata": {
+    "handle": "SCB-AS-AP",
+    "description": "Swarovski Greater China Limited",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

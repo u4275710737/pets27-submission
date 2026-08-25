@@ -1,0 +1,14 @@
+{
+  "asn": 207959,
+  "metadata": {
+    "handle": "XSSERVER",
+    "description": "XSServer GmbH",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 55030,
+  "metadata": {
+    "handle": "DTZ-AMERICAS",
+    "description": "Cushman & Wakefield",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 38344,
+  "metadata": {
+    "handle": "HUAYUNET",
+    "description": "HUAYU NETWORK COMMUNICATION CO. LTD",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

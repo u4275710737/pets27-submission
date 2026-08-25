@@ -1,0 +1,14 @@
+{
+  "asn": 214134,
+  "metadata": {
+    "handle": "HAKIMI",
+    "description": "Hakimi Network Limited",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

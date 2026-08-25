@@ -1,0 +1,14 @@
+{
+  "asn": 138208,
+  "metadata": {
+    "handle": "THEINTROVISION-AS-AP",
+    "description": "The Introvision",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

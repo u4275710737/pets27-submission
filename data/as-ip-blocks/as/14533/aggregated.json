@@ -1,0 +1,14 @@
+{
+  "asn": 14533,
+  "metadata": {
+    "handle": "UHCC",
+    "description": "The Union Hospital of Cecil County Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

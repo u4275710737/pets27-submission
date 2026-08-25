@@ -1,0 +1,16 @@
+{
+  "asn": 37144,
+  "metadata": {
+    "handle": "AS37144",
+    "description": "ValuCard Nigeria AS",
+    "countryCode": "NG",
+    "country": "Nigeria",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "196.46.20.0/24" ],
+    "ipv6": [ ]
+  }
+}

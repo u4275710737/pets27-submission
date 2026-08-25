@@ -1,0 +1,14 @@
+{
+  "asn": 150276,
+  "metadata": {
+    "handle": "IDNIC-RADCOMM-ID",
+    "description": "PT Radcomm Surya Nusantara",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

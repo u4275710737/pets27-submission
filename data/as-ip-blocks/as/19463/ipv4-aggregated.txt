@@ -1,0 +1,4 @@
+# AS19463 (RISE-AS19463)
+# JAB Wireless INC.
+#
+199.26.60.0/22

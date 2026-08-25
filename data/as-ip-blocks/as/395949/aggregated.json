@@ -1,0 +1,16 @@
+{
+  "asn": 395949,
+  "metadata": {
+    "handle": "SAP-DC-CH",
+    "description": "SAP America Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [
+      "157.133.24.0/21"
+    ],
+    "ipv6": []
+  }
+}

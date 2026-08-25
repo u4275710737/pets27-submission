@@ -1,0 +1,16 @@
+{
+  "asn": 62033,
+  "metadata": {
+    "handle": "HOSTERS",
+    "description": "CLOUDEUS SL",
+    "countryCode": "ES",
+    "country": "Spain",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "45.132.34.0/24", "87.121.134.0/23", "91.92.248.0/23", "185.127.129.0/24", "216.176.232.0/22" ],
+    "ipv6": [ "2a10:5d80:1::/48" ]
+  }
+}

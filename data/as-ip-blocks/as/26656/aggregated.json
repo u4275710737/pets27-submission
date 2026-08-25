@@ -1,0 +1,14 @@
+{
+  "asn": 26656,
+  "metadata": {
+    "handle": "MISYS-AS",
+    "description": "Finastra Technology Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

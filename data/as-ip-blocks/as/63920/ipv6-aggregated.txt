@@ -1,0 +1,5 @@
+# AS63920 (VOSTRO-AS-AP)
+# VostroNet
+#
+2401:cd80:300::/40
+2401:cd81::/48

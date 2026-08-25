@@ -1,0 +1,14 @@
+{
+  "asn": 147083,
+  "metadata": {
+    "handle": "IDNIC-SKYLINK-ID",
+    "description": "PT Skylink Technology Nusantara",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

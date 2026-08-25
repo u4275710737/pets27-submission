@@ -1,0 +1,14 @@
+{
+  "asn": 56341,
+  "metadata": {
+    "handle": "ENTER",
+    "description": "PJSC Rostelecom",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

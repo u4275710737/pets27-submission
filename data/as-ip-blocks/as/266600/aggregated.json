@@ -1,0 +1,14 @@
+{
+  "asn": 266600,
+  "metadata": {
+    "handle": "SAP-BRASIL",
+    "description": "SAP BRASIL LTDA.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

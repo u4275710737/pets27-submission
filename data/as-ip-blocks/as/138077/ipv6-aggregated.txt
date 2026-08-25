@@ -1,0 +1,5 @@
+# AS138077 (IDNIC-ABHINAWA-AS-ID)
+# PT Abhinawa Sumberdaya Asia
+#
+2401:44c0:3::/48
+2407:14c0::/32

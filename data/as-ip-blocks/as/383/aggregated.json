@@ -1,0 +1,14 @@
+{
+  "asn": 383,
+  "metadata": {
+    "handle": "AFCONC-BLOCK1",
+    "description": "Air Force Systems Networking",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 44990,
+  "metadata": {
+    "handle": "CYBERSYSTEMS",
+    "description": "Trenka Informatik AG",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

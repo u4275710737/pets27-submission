@@ -1,0 +1,14 @@
+{
+  "asn": 139320,
+  "metadata": {
+    "handle": "PHONON-AS-AP",
+    "description": "Phonon Communications Pvt Ltd",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

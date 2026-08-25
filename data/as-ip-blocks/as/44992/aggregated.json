@@ -1,0 +1,14 @@
+{
+  "asn": 44992,
+  "metadata": {
+    "handle": "DOGE-NETWORK",
+    "description": "KeonWoo PARK",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

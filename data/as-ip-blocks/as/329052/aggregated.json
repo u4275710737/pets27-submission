@@ -1,0 +1,14 @@
+{
+  "asn": 329052,
+  "metadata": {
+    "handle": "NEDL1",
+    "description": "N. E Diversified Limited",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

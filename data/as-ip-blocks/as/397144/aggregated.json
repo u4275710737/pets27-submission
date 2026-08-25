@@ -1,0 +1,14 @@
+{
+  "asn": 397144,
+  "metadata": {
+    "handle": "F5-XC-SS",
+    "description": "F5, Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

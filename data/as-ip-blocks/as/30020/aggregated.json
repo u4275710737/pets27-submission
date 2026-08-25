@@ -1,0 +1,14 @@
+{
+  "asn": 30020,
+  "metadata": {
+    "handle": "BENFIELD-2003ASN",
+    "description": "BENFIELD HOLDINGS INC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

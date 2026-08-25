@@ -1,0 +1,14 @@
+{
+  "asn": 46062,
+  "metadata": {
+    "handle": "LINTASBUANA-ID",
+    "description": "PT. BUANA LINTAS MEDIA",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

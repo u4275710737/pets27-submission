@@ -1,0 +1,14 @@
+{
+  "asn": 395705,
+  "metadata": {
+    "handle": "CCS-GROUP-LTD",
+    "description": "CCS Group",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

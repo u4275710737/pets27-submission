@@ -1,0 +1,14 @@
+{
+  "asn": 151918,
+  "metadata": {
+    "handle": "VPSPA-VN",
+    "description": "VPS PA Company Limited",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

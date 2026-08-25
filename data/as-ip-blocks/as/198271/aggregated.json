@@ -1,0 +1,14 @@
+{
+  "asn": 198271,
+  "metadata": {
+    "handle": "SMLWNET",
+    "description": "LAITO Sp. Z O. O.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

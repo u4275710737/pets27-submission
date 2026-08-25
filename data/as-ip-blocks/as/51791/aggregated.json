@@ -1,0 +1,16 @@
+{
+  "asn": 51791,
+  "metadata": {
+    "handle": "VENTURES-DC",
+    "description": "Crestu Teknoloji Dijital Hizmetler Limited Sirketi",
+    "countryCode": "TR",
+    "country": "Türkiye",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "access_provider"
+  },
+  "prefixes": {
+    "ipv4": [ "153.56.128.0/23", "153.56.130.0/24" ],
+    "ipv6": [ "2a11:1fc0::/32", "2a11:1fc2::/32" ]
+  }
+}

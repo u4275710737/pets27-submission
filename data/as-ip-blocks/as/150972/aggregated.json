@@ -1,0 +1,14 @@
+{
+  "asn": 150972,
+  "metadata": {
+    "handle": "ABINET-ID",
+    "description": "PT Andal Berjaya Infomedia",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

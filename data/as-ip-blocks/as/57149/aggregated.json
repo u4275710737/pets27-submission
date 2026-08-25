@@ -1,0 +1,14 @@
+{
+  "asn": 57149,
+  "metadata": {
+    "handle": "IT-KGN",
+    "description": "LLC Internet-Technology",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

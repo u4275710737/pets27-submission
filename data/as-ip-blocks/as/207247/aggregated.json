@@ -1,0 +1,14 @@
+{
+  "asn": 207247,
+  "metadata": {
+    "handle": "ZENTURA",
+    "description": "Zentura A/S",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

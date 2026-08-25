@@ -1,0 +1,14 @@
+{
+  "asn": 59531,
+  "metadata": {
+    "handle": "AIRNET",
+    "description": "Meshchaninov Nikolay Nikolaevych",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

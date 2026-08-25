@@ -1,0 +1,14 @@
+{
+  "asn": 57638,
+  "metadata": {
+    "handle": "TARQ",
+    "description": "Tarq Automatisering B.V.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

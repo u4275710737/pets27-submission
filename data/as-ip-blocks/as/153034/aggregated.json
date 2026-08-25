@@ -1,0 +1,16 @@
+{
+  "asn": 153034,
+  "metadata": {
+    "handle": "WANGLIN-AS-AP",
+    "description": "Wang Lin",
+    "countryCode": "CN",
+    "country": "China",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ "2406:840:fdc0::/48", "2406:840:fdc7::/48", "2406:840:fe92::/48" ]
+  }
+}

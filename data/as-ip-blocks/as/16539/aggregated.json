@@ -1,0 +1,14 @@
+{
+  "asn": 16539,
+  "metadata": {
+    "handle": "MERCANTILCB",
+    "description": "Amerant Bank, N.A.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

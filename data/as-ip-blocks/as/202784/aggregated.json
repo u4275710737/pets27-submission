@@ -1,0 +1,14 @@
+{
+  "asn": 202784,
+  "metadata": {
+    "handle": "CROSSCONCEPT-DE",
+    "description": "crossconcept GmbH",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

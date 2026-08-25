@@ -1,0 +1,16 @@
+{
+  "asn": 205845,
+  "metadata": {
+    "handle": "PLANISWARE",
+    "description": "Planisware SA",
+    "countryCode": "FR",
+    "country": "France",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "content_network"
+  },
+  "prefixes": {
+    "ipv4": [ "185.204.120.0/22" ],
+    "ipv6": [ "2a0a:f740::/29" ]
+  }
+}

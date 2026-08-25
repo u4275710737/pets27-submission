@@ -1,0 +1,16 @@
+{
+  "asn": 399501,
+  "metadata": {
+    "handle": "COLPENN",
+    "description": "City Of Lancaster",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "government_admin",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "72.20.212.0/24", "206.225.132.0/24" ],
+    "ipv6": [ ]
+  }
+}

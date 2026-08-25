@@ -1,0 +1,16 @@
+{
+  "asn": 214404,
+  "metadata": {
+    "handle": "CLOUDDUCOEUR",
+    "description": "Les Restaurants du Coeur - Les Relais du Coeur",
+    "countryCode": "FR",
+    "country": "France",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "151.242.68.0/24" ],
+    "ipv6": [ ]
+  }
+}

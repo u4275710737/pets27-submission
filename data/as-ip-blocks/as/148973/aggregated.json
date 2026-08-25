@@ -1,0 +1,14 @@
+{
+  "asn": 148973,
+  "metadata": {
+    "handle": "EPICUPPTELTD-AP",
+    "description": "EpicUp PTE LTD",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

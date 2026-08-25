@@ -1,0 +1,16 @@
+{
+  "asn": 56788,
+  "metadata": {
+    "handle": "SCHLICHTNER2",
+    "description": "In(n) Energie GmbH",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [
+      "185.166.8.0/24"
+    ],
+    "ipv6": []
+  }
+}

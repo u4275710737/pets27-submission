@@ -1,0 +1,16 @@
+{
+  "asn": 154452,
+  "metadata": {
+    "handle": "IDNIC-BST-ID",
+    "description": "PT Berkah Solution Tatawafaqu",
+    "countryCode": "ID",
+    "country": "Indonesia",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "144.79.122.0/24" ],
+    "ipv6": [ ]
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 48736,
+  "metadata": {
+    "handle": "UTI-SYSTEMS-AS",
+    "description": "TRIDENT SERVICII SI MENTENANTA SA",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

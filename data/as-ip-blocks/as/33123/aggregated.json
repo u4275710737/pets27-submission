@@ -1,0 +1,14 @@
+{
+  "asn": 33123,
+  "metadata": {
+    "handle": "INGHAM-COUNTY",
+    "description": "Ingham County",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,4 @@
+# AS328090 (GAB)
+# Gulf African Bank
+#
+196.41.89.0/24

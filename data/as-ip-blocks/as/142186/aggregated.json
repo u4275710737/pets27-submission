@@ -1,0 +1,16 @@
+{
+  "asn": 142186,
+  "metadata": {
+    "handle": "IRINN-WINDTEL1-AS-IN",
+    "description": "Windtel Internet Services Private Limited",
+    "countryCode": "IN",
+    "country": "India",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "192.232.54.0/23" ],
+    "ipv6": [ ]
+  }
+}

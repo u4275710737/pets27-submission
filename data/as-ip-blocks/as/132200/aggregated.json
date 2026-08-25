@@ -1,0 +1,16 @@
+{
+  "asn": 132200,
+  "metadata": {
+    "handle": "EXABYTES-AS-AP",
+    "description": "Exabytes Network (Singapore) Pte. Ltd.",
+    "countryCode": "SG",
+    "country": "Singapore",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "49.50.11.0/24" ],
+    "ipv6": [ ]
+  }
+}

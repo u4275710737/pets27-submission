@@ -1,0 +1,16 @@
+{
+  "asn": 135074,
+  "metadata": {
+    "handle": "DCIPL-AS-AP",
+    "description": "DREAM CLOUD INNOVATION PTE. LTD.",
+    "countryCode": "SG",
+    "country": "Singapore",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "access_provider"
+  },
+  "prefixes": {
+    "ipv4": [ "103.135.208.0/23", "203.168.128.0/23", "203.168.131.0/24" ],
+    "ipv6": [ ]
+  }
+}

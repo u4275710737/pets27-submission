@@ -1,0 +1,14 @@
+{
+  "asn": 36113,
+  "metadata": {
+    "handle": "UTL-42-36113",
+    "description": "Netopia",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

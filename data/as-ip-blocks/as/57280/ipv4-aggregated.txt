@@ -1,0 +1,4 @@
+# AS57280 (IOPS-AS)
+# Lindbak IT AS
+#
+195.10.196.0/24

@@ -1,0 +1,14 @@
+{
+  "asn": 396061,
+  "metadata": {
+    "handle": "ASTREA-LPMI",
+    "description": "Lewiston Communications",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

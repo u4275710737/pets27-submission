@@ -1,0 +1,14 @@
+{
+  "asn": 20400,
+  "metadata": {
+    "handle": "CUDIRECTCORPORATION",
+    "description": "CU Direct Corporation",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 41081,
+  "metadata": {
+    "handle": "WN-AS",
+    "description": "Gorbunov Alexander Anatolyevich",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 150753,
+  "metadata": {
+    "handle": "PIONEER-DC-AP",
+    "description": "Pioneer Services Limited",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

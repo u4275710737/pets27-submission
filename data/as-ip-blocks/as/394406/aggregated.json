@@ -1,0 +1,14 @@
+{
+  "asn": 394406,
+  "metadata": {
+    "handle": "DVD-IPV4-207",
+    "description": "Netflix, Inc",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

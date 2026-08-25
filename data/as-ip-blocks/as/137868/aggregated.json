@@ -1,0 +1,16 @@
+{
+  "asn": 137868,
+  "metadata": {
+    "handle": "SIS-AS-AP",
+    "description": "Star Internet Service",
+    "countryCode": "BD",
+    "country": "Bangladesh",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "access_provider"
+  },
+  "prefixes": {
+    "ipv4": [ "103.115.252.0/22", "103.170.141.0/24", "160.250.9.0/24" ],
+    "ipv6": [ "2402:f1c0::/32" ]
+  }
+}

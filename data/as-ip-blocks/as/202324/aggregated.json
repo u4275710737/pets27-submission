@@ -1,0 +1,16 @@
+{
+  "asn": 202324,
+  "metadata": {
+    "handle": "CASVA",
+    "description": "CASVA SEGURIDAD S.L.",
+    "countryCode": "ES",
+    "country": "Spain",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "91.216.122.0/24" ],
+    "ipv6": [ ]
+  }
+}

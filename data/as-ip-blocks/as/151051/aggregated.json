@@ -1,0 +1,14 @@
+{
+  "asn": 151051,
+  "metadata": {
+    "handle": "CLASSICBROADBAND-AP",
+    "description": "Classic Broadband",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

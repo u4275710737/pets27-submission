@@ -1,0 +1,14 @@
+{
+  "asn": 18884,
+  "metadata": {
+    "handle": "RCLS",
+    "description": "Ramapo Catskill Library System",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

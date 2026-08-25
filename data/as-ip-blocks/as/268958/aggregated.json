@@ -1,0 +1,14 @@
+{
+  "asn": 268958,
+  "metadata": {
+    "handle": "MERCADOMVEIS",
+    "description": "Mercadomveis Ltda",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

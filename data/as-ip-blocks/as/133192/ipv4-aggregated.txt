@@ -1,0 +1,5 @@
+# AS133192 (UBB-AS-AP)
+# Ultimate Mobile limited
+#
+103.255.24.0/22
+163.47.164.0/22

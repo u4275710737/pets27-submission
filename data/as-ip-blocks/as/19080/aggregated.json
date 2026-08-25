@@ -1,0 +1,14 @@
+{
+  "asn": 19080,
+  "metadata": {
+    "handle": "WBS-01",
+    "description": "GTT",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

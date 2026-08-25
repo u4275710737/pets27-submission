@@ -1,0 +1,14 @@
+{
+  "asn": 149352,
+  "metadata": {
+    "handle": "IDNIC-OCBCNISP-ID",
+    "description": "PT Bank OCBC NISP",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 60689,
+  "metadata": {
+    "handle": "ONZU",
+    "description": "Jung von Matt CREATORS GmbH",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

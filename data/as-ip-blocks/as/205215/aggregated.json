@@ -1,0 +1,14 @@
+{
+  "asn": 205215,
+  "metadata": {
+    "handle": "GEN-IP",
+    "description": "SEWAN SAS",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 211877,
+  "metadata": {
+    "handle": "GHOSTEY",
+    "description": "GHOSTEY LTD",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

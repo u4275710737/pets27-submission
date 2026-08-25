@@ -1,0 +1,14 @@
+{
+  "asn": 214911,
+  "metadata": {
+    "handle": "LIHANG-AS",
+    "description": "Li Hang",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

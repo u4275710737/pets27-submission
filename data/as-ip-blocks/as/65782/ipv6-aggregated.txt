@@ -1,0 +1,3 @@
+# AS65782 (MAGYAR-TELEKOM-PLC)
+# Magyar Telekom Plc.
+#

@@ -1,0 +1,14 @@
+{
+  "asn": 215585,
+  "metadata": {
+    "handle": "WIFITURK",
+    "description": "WIFITURK INTERNET VE BILISIM TEKNOLOJILERI TIC.LTD.STI.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

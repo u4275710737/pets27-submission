@@ -1,0 +1,16 @@
+{
+  "asn": 265418,
+  "metadata": {
+    "handle": "MINGO-NET-COMUNICACAO",
+    "description": "MINGO NET COMUNICACAO LTDA ME",
+    "countryCode": "BR",
+    "country": "Brazil",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "168.195.8.0/22" ],
+    "ipv6": [ ]
+  }
+}

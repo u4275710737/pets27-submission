@@ -1,0 +1,16 @@
+{
+  "asn": 215666,
+  "metadata": {
+    "handle": "MINIWEST",
+    "description": "Nicklas Haken",
+    "countryCode": "DE",
+    "country": "Germany",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "5.175.209.0/24" ],
+    "ipv6": [ "2a14:1ec1:7b10::/44", "2a14:7581:9e00::/40", "2a14:7583:ee00::/40", "2a14:7585:c000::/36" ]
+  }
+}

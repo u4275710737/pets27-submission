@@ -1,0 +1,14 @@
+{
+  "asn": 399739,
+  "metadata": {
+    "handle": "BROADEN-WIRELESS-1",
+    "description": "Broaden Wireless Inc",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

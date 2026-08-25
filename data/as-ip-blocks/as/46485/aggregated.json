@@ -1,0 +1,14 @@
+{
+  "asn": 46485,
+  "metadata": {
+    "handle": "BGIM",
+    "description": "Brandywine Global Investments",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

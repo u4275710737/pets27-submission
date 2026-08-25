@@ -1,0 +1,14 @@
+{
+  "asn": 29486,
+  "metadata": {
+    "handle": "WEBHUSET-AS",
+    "description": "Webhuset AS",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

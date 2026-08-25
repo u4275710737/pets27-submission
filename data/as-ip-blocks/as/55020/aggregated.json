@@ -1,0 +1,14 @@
+{
+  "asn": 55020,
+  "metadata": {
+    "handle": "MATICVENTURES",
+    "description": "MaticVentures",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,4 @@
+# AS207744 (MEGALINK-AS)
+# Primak Evgenii Aleksandrovich
+#
+188.190.192.0/19

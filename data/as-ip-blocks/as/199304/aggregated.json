@@ -1,0 +1,16 @@
+{
+  "asn": 199304,
+  "metadata": {
+    "handle": "MIG-AS",
+    "description": "Mikaia Iraklii Guramovich",
+    "countryCode": "RU",
+    "country": "Russia",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "186.246.33.0/24" ],
+    "ipv6": [ ]
+  }
+}

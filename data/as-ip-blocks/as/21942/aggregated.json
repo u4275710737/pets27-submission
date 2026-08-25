@@ -1,0 +1,16 @@
+{
+  "asn": 21942,
+  "metadata": {
+    "handle": "ON-SEMICONDUCTOR-INC",
+    "description": "ON Semiconductor AS",
+    "countryCode": "SK",
+    "country": "Slovakia",
+    "origin": "overlaid",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "91.199.164.0/24" ],
+    "ipv6": [ ]
+  }
+}

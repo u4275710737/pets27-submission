@@ -1,0 +1,16 @@
+{
+  "asn": 37073,
+  "metadata": {
+    "handle": "CONNECTEO-BURKINA-AS",
+    "description": "Connecteo Burkina Faso",
+    "countryCode": "BF",
+    "country": "Burkina Faso",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "41.216.144.0/20" ],
+    "ipv6": [ "2c0f:5a40::/32" ]
+  }
+}

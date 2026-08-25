@@ -1,0 +1,14 @@
+{
+  "asn": 34804,
+  "metadata": {
+    "handle": "EUROTELECOM",
+    "description": "LLC POWERNET",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

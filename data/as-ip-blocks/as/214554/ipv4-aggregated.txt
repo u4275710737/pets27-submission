@@ -1,0 +1,5 @@
+# AS214554 (MGMMCI)
+# mgm technology partners GmbH
+#
+62.169.144.0/22
+194.55.86.0/24

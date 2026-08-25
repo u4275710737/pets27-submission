@@ -1,0 +1,16 @@
+{
+  "asn": 62143,
+  "metadata": {
+    "handle": "DVRC-AS",
+    "description": "FSUE RTRN",
+    "countryCode": "RU",
+    "country": "Russia",
+    "origin": "authoritative",
+    "category": "government_admin",
+    "networkRole": "access_provider"
+  },
+  "prefixes": {
+    "ipv4": [ "80.64.28.0/24" ],
+    "ipv6": [ ]
+  }
+}

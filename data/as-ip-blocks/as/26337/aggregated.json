@@ -1,0 +1,16 @@
+{
+  "asn": 26337,
+  "metadata": {
+    "handle": "OIS1",
+    "description": "Oso Grande IP Services LLC",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "access_provider"
+  },
+  "prefixes": {
+    "ipv4": [ "108.174.148.0/24", "143.95.209.0/24", "143.95.212.0/23", "162.215.243.0/24", "192.185.30.0/24", "207.174.213.0/24" ],
+    "ipv6": [ ]
+  }
+}

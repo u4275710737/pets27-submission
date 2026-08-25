@@ -1,0 +1,16 @@
+{
+  "asn": 204810,
+  "metadata": {
+    "handle": "SERENAE",
+    "description": "SERENAE SERVICIOS AVANZADOS SL",
+    "countryCode": "ES",
+    "country": "Spain",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "185.239.59.0/24" ],
+    "ipv6": [ "2a0c:4b80:4000::/34" ]
+  }
+}

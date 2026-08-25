@@ -1,0 +1,4 @@
+# AS24863 (LINKDOTNET-AS)
+# LINKdotNET AS number
+#
+2c0e::/20

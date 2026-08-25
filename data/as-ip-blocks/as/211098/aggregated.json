@@ -1,0 +1,14 @@
+{
+  "asn": 211098,
+  "metadata": {
+    "handle": "INFOGIS",
+    "description": "INFOGIS SH.P.K.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

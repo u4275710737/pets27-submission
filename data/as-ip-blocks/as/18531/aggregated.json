@@ -1,0 +1,14 @@
+{
+  "asn": 18531,
+  "metadata": {
+    "handle": "WISPER-WIFIM",
+    "description": "Wisper ISP LLC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

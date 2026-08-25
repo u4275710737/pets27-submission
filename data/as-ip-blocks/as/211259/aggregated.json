@@ -1,0 +1,16 @@
+{
+  "asn": 211259,
+  "metadata": {
+    "handle": "MIZTEC",
+    "description": "MBBLC NETWORKS LDA",
+    "countryCode": "PT",
+    "country": "Portugal",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "45.92.68.0/23" ],
+    "ipv6": [ ]
+  }
+}

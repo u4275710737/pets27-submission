@@ -1,0 +1,14 @@
+{
+  "asn": 204721,
+  "metadata": {
+    "handle": "SKBYTE-FQC",
+    "description": "SHOU KEN LTD",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

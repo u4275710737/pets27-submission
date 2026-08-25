@@ -1,0 +1,14 @@
+{
+  "asn": 269880,
+  "metadata": {
+    "handle": "HONDURAS-INTERNET",
+    "description": "Honduras Internet, S.A.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

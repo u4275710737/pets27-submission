@@ -1,0 +1,14 @@
+{
+  "asn": 40319,
+  "metadata": {
+    "handle": "THOMSON-REUTERS",
+    "description": "Thomson Reuters U.S. LLC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

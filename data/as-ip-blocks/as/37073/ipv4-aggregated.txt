@@ -1,0 +1,4 @@
+# AS37073 (CONNECTEO-BURKINA-AS)
+# Connecteo Burkina Faso
+#
+41.216.144.0/20

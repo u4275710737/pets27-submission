@@ -1,0 +1,14 @@
+{
+  "asn": 150486,
+  "metadata": {
+    "handle": "IDNIC-NAFA-ID",
+    "description": "PT Nafa Solusi Persada",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

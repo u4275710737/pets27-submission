@@ -1,0 +1,16 @@
+{
+  "asn": 208474,
+  "metadata": {
+    "handle": "EMCHOMEOFDATA",
+    "description": "EMC Home of Data GmbH",
+    "countryCode": "DE",
+    "country": "Germany",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "45.134.204.0/22" ],
+    "ipv6": [ ]
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 202893,
+  "metadata": {
+    "handle": "LIGHTING-INTERNET",
+    "description": "Signify Holding B.V.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

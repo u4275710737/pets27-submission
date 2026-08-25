@@ -1,0 +1,14 @@
+{
+  "asn": 152495,
+  "metadata": {
+    "handle": "EXTRANET-IN",
+    "description": "EEXTRANET INTERNET PRIVATE LIMITED",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

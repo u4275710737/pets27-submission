@@ -1,0 +1,16 @@
+{
+  "asn": 270805,
+  "metadata": {
+    "handle": "AJF-TELECOM",
+    "description": "IPVDATA TECNOLOGIA E COMPUTACAO EM NUVEM LTDA",
+    "countryCode": "BR",
+    "country": "Brazil",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "200.219.9.0/24", "200.219.10.0/23" ],
+    "ipv6": [ "2804:71b0::/33" ]
+  }
+}

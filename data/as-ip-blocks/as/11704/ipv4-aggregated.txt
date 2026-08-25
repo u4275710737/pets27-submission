@@ -1,0 +1,5 @@
+# AS11704 (VTCI)
+# Valley Telephone Cooperative Inc.
+#
+23.147.180.0/24
+161.13.192.0/18

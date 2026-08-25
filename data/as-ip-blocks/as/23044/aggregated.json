@@ -1,0 +1,14 @@
+{
+  "asn": 23044,
+  "metadata": {
+    "handle": "VMOBILE-CORP",
+    "description": "T-Mobile USA Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

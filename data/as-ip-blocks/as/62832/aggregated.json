@@ -1,0 +1,16 @@
+{
+  "asn": 62832,
+  "metadata": {
+    "handle": "AS-FASTMATCH",
+    "description": "FastMatch AS",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "169.33.100.0/24" ],
+    "ipv6": [ ]
+  }
+}

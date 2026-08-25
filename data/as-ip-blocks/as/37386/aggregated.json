@@ -1,0 +1,14 @@
+{
+  "asn": 37386,
+  "metadata": {
+    "handle": "UIXP",
+    "description": "Uganda Internet eXchange Point",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "asn": 135965,
+  "metadata": {
+    "handle": "VNPT-NET-AS-VN",
+    "description": "VNPT Net Corporation - VNPT Group",
+    "countryCode": "VN",
+    "country": "Vietnam",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "103.136.228.0/23" ],
+    "ipv6": [ ]
+  }
+}

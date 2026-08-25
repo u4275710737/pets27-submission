@@ -1,0 +1,4 @@
+# AS208166 (SHOPIMIND)
+# ShopyMind SAS
+#
+45.11.254.0/23

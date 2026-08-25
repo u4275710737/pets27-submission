@@ -1,0 +1,4 @@
+# AS44847 (NOVATEK-NTC-AS)
+# Russian company LLC
+#
+91.203.37.0/24

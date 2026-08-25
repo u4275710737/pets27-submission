@@ -1,0 +1,14 @@
+{
+  "asn": 40196,
+  "metadata": {
+    "handle": "WILLISNORTHAMERICA",
+    "description": "Willis North America Inc",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

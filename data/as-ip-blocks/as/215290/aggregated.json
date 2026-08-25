@@ -1,0 +1,16 @@
+{
+  "asn": 215290,
+  "metadata": {
+    "handle": "BEA-AS",
+    "description": "Bezhin Evgenii Alekseevich",
+    "countryCode": "RU",
+    "country": "Russia",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ "2a0d:ad44::/32", "2a11:b4c0::/31", "2a11:e2c1::/32", "2a11:e2c6::/32", "2a12:2805::/32" ]
+  }
+}

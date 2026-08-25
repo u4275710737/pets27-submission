@@ -1,0 +1,14 @@
+{
+  "asn": 26600,
+  "metadata": {
+    "handle": "MI-WEBWORKS-SA",
+    "description": "Monroe-Woodbury Central School District",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

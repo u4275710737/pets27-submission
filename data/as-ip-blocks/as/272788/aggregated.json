@@ -1,0 +1,16 @@
+{
+  "asn": 272788,
+  "metadata": {
+    "handle": "ENZO-NET",
+    "description": "Enzo Net",
+    "countryCode": "BR",
+    "country": "Brazil",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "access_provider"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ "2804:88b4::/32" ]
+  }
+}

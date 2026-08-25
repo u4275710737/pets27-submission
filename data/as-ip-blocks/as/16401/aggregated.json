@@ -1,0 +1,14 @@
+{
+  "asn": 16401,
+  "metadata": {
+    "handle": "ASCENSION-ININD",
+    "description": "Ascension Technologies",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

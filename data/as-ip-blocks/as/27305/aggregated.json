@@ -1,0 +1,14 @@
+{
+  "asn": 27305,
+  "metadata": {
+    "handle": "IAVI",
+    "description": "International AIDS Vaccine Initiative",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

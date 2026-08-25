@@ -1,0 +1,14 @@
+{
+  "asn": 45300,
+  "metadata": {
+    "handle": "AJN-ID",
+    "description": "PT AJN Solusindo",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 1040,
+  "metadata": {
+    "handle": "ACI-INFRA",
+    "description": "Academy City Internet LLC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

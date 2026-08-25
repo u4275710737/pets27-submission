@@ -1,0 +1,16 @@
+{
+  "asn": 33802,
+  "metadata": {
+    "handle": "SAFECHARGE-AS",
+    "description": "Nuvei Consulting Services (Israel) Ltd.",
+    "countryCode": "IL",
+    "country": "Israel",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "87.120.10.0/24", "194.247.166.0/23", "195.28.166.0/23" ],
+    "ipv6": [ ]
+  }
+}

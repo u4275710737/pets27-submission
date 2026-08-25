@@ -1,0 +1,14 @@
+{
+  "asn": 59010,
+  "metadata": {
+    "handle": "UFNET",
+    "description": "UnionFriend Network information service Co.,LTD",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

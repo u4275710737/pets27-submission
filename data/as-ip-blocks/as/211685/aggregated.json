@@ -1,0 +1,14 @@
+{
+  "asn": 211685,
+  "metadata": {
+    "handle": "GUILTYSPARK",
+    "description": "Kim-Eirik Karlsen",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

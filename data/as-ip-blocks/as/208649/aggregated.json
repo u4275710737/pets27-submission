@@ -1,0 +1,14 @@
+{
+  "asn": 208649,
+  "metadata": {
+    "handle": "VM-CLOUD",
+    "description": "Denis Dmitrievich Galyamin",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

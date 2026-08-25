@@ -1,0 +1,4 @@
+# AS22131 (RFN-FIBER)
+# Reach Fiber Network LLC
+#
+192.31.47.0/24

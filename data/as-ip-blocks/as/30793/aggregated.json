@@ -1,0 +1,14 @@
+{
+  "asn": 30793,
+  "metadata": {
+    "handle": "NETIA-PL",
+    "description": "Netia SA",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,5 @@
+# AS149661 (IDNIC-PMS-AS-ID)
+# PT Pricom Media Solusi
+#
+103.184.167.0/24
+163.227.177.0/24

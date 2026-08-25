@@ -1,0 +1,14 @@
+{
+  "asn": 14856,
+  "metadata": {
+    "handle": "VUDU",
+    "description": "VUDU, Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

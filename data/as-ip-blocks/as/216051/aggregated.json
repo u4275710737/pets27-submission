@@ -1,0 +1,14 @@
+{
+  "asn": 216051,
+  "metadata": {
+    "handle": "GNGGSRO",
+    "description": "G&G Global Tech S.r.o.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

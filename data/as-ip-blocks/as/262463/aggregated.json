@@ -1,0 +1,16 @@
+{
+  "asn": 262463,
+  "metadata": {
+    "handle": "TELECOM-CORDEIROPOLIS",
+    "description": "TELECOM CORDEIROPOLIS LTDA - ME",
+    "countryCode": "BR",
+    "country": "Brazil",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "45.169.68.0/22", "177.53.80.0/21", "186.249.24.0/21" ],
+    "ipv6": [ "2804:f1c::/32" ]
+  }
+}

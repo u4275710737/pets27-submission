@@ -1,0 +1,16 @@
+{
+  "asn": 6435,
+  "metadata": {
+    "handle": "TRI-NET-SOLUTIONS",
+    "description": "Tri-Net Solutions LLC.",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "199.15.92.0/22" ],
+    "ipv6": [ ]
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 35589,
+  "metadata": {
+    "handle": "NIANET-L3-CUST",
+    "description": "GlobalConnect A/S",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 207669,
+  "metadata": {
+    "handle": "TKS-IT",
+    "description": "TKS Tele Kommunikation und Service S.R.L",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

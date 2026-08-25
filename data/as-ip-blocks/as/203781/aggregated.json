@@ -1,0 +1,14 @@
+{
+  "asn": 203781,
+  "metadata": {
+    "handle": "ZENIT",
+    "description": "TRK ZENIT LLC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

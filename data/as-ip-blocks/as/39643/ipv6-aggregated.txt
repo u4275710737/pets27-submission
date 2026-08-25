@@ -1,0 +1,5 @@
+# AS39643 (SVENLJUNGA-AS)
+# Svenljunga kommun
+#
+2001:678:fac::/48
+2001:67c:2aa0::/48

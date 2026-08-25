@@ -1,0 +1,16 @@
+{
+  "asn": 328873,
+  "metadata": {
+    "handle": "NATIONALASSEMBLYABUJA",
+    "description": "National Assembly Abuja",
+    "countryCode": "NG",
+    "country": "Nigeria",
+    "origin": "authoritative",
+    "category": "government_admin",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ ]
+  }
+}

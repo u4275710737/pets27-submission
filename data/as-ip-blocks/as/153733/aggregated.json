@@ -1,0 +1,16 @@
+{
+  "asn": 153733,
+  "metadata": {
+    "handle": "IRINN-VANSIBRO-AS-IN",
+    "description": "VANSI BROADBAND PVT LTD",
+    "countryCode": "IN",
+    "country": "India",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ ]
+  }
+}

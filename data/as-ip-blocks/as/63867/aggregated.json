@@ -1,0 +1,14 @@
+{
+  "asn": 63867,
+  "metadata": {
+    "handle": "IDNIC-DESIBLE-AS-ID",
+    "description": "PT Tirta Karya Buana",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

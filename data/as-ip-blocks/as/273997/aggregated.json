@@ -1,0 +1,16 @@
+{
+  "asn": 273997,
+  "metadata": {
+    "handle": "V2NETWORKS-SPA",
+    "description": "V2NETWORKS SPA",
+    "countryCode": "CL",
+    "country": "Chile",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "216.185.51.0/24" ],
+    "ipv6": [ ]
+  }
+}

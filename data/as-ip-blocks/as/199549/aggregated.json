@@ -1,0 +1,14 @@
+{
+  "asn": 199549,
+  "metadata": {
+    "handle": "VILS",
+    "description": "108 TELECOM LLC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,4 @@
+# AS265443 (AS-HUAWEI-SA)
+# Huawei do Brasil Telecomunicações Ltda.
+#
+168.195.92.0/23

@@ -1,0 +1,14 @@
+{
+  "asn": 792,
+  "metadata": {
+    "handle": "ORACLE-ASNBLOCK-ASN",
+    "description": "Oracle Corporation",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

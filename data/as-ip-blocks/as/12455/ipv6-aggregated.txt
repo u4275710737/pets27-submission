@@ -1,0 +1,4 @@
+# AS12455 (JAMBONET)
+# Jambonet Autonomous System
+#
+2c0f:fb60::/32

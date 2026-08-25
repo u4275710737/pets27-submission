@@ -1,0 +1,14 @@
+{
+  "asn": 197508,
+  "metadata": {
+    "handle": "SAMATEL-AS",
+    "description": "INTEGRATED TELECOMMUNICATIONS OMAN CJSC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

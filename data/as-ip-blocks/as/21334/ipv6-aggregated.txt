@@ -1,0 +1,6 @@
+# AS21334 (ASN-ONE-HU)
+# One Hungary Ltd.
+#
+2a01:870::/32
+2a01:8f8::/32
+2a02:ab80::/28

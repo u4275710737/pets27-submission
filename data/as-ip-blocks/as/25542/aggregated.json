@@ -1,0 +1,14 @@
+{
+  "asn": 25542,
+  "metadata": {
+    "handle": "DENIT",
+    "description": "Denit B.V.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

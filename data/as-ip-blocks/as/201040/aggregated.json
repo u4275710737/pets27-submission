@@ -1,0 +1,16 @@
+{
+  "asn": 201040,
+  "metadata": {
+    "handle": "ILIONA",
+    "description": "Iliona SARL",
+    "countryCode": "FR",
+    "country": "France",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "193.93.253.0/24", "193.93.255.0/24" ],
+    "ipv6": [ ]
+  }
+}

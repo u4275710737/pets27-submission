@@ -1,0 +1,14 @@
+{
+  "asn": 46531,
+  "metadata": {
+    "handle": "EXCORESO",
+    "description": "Exco Resources, Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

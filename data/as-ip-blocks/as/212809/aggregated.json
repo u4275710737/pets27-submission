@@ -1,0 +1,16 @@
+{
+  "asn": 212809,
+  "metadata": {
+    "handle": "SEVENGRID",
+    "description": "7Grid Solutions L.L.C S.O.C",
+    "countryCode": "AE",
+    "country": "United Arab Emirates",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "94.20.186.0/24" ],
+    "ipv6": [ ]
+  }
+}

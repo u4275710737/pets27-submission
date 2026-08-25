@@ -1,0 +1,14 @@
+{
+  "asn": 131757,
+  "metadata": {
+    "handle": "IDNIC-CYBERK-AS-ID",
+    "description": "Koperasi PRIMKOKAS",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 18534,
+  "metadata": {
+    "handle": "FIBER-CA",
+    "description": "BH Telecom Corp.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

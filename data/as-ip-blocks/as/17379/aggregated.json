@@ -1,0 +1,14 @@
+{
+  "asn": 17379,
+  "metadata": {
+    "handle": "TIM",
+    "description": "TIM S.A.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

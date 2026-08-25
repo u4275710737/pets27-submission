@@ -1,0 +1,14 @@
+{
+  "asn": 212058,
+  "metadata": {
+    "handle": "BILGI",
+    "description": "Istanbul Bilgi University",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

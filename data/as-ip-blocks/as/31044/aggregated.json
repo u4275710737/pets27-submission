@@ -1,0 +1,14 @@
+{
+  "asn": 31044,
+  "metadata": {
+    "handle": "NICUA-AS",
+    "description": "TOV DERGACHI.NET",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

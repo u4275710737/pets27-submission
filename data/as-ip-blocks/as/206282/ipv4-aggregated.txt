@@ -1,0 +1,4 @@
+# AS206282 (NMEDIA-AS)
+# Lukasz Krzesinski
+#
+94.240.24.0/24

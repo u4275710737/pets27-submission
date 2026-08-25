@@ -1,0 +1,14 @@
+{
+  "asn": 136405,
+  "metadata": {
+    "handle": "VIRTUSTREAM-AP",
+    "description": "Virtustream Cloud Services Australia Pty Limited",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

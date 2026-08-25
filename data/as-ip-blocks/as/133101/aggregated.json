@@ -1,0 +1,14 @@
+{
+  "asn": 133101,
+  "metadata": {
+    "handle": "POWERWIRELESSLTD-AS-AP",
+    "description": "Power Wireless Ltd",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

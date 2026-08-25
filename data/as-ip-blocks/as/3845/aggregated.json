@@ -1,0 +1,14 @@
+{
+  "asn": 3845,
+  "metadata": {
+    "handle": "STATE-NET",
+    "description": "CS&W, Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

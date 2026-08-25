@@ -1,0 +1,16 @@
+{
+  "asn": 153171,
+  "metadata": {
+    "handle": "HANJIAJUN-AS-AP",
+    "description": "Han Jiajun",
+    "countryCode": "CN",
+    "country": "China",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ "2406:840:fd70::/48", "2406:840:fd76::/47", "2406:840:fd78::/48", "2406:840:fe99::/48" ]
+  }
+}

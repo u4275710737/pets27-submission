@@ -1,0 +1,16 @@
+{
+  "asn": 200570,
+  "metadata": {
+    "handle": "KID-MAGDEBURG",
+    "description": "Kommunale Informationsdienste Magdeburg GmbH",
+    "countryCode": "DE",
+    "country": "Germany",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "195.138.41.0/24" ],
+    "ipv6": [ ]
+  }
+}

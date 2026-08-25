@@ -1,0 +1,14 @@
+{
+  "asn": 206711,
+  "metadata": {
+    "handle": "DPIT",
+    "description": "ECIT SOLUTIONS AS",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

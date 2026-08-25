@@ -1,0 +1,5 @@
+# AS33632 (MSU-EAGLE)
+# Morehead State University
+#
+147.133.0.0/16
+192.76.116.0/24

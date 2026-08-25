@@ -1,0 +1,3 @@
+# AS24689 (ROSINTEL-AS)
+# JSC Rosin.telekom
+#

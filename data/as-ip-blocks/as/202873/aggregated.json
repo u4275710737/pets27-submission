@@ -1,0 +1,16 @@
+{
+  "asn": 202873,
+  "metadata": {
+    "handle": "AS",
+    "description": "Ibragimkhalil Nasrutdinov PE",
+    "countryCode": "RU",
+    "country": "Russia",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ ]
+  }
+}

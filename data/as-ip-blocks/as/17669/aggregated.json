@@ -1,0 +1,14 @@
+{
+  "asn": 17669,
+  "metadata": {
+    "handle": "AC3-AP",
+    "description": "AUSTRALIAN CENTRE FOR ADVANCED COMPUTING AND COMMUNICATION PTY LTD",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

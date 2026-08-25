@@ -1,0 +1,14 @@
+{
+  "asn": 151098,
+  "metadata": {
+    "handle": "MADESH26-IN",
+    "description": "SIGMA TELCO SYSTEMS",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

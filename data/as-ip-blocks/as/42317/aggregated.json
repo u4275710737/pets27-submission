@@ -1,0 +1,14 @@
+{
+  "asn": 42317,
+  "metadata": {
+    "handle": "CHANT",
+    "description": "VLANT LLC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 133674,
+  "metadata": {
+    "handle": "ADARSH-INFOSOLUTIONS-AS",
+    "description": "Adarsh Infosolutions",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 23330,
+  "metadata": {
+    "handle": "OMEGA-ADVISORS",
+    "description": "Omega Advisors, Inc",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

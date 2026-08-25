@@ -1,0 +1,14 @@
+{
+  "asn": 54543,
+  "metadata": {
+    "handle": "EPICUP-COM",
+    "description": "EpicUp Holdings Inc",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 47598,
+  "metadata": {
+    "handle": "KHTEL",
+    "description": "PE Khersontelecom",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

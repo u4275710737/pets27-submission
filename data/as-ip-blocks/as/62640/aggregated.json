@@ -1,0 +1,14 @@
+{
+  "asn": 62640,
+  "metadata": {
+    "handle": "ERC-SIN",
+    "description": "THE GLENWOOD TELEPHONE MEMBERSHIP CORPORATION",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

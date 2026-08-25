@@ -1,0 +1,14 @@
+{
+  "asn": 63088,
+  "metadata": {
+    "handle": "HVGECAS",
+    "description": "Hitachi Vantara Corporation",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

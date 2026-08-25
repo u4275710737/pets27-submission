@@ -1,0 +1,14 @@
+{
+  "asn": 131832,
+  "metadata": {
+    "handle": "HDI-AS",
+    "description": "HD HYUNDAI INFRACORE CO. LTD.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

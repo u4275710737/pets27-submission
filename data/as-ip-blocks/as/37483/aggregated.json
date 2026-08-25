@@ -1,0 +1,14 @@
+{
+  "asn": 37483,
+  "metadata": {
+    "handle": "CONGO-CHINE",
+    "description": "ORANGE RDC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

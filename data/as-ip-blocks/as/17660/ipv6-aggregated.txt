@@ -1,0 +1,4 @@
+# AS17660 (BT-BHUTAN)
+# Divinetworks for BT
+#
+2405:d000::/32

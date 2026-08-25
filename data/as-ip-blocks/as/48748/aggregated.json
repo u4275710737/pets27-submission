@@ -1,0 +1,16 @@
+{
+  "asn": 48748,
+  "metadata": {
+    "handle": "MY-HOME-AS",
+    "description": "Modern Telecommunications Network LTD.",
+    "countryCode": "UA",
+    "country": "Ukraine",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "91.214.132.0/22", "193.107.132.0/23", "193.107.134.0/24", "195.88.26.0/23" ],
+    "ipv6": [ ]
+  }
+}

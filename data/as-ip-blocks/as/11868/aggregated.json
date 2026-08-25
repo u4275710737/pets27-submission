@@ -1,0 +1,14 @@
+{
+  "asn": 11868,
+  "metadata": {
+    "handle": "SITA",
+    "description": "SITA Switzerland Sarl",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

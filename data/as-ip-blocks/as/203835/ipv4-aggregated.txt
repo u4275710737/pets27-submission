@@ -1,0 +1,5 @@
+# AS203835 (SAMBATEL)
+# Sambatel Consulting SL
+#
+103.215.98.0/23
+185.254.160.0/22

@@ -1,0 +1,14 @@
+{
+  "asn": 151008,
+  "metadata": {
+    "handle": "IDNIC-ONOTEKNOLOGIINDONESIA-ID",
+    "description": "PT Ono Teknologi Indonesia",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

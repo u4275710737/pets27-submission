@@ -1,0 +1,16 @@
+{
+  "asn": 131630,
+  "metadata": {
+    "handle": "LAZCO",
+    "description": "Lazco Corporation",
+    "countryCode": "TW",
+    "country": "Taiwan",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "151.158.224.0/23", "160.30.99.0/24", "162.4.236.0/23" ],
+    "ipv6": [ "2402:4f20::/32", "2402:6420::/32", "2a0f:85c1:390::/48" ]
+  }
+}

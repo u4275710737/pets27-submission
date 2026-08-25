@@ -1,0 +1,4 @@
+# AS58073 (YISP-AS)
+# NovoServe B.V.
+#
+2a02:2a38::/32

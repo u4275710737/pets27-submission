@@ -1,0 +1,14 @@
+{
+  "asn": 395149,
+  "metadata": {
+    "handle": "TUIUNIVS",
+    "description": "Trident University International",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

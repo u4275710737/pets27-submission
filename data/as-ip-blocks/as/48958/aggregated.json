@@ -1,0 +1,16 @@
+{
+  "asn": 48958,
+  "metadata": {
+    "handle": "PRSZ-AS",
+    "description": "Grupo Baladig SL",
+    "countryCode": "ES",
+    "country": "Spain",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "185.125.76.0/23", "185.125.79.0/24", "185.159.40.0/22", "195.8.48.0/24" ],
+    "ipv6": [ ]
+  }
+}

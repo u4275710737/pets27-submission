@@ -1,0 +1,14 @@
+{
+  "asn": 3246,
+  "metadata": {
+    "handle": "TDCSONG",
+    "description": "Tele2 Sverige AB",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

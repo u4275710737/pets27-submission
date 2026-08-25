@@ -1,0 +1,14 @@
+{
+  "asn": 24306,
+  "metadata": {
+    "handle": "SKYBB-AS-AP",
+    "description": "SKYBroadband SKYCable Corporation",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

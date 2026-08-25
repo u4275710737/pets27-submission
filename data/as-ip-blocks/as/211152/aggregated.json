@@ -1,0 +1,14 @@
+{
+  "asn": 211152,
+  "metadata": {
+    "handle": "DEVDATA-SRL",
+    "description": "DEVDATA SRL",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

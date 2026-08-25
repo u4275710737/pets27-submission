@@ -1,0 +1,16 @@
+{
+  "asn": 329274,
+  "metadata": {
+    "handle": "MOOVAFRICACENTRAFRIQUE",
+    "description": "Atlantique TELECOM CAR",
+    "countryCode": "CF",
+    "country": "Central African Republic",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ ]
+  }
+}

@@ -1,0 +1,6 @@
+# AS151388 (SE-JIKKEN-AS)
+# SoftEther Corporation (SE-JIKKEN-AS)
+#
+202.222.7.0/24
+210.171.66.0/23
+219.100.39.0/24

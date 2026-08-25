@@ -1,0 +1,14 @@
+{
+  "asn": 269773,
+  "metadata": {
+    "handle": "OROCOM",
+    "description": "OROCOM S.A.C.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

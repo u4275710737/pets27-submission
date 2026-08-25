@@ -1,0 +1,14 @@
+{
+  "asn": 55972,
+  "metadata": {
+    "handle": "SAWASNET",
+    "description": "Beijing Sawas Technology Co.LTD.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

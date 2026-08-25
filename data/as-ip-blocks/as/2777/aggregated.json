@@ -1,0 +1,16 @@
+{
+  "asn": 2777,
+  "metadata": {
+    "handle": "TGI",
+    "description": "Deutsche Telekom AG",
+    "countryCode": "DE",
+    "country": "Germany",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "164.18.96.0/21" ],
+    "ipv6": [ "2a07:b982:c000::/48" ]
+  }
+}

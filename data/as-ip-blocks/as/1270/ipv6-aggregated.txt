@@ -1,0 +1,4 @@
+# AS1270 (UUNET-DE)
+# Verizon Deutschland GmbH
+#
+2a02:2ad0:502::/48

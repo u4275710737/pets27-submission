@@ -1,0 +1,14 @@
+{
+  "asn": 138554,
+  "metadata": {
+    "handle": "IDNIC-BUANAMEDIA-ID",
+    "description": "CV BUANA TRANS MEDIA",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

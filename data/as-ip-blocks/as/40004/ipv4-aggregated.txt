@@ -1,0 +1,4 @@
+# AS40004 (MOMENTAPHARMA)
+# Momenta Pharmaceuticals
+#
+223.254.128.0/19

@@ -1,0 +1,4 @@
+# AS7610 (NUS-GP-AS-AP)
+# National University of Singapore
+#
+2402:400::/32

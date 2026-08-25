@@ -1,0 +1,14 @@
+{
+  "asn": 7007,
+  "metadata": {
+    "handle": "PDP",
+    "description": "Predicted Paths BV",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

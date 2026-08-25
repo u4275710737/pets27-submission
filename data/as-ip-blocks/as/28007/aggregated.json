@@ -1,0 +1,14 @@
+{
+  "asn": 28007,
+  "metadata": {
+    "handle": "GOLD-DATA-CA",
+    "description": "Gold Data C.A.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

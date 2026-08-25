@@ -1,0 +1,16 @@
+{
+  "asn": 134171,
+  "metadata": {
+    "handle": "NEWBUYINC-AS-AP",
+    "description": "Newbuy Inc.",
+    "countryCode": "PH",
+    "country": "Philippines",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "103.72.232.0/24" ],
+    "ipv6": [ ]
+  }
+}

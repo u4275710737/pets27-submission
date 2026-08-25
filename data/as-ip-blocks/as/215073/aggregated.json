@@ -1,0 +1,14 @@
+{
+  "asn": 215073,
+  "metadata": {
+    "handle": "AS215073",
+    "description": "Erhan Yigit Er trading as IP ve Yazilim Hizmetleri",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

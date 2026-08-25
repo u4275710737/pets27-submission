@@ -1,0 +1,14 @@
+{
+  "asn": 30510,
+  "metadata": {
+    "handle": "ATOS-PISCATAWAY",
+    "description": "Atos IT Solutions and Services Inc",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 17900,
+  "metadata": {
+    "handle": "THINKTECH-AP",
+    "description": "AAPT Limited",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

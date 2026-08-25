@@ -1,0 +1,16 @@
+{
+  "asn": 21904,
+  "metadata": {
+    "handle": "POWER1COM",
+    "description": "PowerOne",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "68.64.105.0/24", "68.64.106.0/24", "204.15.136.0/22", "208.82.26.0/24" ],
+    "ipv6": [ ]
+  }
+}

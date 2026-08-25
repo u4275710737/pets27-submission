@@ -1,0 +1,16 @@
+{
+  "asn": 201902,
+  "metadata": {
+    "handle": "BICOM",
+    "description": "Bicom Systems Limited",
+    "countryCode": "GB",
+    "country": "United Kingdom",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "access_provider"
+  },
+  "prefixes": {
+    "ipv4": [ "5.182.10.0/23", "45.141.164.0/22", "185.59.92.0/22" ],
+    "ipv6": [ "2a02:6a20::/48", "2a02:6a20:10::/48" ]
+  }
+}

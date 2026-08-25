@@ -1,0 +1,14 @@
+{
+  "asn": 64075,
+  "metadata": {
+    "handle": "ALIF-TECHNOLOGIES",
+    "description": "MSL TechBD Limited",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

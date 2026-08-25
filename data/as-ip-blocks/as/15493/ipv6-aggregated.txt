@@ -1,0 +1,6 @@
+# AS15493 (RUSCOMP-AS)
+# Russian company LLC
+#
+2a02:dc00:1::/48
+2a02:dc00:2::/48
+2a02:dc00:100::/48

@@ -1,0 +1,14 @@
+{
+  "asn": 135637,
+  "metadata": {
+    "handle": "PROFESSIONALS-AS-AP",
+    "description": "Professionals' Systems",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

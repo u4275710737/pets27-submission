@@ -1,0 +1,16 @@
+{
+  "asn": 37112,
+  "metadata": {
+    "handle": "DARCAIROAS",
+    "description": "Dar Al-Handasah",
+    "countryCode": "EG",
+    "country": "Egypt",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "163.121.166.0/24", "185.133.17.0/24", "213.152.78.0/24" ],
+    "ipv6": [ ]
+  }
+}

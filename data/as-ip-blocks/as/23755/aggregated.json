@@ -1,0 +1,14 @@
+{
+  "asn": 23755,
+  "metadata": {
+    "handle": "CITYBRIDGE-NZ",
+    "description": "Vital Data Ltd",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

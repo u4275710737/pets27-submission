@@ -1,0 +1,4 @@
+# AS154347 (IDNIC-ANASEMESTA-ID)
+# PT Anagata Akusara Semesta
+#
+165.101.27.0/24

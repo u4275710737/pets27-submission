@@ -1,0 +1,14 @@
+{
+  "asn": 21740,
+  "metadata": {
+    "handle": "TF-178",
+    "description": "Ting Fiber Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

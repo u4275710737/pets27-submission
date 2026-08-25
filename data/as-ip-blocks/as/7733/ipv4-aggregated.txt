@@ -1,0 +1,4 @@
+# AS7733 (FRZRMTN)
+# Frazier Mountain Internet Service
+#
+199.167.184.0/23

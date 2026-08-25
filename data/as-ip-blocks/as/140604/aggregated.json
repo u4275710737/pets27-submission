@@ -1,0 +1,14 @@
+{
+  "asn": 140604,
+  "metadata": {
+    "handle": "BROADLINK-AP",
+    "description": "BroadLink Networks and Communications",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

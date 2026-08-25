@@ -1,0 +1,14 @@
+{
+  "asn": 44419,
+  "metadata": {
+    "handle": "GAX-VACTV",
+    "description": "Kalasznet Kabel TV Kft",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

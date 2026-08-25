@@ -1,0 +1,16 @@
+{
+  "asn": 131382,
+  "metadata": {
+    "handle": "S3WORK-VN",
+    "description": "S3WORK Technology Co. Ltd.",
+    "countryCode": "VN",
+    "country": "Vietnam",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "103.149.172.0/23", "103.183.144.0/23" ],
+    "ipv6": [ ]
+  }
+}

@@ -1,0 +1,4 @@
+# AS44899 (SKYTEL-AS)
+# Smart Telecom Limited
+#
+193.110.236.0/22

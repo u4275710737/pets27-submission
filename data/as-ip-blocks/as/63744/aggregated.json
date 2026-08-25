@@ -1,0 +1,16 @@
+{
+  "asn": 63744,
+  "metadata": {
+    "handle": "DNSE-VN",
+    "description": "DNSE Securities Joint Stock Company",
+    "countryCode": "VN",
+    "country": "Vietnam",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "103.216.128.0/22" ],
+    "ipv6": [ ]
+  }
+}

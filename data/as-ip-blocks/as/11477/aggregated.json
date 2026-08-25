@@ -1,0 +1,14 @@
+{
+  "asn": 11477,
+  "metadata": {
+    "handle": "GOC-AS",
+    "description": "VC3 Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

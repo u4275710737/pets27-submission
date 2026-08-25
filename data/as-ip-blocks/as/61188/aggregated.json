@@ -1,0 +1,14 @@
+{
+  "asn": 61188,
+  "metadata": {
+    "handle": "HOTWIRE",
+    "description": "Hotwire - Geir Amundsen",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

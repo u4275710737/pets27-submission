@@ -1,0 +1,14 @@
+{
+  "asn": 18642,
+  "metadata": {
+    "handle": "SAGENET-ENT2",
+    "description": "SageNet LLC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

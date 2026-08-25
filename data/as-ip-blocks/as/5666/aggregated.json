@@ -1,0 +1,16 @@
+{
+  "asn": 5666,
+  "metadata": {
+    "handle": "NET-CPRK",
+    "description": "Speedcast Communications Inc",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "192.23.157.0/24", "203.86.223.0/24" ],
+    "ipv6": [ ]
+  }
+}

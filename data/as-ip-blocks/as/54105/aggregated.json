@@ -1,0 +1,14 @@
+{
+  "asn": 54105,
+  "metadata": {
+    "handle": "SSM-NET",
+    "description": "Second Street",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

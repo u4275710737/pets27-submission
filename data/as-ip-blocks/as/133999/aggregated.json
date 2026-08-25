@@ -1,0 +1,14 @@
+{
+  "asn": 133999,
+  "metadata": {
+    "handle": "SOMANYCERAMICS-AS",
+    "description": "Somany Ceramics Limited",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

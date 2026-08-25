@@ -1,0 +1,14 @@
+{
+  "asn": 207508,
+  "metadata": {
+    "handle": "SKYVDS",
+    "description": "Mehmet Uzunca",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

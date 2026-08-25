@@ -1,0 +1,16 @@
+{
+  "asn": 216457,
+  "metadata": {
+    "handle": "PRONECT",
+    "description": "Pronect Technology LTD",
+    "countryCode": "HR",
+    "country": "Croatia",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "37.72.133.0/24" ],
+    "ipv6": [ ]
+  }
+}

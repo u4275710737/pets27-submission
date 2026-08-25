@@ -1,0 +1,14 @@
+{
+  "asn": 200732,
+  "metadata": {
+    "handle": "LIU",
+    "description": "Qiuchen Liu",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

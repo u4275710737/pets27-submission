@@ -1,0 +1,14 @@
+{
+  "asn": 10883,
+  "metadata": {
+    "handle": "COMSPANUSA",
+    "description": "Comspan Communications Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "asn": 214983,
+  "metadata": {
+    "handle": "MIKKELBUHLMADSEN",
+    "description": "Mikkel Buhl Madsen",
+    "countryCode": "DK",
+    "country": "Denmark",
+    "origin": "authoritative",
+    "category": null,
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ ]
+  }
+}

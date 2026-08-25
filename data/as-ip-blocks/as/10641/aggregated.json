@@ -1,0 +1,14 @@
+{
+  "asn": 10641,
+  "metadata": {
+    "handle": "TICKETMASTER",
+    "description": "TicketMaster Corp.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

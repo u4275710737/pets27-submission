@@ -1,0 +1,14 @@
+{
+  "asn": 216279,
+  "metadata": {
+    "handle": "STACKIP",
+    "description": "Arno de Groot Trading As StackIP",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

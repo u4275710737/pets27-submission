@@ -1,0 +1,14 @@
+{
+  "asn": 133641,
+  "metadata": {
+    "handle": "CRYSTAL1",
+    "description": "Crystal Broadband And Computer",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

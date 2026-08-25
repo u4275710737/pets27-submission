@@ -1,0 +1,14 @@
+{
+  "asn": 58121,
+  "metadata": {
+    "handle": "ARYAPARS",
+    "description": "Arya Pars Internet Gostar LLC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

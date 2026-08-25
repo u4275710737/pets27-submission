@@ -1,0 +1,14 @@
+{
+  "asn": 395082,
+  "metadata": {
+    "handle": "BODIS-NJ",
+    "description": "Bodis, LLC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

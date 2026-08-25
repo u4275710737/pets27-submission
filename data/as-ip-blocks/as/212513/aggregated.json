@@ -1,0 +1,16 @@
+{
+  "asn": 212513,
+  "metadata": {
+    "handle": "OSNET-TELEKOM",
+    "description": "Osnet Telekomunikasyon Dis Ticaret Limited Sirketi",
+    "countryCode": "TR",
+    "country": "Türkiye",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "45.196.232.0/24" ],
+    "ipv6": [ "2a10:fa80:1000::/36" ]
+  }
+}

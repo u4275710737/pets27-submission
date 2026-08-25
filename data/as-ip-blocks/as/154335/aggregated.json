@@ -1,0 +1,16 @@
+{
+  "asn": 154335,
+  "metadata": {
+    "handle": "NAYSWAN-AS-AP",
+    "description": "NAYSWAN NETWORK AND DATA SOLUTION",
+    "countryCode": "PH",
+    "country": "Philippines",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "74.52.16.0/22", "138.252.130.0/23" ],
+    "ipv6": [ "2402:36a0::/32" ]
+  }
+}

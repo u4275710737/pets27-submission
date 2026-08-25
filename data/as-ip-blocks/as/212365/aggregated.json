@@ -1,0 +1,14 @@
+{
+  "asn": 212365,
+  "metadata": {
+    "handle": "XENONET",
+    "description": "XENONET COMMUNICATE LIMITED",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

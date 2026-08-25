@@ -1,0 +1,14 @@
+{
+  "asn": 210043,
+  "metadata": {
+    "handle": "BNP-PARIBAS-FR",
+    "description": "BNP PARIBAS S.A.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

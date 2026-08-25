@@ -1,0 +1,14 @@
+{
+  "asn": 397042,
+  "metadata": {
+    "handle": "SNIPINTERNET",
+    "description": "Snip Internet LLC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

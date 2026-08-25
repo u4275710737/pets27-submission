@@ -1,0 +1,14 @@
+{
+  "asn": 60450,
+  "metadata": {
+    "handle": "VEZUVIAN",
+    "description": "VEZUVIAN SRL",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

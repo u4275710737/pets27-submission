@@ -1,0 +1,14 @@
+{
+  "asn": 204250,
+  "metadata": {
+    "handle": "RETARUS-GLOBAL-ANYCAST",
+    "description": "retarus GmbH",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

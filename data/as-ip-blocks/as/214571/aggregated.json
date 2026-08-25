@@ -1,0 +1,14 @@
+{
+  "asn": 214571,
+  "metadata": {
+    "handle": "VYOMCLOUD",
+    "description": "SANSARA CLOUD LLP",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

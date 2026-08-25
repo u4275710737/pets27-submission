@@ -1,0 +1,14 @@
+{
+  "asn": 209585,
+  "metadata": {
+    "handle": "AD-CUSTOMERS",
+    "description": "ADESTIS GmbH",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

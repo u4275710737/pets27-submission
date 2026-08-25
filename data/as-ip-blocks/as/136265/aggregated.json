@@ -1,0 +1,14 @@
+{
+  "asn": 136265,
+  "metadata": {
+    "handle": "SPLUNKINC-AS-AP",
+    "description": "Splunk Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

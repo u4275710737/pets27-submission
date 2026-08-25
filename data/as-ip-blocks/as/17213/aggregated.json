@@ -1,0 +1,14 @@
+{
+  "asn": 17213,
+  "metadata": {
+    "handle": "SSCLOUD",
+    "description": "SUPERSAFECLOUD LLC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

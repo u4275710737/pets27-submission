@@ -1,0 +1,14 @@
+{
+  "asn": 59841,
+  "metadata": {
+    "handle": "PUBLIC-DNS-ASN",
+    "description": "SC ITNS.NET SRL",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

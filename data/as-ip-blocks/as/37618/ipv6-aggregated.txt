@@ -1,0 +1,4 @@
+# AS37618 (TELEMEDIAZA-AS)
+# TelemediaZA
+#
+2c0f:f6e0::/32

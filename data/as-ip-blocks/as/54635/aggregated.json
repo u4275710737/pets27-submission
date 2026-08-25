@@ -1,0 +1,14 @@
+{
+  "asn": 54635,
+  "metadata": {
+    "handle": "BATESVILLE",
+    "description": "Hillenbrand Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 203425,
+  "metadata": {
+    "handle": "ROCKFORDIT",
+    "description": "SysGroup plc",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

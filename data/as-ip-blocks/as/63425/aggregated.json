@@ -1,0 +1,14 @@
+{
+  "asn": 63425,
+  "metadata": {
+    "handle": "GROUPONE-VA1",
+    "description": "Group One Consulting, Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

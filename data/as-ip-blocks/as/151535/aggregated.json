@@ -1,0 +1,14 @@
+{
+  "asn": 151535,
+  "metadata": {
+    "handle": "IDNIC-BANGKATENGAHKAB-AS-ID",
+    "description": "Pemerintah Kabupaten Bangka Tengah",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "asn": 134333,
+  "metadata": {
+    "handle": "SSBROADBAND-AS",
+    "description": "SS BROADBAND SERVICES PVT LTD",
+    "countryCode": "IN",
+    "country": "India",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ ]
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 33421,
+  "metadata": {
+    "handle": "EXIUM",
+    "description": "Exium, Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

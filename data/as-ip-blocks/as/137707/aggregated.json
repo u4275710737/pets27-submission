@@ -1,0 +1,14 @@
+{
+  "asn": 137707,
+  "metadata": {
+    "handle": "SKYLINKNET-AP",
+    "description": "Sky Link Net",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "asn": 60958,
+  "metadata": {
+    "handle": "INFOLINK-AS",
+    "description": "Infolink Aps",
+    "countryCode": "DK",
+    "country": "Denmark",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "access_provider"
+  },
+  "prefixes": {
+    "ipv4": [ "178.249.48.0/21" ],
+    "ipv6": [ ]
+  }
+}

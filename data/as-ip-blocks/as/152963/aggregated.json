@@ -1,0 +1,14 @@
+{
+  "asn": 152963,
+  "metadata": {
+    "handle": "PHUONGNAM-VN",
+    "description": "Phuong Nam Company Limited",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

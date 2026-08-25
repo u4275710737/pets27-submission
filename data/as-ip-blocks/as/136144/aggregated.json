@@ -1,0 +1,14 @@
+{
+  "asn": 136144,
+  "metadata": {
+    "handle": "RESERVED",
+    "description": "APNIC ASN block",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

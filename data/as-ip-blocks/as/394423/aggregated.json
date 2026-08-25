@@ -1,0 +1,14 @@
+{
+  "asn": 394423,
+  "metadata": {
+    "handle": "SECOM-VBB",
+    "description": "Secom, Inc",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

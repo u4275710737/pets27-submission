@@ -1,0 +1,14 @@
+{
+  "asn": 133173,
+  "metadata": {
+    "handle": "INOMIAL-AS-AP",
+    "description": "Inomial Pty Ltd",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

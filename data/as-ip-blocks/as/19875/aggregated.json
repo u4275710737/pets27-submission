@@ -1,0 +1,14 @@
+{
+  "asn": 19875,
+  "metadata": {
+    "handle": "TERAGO-RACKFORCE",
+    "description": "TeraGo Networks Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

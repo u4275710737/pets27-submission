@@ -1,0 +1,14 @@
+{
+  "asn": 46240,
+  "metadata": {
+    "handle": "CAMPUSEAI",
+    "description": "CampusEAI",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

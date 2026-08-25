@@ -1,0 +1,14 @@
+{
+  "asn": 210758,
+  "metadata": {
+    "handle": "PREISSCHILDHOMELAB",
+    "description": "Florian Stroeger",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 55732,
+  "metadata": {
+    "handle": "RANATECHNET-AF",
+    "description": "RANA Technologies Enterprises",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

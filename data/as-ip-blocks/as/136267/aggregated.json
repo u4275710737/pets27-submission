@@ -1,0 +1,16 @@
+{
+  "asn": 136267,
+  "metadata": {
+    "handle": "INFO-INTERNET-AS-AP",
+    "description": "Info Internet Service",
+    "countryCode": "BD",
+    "country": "Bangladesh",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "103.85.196.0/22" ],
+    "ipv6": [ ]
+  }
+}

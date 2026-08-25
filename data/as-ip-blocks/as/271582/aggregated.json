@@ -1,0 +1,16 @@
+{
+  "asn": 271582,
+  "metadata": {
+    "handle": "NETCON-TELECOMUNICACOES",
+    "description": "NETCON TELECOMUNICACOES LTDA",
+    "countryCode": "BR",
+    "country": "Brazil",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "45.165.180.0/22" ],
+    "ipv6": [ "2804:7dc8::/32" ]
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 12839,
+  "metadata": {
+    "handle": "ESI",
+    "description": "ESI s.r.l.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

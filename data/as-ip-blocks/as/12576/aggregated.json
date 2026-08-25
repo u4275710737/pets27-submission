@@ -1,0 +1,14 @@
+{
+  "asn": 12576,
+  "metadata": {
+    "handle": "EE",
+    "description": "EE Limited",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

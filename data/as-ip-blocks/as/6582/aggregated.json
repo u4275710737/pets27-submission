@@ -1,0 +1,14 @@
+{
+  "asn": 6582,
+  "metadata": {
+    "handle": "FRII",
+    "description": "Front Range Internet Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

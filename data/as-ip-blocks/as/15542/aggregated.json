@@ -1,0 +1,19 @@
+{
+  "asn": 15542,
+  "metadata": {
+    "handle": "ZEELANDNET",
+    "description": "DELTA Fiber Nederland B.V.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [
+      "91.230.33.0/24",
+      "91.230.34.0/23"
+    ],
+    "ipv6": [
+      "2001:67c:460::/48"
+    ]
+  }
+}

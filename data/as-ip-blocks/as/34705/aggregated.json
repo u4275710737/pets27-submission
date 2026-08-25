@@ -1,0 +1,16 @@
+{
+  "asn": 34705,
+  "metadata": {
+    "handle": "SYDFYN",
+    "description": "Norlys Telco A/S",
+    "countryCode": "DK",
+    "country": "Denmark",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "85.27.128.0/17" ],
+    "ipv6": [ ]
+  }
+}

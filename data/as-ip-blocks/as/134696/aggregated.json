@@ -1,0 +1,16 @@
+{
+  "asn": 134696,
+  "metadata": {
+    "handle": "HNTCL-HK",
+    "description": "HENGTIAN NETWORK TECHNOLOGY CO. LIMITED",
+    "countryCode": "HK",
+    "country": "Hong Kong SAR China",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "103.142.191.0/24", "172.98.60.0/22" ],
+    "ipv6": [ ]
+  }
+}

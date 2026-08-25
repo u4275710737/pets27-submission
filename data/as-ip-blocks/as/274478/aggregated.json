@@ -1,0 +1,16 @@
+{
+  "asn": 274478,
+  "metadata": {
+    "handle": "FERREIRA-GOMES-TELECOMUNICACOES",
+    "description": "FERREIRA E GOMES TELECOMUNICACOES LTDA",
+    "countryCode": "BR",
+    "country": "Brazil",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ "2804:94c8::/32" ]
+  }
+}

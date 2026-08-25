@@ -1,0 +1,14 @@
+{
+  "asn": 135779,
+  "metadata": {
+    "handle": "OASISGSSERVICES-AS",
+    "description": "OASISGSSERVICES",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

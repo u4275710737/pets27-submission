@@ -1,0 +1,14 @@
+{
+  "asn": 10201,
+  "metadata": {
+    "handle": "DWL-IN",
+    "description": "Dishnet Wireless Limited. Broadband Wireless",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

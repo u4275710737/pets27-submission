@@ -1,0 +1,14 @@
+{
+  "asn": 140732,
+  "metadata": {
+    "handle": "INFINITYBROADBAND-AP",
+    "description": "THE INFINITY BROADBAND (PVT) LIMITED",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

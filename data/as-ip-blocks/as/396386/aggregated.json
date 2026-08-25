@@ -1,0 +1,14 @@
+{
+  "asn": 396386,
+  "metadata": {
+    "handle": "ADECASN",
+    "description": "A-dec Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

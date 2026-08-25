@@ -1,0 +1,14 @@
+{
+  "asn": 207336,
+  "metadata": {
+    "handle": "NETASSISTES",
+    "description": "Netassist SL",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

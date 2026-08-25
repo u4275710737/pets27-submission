@@ -1,0 +1,14 @@
+{
+  "asn": 208801,
+  "metadata": {
+    "handle": "ASEEC",
+    "description": "ASE JSC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

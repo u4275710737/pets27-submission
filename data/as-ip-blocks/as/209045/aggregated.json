@@ -1,0 +1,14 @@
+{
+  "asn": 209045,
+  "metadata": {
+    "handle": "GENESIS-CLOUD-AS",
+    "description": "Genesis Cloud Limited",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

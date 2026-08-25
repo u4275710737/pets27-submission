@@ -1,0 +1,14 @@
+{
+  "asn": 150834,
+  "metadata": {
+    "handle": "IDATA-VN",
+    "description": "IDATA TECHNOLOGY SOLUTIONS COMPANY LIMITED",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "asn": 11486,
+  "metadata": {
+    "handle": "COLO-PREM-VZB",
+    "description": "Verizon Business",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "access_provider"
+  },
+  "prefixes": {
+    "ipv4": [ "142.77.114.0/24", "204.92.96.0/21", "208.218.245.0/24" ],
+    "ipv6": [ ]
+  }
+}

@@ -1,0 +1,4 @@
+# AS202461 (KZ-NAT-KAZAKHSTAN)
+# NAT Kazakhstan JSC
+#
+91.147.80.0/22

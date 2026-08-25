@@ -1,0 +1,14 @@
+{
+  "asn": 200041,
+  "metadata": {
+    "handle": "AGROROS",
+    "description": "JSC Bank Agroros",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

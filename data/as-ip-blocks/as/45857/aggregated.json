@@ -1,0 +1,14 @@
+{
+  "asn": 45857,
+  "metadata": {
+    "handle": "SUTHERLAND-AP",
+    "description": "Sutherland Healthcare Solutions Private Limited",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "asn": 198474,
+  "metadata": {
+    "handle": "STEFANSTEVAN",
+    "description": "Stefan Stevanovic",
+    "countryCode": "RS",
+    "country": "Serbia",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ ]
+  }
+}

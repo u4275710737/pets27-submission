@@ -1,0 +1,14 @@
+{
+  "asn": 43134,
+  "metadata": {
+    "handle": "ADNEXT",
+    "description": "Delta HighTech Ltd.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 21979,
+  "metadata": {
+    "handle": "ASN1",
+    "description": "Royce & Associates, LLC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

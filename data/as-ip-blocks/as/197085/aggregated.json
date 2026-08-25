@@ -1,0 +1,14 @@
+{
+  "asn": 197085,
+  "metadata": {
+    "handle": "SYKES-EUROPE-LTD-AS",
+    "description": "FOUNDEVER GLOBAL SERVICES LIMITED",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

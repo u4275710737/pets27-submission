@@ -1,0 +1,14 @@
+{
+  "asn": 202255,
+  "metadata": {
+    "handle": "NIAN-NETWORK",
+    "description": "NIAN NETWORK LTD",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 41633,
+  "metadata": {
+    "handle": "ALCIMI",
+    "description": "alcimi ltd",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

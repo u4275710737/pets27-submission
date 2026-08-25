@@ -1,0 +1,14 @@
+{
+  "asn": 39849,
+  "metadata": {
+    "handle": "PTX",
+    "description": "U.S. Bank Europe DAC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

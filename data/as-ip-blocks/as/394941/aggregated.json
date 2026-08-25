@@ -1,0 +1,14 @@
+{
+  "asn": 394941,
+  "metadata": {
+    "handle": "AIRBNB",
+    "description": "Airbnb, Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

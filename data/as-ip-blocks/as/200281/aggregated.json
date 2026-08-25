@@ -1,0 +1,16 @@
+{
+  "asn": 200281,
+  "metadata": {
+    "handle": "EUROVISION-SERVICES-SA",
+    "description": "Eurovision Services SA",
+    "countryCode": "CH",
+    "country": "Switzerland",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "185.148.228.0/22", "193.238.160.0/24" ],
+    "ipv6": [ "2a07:6240::/29" ]
+  }
+}

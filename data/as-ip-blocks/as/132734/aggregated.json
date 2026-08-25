@@ -1,0 +1,14 @@
+{
+  "asn": 132734,
+  "metadata": {
+    "handle": "SCHNEIDER-AP",
+    "description": "Schneider Electric (AUSTRALIA) Pty Ltd",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

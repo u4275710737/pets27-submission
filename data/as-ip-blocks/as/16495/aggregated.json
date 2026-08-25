@@ -1,0 +1,14 @@
+{
+  "asn": 16495,
+  "metadata": {
+    "handle": "CABLEAM-AZ",
+    "description": "CableAmerica",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "asn": 41296,
+  "metadata": {
+    "handle": "ABH",
+    "description": "Anadolu Bilisim Hizmetleri A.S.",
+    "countryCode": "TR",
+    "country": "Türkiye",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "193.41.225.0/24" ],
+    "ipv6": [ ]
+  }
+}

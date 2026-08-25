@@ -1,0 +1,14 @@
+{
+  "asn": 138932,
+  "metadata": {
+    "handle": "GNSB-AP",
+    "description": "GRIDCLOUD NETWORK SDN BHD",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,5 @@
+# AS8508 (SILWEB-AS-EDU)
+# Silesian University of Technology Computer Centre
+#
+2a01:1dc::/31
+2a01:1de::/32

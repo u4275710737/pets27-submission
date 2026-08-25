@@ -1,0 +1,4 @@
+# AS12582 (TSF-DATANET-NGD-AS)
+# Telia Finland Oyj
+#
+193.168.32.0/24

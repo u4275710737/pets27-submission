@@ -1,0 +1,16 @@
+{
+  "asn": 53937,
+  "metadata": {
+    "handle": "SMH-AS-NO",
+    "description": "Sarasota Memorial Hospital",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "204.193.28.0/23" ],
+    "ipv6": [ ]
+  }
+}

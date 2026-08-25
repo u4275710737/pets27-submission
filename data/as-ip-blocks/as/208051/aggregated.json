@@ -1,0 +1,14 @@
+{
+  "asn": 208051,
+  "metadata": {
+    "handle": "SR2COM",
+    "description": "SR2 Communications Limited",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

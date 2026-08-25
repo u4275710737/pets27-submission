@@ -1,0 +1,16 @@
+{
+  "asn": 207107,
+  "metadata": {
+    "handle": "NNG",
+    "description": "NNG Kft.",
+    "countryCode": "HU",
+    "country": "Hungary",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "92.52.222.0/24" ],
+    "ipv6": [ ]
+  }
+}

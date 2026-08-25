@@ -1,0 +1,14 @@
+{
+  "asn": 19700,
+  "metadata": {
+    "handle": "TONYTHEDEVELOPER",
+    "description": "Tony The Developer",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

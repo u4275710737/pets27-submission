@@ -1,0 +1,4 @@
+# AS8059 (ASN-BWAY)
+# Outernet Inc.
+#
+216.220.96.0/19

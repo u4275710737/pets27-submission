@@ -1,0 +1,14 @@
+{
+  "asn": 32439,
+  "metadata": {
+    "handle": "ALTOVA-BOS",
+    "description": "Altova, Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

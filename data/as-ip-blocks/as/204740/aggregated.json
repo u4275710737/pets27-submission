@@ -1,0 +1,14 @@
+{
+  "asn": 204740,
+  "metadata": {
+    "handle": "IRON80",
+    "description": "Aurelien DEROUINEAU",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

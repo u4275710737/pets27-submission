@@ -1,0 +1,4 @@
+# AS198326 (ORTCLOUD-AS)
+# OrtCloud GmbH
+#
+185.32.212.0/22

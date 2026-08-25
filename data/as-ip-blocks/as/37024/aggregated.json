@@ -1,0 +1,16 @@
+{
+  "asn": 37024,
+  "metadata": {
+    "handle": "YO-AS37024",
+    "description": "YoAfrica-Prov",
+    "countryCode": "ZW",
+    "country": "Zimbabwe",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "41.190.62.0/23" ],
+    "ipv6": [ ]
+  }
+}

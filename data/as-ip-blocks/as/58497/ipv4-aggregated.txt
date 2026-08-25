@@ -1,0 +1,4 @@
+# AS58497 (INTEGRA-AS-ID)
+# PT Integra Ventura
+#
+203.12.20.0/23

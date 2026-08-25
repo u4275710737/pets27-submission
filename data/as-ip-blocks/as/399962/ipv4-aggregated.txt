@@ -1,0 +1,5 @@
+# AS399962 (CCECA-1)
+# Cherokee County Electric Cooperative Association
+#
+199.195.60.0/22
+206.220.160.0/22

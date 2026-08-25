@@ -1,0 +1,16 @@
+{
+  "asn": 137262,
+  "metadata": {
+    "handle": "INTUNE1-AS-AP",
+    "description": "LocalTech",
+    "countryCode": "NZ",
+    "country": "New Zealand",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "103.106.92.0/22" ],
+    "ipv6": [ "2402:4040::/32" ]
+  }
+}

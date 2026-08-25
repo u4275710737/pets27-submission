@@ -1,0 +1,16 @@
+{
+  "asn": 131927,
+  "metadata": {
+    "handle": "TVM",
+    "description": "TV Matsumoto Cablevision",
+    "countryCode": "JP",
+    "country": "Japan",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ ]
+  }
+}

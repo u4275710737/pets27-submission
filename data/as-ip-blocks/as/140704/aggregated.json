@@ -1,0 +1,14 @@
+{
+  "asn": 140704,
+  "metadata": {
+    "handle": "NIOTT-AS-AP",
+    "description": "NIT Tiruchirappalli",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

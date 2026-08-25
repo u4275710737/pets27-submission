@@ -1,0 +1,14 @@
+{
+  "asn": 62466,
+  "metadata": {
+    "handle": "CLEAR-DDOS",
+    "description": "ClearDDoS Technologies",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

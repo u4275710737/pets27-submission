@@ -1,0 +1,4 @@
+# AS267433 (KNET-INTERNET)
+# Knet Internet
+#
+164.163.64.0/22

@@ -1,0 +1,14 @@
+{
+  "asn": 328764,
+  "metadata": {
+    "handle": "EKITI-STATE-UNIVERSITY",
+    "description": "Ekiti State University",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 18110,
+  "metadata": {
+    "handle": "SBMSYDNEYPTYLTD-AP",
+    "description": "SBM Sydney Pty Ltd",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

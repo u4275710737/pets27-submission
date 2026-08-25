@@ -1,0 +1,14 @@
+{
+  "asn": 131237,
+  "metadata": {
+    "handle": "FWDL-AP",
+    "description": "PT. FWD Life Indonesia",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

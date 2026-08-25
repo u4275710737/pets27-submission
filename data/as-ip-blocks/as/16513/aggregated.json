@@ -1,0 +1,14 @@
+{
+  "asn": 16513,
+  "metadata": {
+    "handle": "COXMEDIA",
+    "description": "Cox Newspapers/AJC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

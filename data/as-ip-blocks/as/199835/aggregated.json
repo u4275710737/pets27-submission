@@ -1,0 +1,16 @@
+{
+  "asn": 199835,
+  "metadata": {
+    "handle": "UTEAM-MNT",
+    "description": "UTEAM LTD",
+    "countryCode": "SC",
+    "country": "Seychelles",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ ]
+  }
+}

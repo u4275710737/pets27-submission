@@ -1,0 +1,16 @@
+{
+  "asn": 32534,
+  "metadata": {
+    "handle": "INSIGHT-PARTNERS",
+    "description": "Insight Venture Partners",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "overlaid",
+    "category": null,
+    "networkRole": null
+  },
+  "prefixes": {
+    "ipv4": [ "38.94.163.0/24" ],
+    "ipv6": [ ]
+  }
+}

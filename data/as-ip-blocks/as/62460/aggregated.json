@@ -1,0 +1,14 @@
+{
+  "asn": 62460,
+  "metadata": {
+    "handle": "ZGT",
+    "description": "Funke Medien Thueringen GmbH",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "asn": 397110,
+  "metadata": {
+    "handle": "CLOUD-CONNECT-01",
+    "description": "ConocoPhillips Company",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "192.70.218.0/24" ],
+    "ipv6": [ ]
+  }
+}

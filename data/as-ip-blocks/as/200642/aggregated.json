@@ -1,0 +1,16 @@
+{
+  "asn": 200642,
+  "metadata": {
+    "handle": "CAVL-AS",
+    "description": "Cavellon Ltd.",
+    "countryCode": "GB",
+    "country": "United Kingdom",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "access_provider"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ ]
+  }
+}

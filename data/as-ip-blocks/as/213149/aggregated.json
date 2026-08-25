@@ -1,0 +1,14 @@
+{
+  "asn": 213149,
+  "metadata": {
+    "handle": "TELELINKCO",
+    "description": "Telelink Telecommunications Co for Internet services and Information Technology Ltd.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

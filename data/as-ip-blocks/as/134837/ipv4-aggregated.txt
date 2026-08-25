@@ -1,0 +1,4 @@
+# AS134837 (ZIRTUELLC-AS-AP)
+# Dhaka Internet
+#
+103.149.186.0/23

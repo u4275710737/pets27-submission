@@ -1,0 +1,14 @@
+{
+  "asn": 45003,
+  "metadata": {
+    "handle": "VTB-UFA",
+    "description": "VTB Bank (Public Joint-Stock Company)",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 16497,
+  "metadata": {
+    "handle": "SMM",
+    "description": "The Science Museum of Minnesota",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

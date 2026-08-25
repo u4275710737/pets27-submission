@@ -1,0 +1,14 @@
+{
+  "asn": 49626,
+  "metadata": {
+    "handle": "CME",
+    "description": "Controls Middle East Electromechanical Works L.L.C",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 149732,
+  "metadata": {
+    "handle": "IDNIC-CONNEXIST-AS-ID",
+    "description": "PT Connexist Indonesia",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 15426,
+  "metadata": {
+    "handle": "XENOSITE",
+    "description": "Enreach Netherlands B.V.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 216179,
+  "metadata": {
+    "handle": "NATE-BILL",
+    "description": "Nathaniel Bill",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

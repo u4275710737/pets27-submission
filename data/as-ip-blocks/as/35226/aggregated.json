@@ -1,0 +1,14 @@
+{
+  "asn": 35226,
+  "metadata": {
+    "handle": "RIPPLECOM",
+    "description": "Digiweb ltd",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

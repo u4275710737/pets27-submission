@@ -1,0 +1,14 @@
+{
+  "asn": 393370,
+  "metadata": {
+    "handle": "MPI",
+    "description": "Mackenzie Partners Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

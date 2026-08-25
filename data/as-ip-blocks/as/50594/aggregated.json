@@ -1,0 +1,14 @@
+{
+  "asn": 50594,
+  "metadata": {
+    "handle": "VINFAST",
+    "description": "QUICKNET LLC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

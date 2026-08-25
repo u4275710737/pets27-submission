@@ -1,0 +1,14 @@
+{
+  "asn": 394853,
+  "metadata": {
+    "handle": "APIGROUP",
+    "description": "APi Group, Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

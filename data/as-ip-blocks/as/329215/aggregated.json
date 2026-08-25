@@ -1,0 +1,16 @@
+{
+  "asn": 329215,
+  "metadata": {
+    "handle": "LL4-AS",
+    "description": "LiFi.net Limited",
+    "countryCode": "NG",
+    "country": "Nigeria",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "content_network"
+  },
+  "prefixes": {
+    "ipv4": [ "38.95.205.0/24", "102.212.232.0/22" ],
+    "ipv6": [ ]
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 39018,
+  "metadata": {
+    "handle": "NODION",
+    "description": "Nodion GmbH",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

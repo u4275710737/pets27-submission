@@ -1,0 +1,5 @@
+# AS198771 (EXTREMELABS-AS)
+# Extreme Labs AD
+#
+38.10.24.0/24
+91.239.13.0/24

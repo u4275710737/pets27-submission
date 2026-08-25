@@ -1,0 +1,4 @@
+# AS154521 (IDNIC-DPSNET-AS-ID)
+# PT Digital Prima Solution
+#
+2001:df6:b3c0::/48

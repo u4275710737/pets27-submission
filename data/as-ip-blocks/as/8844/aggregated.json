@@ -1,0 +1,14 @@
+{
+  "asn": 8844,
+  "metadata": {
+    "handle": "COMMUNITY",
+    "description": "GTT - EMEA Ltd.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

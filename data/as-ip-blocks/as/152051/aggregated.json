@@ -1,0 +1,14 @@
+{
+  "asn": 152051,
+  "metadata": {
+    "handle": "IDNIC-AIMS-ID",
+    "description": "PT Adi Inti Mandiri Solusi",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

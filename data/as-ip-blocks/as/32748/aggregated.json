@@ -1,0 +1,16 @@
+{
+  "asn": 32748,
+  "metadata": {
+    "handle": "STEADFAST",
+    "description": "Steadfast",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "midsize_transit"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ ]
+  }
+}

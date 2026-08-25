@@ -1,0 +1,14 @@
+{
+  "asn": 60360,
+  "metadata": {
+    "handle": "METHOLDING",
+    "description": "LLC Management Company Industrial and Metallurgical Holding",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

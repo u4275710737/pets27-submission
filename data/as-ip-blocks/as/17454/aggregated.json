@@ -1,0 +1,14 @@
+{
+  "asn": 17454,
+  "metadata": {
+    "handle": "HASINDONET-ID-AP",
+    "description": "PT Hasindo Net",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

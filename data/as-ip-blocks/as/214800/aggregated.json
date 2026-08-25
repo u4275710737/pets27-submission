@@ -1,0 +1,14 @@
+{
+  "asn": 214800,
+  "metadata": {
+    "handle": "YIGIT-ULKER",
+    "description": "Yigit Ulker",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

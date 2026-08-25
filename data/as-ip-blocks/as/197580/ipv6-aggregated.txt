@@ -1,0 +1,5 @@
+# AS197580 (AS-CONNECTICORE)
+# Connecticore Telecommunications Information Technology S.A
+#
+2a01:6320::/32
+2a05:dec0::/29

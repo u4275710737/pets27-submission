@@ -1,0 +1,14 @@
+{
+  "asn": 393881,
+  "metadata": {
+    "handle": "CAPOUSD",
+    "description": "Capistrano Unified School District",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

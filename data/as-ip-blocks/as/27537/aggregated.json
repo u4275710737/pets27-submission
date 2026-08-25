@@ -1,0 +1,14 @@
+{
+  "asn": 27537,
+  "metadata": {
+    "handle": "ACCAAS",
+    "description": "Callcentric Wholesale, Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

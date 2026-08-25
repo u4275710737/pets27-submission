@@ -1,0 +1,14 @@
+{
+  "asn": 205297,
+  "metadata": {
+    "handle": "NSBL",
+    "description": "Nevskiy Syndicat OOO",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

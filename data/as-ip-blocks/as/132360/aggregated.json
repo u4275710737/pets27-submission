@@ -1,0 +1,14 @@
+{
+  "asn": 132360,
+  "metadata": {
+    "handle": "SERVICESTREAM-AS-AP",
+    "description": "Service Stream Limited",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

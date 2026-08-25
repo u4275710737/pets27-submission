@@ -1,0 +1,6 @@
+# AS17551 (ANYCAST-AS-AP)
+# Anycast Holdings Pty Ltd
+#
+2400:b880::/32
+2402:1560::/32
+2407:5400::/32

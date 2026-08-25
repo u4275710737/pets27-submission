@@ -1,0 +1,14 @@
+{
+  "asn": 8747,
+  "metadata": {
+    "handle": "DIAL-TELECOM-SPECIAL",
+    "description": "Quantcom a.s.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

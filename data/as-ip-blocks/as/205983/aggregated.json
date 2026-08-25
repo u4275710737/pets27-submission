@@ -1,0 +1,16 @@
+{
+  "asn": 205983,
+  "metadata": {
+    "handle": "INDE-PTE",
+    "description": "INDE PTE LTD",
+    "countryCode": "SG",
+    "country": "Singapore",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "45.15.177.0/24", "45.89.99.0/24", "82.198.40.0/23", "82.198.43.0/24", "82.198.44.0/24", "193.34.233.0/24" ],
+    "ipv6": [ "2a0b:bc0::/29" ]
+  }
+}

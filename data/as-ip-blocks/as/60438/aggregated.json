@@ -1,0 +1,14 @@
+{
+  "asn": 60438,
+  "metadata": {
+    "handle": "CLOUDIE-NETWORKS-LLC",
+    "description": "Cloudie Networks LLC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

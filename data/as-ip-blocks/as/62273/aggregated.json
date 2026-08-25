@@ -1,0 +1,14 @@
+{
+  "asn": 62273,
+  "metadata": {
+    "handle": "SRVWIRE",
+    "description": "SRVNET LTD",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

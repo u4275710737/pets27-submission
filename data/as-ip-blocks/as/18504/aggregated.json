@@ -1,0 +1,14 @@
+{
+  "asn": 18504,
+  "metadata": {
+    "handle": "FLASHSEATS-APOD-ASN1001",
+    "description": "Veritix",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

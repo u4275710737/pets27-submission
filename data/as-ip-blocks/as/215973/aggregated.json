@@ -1,0 +1,14 @@
+{
+  "asn": 215973,
+  "metadata": {
+    "handle": "ROERICSSON",
+    "description": "Ericsson Antenna Technology Romania SRL",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

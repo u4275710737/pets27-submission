@@ -1,0 +1,14 @@
+{
+  "asn": 269745,
+  "metadata": {
+    "handle": "PLUS-NETWORKS",
+    "description": "PLUS NETWORKS",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

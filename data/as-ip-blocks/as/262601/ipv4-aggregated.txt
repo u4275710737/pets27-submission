@@ -1,0 +1,4 @@
+# AS262601 (GTNET-TELECOMUNICACOES)
+# GtNet Telecomunicaçoes Ltda
+#
+177.75.240.0/20

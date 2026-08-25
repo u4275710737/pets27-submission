@@ -1,0 +1,14 @@
+{
+  "asn": 20616,
+  "metadata": {
+    "handle": "CYBER-FOLKS-RO-DC-PIE",
+    "description": "Cyber-Folks SRL",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

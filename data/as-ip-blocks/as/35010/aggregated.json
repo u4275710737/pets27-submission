@@ -1,0 +1,14 @@
+{
+  "asn": 35010,
+  "metadata": {
+    "handle": "IPDEVEL",
+    "description": "Arobs Development&Engineering S.R.L.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

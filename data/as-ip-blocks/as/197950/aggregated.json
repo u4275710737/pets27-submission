@@ -1,0 +1,16 @@
+{
+  "asn": 197950,
+  "metadata": {
+    "handle": "UMANG-RAGHUVANSHI",
+    "description": "Umang Raghuvanshi",
+    "countryCode": "ES",
+    "country": "Spain",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ "2001:678:1274::/48" ]
+  }
+}

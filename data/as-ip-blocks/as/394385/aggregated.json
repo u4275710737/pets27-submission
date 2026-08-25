@@ -1,0 +1,14 @@
+{
+  "asn": 394385,
+  "metadata": {
+    "handle": "LIXAR",
+    "description": "Lixar",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

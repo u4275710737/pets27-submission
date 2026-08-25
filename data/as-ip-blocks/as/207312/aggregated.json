@@ -1,0 +1,14 @@
+{
+  "asn": 207312,
+  "metadata": {
+    "handle": "BLUJAY-UK",
+    "description": "BluJay Solutions Ltd",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

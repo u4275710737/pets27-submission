@@ -1,0 +1,16 @@
+{
+  "asn": 64276,
+  "metadata": {
+    "handle": "CLEVELAND-UTILITIES-FIBER",
+    "description": "Cleveland Utilities Authority",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "64.65.48.0/21", "205.189.255.0/24" ],
+    "ipv6": [ ]
+  }
+}

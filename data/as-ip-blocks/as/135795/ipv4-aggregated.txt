@@ -1,0 +1,6 @@
+# AS135795 (ZERO123-AS-IN)
+# Zeroshell Networks Private Limited
+#
+45.250.251.0/24
+103.82.40.0/22
+103.83.212.0/23

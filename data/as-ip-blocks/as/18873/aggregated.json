@@ -1,0 +1,14 @@
+{
+  "asn": 18873,
+  "metadata": {
+    "handle": "LACKLANDIT",
+    "description": "NextGen RCM Services, LLC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

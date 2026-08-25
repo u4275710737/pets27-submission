@@ -1,0 +1,14 @@
+{
+  "asn": 8832,
+  "metadata": {
+    "handle": "NETVOICE",
+    "description": "netvoice data security GmbH",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

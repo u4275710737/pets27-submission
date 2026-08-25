@@ -1,0 +1,14 @@
+{
+  "asn": 32490,
+  "metadata": {
+    "handle": "HI-SPEED-US",
+    "description": "South Central Communications Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

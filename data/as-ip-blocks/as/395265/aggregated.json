@@ -1,0 +1,16 @@
+{
+  "asn": 395265,
+  "metadata": {
+    "handle": "AKMATORI",
+    "description": "Akmatori, Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [
+      "166.1.130.0/24"
+    ],
+    "ipv6": []
+  }
+}

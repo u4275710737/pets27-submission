@@ -1,0 +1,4 @@
+# AS59776 (LGI-CDN)
+# Liberty Global Europe Holding B.V.
+#
+2001:678:82c::/48

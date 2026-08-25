@@ -1,0 +1,6 @@
+# AS132789 (PIVOTEL-AS-AP)
+# Pivotel Group Pty Limited
+#
+2402:3780:2::/48
+2402:3780:f001::/48
+2402:3780:f002::/48

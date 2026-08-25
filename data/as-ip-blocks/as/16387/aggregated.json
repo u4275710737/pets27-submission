@@ -1,0 +1,14 @@
+{
+  "asn": 16387,
+  "metadata": {
+    "handle": "HEALTHYDIRECTIONS",
+    "description": "Healthy Directions, LLC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

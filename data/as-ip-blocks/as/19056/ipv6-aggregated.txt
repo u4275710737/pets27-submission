@@ -1,0 +1,3 @@
+# AS19056 (IETF-49)
+# Qualcomm Inc.
+#

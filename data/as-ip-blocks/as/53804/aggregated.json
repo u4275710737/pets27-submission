@@ -1,0 +1,14 @@
+{
+  "asn": 53804,
+  "metadata": {
+    "handle": "ACTIVE-ASN1",
+    "description": "Active Network LLC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

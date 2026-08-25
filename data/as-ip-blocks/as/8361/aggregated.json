@@ -1,0 +1,14 @@
+{
+  "asn": 8361,
+  "metadata": {
+    "handle": "UBISOFT-AS",
+    "description": "Ubisoft International SAS",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

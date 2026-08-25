@@ -1,0 +1,16 @@
+{
+  "asn": 53388,
+  "metadata": {
+    "handle": "TEFEXIA",
+    "description": "Tefexia LC",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "access_provider"
+  },
+  "prefixes": {
+    "ipv4": [ "23.128.236.0/24", "23.140.36.0/24" ],
+    "ipv6": [ "2607:eb40::/32" ]
+  }
+}

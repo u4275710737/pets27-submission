@@ -1,0 +1,14 @@
+{
+  "asn": 132282,
+  "metadata": {
+    "handle": "ARAHINA-NETWORK",
+    "description": "Arahina Network",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "asn": 1219,
+  "metadata": {
+    "handle": "NCUBE-OREGON-AS",
+    "description": "Oracle Corporation",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "160.34.88.0/24", "209.17.37.0/24" ],
+    "ipv6": [ "2606:b400:8020::/48" ]
+  }
+}

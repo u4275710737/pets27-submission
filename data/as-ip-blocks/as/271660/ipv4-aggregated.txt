@@ -1,0 +1,4 @@
+# AS271660 (PLANICIE-NET-TELECOM-EIRELI)
+# Planície Net Telecom Eireli
+#
+200.6.132.0/23

@@ -1,0 +1,14 @@
+{
+  "asn": 135605,
+  "metadata": {
+    "handle": "MOACKCOLTD-AP",
+    "description": "MOACK.Co.LTD",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

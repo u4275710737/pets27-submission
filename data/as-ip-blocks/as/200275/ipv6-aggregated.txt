@@ -1,0 +1,4 @@
+# AS200275 (SCSYNERGY-AS)
+# sc synergy GmbH
+#
+2a14:9800::/29

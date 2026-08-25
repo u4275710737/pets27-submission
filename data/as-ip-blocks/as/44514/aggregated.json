@@ -1,0 +1,14 @@
+{
+  "asn": 44514,
+  "metadata": {
+    "handle": "INOTEL-AS",
+    "description": "INEA sp. z o.o.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

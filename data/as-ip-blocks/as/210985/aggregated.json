@@ -1,0 +1,16 @@
+{
+  "asn": 210985,
+  "metadata": {
+    "handle": "BISHOP",
+    "description": "Christopher Bishop",
+    "countryCode": "GB",
+    "country": "United Kingdom",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ ]
+  }
+}

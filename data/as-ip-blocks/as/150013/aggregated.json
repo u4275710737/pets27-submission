@@ -1,0 +1,14 @@
+{
+  "asn": 150013,
+  "metadata": {
+    "handle": "MEGSACEPL-IN",
+    "description": "MEGSAC ENTERPRISES PRIVATE LIMITED",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

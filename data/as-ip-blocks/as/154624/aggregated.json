@@ -1,0 +1,16 @@
+{
+  "asn": 154624,
+  "metadata": {
+    "handle": "IRINN-RAHUL-AS-IN",
+    "description": "R K DIGITAL NETWORK",
+    "countryCode": "IN",
+    "country": "India",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "163.128.234.0/24" ],
+    "ipv6": [ "2001:df6:eec0::/48" ]
+  }
+}

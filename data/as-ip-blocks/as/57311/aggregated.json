@@ -1,0 +1,14 @@
+{
+  "asn": 57311,
+  "metadata": {
+    "handle": "NEOHOST",
+    "description": "ADMINS UA LLC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

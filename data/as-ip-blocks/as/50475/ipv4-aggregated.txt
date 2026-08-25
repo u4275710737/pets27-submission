@@ -1,0 +1,4 @@
+# AS50475 (POT)
+# Point of Trade Co. General Trading LLC
+#
+193.105.56.0/24

@@ -1,0 +1,4 @@
+# AS52335 (COLOMBIA-HOSTING)
+# Colombia Hosting
+#
+185.74.19.0/24

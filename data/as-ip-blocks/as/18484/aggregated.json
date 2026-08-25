@@ -1,0 +1,16 @@
+{
+  "asn": 18484,
+  "metadata": {
+    "handle": "VIRTELA-NET-VCALAX1",
+    "description": "Virtela Communications",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "64.254.96.0/24", "64.254.118.0/24", "69.26.61.0/24", "74.220.98.0/24", "74.220.100.0/24", "74.220.119.0/24" ],
+    "ipv6": [ ]
+  }
+}

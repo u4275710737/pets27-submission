@@ -1,0 +1,16 @@
+{
+  "asn": 327761,
+  "metadata": {
+    "handle": "ACCESS-POINT-TECHNOLOGIES",
+    "description": "Access Point Technologies cc",
+    "countryCode": "ZA",
+    "country": "South Africa",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "154.73.4.0/22", "196.6.104.0/21" ],
+    "ipv6": [ ]
+  }
+}

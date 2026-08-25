@@ -1,0 +1,5 @@
+# AS5411 (TIETOEVRY-OYJ)
+# Tieto Oyj
+#
+2a01:6d00::/32
+2a03:9b80:4000::/34

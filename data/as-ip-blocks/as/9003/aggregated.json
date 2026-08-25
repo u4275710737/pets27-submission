@@ -1,0 +1,14 @@
+{
+  "asn": 9003,
+  "metadata": {
+    "handle": "SFR",
+    "description": "Societe Francaise Du Radiotelephone - SFR SA",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

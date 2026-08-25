@@ -1,0 +1,16 @@
+{
+  "asn": 22392,
+  "metadata": {
+    "handle": "NGS-MOE",
+    "description": "National Geographic Society",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "209.249.172.0/23" ],
+    "ipv6": [ ]
+  }
+}

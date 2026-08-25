@@ -1,0 +1,7 @@
+# AS17470 (HUTCHISON-LK)
+# Hutchison Telecommunications Lanka (Private) Limited
+#
+2404:8a00::/48
+2404:8a00:65::/48
+2404:8a00:66::/47
+2404:8a00:68::/47

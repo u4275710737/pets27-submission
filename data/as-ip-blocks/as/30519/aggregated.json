@@ -1,0 +1,14 @@
+{
+  "asn": 30519,
+  "metadata": {
+    "handle": "CANYONS",
+    "description": "VAIL RESORTS, INC.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

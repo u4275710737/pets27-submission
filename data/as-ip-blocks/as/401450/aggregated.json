@@ -1,0 +1,16 @@
+{
+  "asn": 401450,
+  "metadata": {
+    "handle": "PLXN-ASN-USEAST1",
+    "description": "Pluxcon Network USA LLC",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "access_provider"
+  },
+  "prefixes": {
+    "ipv4": [ "101.53.77.0/24" ],
+    "ipv6": [ "2602:fa1c:122::/48" ]
+  }
+}

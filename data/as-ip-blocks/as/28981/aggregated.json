@@ -1,0 +1,14 @@
+{
+  "asn": 28981,
+  "metadata": {
+    "handle": "DIEPRESSE-AS",
+    "description": "Styria Media Group AG",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

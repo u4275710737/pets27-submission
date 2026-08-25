@@ -1,0 +1,14 @@
+{
+  "asn": 12072,
+  "metadata": {
+    "handle": "AHL",
+    "description": "Aquiline Holdings, LLC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

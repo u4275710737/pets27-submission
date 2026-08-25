@@ -1,0 +1,4 @@
+# AS211252 (AKARI-AS-JP)
+# Marushin K.K.
+#
+103.20.36.0/22

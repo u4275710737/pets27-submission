@@ -1,0 +1,14 @@
+{
+  "asn": 33958,
+  "metadata": {
+    "handle": "GSCF",
+    "description": "Global Supply Chain Finance AG",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

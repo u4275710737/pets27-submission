@@ -1,0 +1,14 @@
+{
+  "asn": 328502,
+  "metadata": {
+    "handle": "STR-AFRICA",
+    "description": "STR AFRICA SA",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

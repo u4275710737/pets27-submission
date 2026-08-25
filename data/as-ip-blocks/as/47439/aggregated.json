@@ -1,0 +1,14 @@
+{
+  "asn": 47439,
+  "metadata": {
+    "handle": "ZLAT-TELECOM-AS",
+    "description": "Sitikom Ltd.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

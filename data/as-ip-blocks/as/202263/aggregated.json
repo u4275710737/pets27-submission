@@ -1,0 +1,14 @@
+{
+  "asn": 202263,
+  "metadata": {
+    "handle": "ETERNAL",
+    "description": "NBI SIA",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

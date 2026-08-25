@@ -1,0 +1,16 @@
+{
+  "asn": 213838,
+  "metadata": {
+    "handle": "LD",
+    "description": "Company AL-BAAD AL-AKHIR For Information Technology Ltd",
+    "countryCode": "SA",
+    "country": "Saudi Arabia",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "91.221.41.0/24" ],
+    "ipv6": [ ]
+  }
+}

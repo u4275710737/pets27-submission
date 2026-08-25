@@ -1,0 +1,14 @@
+{
+  "asn": 6581,
+  "metadata": {
+    "handle": "PATHLINK",
+    "description": "Pathlink Technology",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

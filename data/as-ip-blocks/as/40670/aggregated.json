@@ -1,0 +1,14 @@
+{
+  "asn": 40670,
+  "metadata": {
+    "handle": "VOLUSION",
+    "description": "Volusion",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

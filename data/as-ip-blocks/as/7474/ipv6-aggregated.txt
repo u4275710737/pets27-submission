@@ -1,0 +1,5 @@
+# AS7474 (OPTUSCOM-AS01-AU)
+# SingTel Optus Pty Ltd
+#
+2405:9000::/32
+2602:810:20e0::/48

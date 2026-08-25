@@ -1,0 +1,16 @@
+{
+  "asn": 208166,
+  "metadata": {
+    "handle": "SHOPIMIND",
+    "description": "ShopyMind SAS",
+    "countryCode": "FR",
+    "country": "France",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "45.11.254.0/23" ],
+    "ipv6": [ "2a13:41c3::/32", "2a13:41c4::/32" ]
+  }
+}

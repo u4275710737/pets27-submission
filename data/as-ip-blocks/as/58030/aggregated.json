@@ -1,0 +1,14 @@
+{
+  "asn": 58030,
+  "metadata": {
+    "handle": "SORATGOSTARABRDATISLTD",
+    "description": "Sorat Gostar Abr Datis LLC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

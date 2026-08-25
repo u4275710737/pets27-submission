@@ -1,0 +1,16 @@
+{
+  "asn": 37379,
+  "metadata": {
+    "handle": "IWAYAFRICA-AS37379",
+    "description": "IWAYAFRICA-AS37379",
+    "countryCode": "MU",
+    "country": "Mauritius",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "41.198.80.0/22" ],
+    "ipv6": [ ]
+  }
+}

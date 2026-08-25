@@ -1,0 +1,4 @@
+# AS44517 (UMENET)
+# Umea Energi Umenet AB
+#
+2a12:c340::/29

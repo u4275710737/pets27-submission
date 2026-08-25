@@ -1,0 +1,16 @@
+{
+  "asn": 197449,
+  "metadata": {
+    "handle": "LIGHTSOFT-AS",
+    "description": "BORISOV MIKHAIL ALEKSEEVICH",
+    "countryCode": "RU",
+    "country": "Russia",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ ]
+  }
+}

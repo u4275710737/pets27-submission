@@ -1,0 +1,4 @@
+# AS24693 (CNSYS-AS)
+# CNSYS PLC
+#
+2001:67c:23ec::/48

@@ -1,0 +1,16 @@
+{
+  "asn": 37688,
+  "metadata": {
+    "handle": "BACKBONE-CONNECTIVITY-NIGERIA-LTD",
+    "description": "BCN-NIGERIA",
+    "countryCode": "NG",
+    "country": "Nigeria",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "access_provider"
+  },
+  "prefixes": {
+    "ipv4": [ "41.242.48.0/20" ],
+    "ipv6": [ ]
+  }
+}

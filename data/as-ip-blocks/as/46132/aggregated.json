@@ -1,0 +1,14 @@
+{
+  "asn": 46132,
+  "metadata": {
+    "handle": "VENTYX-AN-ABB-COMPANY",
+    "description": "Ventyx USA, Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 37390,
+  "metadata": {
+    "handle": "IPI9",
+    "description": "iPi9",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

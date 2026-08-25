@@ -1,0 +1,16 @@
+{
+  "asn": 327831,
+  "metadata": {
+    "handle": "ORG-DDCS1-AFRINIC",
+    "description": "Djibouti Data Center",
+    "countryCode": "DJ",
+    "country": "Djibouti",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "196.49.10.0/24" ],
+    "ipv6": [ ]
+  }
+}

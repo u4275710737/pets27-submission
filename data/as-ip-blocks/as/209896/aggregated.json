@@ -1,0 +1,16 @@
+{
+  "asn": 209896,
+  "metadata": {
+    "handle": "LEXISTARALLIANCELTD",
+    "description": "Contrust Solutions S.R.L.",
+    "countryCode": "MD",
+    "country": "Moldova",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "77.91.118.0/24" ],
+    "ipv6": [ ]
+  }
+}

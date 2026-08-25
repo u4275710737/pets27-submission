@@ -1,0 +1,16 @@
+{
+  "asn": 272672,
+  "metadata": {
+    "handle": "ALMEIDA-SERVICOS-MULTIMIDIA",
+    "description": "ALMEIDA SERVICOS DE MULTIMIDIA E COMUNICACOES LTDA",
+    "countryCode": "BR",
+    "country": "Brazil",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "access_provider"
+  },
+  "prefixes": {
+    "ipv4": [ "189.89.246.0/23" ],
+    "ipv6": [ "2804:86e0::/32" ]
+  }
+}

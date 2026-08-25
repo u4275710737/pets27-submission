@@ -1,0 +1,14 @@
+{
+  "asn": 202368,
+  "metadata": {
+    "handle": "AGAH",
+    "description": "Agah Pardazan Houshmand Co.(PJS)",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

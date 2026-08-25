@@ -1,0 +1,14 @@
+{
+  "asn": 25228,
+  "metadata": {
+    "handle": "SKYVISION",
+    "description": "DiViNetworks LTD.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

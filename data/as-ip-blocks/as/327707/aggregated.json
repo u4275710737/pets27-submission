@@ -1,0 +1,16 @@
+{
+  "asn": 327707,
+  "metadata": {
+    "handle": "AIRTEL-RW",
+    "description": "Airtel Rwanda",
+    "countryCode": "RW",
+    "country": "Rwanda",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "access_provider"
+  },
+  "prefixes": {
+    "ipv4": [ "41.138.80.0/21", "197.157.128.0/18" ],
+    "ipv6": [ ]
+  }
+}

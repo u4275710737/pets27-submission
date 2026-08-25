@@ -1,0 +1,4 @@
+# AS266342 (TNET+-PROVEDOR)
+# TNet+ Provedor
+#
+170.239.80.0/22

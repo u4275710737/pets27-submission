@@ -1,0 +1,16 @@
+{
+  "asn": 207574,
+  "metadata": {
+    "handle": "ALEX-AS",
+    "description": "Alexandre Olemans",
+    "countryCode": "BE",
+    "country": "Belgium",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ ]
+  }
+}

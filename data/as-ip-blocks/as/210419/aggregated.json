@@ -1,0 +1,14 @@
+{
+  "asn": 210419,
+  "metadata": {
+    "handle": "BUTATELECOM-AS",
+    "description": "Fibernet LLC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 135343,
+  "metadata": {
+    "handle": "MPL-AS-AP",
+    "description": "Magic Particle Limited",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "asn": 215102,
+  "metadata": {
+    "handle": "GLT-AS",
+    "description": "GLOBALTECH LLC",
+    "countryCode": "AM",
+    "country": "Armenia",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "31.77.139.0/24", "77.105.132.0/24", "77.105.134.0/24", "89.125.15.0/24", "185.254.67.0/24" ],
+    "ipv6": [ ]
+  }
+}

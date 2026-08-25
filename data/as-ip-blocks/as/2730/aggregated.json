@@ -1,0 +1,14 @@
+{
+  "asn": 2730,
+  "metadata": {
+    "handle": "WINKY",
+    "description": "WINKY NETWORKS LLC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

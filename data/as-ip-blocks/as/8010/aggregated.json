@@ -1,0 +1,14 @@
+{
+  "asn": 8010,
+  "metadata": {
+    "handle": "DIGICON-CORP",
+    "description": "Digicon Corporation",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

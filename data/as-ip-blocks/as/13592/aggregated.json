@@ -1,0 +1,16 @@
+{
+  "asn": 13592,
+  "metadata": {
+    "handle": "ZAYO-CCF-AS13592",
+    "description": "Zayo Bandwidth",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "67.208.164.0/24" ],
+    "ipv6": [ ]
+  }
+}

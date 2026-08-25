@@ -1,0 +1,16 @@
+{
+  "asn": 40271,
+  "metadata": {
+    "handle": "SFMIX-TRANSIT",
+    "description": "San Francisco Metropolitan Internet Exchange (SFMIX)",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "access_provider"
+  },
+  "prefixes": {
+    "ipv4": [ "149.112.115.0/24", "149.112.188.0/23" ],
+    "ipv6": [ "2620:11a:b002::/48" ]
+  }
+}

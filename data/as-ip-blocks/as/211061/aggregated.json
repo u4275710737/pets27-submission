@@ -1,0 +1,14 @@
+{
+  "asn": 211061,
+  "metadata": {
+    "handle": "PEACEWEB-GROUP",
+    "description": "PeaceWeb Group B.V.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

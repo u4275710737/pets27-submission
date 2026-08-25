@@ -1,0 +1,16 @@
+{
+  "asn": 271511,
+  "metadata": {
+    "handle": "EMPRESA-COCAIENSE-TELECOMUNICACAO",
+    "description": "EMPRESA COCAIENSE DE TELECOMUNICACAO LTDA",
+    "countryCode": "BR",
+    "country": "Brazil",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "45.185.116.0/22" ],
+    "ipv6": [ "2804:7cac::/32" ]
+  }
+}

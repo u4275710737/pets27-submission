@@ -1,0 +1,14 @@
+{
+  "asn": 142645,
+  "metadata": {
+    "handle": "O2NETWORKLIMITED-AP",
+    "description": "O2 Network Limited",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

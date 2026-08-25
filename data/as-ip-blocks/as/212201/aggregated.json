@@ -1,0 +1,14 @@
+{
+  "asn": 212201,
+  "metadata": {
+    "handle": "DUCKSIFY",
+    "description": "Ducksify SA",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 32796,
+  "metadata": {
+    "handle": "VETERANS-TRANSPORTATION",
+    "description": "Veterans Transportation Services Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

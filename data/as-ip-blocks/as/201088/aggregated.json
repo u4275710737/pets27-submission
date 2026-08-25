@@ -1,0 +1,14 @@
+{
+  "asn": 201088,
+  "metadata": {
+    "handle": "ISPNETWORK",
+    "description": "ISP NETWORK LTD",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

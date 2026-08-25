@@ -1,0 +1,16 @@
+{
+  "asn": 197313,
+  "metadata": {
+    "handle": "RMV",
+    "description": "Roman Veligon",
+    "countryCode": "ID",
+    "country": "Indonesia",
+    "origin": "authoritative",
+    "category": null,
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "178.214.97.0/24" ],
+    "ipv6": [ ]
+  }
+}

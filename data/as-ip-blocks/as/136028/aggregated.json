@@ -1,0 +1,14 @@
+{
+  "asn": 136028,
+  "metadata": {
+    "handle": "ASTI-AP",
+    "description": "Advanced Science and Technology Institute",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

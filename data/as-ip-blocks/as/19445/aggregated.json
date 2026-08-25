@@ -1,0 +1,14 @@
+{
+  "asn": 19445,
+  "metadata": {
+    "handle": "NEXCLOUD-AS01",
+    "description": "NexCloud",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

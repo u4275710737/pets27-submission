@@ -1,0 +1,14 @@
+{
+  "asn": 137577,
+  "metadata": {
+    "handle": "CWE-AP",
+    "description": "Cloudware Enterprise Limited",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

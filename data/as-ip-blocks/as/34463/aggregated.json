@@ -1,0 +1,14 @@
+{
+  "asn": 34463,
+  "metadata": {
+    "handle": "SSPORT-AS",
+    "description": "Super Sport d.o.o.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

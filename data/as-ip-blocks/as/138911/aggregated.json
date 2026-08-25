@@ -1,0 +1,14 @@
+{
+  "asn": 138911,
+  "metadata": {
+    "handle": "RNS-AP",
+    "description": "Renaissance Phuket Resort & Spa",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

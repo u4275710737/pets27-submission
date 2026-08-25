@@ -1,0 +1,16 @@
+{
+  "asn": 397027,
+  "metadata": {
+    "handle": "BLOCK-LINE-DENVER",
+    "description": "Block Line Systems LLC",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "access_provider"
+  },
+  "prefixes": {
+    "ipv4": [ "24.53.152.0/21" ],
+    "ipv6": [ ]
+  }
+}

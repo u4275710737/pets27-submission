@@ -1,0 +1,14 @@
+{
+  "asn": 206736,
+  "metadata": {
+    "handle": "NETSPEED",
+    "description": "NETSPEED SPOLKA Z OGRANICZONA ODPOWIEDZIALNOSCIA",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

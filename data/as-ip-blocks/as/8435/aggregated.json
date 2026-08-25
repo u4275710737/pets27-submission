@@ -1,0 +1,16 @@
+{
+  "asn": 8435,
+  "metadata": {
+    "handle": "LBG-INTERNET-EDGE",
+    "description": "Lloyds Banking Group PLC",
+    "countryCode": "GB",
+    "country": "United Kingdom",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "141.92.20.0/22", "141.92.24.0/21", "141.92.32.0/19", "141.92.64.0/19", "141.92.96.0/21", "141.92.112.0/21", "141.92.128.0/19", "141.92.208.0/20", "141.92.224.0/20", "193.34.231.0/24" ],
+    "ipv6": [ ]
+  }
+}

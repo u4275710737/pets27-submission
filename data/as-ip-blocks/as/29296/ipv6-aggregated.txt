@@ -1,0 +1,3 @@
+# AS29296 (AIOS-AS)
+# Amt fuer Informatik und Organisation des Kantons Solothurn
+#

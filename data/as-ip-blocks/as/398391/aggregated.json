@@ -1,0 +1,16 @@
+{
+  "asn": 398391,
+  "metadata": {
+    "handle": "PERIMETER-81-LLC",
+    "description": "Check Point Software Technologies Inc.",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "64.226.128.0/20", "64.227.192.0/20", "131.226.32.0/21", "131.226.42.0/23", "131.226.44.0/22" ],
+    "ipv6": [ ]
+  }
+}

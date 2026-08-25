@@ -1,0 +1,16 @@
+{
+  "asn": 33349,
+  "metadata": {
+    "handle": "THE-BANK-OF-NEW-YORK-MELLON-CORPORATION-AS33349",
+    "description": "The Bank of New York Mellon Corporation",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "167.222.0.0/22" ],
+    "ipv6": [ ]
+  }
+}

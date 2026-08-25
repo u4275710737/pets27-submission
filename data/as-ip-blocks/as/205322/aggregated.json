@@ -1,0 +1,14 @@
+{
+  "asn": 205322,
+  "metadata": {
+    "handle": "UNICONNECT",
+    "description": "Uniconnect Srl",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

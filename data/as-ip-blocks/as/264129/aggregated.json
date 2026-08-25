@@ -1,0 +1,16 @@
+{
+  "asn": 264129,
+  "metadata": {
+    "handle": "FLIP-NETWORKS",
+    "description": "Flip Networks",
+    "countryCode": "BR",
+    "country": "Brazil",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "access_provider"
+  },
+  "prefixes": {
+    "ipv4": [ "138.97.36.0/22" ],
+    "ipv6": [ "2804:22e4::/32" ]
+  }
+}

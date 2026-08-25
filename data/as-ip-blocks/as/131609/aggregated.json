@@ -1,0 +1,16 @@
+{
+  "asn": 131609,
+  "metadata": {
+    "handle": "YUANCHENG-AS-TW",
+    "description": "Yuan Cheng Co. Ltd.",
+    "countryCode": "TW",
+    "country": "Taiwan",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "43.225.36.0/24", "45.204.133.0/24" ],
+    "ipv6": [ ]
+  }
+}

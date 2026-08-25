@@ -1,0 +1,14 @@
+{
+  "asn": 137462,
+  "metadata": {
+    "handle": "RMNI-AP",
+    "description": "Rakuten Mobile, Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

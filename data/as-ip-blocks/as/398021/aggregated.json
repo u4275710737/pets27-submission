@@ -1,0 +1,14 @@
+{
+  "asn": 398021,
+  "metadata": {
+    "handle": "GTC-ALBYGA-IPV4",
+    "description": "GAIA Telekom Corporation",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

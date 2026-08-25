@@ -1,0 +1,14 @@
+{
+  "asn": 48575,
+  "metadata": {
+    "handle": "KEYNET-CLOUD",
+    "description": "Swiss IT Security AG",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "asn": 154464,
+  "metadata": {
+    "handle": "IRINN-OSPOT08-AS-IN",
+    "description": "OSPOT CONSULTING",
+    "countryCode": "IN",
+    "country": "India",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "144.79.192.0/23" ],
+    "ipv6": [ ]
+  }
+}

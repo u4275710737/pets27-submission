@@ -1,0 +1,4 @@
+# AS270359 (IXNET-FIBRA)
+# iXnet Fibra
+#
+190.89.76.0/22

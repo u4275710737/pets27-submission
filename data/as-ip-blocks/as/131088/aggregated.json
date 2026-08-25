@@ -1,0 +1,14 @@
+{
+  "asn": 131088,
+  "metadata": {
+    "handle": "WAIA-4BYTE-AP",
+    "description": "Internet Association of Australia Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 14839,
+  "metadata": {
+    "handle": "INSIGHT",
+    "description": "Insight Direct USA, Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

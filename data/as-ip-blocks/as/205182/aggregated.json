@@ -1,0 +1,14 @@
+{
+  "asn": 205182,
+  "metadata": {
+    "handle": "LIFETIME-STUDIOS",
+    "description": "LIFETIME STUDIOS LTD",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

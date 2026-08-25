@@ -1,0 +1,14 @@
+{
+  "asn": 147125,
+  "metadata": {
+    "handle": "IDNIC-DSSNET-ID",
+    "description": "PT Aplikasi Digital Indonesia",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 328415,
+  "metadata": {
+    "handle": "CONNECTFOCUS-AS",
+    "description": "ConnectFocus Technologies Limited",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

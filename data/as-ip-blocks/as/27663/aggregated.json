@@ -1,0 +1,14 @@
+{
+  "asn": 27663,
+  "metadata": {
+    "handle": "BRINKS-COLOMBIA",
+    "description": "BRINKS DE COLOMBIA S.A.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

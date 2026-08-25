@@ -1,0 +1,16 @@
+{
+  "asn": 138424,
+  "metadata": {
+    "handle": "FBR-AS-AP",
+    "description": "Federal Board of Revenue",
+    "countryCode": "PK",
+    "country": "Pakistan",
+    "origin": "authoritative",
+    "category": "government_admin",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "103.92.21.0/24", "103.125.60.0/24", "110.93.242.0/24", "192.58.97.0/24" ],
+    "ipv6": [ ]
+  }
+}

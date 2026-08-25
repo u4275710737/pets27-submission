@@ -1,0 +1,16 @@
+{
+  "asn": 197930,
+  "metadata": {
+    "handle": "HK-AS",
+    "description": "Haahtela Oy",
+    "countryCode": "FI",
+    "country": "Finland",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "91.230.4.0/23" ],
+    "ipv6": [ ]
+  }
+}

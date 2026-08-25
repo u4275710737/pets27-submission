@@ -1,0 +1,14 @@
+{
+  "asn": 18605,
+  "metadata": {
+    "handle": "SOUTHPOLE",
+    "description": "SOUTHPOLE",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

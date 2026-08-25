@@ -1,0 +1,14 @@
+{
+  "asn": 50834,
+  "metadata": {
+    "handle": "RGES",
+    "description": "REGIE GAZ ELECTRICITE DE SALLANCHES EPIC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "asn": 60470,
+  "metadata": {
+    "handle": "AS-SKYNET-COUNTRY",
+    "description": "SkyNet Ltd.",
+    "countryCode": "RU",
+    "country": "Russia",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ ]
+  }
+}

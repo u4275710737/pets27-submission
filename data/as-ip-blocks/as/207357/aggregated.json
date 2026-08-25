@@ -1,0 +1,14 @@
+{
+  "asn": 207357,
+  "metadata": {
+    "handle": "TECHNOBERG2",
+    "description": "Technoberg Beheer B.V.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

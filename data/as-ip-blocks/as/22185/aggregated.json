@@ -1,0 +1,14 @@
+{
+  "asn": 22185,
+  "metadata": {
+    "handle": "TELEFONICA-UNIDAD-LARGA",
+    "description": "TELEFONICA-UNIDAD LARGA DISTANCIA",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

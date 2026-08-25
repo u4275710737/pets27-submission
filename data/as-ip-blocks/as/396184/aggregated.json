@@ -1,0 +1,14 @@
+{
+  "asn": 396184,
+  "metadata": {
+    "handle": "MSCC-SOC",
+    "description": "Microsemi Corporation",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

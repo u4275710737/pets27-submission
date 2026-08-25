@@ -1,0 +1,16 @@
+{
+  "asn": 267475,
+  "metadata": {
+    "handle": "LIG-TELECOM",
+    "description": "Lig Telecom",
+    "countryCode": "BR",
+    "country": "Brazil",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "access_provider"
+  },
+  "prefixes": {
+    "ipv4": [ "192.141.192.0/22" ],
+    "ipv6": [ "2804:4210::/32" ]
+  }
+}

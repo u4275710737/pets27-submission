@@ -1,0 +1,14 @@
+{
+  "asn": 203005,
+  "metadata": {
+    "handle": "MICHAEL-DRUEING",
+    "description": "Michael Drueing",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

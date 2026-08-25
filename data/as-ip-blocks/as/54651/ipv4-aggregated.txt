@@ -1,0 +1,4 @@
+# AS54651 (BLACK-DUCK-SOFTWARE-01)
+# Black Duck Software Inc.
+#
+209.51.32.0/23

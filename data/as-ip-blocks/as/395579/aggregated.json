@@ -1,0 +1,14 @@
+{
+  "asn": 395579,
+  "metadata": {
+    "handle": "MYTEK-NETWORK-SOLUTIONS",
+    "description": "Mytek Network Solutions, LLC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

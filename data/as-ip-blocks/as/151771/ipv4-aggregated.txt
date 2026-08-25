@@ -1,0 +1,4 @@
+# AS151771 (LUPIN-AS-IN)
+# Lupin Limited
+#
+103.255.223.0/24

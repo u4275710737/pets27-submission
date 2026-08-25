@@ -1,0 +1,14 @@
+{
+  "asn": 393655,
+  "metadata": {
+    "handle": "LC-SJC-393655",
+    "description": "LendingClub Corporation",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

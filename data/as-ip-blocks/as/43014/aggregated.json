@@ -1,0 +1,14 @@
+{
+  "asn": 43014,
+  "metadata": {
+    "handle": "KIRKLAND-AS",
+    "description": "Kirkland & Ellis International LLP",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

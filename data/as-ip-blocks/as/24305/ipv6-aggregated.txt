@@ -1,0 +1,5 @@
+# AS24305 (EDGEIXPTYLTD-AS-AP)
+# EdgeIX Pty Ltd
+#
+2405:b640::/46
+2405:b640:4::/47

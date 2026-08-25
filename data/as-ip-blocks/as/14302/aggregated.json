@@ -1,0 +1,14 @@
+{
+  "asn": 14302,
+  "metadata": {
+    "handle": "INFINIGON",
+    "description": "Infinigon, Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

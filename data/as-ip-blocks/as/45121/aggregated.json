@@ -1,0 +1,16 @@
+{
+  "asn": 45121,
+  "metadata": {
+    "handle": "MYKRIS-EMS",
+    "description": "Enterprise Managed Services Sdn. Bhd. (Mykris)",
+    "countryCode": "MY",
+    "country": "Malaysia",
+    "origin": "overlaid",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "27.131.62.0/23", "103.221.63.0/24", "122.0.31.0/24", "202.133.108.0/22" ],
+    "ipv6": [ "2405:6400:4000::/36" ]
+  }
+}

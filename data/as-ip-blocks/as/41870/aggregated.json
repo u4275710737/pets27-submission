@@ -1,0 +1,14 @@
+{
+  "asn": 41870,
+  "metadata": {
+    "handle": "S3COMPANY",
+    "description": "S3 Company Ltd",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

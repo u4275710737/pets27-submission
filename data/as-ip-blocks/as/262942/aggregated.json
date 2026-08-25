@@ -1,0 +1,14 @@
+{
+  "asn": 262942,
+  "metadata": {
+    "handle": "WAVE-TELECOM",
+    "description": "Wave Telecom Ltda.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

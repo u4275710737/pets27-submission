@@ -1,0 +1,16 @@
+{
+  "asn": 133372,
+  "metadata": {
+    "handle": "INTERAPTUSLIMITED-AS-AP",
+    "description": "Interaptus Limited",
+    "countryCode": "HK",
+    "country": "Hong Kong SAR China",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "103.225.212.0/23", "103.225.214.0/24" ],
+    "ipv6": [ "2404:1d80:1a::/48", "2404:1d80:213::/48" ]
+  }
+}

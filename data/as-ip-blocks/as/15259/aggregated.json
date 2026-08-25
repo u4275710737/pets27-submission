@@ -1,0 +1,14 @@
+{
+  "asn": 15259,
+  "metadata": {
+    "handle": "ATT-ITSNCS-1",
+    "description": "AT&T Solutions ITS/NCS",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

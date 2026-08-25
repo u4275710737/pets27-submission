@@ -1,0 +1,14 @@
+{
+  "asn": 63114,
+  "metadata": {
+    "handle": "YUL-HOSTED",
+    "description": "Genesys Telecommunications Laboratories Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

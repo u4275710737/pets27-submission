@@ -1,0 +1,4 @@
+# AS36936 (CELTEL-GABON)
+# Celtel Gabon Internet Service
+#
+2001:43f8:760::/48

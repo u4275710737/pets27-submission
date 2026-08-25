@@ -1,0 +1,16 @@
+{
+  "asn": 266177,
+  "metadata": {
+    "handle": "LOUVETEL-COMUNICACAO-COMERCIAL",
+    "description": "Louvetel Comunicação Comercial SCM Ltda",
+    "countryCode": "BR",
+    "country": "Brazil",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "200.106.148.0/22" ],
+    "ipv6": [ "2804:3be0::/32" ]
+  }
+}

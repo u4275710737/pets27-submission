@@ -1,0 +1,16 @@
+{
+  "asn": 142314,
+  "metadata": {
+    "handle": "IDNIC-KOMINFOSANTIBLL-AS-ID",
+    "description": "Dinas Komunikasi Informatika Persandian dan Statistik Kabuapten Bueleleng",
+    "countryCode": "ID",
+    "country": "Indonesia",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "103.168.29.0/24" ],
+    "ipv6": [ ]
+  }
+}

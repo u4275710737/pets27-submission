@@ -1,0 +1,14 @@
+{
+  "asn": 212773,
+  "metadata": {
+    "handle": "CROSSYN",
+    "description": "Conneqtech B.V.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

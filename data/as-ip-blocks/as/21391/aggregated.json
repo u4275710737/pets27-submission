@@ -1,0 +1,16 @@
+{
+  "asn": 21391,
+  "metadata": {
+    "handle": "TDA-AS",
+    "description": "TDA AS Maintainer",
+    "countryCode": "DZ",
+    "country": "Algeria",
+    "origin": "authoritative",
+    "category": "government_admin",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "80.246.0.0/20" ],
+    "ipv6": [ ]
+  }
+}

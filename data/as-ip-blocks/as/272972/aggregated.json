@@ -1,0 +1,16 @@
+{
+  "asn": 272972,
+  "metadata": {
+    "handle": "MARTINEZ-JURADO-EVELIN-PAOLA",
+    "description": "MARTINEZ JURADO EVELIN PAOLA (STALSOFT TYS)",
+    "countryCode": "EC",
+    "country": "Ecuador",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ "2803:e590::/32" ]
+  }
+}

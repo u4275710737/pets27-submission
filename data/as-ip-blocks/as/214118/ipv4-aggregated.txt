@@ -1,0 +1,5 @@
+# AS214118 (LAGERMAX-AS)
+# Lagermax Lagerhaus und Speditions AG
+#
+45.93.252.0/22
+213.33.118.0/24

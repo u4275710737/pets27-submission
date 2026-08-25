@@ -1,0 +1,14 @@
+{
+  "asn": 135455,
+  "metadata": {
+    "handle": "IDNIC-BPKPENABUR-ID",
+    "description": "YAYASAN BADAN PENDIDIKAN KRISTEN PENABUR (YBPK)",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,3 @@
+# AS4983 (INTEL-SC-AS)
+# Intel Corporation
+#

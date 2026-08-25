@@ -1,0 +1,5 @@
+# AS8918 (CARRIER1-AS)
+# Coolwave Communications Limited
+#
+212.4.192.0/19
+213.239.0.0/18

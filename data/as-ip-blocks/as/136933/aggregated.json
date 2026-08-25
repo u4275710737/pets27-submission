@@ -1,0 +1,14 @@
+{
+  "asn": 136933,
+  "metadata": {
+    "handle": "GIGABITBANK-AS-AP",
+    "description": "GIGABIT SOLUTION LIMITED",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

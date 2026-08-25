@@ -1,0 +1,4 @@
+# AS64250 (VOCALOGIC)
+# DialPath
+#
+199.229.251.0/24

@@ -1,0 +1,5 @@
+# AS48825 (FAST2HOST)
+# Fast4networks Ltd
+#
+95.128.128.0/21
+185.4.48.0/22

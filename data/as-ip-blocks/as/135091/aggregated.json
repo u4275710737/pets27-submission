@@ -1,0 +1,16 @@
+{
+  "asn": 135091,
+  "metadata": {
+    "handle": "AYAANCOMMUNICATION-AS-AP",
+    "description": "Ayaan communication",
+    "countryCode": "BD",
+    "country": "Bangladesh",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "160.250.190.0/23" ],
+    "ipv6": [ "2401:df20::/32" ]
+  }
+}

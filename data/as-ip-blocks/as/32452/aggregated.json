@@ -1,0 +1,14 @@
+{
+  "asn": 32452,
+  "metadata": {
+    "handle": "JMP-SECURITIES-LLC",
+    "description": "JMP Securities LLC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

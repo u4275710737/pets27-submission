@@ -1,0 +1,14 @@
+{
+  "asn": 43718,
+  "metadata": {
+    "handle": "STBG",
+    "description": "Veriosoft EOOD",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

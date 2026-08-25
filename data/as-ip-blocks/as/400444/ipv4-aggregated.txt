@@ -1,0 +1,5 @@
+# AS400444 (MAGNERA-NA1)
+# Magnera Corporation
+#
+149.7.18.0/24
+198.203.136.0/24

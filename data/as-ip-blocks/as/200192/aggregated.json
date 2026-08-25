@@ -1,0 +1,16 @@
+{
+  "asn": 200192,
+  "metadata": {
+    "handle": "SUPER-OPTIK",
+    "description": "Super Optik Tech LLC",
+    "countryCode": "AZ",
+    "country": "Azerbaijan",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "94.20.46.0/24" ],
+    "ipv6": [ ]
+  }
+}

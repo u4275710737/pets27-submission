@@ -1,0 +1,14 @@
+{
+  "asn": 49379,
+  "metadata": {
+    "handle": "VERIDA",
+    "description": "SC Verida Credit IFN SA",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

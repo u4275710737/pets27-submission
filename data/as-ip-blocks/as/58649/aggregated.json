@@ -1,0 +1,16 @@
+{
+  "asn": 58649,
+  "metadata": {
+    "handle": "GMO-REG-R1",
+    "description": "GMO Internet Inc.",
+    "countryCode": "JP",
+    "country": "Japan",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "118.27.94.0/24" ],
+    "ipv6": [ "2400:8500:4800::/48" ]
+  }
+}

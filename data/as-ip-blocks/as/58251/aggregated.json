@@ -1,0 +1,14 @@
+{
+  "asn": 58251,
+  "metadata": {
+    "handle": "KOUDING",
+    "description": "Beijing Kouding Technology Co., Ltd",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

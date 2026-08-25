@@ -1,0 +1,14 @@
+{
+  "asn": 264793,
+  "metadata": {
+    "handle": "NETWORK-TECHNOLOGIES-LIMITED",
+    "description": "NETWORK TECHNOLOGIES LIMITED",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

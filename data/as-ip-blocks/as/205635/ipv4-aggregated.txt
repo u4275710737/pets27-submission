@@ -1,0 +1,4 @@
+# AS205635 (OCTOBANK)
+# JSC Octobank
+#
+85.8.185.0/24

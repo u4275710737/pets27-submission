@@ -1,0 +1,14 @@
+{
+  "asn": 1290,
+  "metadata": {
+    "handle": "TELSTRAEUROPELTD-BACKBONE",
+    "description": "Telstra Europe Ltd",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

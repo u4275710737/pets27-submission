@@ -1,0 +1,14 @@
+{
+  "asn": 43631,
+  "metadata": {
+    "handle": "GOTHAER-ASIG-AS",
+    "description": "Gothaer Asigurari Reasigurari S.A.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

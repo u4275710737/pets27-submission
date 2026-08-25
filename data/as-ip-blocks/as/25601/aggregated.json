@@ -1,0 +1,14 @@
+{
+  "asn": 25601,
+  "metadata": {
+    "handle": "FOWLERVILLE",
+    "description": "FreedomNet",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

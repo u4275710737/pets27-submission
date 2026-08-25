@@ -1,0 +1,14 @@
+{
+  "asn": 33114,
+  "metadata": {
+    "handle": "CO-OP",
+    "description": "Cu Cooperative Systems Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

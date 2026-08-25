@@ -1,0 +1,14 @@
+{
+  "asn": 207111,
+  "metadata": {
+    "handle": "FREIFUNK-ENSE",
+    "description": "Rene Preuss",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

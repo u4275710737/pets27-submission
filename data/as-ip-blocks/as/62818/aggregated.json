@@ -1,0 +1,14 @@
+{
+  "asn": 62818,
+  "metadata": {
+    "handle": "SST-59",
+    "description": "Pinpoint Communications, Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

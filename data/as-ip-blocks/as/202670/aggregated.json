@@ -1,0 +1,16 @@
+{
+  "asn": 202670,
+  "metadata": {
+    "handle": "CLOUDZMEASN1",
+    "description": "CLOUDZME FZE",
+    "countryCode": "AE",
+    "country": "United Arab Emirates",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "185.151.4.0/22" ],
+    "ipv6": [ ]
+  }
+}

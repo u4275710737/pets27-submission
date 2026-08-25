@@ -1,0 +1,4 @@
+# AS59626 (CONSCIA)
+# Conscia Danmark A/S
+#
+185.139.100.0/22

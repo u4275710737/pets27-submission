@@ -1,0 +1,16 @@
+{
+  "asn": 394288,
+  "metadata": {
+    "handle": "COHES-ASN-01",
+    "description": "Cohesity Inc.",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "198.145.36.0/24" ],
+    "ipv6": [ ]
+  }
+}

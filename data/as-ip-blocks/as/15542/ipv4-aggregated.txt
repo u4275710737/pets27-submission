@@ -1,0 +1,5 @@
+# AS15542 (ZEELANDNET)
+# DELTA Fiber Nederland B.V.
+#
+91.230.33.0/24
+91.230.34.0/23

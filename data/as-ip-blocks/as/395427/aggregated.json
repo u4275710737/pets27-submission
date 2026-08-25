@@ -1,0 +1,16 @@
+{
+  "asn": 395427,
+  "metadata": {
+    "handle": "PH-LSK-003",
+    "description": "Parker Hannifin Corporation",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "152.50.7.0/24" ],
+    "ipv6": [ ]
+  }
+}

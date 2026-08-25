@@ -1,0 +1,4 @@
+# AS15398 (CYBERCORE-AS)
+# Werft22 AG
+#
+2001:918:ff5d::/48

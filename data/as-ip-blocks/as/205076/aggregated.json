@@ -1,0 +1,14 @@
+{
+  "asn": 205076,
+  "metadata": {
+    "handle": "ROBI-AS",
+    "description": "Robi Inzhenering DOOEL",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

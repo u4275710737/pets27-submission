@@ -1,0 +1,4 @@
+# AS208357 (PRIMANET-ASN)
+# Bredbaandsforeningen Primanet
+#
+89.186.176.0/20

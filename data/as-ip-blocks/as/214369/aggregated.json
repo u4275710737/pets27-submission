@@ -1,0 +1,16 @@
+{
+  "asn": 214369,
+  "metadata": {
+    "handle": "NET-ARN-AS",
+    "description": "Net-ARN Sp. z o.o.",
+    "countryCode": "PL",
+    "country": "Poland",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "88.220.248.0/23" ],
+    "ipv6": [ ]
+  }
+}

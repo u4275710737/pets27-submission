@@ -1,0 +1,16 @@
+{
+  "asn": 136067,
+  "metadata": {
+    "handle": "IDNIC-BANTUL-ID",
+    "description": "Dinas Komunikasi dan Informatika",
+    "countryCode": "ID",
+    "country": "Indonesia",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "103.83.176.0/23" ],
+    "ipv6": [ ]
+  }
+}

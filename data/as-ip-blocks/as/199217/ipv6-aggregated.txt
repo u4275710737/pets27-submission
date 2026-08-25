@@ -1,0 +1,4 @@
+# AS199217 (IKARUS-AS)
+# IKARUS Security GmbH
+#
+2001:67c:168c::/48

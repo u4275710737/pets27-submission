@@ -1,0 +1,14 @@
+{
+  "asn": 137096,
+  "metadata": {
+    "handle": "RVRFIBER",
+    "description": "Rvr Fibernet Pvt Ltd",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

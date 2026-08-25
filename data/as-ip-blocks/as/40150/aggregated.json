@@ -1,0 +1,14 @@
+{
+  "asn": 40150,
+  "metadata": {
+    "handle": "K12-VA",
+    "description": "K12 Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 28997,
+  "metadata": {
+    "handle": "NEDCOMP-AS",
+    "description": "Micros B.V.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

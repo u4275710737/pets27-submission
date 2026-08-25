@@ -1,0 +1,16 @@
+{
+  "asn": 45032,
+  "metadata": {
+    "handle": "FABIT-AS",
+    "description": "Fab:IT ApS",
+    "countryCode": "DK",
+    "country": "Denmark",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "93.90.112.0/20", "185.101.152.0/22" ],
+    "ipv6": [ "2a00:df0::/32" ]
+  }
+}

@@ -1,0 +1,3 @@
+# AS132523 (SPEED19-AS-IN)
+# Speed Touch Net Service
+#

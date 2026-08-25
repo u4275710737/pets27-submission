@@ -1,0 +1,16 @@
+{
+  "asn": 399438,
+  "metadata": {
+    "handle": "AB-ASN-01",
+    "description": "AIRD & BERLIS LLP",
+    "countryCode": "CA",
+    "country": "Canada",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "38.84.155.0/24" ],
+    "ipv6": [ ]
+  }
+}

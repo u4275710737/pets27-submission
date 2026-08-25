@@ -1,0 +1,16 @@
+{
+  "asn": 396922,
+  "metadata": {
+    "handle": "TGRID-AS",
+    "description": "Cisco Systems Inc.",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "63.97.201.0/24", "63.162.55.0/24", "200.194.240.0/21" ],
+    "ipv6": [ "2602:811:9000::/46", "2602:811:9006::/47", "2602:811:900b::/48", "2602:811:900d::/48", "2602:811:900e::/47" ]
+  }
+}

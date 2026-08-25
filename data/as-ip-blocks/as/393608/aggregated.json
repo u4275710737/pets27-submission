@@ -1,0 +1,14 @@
+{
+  "asn": 393608,
+  "metadata": {
+    "handle": "MARKLOGIC-CORP",
+    "description": "Mark Logic Corporation",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

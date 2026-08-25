@@ -1,0 +1,14 @@
+{
+  "asn": 396349,
+  "metadata": {
+    "handle": "FIVE-COLLEGE-DATA-NETWORK",
+    "description": "Five College Net, LLC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

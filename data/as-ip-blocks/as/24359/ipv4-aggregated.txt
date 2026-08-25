@@ -1,0 +1,3 @@
+# AS24359 (CNGI-CHS-IX-AS-AP)
+# CERNET2 IX at Central South University
+#

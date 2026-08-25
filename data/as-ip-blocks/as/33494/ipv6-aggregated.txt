@@ -1,0 +1,4 @@
+# AS33494 (IHNET)
+# IHNetworks LLC
+#
+2606:5600::/32

@@ -1,0 +1,14 @@
+{
+  "asn": 205700,
+  "metadata": {
+    "handle": "ASIT-SWF",
+    "description": "IT Suedwestfalen GmbH",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

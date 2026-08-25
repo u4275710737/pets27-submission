@@ -1,0 +1,16 @@
+{
+  "asn": 214880,
+  "metadata": {
+    "handle": "SJYS6-NETWORK-LTD",
+    "description": "SJYS6 LTD",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": [
+      "2a14:67c1:36::/48"
+    ]
+  }
+}

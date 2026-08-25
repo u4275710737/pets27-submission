@@ -1,0 +1,16 @@
+{
+  "asn": 202732,
+  "metadata": {
+    "handle": "MONOGON",
+    "description": "Monogon SE",
+    "countryCode": "DE",
+    "country": "Germany",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "213.239.140.0/23" ],
+    "ipv6": [ "2001:3ac0::/32" ]
+  }
+}

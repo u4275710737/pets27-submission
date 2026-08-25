@@ -1,0 +1,14 @@
+{
+  "asn": 395397,
+  "metadata": {
+    "handle": "COSMO-INC-5665",
+    "description": "Cosmopolitan Medical Communications",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

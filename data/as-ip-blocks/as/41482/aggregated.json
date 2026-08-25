@@ -1,0 +1,14 @@
+{
+  "asn": 41482,
+  "metadata": {
+    "handle": "CLUEAG-AS",
+    "description": "Bechtle Schweiz AG",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "asn": 151805,
+  "metadata": {
+    "handle": "XIAOFEIXU-AS-AP",
+    "description": "MU Cloud",
+    "countryCode": "AU",
+    "country": "Australia",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "151.158.219.0/24" ],
+    "ipv6": [ "2001:df6:bf40::/48" ]
+  }
+}

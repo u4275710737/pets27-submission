@@ -1,0 +1,14 @@
+{
+  "asn": 207600,
+  "metadata": {
+    "handle": "ASOCKET-LLC",
+    "description": "Atlas Industries Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,5 @@
+# AS5619 (NO-TTSN-ASN1)
+# Tietoevry Norway AS
+#
+2a00:1be8::/29
+2a02:9c8::/29

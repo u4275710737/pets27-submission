@@ -1,0 +1,14 @@
+{
+  "asn": 132666,
+  "metadata": {
+    "handle": "IDNIC-BANDARLAMPUNGKOTA-ID",
+    "description": "Dinas Komunikasi dan Informatika Kota Bandar Lampung",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

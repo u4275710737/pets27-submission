@@ -1,0 +1,14 @@
+{
+  "asn": 135398,
+  "metadata": {
+    "handle": "ASIATECH-HK",
+    "description": "AsiaTech Telecom Limited",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

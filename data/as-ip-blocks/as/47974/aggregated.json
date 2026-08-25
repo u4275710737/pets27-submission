@@ -1,0 +1,14 @@
+{
+  "asn": 47974,
+  "metadata": {
+    "handle": "NETKOM-AS",
+    "description": "LLC CIT Alanit",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

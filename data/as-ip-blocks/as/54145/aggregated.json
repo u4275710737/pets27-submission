@@ -1,0 +1,16 @@
+{
+  "asn": 54145,
+  "metadata": {
+    "handle": "AUTH-SERVERS",
+    "description": "AUTH-SERVERS AS",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "204.194.22.0/23" ],
+    "ipv6": [ ]
+  }
+}

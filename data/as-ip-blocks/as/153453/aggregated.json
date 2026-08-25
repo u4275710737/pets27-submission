@@ -1,0 +1,14 @@
+{
+  "asn": 153453,
+  "metadata": {
+    "handle": "HONGSHIN-AS-AP",
+    "description": "HONGSHIN INC.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

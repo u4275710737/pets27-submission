@@ -1,0 +1,16 @@
+{
+  "asn": 32127,
+  "metadata": {
+    "handle": "AYVA",
+    "description": "Ayva",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ ]
+  }
+}

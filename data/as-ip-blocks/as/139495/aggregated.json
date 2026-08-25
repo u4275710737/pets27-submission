@@ -1,0 +1,14 @@
+{
+  "asn": 139495,
+  "metadata": {
+    "handle": "STROMNT-AS-IN",
+    "description": "Stromnet Communication Private Limited",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

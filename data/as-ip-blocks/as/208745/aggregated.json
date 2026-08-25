@@ -1,0 +1,14 @@
+{
+  "asn": 208745,
+  "metadata": {
+    "handle": "SAKANS",
+    "description": "Sakans Yazilim Teknolojileri Limited Sirketi trading as Sakans Yazilim",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

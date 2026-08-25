@@ -1,0 +1,14 @@
+{
+  "asn": 27844,
+  "metadata": {
+    "handle": "ETAPA-EP",
+    "description": "ETAPA EP",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

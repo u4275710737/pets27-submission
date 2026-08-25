@@ -1,0 +1,14 @@
+{
+  "asn": 139864,
+  "metadata": {
+    "handle": "NIAIFL-AS-AP",
+    "description": "National Investment And Infrastructure Fund Limited",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

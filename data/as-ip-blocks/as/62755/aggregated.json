@@ -1,0 +1,14 @@
+{
+  "asn": 62755,
+  "metadata": {
+    "handle": "DOTBLOCK-1",
+    "description": "HostRocket.com Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

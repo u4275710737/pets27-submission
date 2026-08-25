@@ -1,0 +1,14 @@
+{
+  "asn": 328799,
+  "metadata": {
+    "handle": "HOSTOWEB",
+    "description": "PIXI MEDIA SARL",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

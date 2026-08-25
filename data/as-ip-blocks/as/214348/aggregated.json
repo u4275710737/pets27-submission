@@ -1,0 +1,14 @@
+{
+  "asn": 214348,
+  "metadata": {
+    "handle": "DYNADO",
+    "description": "Dynado ApS",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,6 @@
+# AS61138 (ZAPPIE-HOST-AS)
+# Zappie Host LLC
+#
+2a06:1280::/32
+2a06:a006::/32
+2c0f:f530::/32

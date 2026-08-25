@@ -1,0 +1,14 @@
+{
+  "asn": 8307,
+  "metadata": {
+    "handle": "TS",
+    "description": "Telekom Slovenije, d.d.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 397996,
+  "metadata": {
+    "handle": "NEC-PUBLIC",
+    "description": "Microsoft Corporation",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

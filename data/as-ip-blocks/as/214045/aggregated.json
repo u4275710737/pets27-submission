@@ -1,0 +1,14 @@
+{
+  "asn": 214045,
+  "metadata": {
+    "handle": "RAGDOLL-NET",
+    "description": "RAGDOLL NETWORK LTD",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

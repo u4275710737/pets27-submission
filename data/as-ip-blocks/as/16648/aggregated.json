@@ -1,0 +1,14 @@
+{
+  "asn": 16648,
+  "metadata": {
+    "handle": "PCSIA-NET",
+    "description": "Professional Computer Solutions, Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

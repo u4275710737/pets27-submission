@@ -1,0 +1,14 @@
+{
+  "asn": 213716,
+  "metadata": {
+    "handle": "GONZALO-FERRERA-BORRAS",
+    "description": "Gonzalo Ferrera Borras",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

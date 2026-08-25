@@ -1,0 +1,14 @@
+{
+  "asn": 395678,
+  "metadata": {
+    "handle": "VC-01",
+    "description": "Vertical Computers",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

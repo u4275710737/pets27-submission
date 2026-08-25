@@ -1,0 +1,16 @@
+{
+  "asn": 197214,
+  "metadata": {
+    "handle": "ELECTROSTROI",
+    "description": "Electrostroy Ltd.",
+    "countryCode": "BG",
+    "country": "Bulgaria",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "87.243.65.0/24" ],
+    "ipv6": [ ]
+  }
+}

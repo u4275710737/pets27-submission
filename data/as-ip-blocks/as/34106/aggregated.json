@@ -1,0 +1,14 @@
+{
+  "asn": 34106,
+  "metadata": {
+    "handle": "TELEGRAAF",
+    "description": "Mediahuis Technology & Product Studio NV",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

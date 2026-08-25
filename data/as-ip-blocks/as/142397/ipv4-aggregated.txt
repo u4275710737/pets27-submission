@@ -1,0 +1,4 @@
+# AS142397 (IDNIC-PNB-AS-ID)
+# Politeknik Negeri Bali
+#
+103.170.188.0/24

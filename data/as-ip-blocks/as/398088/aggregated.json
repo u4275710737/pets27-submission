@@ -1,0 +1,14 @@
+{
+  "asn": 398088,
+  "metadata": {
+    "handle": "VANWATECH",
+    "description": "OrcaTech",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

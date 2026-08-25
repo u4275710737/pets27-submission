@@ -1,0 +1,14 @@
+{
+  "asn": 29007,
+  "metadata": {
+    "handle": "PETROTEL",
+    "description": "Petrotel Sp. z o.o.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 400261,
+  "metadata": {
+    "handle": "WANTECH-01",
+    "description": "Waneanta Tech Solutions Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

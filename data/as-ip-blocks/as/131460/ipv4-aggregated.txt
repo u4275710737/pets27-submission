@@ -1,0 +1,7 @@
+# AS131460 (ASIASOFTNET-TH)
+# Asiasoft Corporation Public Company Limited
+#
+103.4.156.0/22
+123.242.200.0/22
+123.242.204.0/23
+123.242.206.0/24

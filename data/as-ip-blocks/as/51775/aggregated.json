@@ -1,0 +1,14 @@
+{
+  "asn": 51775,
+  "metadata": {
+    "handle": "DATIS",
+    "description": "DATIS SOLUTIONS PTY LTD",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "asn": 25005,
+  "metadata": {
+    "handle": "FINIBANCO-AS",
+    "description": "Montepio Investimento S.A.",
+    "countryCode": "PT",
+    "country": "Portugal",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ ]
+  }
+}

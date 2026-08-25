@@ -1,0 +1,14 @@
+{
+  "asn": 63054,
+  "metadata": {
+    "handle": "ONDECK-COLO-P5",
+    "description": "Enova International Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

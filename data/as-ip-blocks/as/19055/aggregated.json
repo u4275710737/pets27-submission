@@ -1,0 +1,14 @@
+{
+  "asn": 19055,
+  "metadata": {
+    "handle": "CAC-HQ",
+    "description": "Credit Acceptance Corporation",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

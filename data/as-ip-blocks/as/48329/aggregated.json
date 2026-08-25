@@ -1,0 +1,14 @@
+{
+  "asn": 48329,
+  "metadata": {
+    "handle": "NORTHERNDATACLOUD",
+    "description": "Northern Data Software GmbH",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

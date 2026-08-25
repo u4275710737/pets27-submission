@@ -1,0 +1,14 @@
+{
+  "asn": 397838,
+  "metadata": {
+    "handle": "GEICO-CNDA",
+    "description": "GEICO",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

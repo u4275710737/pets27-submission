@@ -1,0 +1,3 @@
+# AS397640 (AS-CORESCI)
+# Core Scientific Inc.
+#

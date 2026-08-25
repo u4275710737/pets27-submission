@@ -1,0 +1,14 @@
+{
+  "asn": 397411,
+  "metadata": {
+    "handle": "SLW-NET-01",
+    "description": "Swift Link Wireless Inc",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

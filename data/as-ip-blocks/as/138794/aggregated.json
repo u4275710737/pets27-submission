@@ -1,0 +1,14 @@
+{
+  "asn": 138794,
+  "metadata": {
+    "handle": "DEENETIN-AS-IN",
+    "description": "Deenet Internet Services Pvt Ltd",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

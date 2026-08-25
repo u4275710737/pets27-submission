@@ -1,0 +1,5 @@
+# AS14927 (TERATEAMS-INC)
+# TeraTeams Inc
+#
+64.81.181.0/24
+131.143.63.0/24

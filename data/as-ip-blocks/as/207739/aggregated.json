@@ -1,0 +1,16 @@
+{
+  "asn": 207739,
+  "metadata": {
+    "handle": "FLONETSRLS",
+    "description": "FLONET SRLS",
+    "countryCode": "IT",
+    "country": "Italy",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "91.231.53.0/24" ],
+    "ipv6": [ ]
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 212078,
+  "metadata": {
+    "handle": "AS820707",
+    "description": "Xarxes Esteses de Comunicacions SL",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "asn": 329726,
+  "metadata": {
+    "handle": "COJOJ",
+    "description": "Comitè d'Organisation des Jeux Olympiques de la Jeunesse Dakar 2026",
+    "countryCode": "SN",
+    "country": "Senegal",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "102.202.197.0/24" ],
+    "ipv6": [ ]
+  }
+}

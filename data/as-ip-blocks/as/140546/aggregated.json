@@ -1,0 +1,16 @@
+{
+  "asn": 140546,
+  "metadata": {
+    "handle": "UECL-AS-AP",
+    "description": "United Enterprises & CO Ltd.",
+    "countryCode": "BD",
+    "country": "Bangladesh",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "103.150.48.0/24" ],
+    "ipv6": [ ]
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 47151,
+  "metadata": {
+    "handle": "SMARTCOM",
+    "description": "JSC ER-Telecom Holding",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

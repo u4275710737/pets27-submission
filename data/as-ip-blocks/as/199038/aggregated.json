@@ -1,0 +1,14 @@
+{
+  "asn": 199038,
+  "metadata": {
+    "handle": "IPA-TURKIYE",
+    "description": "Inter Partner Assistance Yardim ve Destek Hizmetleri Ticaret Limited Sirketi",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

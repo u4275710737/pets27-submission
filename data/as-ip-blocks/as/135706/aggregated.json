@@ -1,0 +1,14 @@
+{
+  "asn": 135706,
+  "metadata": {
+    "handle": "DDCBROAD",
+    "description": "Ddc Broadband Pvt. Ltd.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

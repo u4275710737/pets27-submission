@@ -1,0 +1,6 @@
+# AS59790 (BUNGALSKI-AS)
+# Marco Bungalski GmbH
+#
+2a04:65c0::/29
+2a05:380::/29
+2a06:bb80::/29

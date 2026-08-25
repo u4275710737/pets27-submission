@@ -1,0 +1,14 @@
+{
+  "asn": 142497,
+  "metadata": {
+    "handle": "NETIXBB-IN",
+    "description": "NETIX BROADBAND PRIVATE LIMITED",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

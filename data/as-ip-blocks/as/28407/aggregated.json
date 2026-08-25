@@ -1,0 +1,14 @@
+{
+  "asn": 28407,
+  "metadata": {
+    "handle": "KBEST-TECHNOLOGIES-MEXICO",
+    "description": "KBEST TECHNOLOGIES DE MEXICO",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

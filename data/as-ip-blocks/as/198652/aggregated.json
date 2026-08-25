@@ -1,0 +1,16 @@
+{
+  "asn": 198652,
+  "metadata": {
+    "handle": "SELECTEL-AS",
+    "description": "Selectel LTD",
+    "countryCode": "GB",
+    "country": "United Kingdom",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "154.83.210.0/24", "154.198.12.0/24" ],
+    "ipv6": [ ]
+  }
+}

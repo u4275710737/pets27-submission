@@ -1,0 +1,16 @@
+{
+  "asn": 267250,
+  "metadata": {
+    "handle": "CARLOS-HENRIQUE-PAIVA",
+    "description": "FOX TELECOM - SERVICOS E INTERNET LTDA",
+    "countryCode": "BR",
+    "country": "Brazil",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "45.232.68.0/22" ],
+    "ipv6": [ "2804:4a94::/32" ]
+  }
+}

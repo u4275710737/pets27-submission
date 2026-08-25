@@ -1,0 +1,4 @@
+# AS152427 (IDNIC-UNIPMA-AS-ID)
+# Universitas PGRI Madiun
+#
+157.20.193.0/24

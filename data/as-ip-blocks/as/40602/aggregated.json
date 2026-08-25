@@ -1,0 +1,14 @@
+{
+  "asn": 40602,
+  "metadata": {
+    "handle": "HUMEDICA",
+    "description": "Humedica, Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

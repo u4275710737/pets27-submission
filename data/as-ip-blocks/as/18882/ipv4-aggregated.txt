@@ -1,0 +1,4 @@
+# AS18882 (FLEX-DUC-AS)
+# Flextronics International - Duesseldorf
+#
+158.116.224.0/19

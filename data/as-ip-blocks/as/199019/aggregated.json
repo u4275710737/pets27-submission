@@ -1,0 +1,16 @@
+{
+  "asn": 199019,
+  "metadata": {
+    "handle": "TABANLI",
+    "description": "Enes Tabanli",
+    "countryCode": "TR",
+    "country": "Türkiye",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ "2a13:a440:1::/48", "2a13:a440:2::/48" ]
+  }
+}

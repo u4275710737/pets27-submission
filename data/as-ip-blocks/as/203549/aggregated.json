@@ -1,0 +1,16 @@
+{
+  "asn": 203549,
+  "metadata": {
+    "handle": "INDIVIDUAL-ENTREPRENEUR-ADAMYAN-AS",
+    "description": "Adamyan Arayik Stepanovich",
+    "countryCode": "RU",
+    "country": "Russia",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "185.103.111.0/24", "185.109.22.0/23" ],
+    "ipv6": [ ]
+  }
+}

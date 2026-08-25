@@ -1,0 +1,14 @@
+{
+  "asn": 45858,
+  "metadata": {
+    "handle": "DATAONE-PH2-AP",
+    "description": "Data One Asia Philippines",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

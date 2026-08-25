@@ -1,0 +1,14 @@
+{
+  "asn": 29760,
+  "metadata": {
+    "handle": "UNITI-M2",
+    "description": "Uniti Fiber Holdings Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

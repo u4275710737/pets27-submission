@@ -1,0 +1,14 @@
+{
+  "asn": 213454,
+  "metadata": {
+    "handle": "YER-BILISIM",
+    "description": "Hamza Tanik",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 63615,
+  "metadata": {
+    "handle": "GECHINANET",
+    "description": "GE (China) Co.,Ltd",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 63161,
+  "metadata": {
+    "handle": "SWAROVSKI-NA",
+    "description": "SWAROVSKI NORTH AMERICA LIMITED",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

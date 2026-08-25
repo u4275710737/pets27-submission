@@ -1,0 +1,14 @@
+{
+  "asn": 7172,
+  "metadata": {
+    "handle": "IPSOFT-US-ASN2",
+    "description": "IPsoft",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

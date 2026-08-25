@@ -1,0 +1,14 @@
+{
+  "asn": 207420,
+  "metadata": {
+    "handle": "CENTAURI",
+    "description": "Centauri Solutions, LLC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 210826,
+  "metadata": {
+    "handle": "LSGIUSEPPE",
+    "description": "Giuseppe La Spina",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

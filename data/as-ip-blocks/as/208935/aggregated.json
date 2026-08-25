@@ -1,0 +1,14 @@
+{
+  "asn": 208935,
+  "metadata": {
+    "handle": "ITS",
+    "description": "Aiti Spektr ltd",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

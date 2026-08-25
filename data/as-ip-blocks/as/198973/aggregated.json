@@ -1,0 +1,14 @@
+{
+  "asn": 198973,
+  "metadata": {
+    "handle": "RU-RN-INFORM-OHA",
+    "description": "Siberian Internet Company LLC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

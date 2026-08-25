@@ -1,0 +1,14 @@
+{
+  "asn": 211178,
+  "metadata": {
+    "handle": "DIGITALINFRA",
+    "description": "Digital Infrastructure LTD",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

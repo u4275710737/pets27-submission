@@ -1,0 +1,16 @@
+{
+  "asn": 267251,
+  "metadata": {
+    "handle": "TELEFONARNET",
+    "description": "TELEFONARNET TELECOMUNICACOES",
+    "countryCode": "BR",
+    "country": "Brazil",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "45.232.72.0/22" ],
+    "ipv6": [ ]
+  }
+}

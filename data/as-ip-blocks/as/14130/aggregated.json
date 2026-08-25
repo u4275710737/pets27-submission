@@ -1,0 +1,14 @@
+{
+  "asn": 14130,
+  "metadata": {
+    "handle": "BPC-164",
+    "description": "Boston PainCare Center",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "asn": 198839,
+  "metadata": {
+    "handle": "MCASYS",
+    "description": "SysLevel SAS",
+    "countryCode": "FR",
+    "country": "France",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ "2a12:8ac0:1000::/40" ]
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 60472,
+  "metadata": {
+    "handle": "IPRONTO",
+    "description": "Ipronto Communications B.V.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

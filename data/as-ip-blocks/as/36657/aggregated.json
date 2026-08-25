@@ -1,0 +1,14 @@
+{
+  "asn": 36657,
+  "metadata": {
+    "handle": "AVAGO-AS-AM",
+    "description": "Avago Technologies U.S. Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

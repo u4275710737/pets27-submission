@@ -1,0 +1,16 @@
+{
+  "asn": 399460,
+  "metadata": {
+    "handle": "HELIUS",
+    "description": "Helius",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "207.241.184.0/24" ],
+    "ipv6": [ ]
+  }
+}

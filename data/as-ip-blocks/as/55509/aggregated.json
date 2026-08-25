@@ -1,0 +1,16 @@
+{
+  "asn": 55509,
+  "metadata": {
+    "handle": "THESPECIALIZT-AU",
+    "description": "The Specializt",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [
+      "202.9.65.0/24"
+    ],
+    "ipv6": []
+  }
+}

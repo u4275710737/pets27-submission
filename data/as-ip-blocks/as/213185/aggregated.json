@@ -1,0 +1,16 @@
+{
+  "asn": 213185,
+  "metadata": {
+    "handle": "ETA-AS",
+    "description": "Eta Heese",
+    "countryCode": "GB",
+    "country": "United Kingdom",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "44.31.189.0/24" ],
+    "ipv6": [ "2a0d:1a40:7553::/48" ]
+  }
+}

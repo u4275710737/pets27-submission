@@ -1,0 +1,16 @@
+{
+  "asn": 62395,
+  "metadata": {
+    "handle": "ELNIC",
+    "description": "Internet Vikings International AB",
+    "countryCode": "SE",
+    "country": "Sweden",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "185.151.8.0/22" ],
+    "ipv6": [ ]
+  }
+}

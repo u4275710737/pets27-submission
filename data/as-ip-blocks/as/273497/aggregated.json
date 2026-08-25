@@ -1,0 +1,16 @@
+{
+  "asn": 273497,
+  "metadata": {
+    "handle": "IMPERIUM-T-BARREIRA",
+    "description": "IMPERIUM T. BARREIRA GRANDE SER. TELECOM LTDA",
+    "countryCode": "BR",
+    "country": "Brazil",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "201.49.184.0/23" ],
+    "ipv6": [ "2804:8f8c::/32" ]
+  }
+}

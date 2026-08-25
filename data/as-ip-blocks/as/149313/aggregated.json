@@ -1,0 +1,14 @@
+{
+  "asn": 149313,
+  "metadata": {
+    "handle": "EMRANHOSSAINOYON-AP",
+    "description": "Speed Net.ISP",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

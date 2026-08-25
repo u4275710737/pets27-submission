@@ -1,0 +1,5 @@
+# AS40497 (BETHEL-ASN1)
+# Bethel University
+#
+50.150.217.0/24
+140.88.0.0/16

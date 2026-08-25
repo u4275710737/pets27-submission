@@ -1,0 +1,16 @@
+{
+  "asn": 202247,
+  "metadata": {
+    "handle": "NETBERG",
+    "description": "NetBerg ehf",
+    "countryCode": "IS",
+    "country": "Iceland",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "77.73.33.0/24" ],
+    "ipv6": [ ]
+  }
+}

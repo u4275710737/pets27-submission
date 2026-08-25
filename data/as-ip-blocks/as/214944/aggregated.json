@@ -1,0 +1,16 @@
+{
+  "asn": 214944,
+  "metadata": {
+    "handle": "SECOPS",
+    "description": "Secops SRL",
+    "countryCode": "MD",
+    "country": "Moldova",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "38.51.185.0/24" ],
+    "ipv6": [ ]
+  }
+}

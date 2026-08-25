@@ -1,0 +1,16 @@
+{
+  "asn": 11588,
+  "metadata": {
+    "handle": "LAMBDA-BB",
+    "description": "Lambda",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "access_provider"
+  },
+  "prefixes": {
+    "ipv4": [ "198.145.39.0/24" ],
+    "ipv6": [ "2607:bb40::/32" ]
+  }
+}

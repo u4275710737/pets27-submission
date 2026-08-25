@@ -1,0 +1,16 @@
+{
+  "asn": 210103,
+  "metadata": {
+    "handle": "DDPO",
+    "description": "Cedric Dasnois",
+    "countryCode": "LU",
+    "country": "Luxembourg",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "146.19.11.0/24" ],
+    "ipv6": [ "2a12:1d00::/32" ]
+  }
+}

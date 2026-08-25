@@ -1,0 +1,16 @@
+{
+  "asn": 13126,
+  "metadata": {
+    "handle": "SMS-NET",
+    "description": "Satellite Mediaport Services Ltd.",
+    "countryCode": "GB",
+    "country": "United Kingdom",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "62.145.64.0/18" ],
+    "ipv6": [ "2a0b:7f80::/29" ]
+  }
+}

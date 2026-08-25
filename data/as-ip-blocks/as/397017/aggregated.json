@@ -1,0 +1,14 @@
+{
+  "asn": 397017,
+  "metadata": {
+    "handle": "ALPHACREST",
+    "description": "AlphaCrest Capital Management LLC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

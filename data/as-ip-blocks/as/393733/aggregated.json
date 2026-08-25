@@ -1,0 +1,16 @@
+{
+  "asn": 393733,
+  "metadata": {
+    "handle": "FEDERATED-BROADBAND-MN",
+    "description": "Federated Broadband",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "74.188.192.0/19" ],
+    "ipv6": [ ]
+  }
+}

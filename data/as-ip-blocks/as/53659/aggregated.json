@@ -1,0 +1,14 @@
+{
+  "asn": 53659,
+  "metadata": {
+    "handle": "LOGIXCOMM-AS2",
+    "description": "Logix",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

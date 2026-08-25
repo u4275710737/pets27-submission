@@ -1,0 +1,16 @@
+{
+  "asn": 327933,
+  "metadata": {
+    "handle": "GROUPE-TELECOM-SPRL",
+    "description": "GROUPE TELECOM SPRL",
+    "countryCode": "CD",
+    "country": "Congo - Kinshasa",
+    "origin": "overlaid",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "41.242.128.0/23", "41.242.131.0/24" ],
+    "ipv6": [ ]
+  }
+}

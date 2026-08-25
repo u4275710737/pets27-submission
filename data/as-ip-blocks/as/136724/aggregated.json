@@ -1,0 +1,14 @@
+{
+  "asn": 136724,
+  "metadata": {
+    "handle": "PRACNETW-AS",
+    "description": "Praction Networks Pvt Ltd",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

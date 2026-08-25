@@ -1,0 +1,4 @@
+# AS134565 (NTPCL-AS-AP)
+# National Telecom Public Company Limited
+#
+122.155.135.0/24

@@ -1,0 +1,4 @@
+# AS62287 (REGION-AS)
+# JSC ER-Telecom Holding
+#
+5.3.42.0/24

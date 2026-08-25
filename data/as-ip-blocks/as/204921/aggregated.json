@@ -1,0 +1,16 @@
+{
+  "asn": 204921,
+  "metadata": {
+    "handle": "YUNZHENG-NETWORK",
+    "description": "zhenyun sun",
+    "countryCode": "GB",
+    "country": "United Kingdom",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "142.249.114.0/23" ],
+    "ipv6": [ "2a0e:aa07:e250::/44" ]
+  }
+}

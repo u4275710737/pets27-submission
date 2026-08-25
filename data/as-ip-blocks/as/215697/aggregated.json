@@ -1,0 +1,14 @@
+{
+  "asn": 215697,
+  "metadata": {
+    "handle": "BSAS",
+    "description": "Bernard Stubbings",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

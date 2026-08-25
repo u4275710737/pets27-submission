@@ -1,0 +1,14 @@
+{
+  "asn": 395735,
+  "metadata": {
+    "handle": "DRIVENETS",
+    "description": "Drivenets Inc",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

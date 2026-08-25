@@ -1,0 +1,14 @@
+{
+  "asn": 138184,
+  "metadata": {
+    "handle": "ACKOTRIPLIMITED-AS-AP",
+    "description": "AckoTrip Limited",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

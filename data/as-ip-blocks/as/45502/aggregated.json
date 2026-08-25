@@ -1,0 +1,14 @@
+{
+  "asn": 45502,
+  "metadata": {
+    "handle": "YAHOO-CORP-MUMBAI-AP",
+    "description": "Yahoo IS-NET",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

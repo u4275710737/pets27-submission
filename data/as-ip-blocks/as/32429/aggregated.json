@@ -1,0 +1,16 @@
+{
+  "asn": 32429,
+  "metadata": {
+    "handle": "ATAENG",
+    "description": "ATA Engineering Inc.",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ ]
+  }
+}

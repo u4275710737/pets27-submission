@@ -1,0 +1,14 @@
+{
+  "asn": 136208,
+  "metadata": {
+    "handle": "HICL-AS-AP",
+    "description": "HI INTERNET COMPANY LIMITED",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

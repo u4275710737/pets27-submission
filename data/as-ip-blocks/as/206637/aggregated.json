@@ -1,0 +1,14 @@
+{
+  "asn": 206637,
+  "metadata": {
+    "handle": "IQIP",
+    "description": "CSL (DualCom) Limited",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "asn": 58810,
+  "metadata": {
+    "handle": "IZUSCOLTD-BN",
+    "description": "iZus Co. Ltd",
+    "countryCode": "BN",
+    "country": "Brunei",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ ]
+  }
+}

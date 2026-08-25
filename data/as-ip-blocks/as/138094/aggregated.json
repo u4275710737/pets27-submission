@@ -1,0 +1,14 @@
+{
+  "asn": 138094,
+  "metadata": {
+    "handle": "IDNIC-VPINDO-ID",
+    "description": "PT Vieda Prakarsa Indonesia",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

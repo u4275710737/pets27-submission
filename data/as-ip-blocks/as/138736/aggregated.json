@@ -1,0 +1,14 @@
+{
+  "asn": 138736,
+  "metadata": {
+    "handle": "MAGNUSS-IN",
+    "description": "Magnuss Broadband Service Pvt Ltd",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

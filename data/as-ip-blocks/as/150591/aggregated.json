@@ -1,0 +1,14 @@
+{
+  "asn": 150591,
+  "metadata": {
+    "handle": "ALEXA-AS-IN",
+    "description": "ALEXA BROADBAND SERVICE LLP",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

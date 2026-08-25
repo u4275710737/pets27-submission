@@ -1,0 +1,14 @@
+{
+  "asn": 269784,
+  "metadata": {
+    "handle": "UNIVERSIDAD-PROVINCIAL-SUDOESTE",
+    "description": "UNIVERSIDAD PROVINCIAL DEL SUDOESTE (UPSO)",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

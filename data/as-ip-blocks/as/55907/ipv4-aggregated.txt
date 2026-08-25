@@ -1,0 +1,4 @@
+# AS55907 (GMO-DNS-R1)
+# GMO Internet Inc.
+#
+157.7.32.0/22

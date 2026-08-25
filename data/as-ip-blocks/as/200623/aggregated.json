@@ -1,0 +1,16 @@
+{
+  "asn": 200623,
+  "metadata": {
+    "handle": "NETBLAZER-LTD",
+    "description": "NetBlazer Ltd",
+    "countryCode": "GB",
+    "country": "United Kingdom",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "72.18.73.0/24", "85.149.219.0/24" ],
+    "ipv6": [ "2602:fa02:1b::/48", "2602:fa02:33::/48", "2a14:67c3:990::/44" ]
+  }
+}

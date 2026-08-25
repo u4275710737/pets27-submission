@@ -1,0 +1,14 @@
+{
+  "asn": 35576,
+  "metadata": {
+    "handle": "SIMUS",
+    "description": "Sharq Telekom CJSC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

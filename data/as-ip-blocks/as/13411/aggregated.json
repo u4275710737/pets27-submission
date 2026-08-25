@@ -1,0 +1,14 @@
+{
+  "asn": 13411,
+  "metadata": {
+    "handle": "W3D",
+    "description": "W3D Trading Inc",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

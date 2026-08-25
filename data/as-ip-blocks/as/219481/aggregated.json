@@ -1,0 +1,16 @@
+{
+  "asn": 219481,
+  "metadata": {
+    "handle": "SINLEGE",
+    "description": "Krzysztof Manczak",
+    "countryCode": "PL",
+    "country": "Poland",
+    "origin": "authoritative",
+    "category": null,
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "5.56.29.0/24", "87.76.134.0/24" ],
+    "ipv6": [ "2a06:9801:79c::/48" ]
+  }
+}

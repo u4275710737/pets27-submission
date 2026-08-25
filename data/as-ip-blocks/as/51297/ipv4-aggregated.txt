@@ -1,0 +1,4 @@
+# AS51297 (ALPARI)
+# Exinity works (CY) LTD
+#
+178.255.200.0/24

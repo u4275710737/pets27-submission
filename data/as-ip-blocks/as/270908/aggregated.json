@@ -1,0 +1,16 @@
+{
+  "asn": 270908,
+  "metadata": {
+    "handle": "LIKE-TELECOM",
+    "description": "LIKE TELECOM",
+    "countryCode": "BR",
+    "country": "Brazil",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "131.72.120.0/23", "131.72.123.0/24" ],
+    "ipv6": [ ]
+  }
+}

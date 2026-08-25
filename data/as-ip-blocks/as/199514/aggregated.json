@@ -1,0 +1,16 @@
+{
+  "asn": 199514,
+  "metadata": {
+    "handle": "LANCET-CLOUD",
+    "description": "ILIA KALASHNIKOV",
+    "countryCode": "RU",
+    "country": "Russia",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "5.231.105.0/24" ],
+    "ipv6": [ ]
+  }
+}

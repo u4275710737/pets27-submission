@@ -1,0 +1,3 @@
+# AS58932 (PMCI-AS-AP)
+# Palau Mobile Communications Inc.
+#

@@ -1,0 +1,14 @@
+{
+  "asn": 53960,
+  "metadata": {
+    "handle": "MAZZ",
+    "description": "MAZZETTA COMPANY",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

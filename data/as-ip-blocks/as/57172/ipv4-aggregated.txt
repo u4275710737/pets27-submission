@@ -1,0 +1,5 @@
+# AS57172 (GLOBALLAYER)
+# Global Layer B.V.
+#
+37.123.208.0/24
+109.202.97.0/24

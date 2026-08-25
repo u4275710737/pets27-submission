@@ -1,0 +1,16 @@
+{
+  "asn": 48244,
+  "metadata": {
+    "handle": "HSCLOUD",
+    "description": "HS Cloud LLC",
+    "countryCode": "AM",
+    "country": "Armenia",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "91.209.38.0/24" ],
+    "ipv6": [ ]
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 395438,
+  "metadata": {
+    "handle": "TSYS-EQUINIX-DC5",
+    "description": "Global Payments Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

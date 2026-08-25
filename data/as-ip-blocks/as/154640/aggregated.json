@@ -1,0 +1,16 @@
+{
+  "asn": 154640,
+  "metadata": {
+    "handle": "IDNIC-UIN-PALANGKARAYA-ID",
+    "description": "UNIVERSITAS ISLAM NEGERI PALANGKA RAYA",
+    "countryCode": "ID",
+    "country": "Indonesia",
+    "origin": "authoritative",
+    "category": "education_research",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "163.128.240.0/24" ],
+    "ipv6": [ ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "asn": 208581,
+  "metadata": {
+    "handle": "TEAM3-AS",
+    "description": "Team 3 Management and Investments 1997 Ltd",
+    "countryCode": "IL",
+    "country": "Israel",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "147.234.80.0/24" ],
+    "ipv6": [ ]
+  }
+}

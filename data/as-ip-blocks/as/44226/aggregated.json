@@ -1,0 +1,16 @@
+{
+  "asn": 44226,
+  "metadata": {
+    "handle": "ACTURIS",
+    "description": "Acturis Ltd",
+    "countryCode": "GB",
+    "country": "United Kingdom",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "89.107.72.0/21" ],
+    "ipv6": [ ]
+  }
+}

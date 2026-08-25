@@ -1,0 +1,16 @@
+{
+  "asn": 265438,
+  "metadata": {
+    "handle": "UP-TECNOLOGIA",
+    "description": "UP TELECOM E SERVICOS LTDA",
+    "countryCode": "BR",
+    "country": "Brazil",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "access_provider"
+  },
+  "prefixes": {
+    "ipv4": [ "168.195.212.0/22" ],
+    "ipv6": [ "2804:3424::/32" ]
+  }
+}

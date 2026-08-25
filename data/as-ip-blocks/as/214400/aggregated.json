@@ -1,0 +1,14 @@
+{
+  "asn": 214400,
+  "metadata": {
+    "handle": "MARTIN-PETRAK",
+    "description": "Martin Petrak",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 208169,
+  "metadata": {
+    "handle": "ARTIKEL10",
+    "description": "Artikel10 e.V.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,4 @@
+# AS136997 (GINI-AS-AP)
+# Gnet Internet Network Inc.
+#
+103.175.244.0/24

@@ -1,0 +1,16 @@
+{
+  "asn": 266682,
+  "metadata": {
+    "handle": "DANIEL-MARECHAL",
+    "description": "DANIEL MARECHAL",
+    "countryCode": "AR",
+    "country": "Argentina",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "45.228.76.0/22" ],
+    "ipv6": [ "2803:4520::/32" ]
+  }
+}

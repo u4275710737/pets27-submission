@@ -1,0 +1,14 @@
+{
+  "asn": 204012,
+  "metadata": {
+    "handle": "JEAO",
+    "description": "Justin O'Reilly",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

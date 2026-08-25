@@ -1,0 +1,16 @@
+{
+  "asn": 7297,
+  "metadata": {
+    "handle": "APPL-AS",
+    "description": "THE ASSOCIATED PRESS",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "165.1.0.0/18" ],
+    "ipv6": [ ]
+  }
+}

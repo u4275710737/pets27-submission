@@ -1,0 +1,14 @@
+{
+  "asn": 132726,
+  "metadata": {
+    "handle": "SANYUNETCORP-JP",
+    "description": "5-3 Miyuki-cho",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "asn": 14894,
+  "metadata": {
+    "handle": "BONNECOMM",
+    "description": "BonneComm",
+    "countryCode": "CA",
+    "country": "Canada",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "162.251.16.0/22" ],
+    "ipv6": [ ]
+  }
+}

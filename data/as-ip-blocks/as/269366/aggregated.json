@@ -1,0 +1,16 @@
+{
+  "asn": 269366,
+  "metadata": {
+    "handle": "WICONECTA-BANDA-LARGA",
+    "description": "WICONECTA BANDA LARGA",
+    "countryCode": "BR",
+    "country": "Brazil",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "45.185.56.0/22" ],
+    "ipv6": [ "2804:6384::/32" ]
+  }
+}

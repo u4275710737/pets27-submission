@@ -1,0 +1,14 @@
+{
+  "asn": 395360,
+  "metadata": {
+    "handle": "FLIGHTAWARE-01",
+    "description": "FlightAware",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

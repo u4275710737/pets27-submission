@@ -1,0 +1,16 @@
+{
+  "asn": 206188,
+  "metadata": {
+    "handle": "ZETA-CLEAN-INTERNET",
+    "description": "Zeta Datacenters B.V.",
+    "countryCode": "NL",
+    "country": "Netherlands",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "5.42.194.0/24", "185.168.142.0/24" ],
+    "ipv6": [ "2a0d:df00::/29", "2a12:14c0::/29" ]
+  }
+}

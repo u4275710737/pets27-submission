@@ -1,0 +1,4 @@
+# AS37394 (ENETWORKS-ANYCAST)
+# eNetworks Anycast
+#
+2001:43f8:1180::/48

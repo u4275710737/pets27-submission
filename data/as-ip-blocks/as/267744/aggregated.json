@@ -1,0 +1,14 @@
+{
+  "asn": 267744,
+  "metadata": {
+    "handle": "SMILE-DIRECT-CLUB",
+    "description": "SMILE DIRECT CLUB S.A",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

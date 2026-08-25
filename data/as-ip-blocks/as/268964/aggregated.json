@@ -1,0 +1,16 @@
+{
+  "asn": 268964,
+  "metadata": {
+    "handle": "JF-FERREIRA-SERVICOS",
+    "description": "NET LIVRE BANDA LARGA",
+    "countryCode": "BR",
+    "country": "Brazil",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "45.177.36.0/22" ],
+    "ipv6": [ "2804:5d50::/32" ]
+  }
+}

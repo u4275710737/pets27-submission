@@ -1,0 +1,14 @@
+{
+  "asn": 31987,
+  "metadata": {
+    "handle": "PERSISTENT-TELECOM",
+    "description": "Persistent Telecom INC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

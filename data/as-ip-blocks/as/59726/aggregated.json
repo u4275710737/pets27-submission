@@ -1,0 +1,14 @@
+{
+  "asn": 59726,
+  "metadata": {
+    "handle": "ARCTEL",
+    "description": "ARCTIC TELECOM Limited Liability Company",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

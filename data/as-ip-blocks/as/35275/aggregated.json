@@ -1,0 +1,16 @@
+{
+  "asn": 35275,
+  "metadata": {
+    "handle": "KONSALNET-AS",
+    "description": "Seris Konsalnet Holding S.A.",
+    "countryCode": "PL",
+    "country": "Poland",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "91.223.225.0/24" ],
+    "ipv6": [ ]
+  }
+}

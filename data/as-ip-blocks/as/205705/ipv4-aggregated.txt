@@ -1,0 +1,5 @@
+# AS205705 (JDL-AS)
+# JDL Enterprises Limited
+#
+31.57.48.0/24
+143.14.69.0/24

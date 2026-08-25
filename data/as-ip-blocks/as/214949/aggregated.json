@@ -1,0 +1,16 @@
+{
+  "asn": 214949,
+  "metadata": {
+    "handle": "FAMONET",
+    "description": "Seyed Ali Moosavi",
+    "countryCode": "IR",
+    "country": "Iran",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "45.89.221.0/24" ],
+    "ipv6": [ ]
+  }
+}

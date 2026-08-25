@@ -1,0 +1,16 @@
+{
+  "asn": 200394,
+  "metadata": {
+    "handle": "BLS-HOSTING-AS",
+    "description": "BLS media GmbH",
+    "countryCode": "DE",
+    "country": "Germany",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "150.251.151.0/24" ],
+    "ipv6": [ "2001:678:11f0::/48" ]
+  }
+}

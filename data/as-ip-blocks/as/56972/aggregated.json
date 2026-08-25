@@ -1,0 +1,14 @@
+{
+  "asn": 56972,
+  "metadata": {
+    "handle": "AXON",
+    "description": "ISP AXON LTD",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

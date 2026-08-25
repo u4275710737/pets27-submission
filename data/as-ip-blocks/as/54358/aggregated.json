@@ -1,0 +1,14 @@
+{
+  "asn": 54358,
+  "metadata": {
+    "handle": "CRG",
+    "description": "Cheyenne Radiology Group, P.C",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

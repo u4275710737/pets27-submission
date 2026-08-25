@@ -1,0 +1,14 @@
+{
+  "asn": 60921,
+  "metadata": {
+    "handle": "FARPOST-IT",
+    "description": "LLC Farpost IT",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "asn": 274903,
+  "metadata": {
+    "handle": "RIOS-VISION-NETSURF",
+    "description": "RIOS VISION NETSURF RIOSANET S.A.",
+    "countryCode": "EC",
+    "country": "Ecuador",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ "2803:ce30::/32" ]
+  }
+}

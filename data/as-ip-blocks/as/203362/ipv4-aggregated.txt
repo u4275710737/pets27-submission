@@ -1,0 +1,5 @@
+# AS203362 (PL-OPEN-WAY-AS)
+# OPEN WAY Lukasz Jankowiak
+#
+74.209.169.0/24
+89.234.207.0/24

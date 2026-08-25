@@ -1,0 +1,14 @@
+{
+  "asn": 199000,
+  "metadata": {
+    "handle": "ALPGROUP",
+    "description": "CLOUDY INFORMATION SYSTEMS LLC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

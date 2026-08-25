@@ -1,0 +1,14 @@
+{
+  "asn": 212129,
+  "metadata": {
+    "handle": "CIRRUSLAB",
+    "description": "Christophe Gherardi",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

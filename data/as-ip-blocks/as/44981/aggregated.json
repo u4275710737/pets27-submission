@@ -1,0 +1,14 @@
+{
+  "asn": 44981,
+  "metadata": {
+    "handle": "OOSHA",
+    "description": "Oosha Ltd",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

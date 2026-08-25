@@ -1,0 +1,14 @@
+{
+  "asn": 139976,
+  "metadata": {
+    "handle": "DATAUTAMA-NAP-ID",
+    "description": "PT. DATAUTAMA DINAMIKA - NAP",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

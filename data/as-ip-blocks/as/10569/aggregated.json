@@ -1,0 +1,16 @@
+{
+  "asn": 10569,
+  "metadata": {
+    "handle": "CENIA-AS",
+    "description": "Red CENIAInternet",
+    "countryCode": "CU",
+    "country": "Cuba",
+    "origin": "overlaid",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "169.158.0.0/16" ],
+    "ipv6": [ "2001:1340::/32" ]
+  }
+}

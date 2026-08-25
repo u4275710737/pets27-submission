@@ -1,0 +1,16 @@
+{
+  "asn": 329739,
+  "metadata": {
+    "handle": "WAY3-PROTOCOL-LIMITED",
+    "description": "3 Way Protocol Limited",
+    "countryCode": "NG",
+    "country": "Nigeria",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "102.202.164.0/23" ],
+    "ipv6": [ "2c0f:4b20::/32" ]
+  }
+}

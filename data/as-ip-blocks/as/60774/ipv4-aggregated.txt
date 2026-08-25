@@ -1,0 +1,5 @@
+# AS60774 (ASTAKENET)
+# MetaComp Wurzburg GmbH
+#
+194.15.88.0/21
+212.102.97.0/24

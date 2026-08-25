@@ -1,0 +1,14 @@
+{
+  "asn": 202679,
+  "metadata": {
+    "handle": "ASD3M",
+    "description": "Deltatre S.p.A.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

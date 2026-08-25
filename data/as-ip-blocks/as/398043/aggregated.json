@@ -1,0 +1,14 @@
+{
+  "asn": 398043,
+  "metadata": {
+    "handle": "DYNU",
+    "description": "Dynu Systems Incorporated",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

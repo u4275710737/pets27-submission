@@ -1,0 +1,14 @@
+{
+  "asn": 46147,
+  "metadata": {
+    "handle": "HCTRL",
+    "description": "OPTICALTEL",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

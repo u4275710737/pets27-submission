@@ -1,0 +1,4 @@
+# AS212513 (OSNET-TELEKOM)
+# Osnet Telekomunikasyon Dis Ticaret Limited Sirketi
+#
+45.196.232.0/24

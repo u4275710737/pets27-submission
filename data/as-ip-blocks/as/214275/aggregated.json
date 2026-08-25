@@ -1,0 +1,14 @@
+{
+  "asn": 214275,
+  "metadata": {
+    "handle": "DIGICORP-NET",
+    "description": "Digicorp Ltd.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

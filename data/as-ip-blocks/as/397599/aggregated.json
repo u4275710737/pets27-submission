@@ -1,0 +1,16 @@
+{
+  "asn": 397599,
+  "metadata": {
+    "handle": "SYN-TORO-01",
+    "description": "Synamedia",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": [
+      "2602:fde3::/36"
+    ]
+  }
+}

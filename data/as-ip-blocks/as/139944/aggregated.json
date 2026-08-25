@@ -1,0 +1,14 @@
+{
+  "asn": 139944,
+  "metadata": {
+    "handle": "IDNIC-GIMCLOUD-ID",
+    "description": "PT. Global Indo Multimedia",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

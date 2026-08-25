@@ -1,0 +1,14 @@
+{
+  "asn": 60057,
+  "metadata": {
+    "handle": "KUBERNETES",
+    "description": "Standart AG, LLC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

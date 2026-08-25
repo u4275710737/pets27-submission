@@ -1,0 +1,14 @@
+{
+  "asn": 4152,
+  "metadata": {
+    "handle": "USDA-1",
+    "description": "USDA",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

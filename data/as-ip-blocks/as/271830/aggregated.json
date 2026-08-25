@@ -1,0 +1,14 @@
+{
+  "asn": 271830,
+  "metadata": {
+    "handle": "DEPARTAMENTO-DE-ANTIOQUIA",
+    "description": "DEPARTAMENTO DE ANTIOQUIA",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

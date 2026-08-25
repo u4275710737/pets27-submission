@@ -1,0 +1,16 @@
+{
+  "asn": 267470,
+  "metadata": {
+    "handle": "CX-PRO",
+    "description": "CX Pro",
+    "countryCode": "BR",
+    "country": "Brazil",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "midsize_transit"
+  },
+  "prefixes": {
+    "ipv4": [ "192.141.72.0/22", "206.62.114.0/23", "206.62.120.0/21", "209.14.80.0/23" ],
+    "ipv6": [ "2804:41fc::/32" ]
+  }
+}

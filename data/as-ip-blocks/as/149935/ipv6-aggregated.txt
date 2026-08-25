@@ -1,0 +1,4 @@
+# AS149935 (IDNIC-HNA-AS-ID)
+# PT Hanania Nusantara Abadi
+#
+2001:df2:5640::/48

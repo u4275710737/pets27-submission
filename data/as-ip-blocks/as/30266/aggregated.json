@@ -1,0 +1,14 @@
+{
+  "asn": 30266,
+  "metadata": {
+    "handle": "RF-SJC-DATACENTER",
+    "description": "Rodan & Fields LLC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

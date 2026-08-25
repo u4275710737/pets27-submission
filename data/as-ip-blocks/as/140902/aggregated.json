@@ -1,0 +1,14 @@
+{
+  "asn": 140902,
+  "metadata": {
+    "handle": "INFATICAPTELTD-AP",
+    "description": "Infatica Pte. Ltd",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

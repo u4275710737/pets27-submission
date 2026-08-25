@@ -1,0 +1,4 @@
+# AS37670 (SMART-AS)
+# Smart Technology Centre
+#
+2c0f:fbc0::/32

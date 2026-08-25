@@ -1,0 +1,16 @@
+{
+  "asn": 212116,
+  "metadata": {
+    "handle": "VENTOREDE",
+    "description": "Vento Rede S.L.",
+    "countryCode": "ES",
+    "country": "Spain",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "79.108.232.0/24", "79.108.236.0/23", "185.225.126.0/24" ],
+    "ipv6": [ ]
+  }
+}

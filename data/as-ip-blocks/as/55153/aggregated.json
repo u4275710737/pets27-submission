@@ -1,0 +1,16 @@
+{
+  "asn": 55153,
+  "metadata": {
+    "handle": "BREMER-ASN",
+    "description": "Old National Bancorp",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ ]
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 24549,
+  "metadata": {
+    "handle": "LAYER-AP",
+    "description": "Layerstack Limited",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

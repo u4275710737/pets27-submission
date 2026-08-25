@@ -1,0 +1,14 @@
+{
+  "asn": 234,
+  "metadata": {
+    "handle": "NETHER-RESEARCH",
+    "description": "Nether.Net",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

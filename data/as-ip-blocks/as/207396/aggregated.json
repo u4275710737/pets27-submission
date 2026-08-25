@@ -1,0 +1,14 @@
+{
+  "asn": 207396,
+  "metadata": {
+    "handle": "FYRSTADTEKNIK",
+    "description": "Fyrstads Teknik AB",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

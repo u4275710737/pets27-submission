@@ -1,0 +1,14 @@
+{
+  "asn": 210943,
+  "metadata": {
+    "handle": "INTERNETKUTUSU-TR",
+    "description": "INTERNET KUTUSU TELEKOMUNIKASYON BILISIM HIZMETLERI SAN.TIC.LTD.STI.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

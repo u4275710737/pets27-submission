@@ -1,0 +1,14 @@
+{
+  "asn": 150177,
+  "metadata": {
+    "handle": "TVONPVTLIMITED-AP",
+    "description": "TVON (PRIVATE) LIMITED",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

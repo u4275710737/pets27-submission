@@ -1,0 +1,14 @@
+{
+  "asn": 133268,
+  "metadata": {
+    "handle": "SHAKTI-IN",
+    "description": "Shakti Cables And Network Tools",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

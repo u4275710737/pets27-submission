@@ -1,0 +1,16 @@
+{
+  "asn": 34786,
+  "metadata": {
+    "handle": "VNET-AS",
+    "description": "OOO NPO Intermet",
+    "countryCode": "UA",
+    "country": "Ukraine",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "access_provider"
+  },
+  "prefixes": {
+    "ipv4": [ "62.122.56.0/21", "194.145.216.0/23" ],
+    "ipv6": [ ]
+  }
+}

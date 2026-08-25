@@ -1,0 +1,16 @@
+{
+  "asn": 40176,
+  "metadata": {
+    "handle": "DATA-SUBSYSTEMS-INC-AS",
+    "description": "Data Subsystems Inc",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ ]
+  }
+}

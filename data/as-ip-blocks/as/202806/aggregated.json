@@ -1,0 +1,14 @@
+{
+  "asn": 202806,
+  "metadata": {
+    "handle": "SKA-IKT-CORP-DC-AS",
+    "description": "SERGEY MUTIN",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

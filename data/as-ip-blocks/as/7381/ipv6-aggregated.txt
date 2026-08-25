@@ -1,0 +1,6 @@
+# AS7381 (SASUSA)
+# SunGard Availability Services USA
+#
+2001:538::/32
+2600:1100::/28
+2620:34:a001::/48

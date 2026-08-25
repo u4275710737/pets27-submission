@@ -1,0 +1,14 @@
+{
+  "asn": 10307,
+  "metadata": {
+    "handle": "GND",
+    "description": "LIME",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

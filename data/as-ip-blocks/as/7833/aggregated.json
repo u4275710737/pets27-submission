@@ -1,0 +1,14 @@
+{
+  "asn": 7833,
+  "metadata": {
+    "handle": "EXTRANET-01",
+    "description": "Extra.Net",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

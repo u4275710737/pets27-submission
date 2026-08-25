@@ -1,0 +1,16 @@
+{
+  "asn": 48035,
+  "metadata": {
+    "handle": "YAKOVLEV",
+    "description": "PJSC Yakovlev",
+    "countryCode": "RU",
+    "country": "Russia",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "194.226.31.0/24" ],
+    "ipv6": [ ]
+  }
+}

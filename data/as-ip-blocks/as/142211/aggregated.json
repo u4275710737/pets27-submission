@@ -1,0 +1,16 @@
+{
+  "asn": 142211,
+  "metadata": {
+    "handle": "DCNET-VN",
+    "description": "DCNET TELECOM",
+    "countryCode": "VN",
+    "country": "Vietnam",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "163.227.229.0/24" ],
+    "ipv6": [ ]
+  }
+}

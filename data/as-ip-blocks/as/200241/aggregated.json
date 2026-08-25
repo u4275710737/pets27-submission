@@ -1,0 +1,14 @@
+{
+  "asn": 200241,
+  "metadata": {
+    "handle": "OCEANWAVES",
+    "description": "OCEAN WAVES DATA LIMITED",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

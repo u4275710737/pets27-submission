@@ -1,0 +1,14 @@
+{
+  "asn": 59285,
+  "metadata": {
+    "handle": "LATANSA-AS-ID",
+    "description": "PT Latansa Teknologi Multimedia",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 26745,
+  "metadata": {
+    "handle": "AMGH-WPS",
+    "description": "Air Medical Group Holdings",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

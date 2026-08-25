@@ -1,0 +1,14 @@
+{
+  "asn": 398267,
+  "metadata": {
+    "handle": "IHMA-GLOBAL-01",
+    "description": "IHMA",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

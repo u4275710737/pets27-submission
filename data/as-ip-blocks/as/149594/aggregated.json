@@ -1,0 +1,16 @@
+{
+  "asn": 149594,
+  "metadata": {
+    "handle": "BAKETOWN-AS-IN",
+    "description": "Bake Town",
+    "countryCode": "IN",
+    "country": "India",
+    "origin": "authoritative",
+    "category": "government_admin",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "103.184.236.0/23" ],
+    "ipv6": [ ]
+  }
+}

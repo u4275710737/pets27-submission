@@ -1,0 +1,4 @@
+# AS52768 (ALSOL-PROVEDOR-INTERNET)
+# Alsol Provedor de Internet Ltda
+#
+2804:b5c::/32

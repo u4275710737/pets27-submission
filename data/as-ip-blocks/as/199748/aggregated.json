@@ -1,0 +1,14 @@
+{
+  "asn": 199748,
+  "metadata": {
+    "handle": "CCN-UK",
+    "description": "Voneus Ltd",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

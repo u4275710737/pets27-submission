@@ -1,0 +1,14 @@
+{
+  "asn": 151525,
+  "metadata": {
+    "handle": "IDNIC-GLOBALDATA-ID",
+    "description": "PT. GLOBAL TRANSMISI DATA",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "asn": 1399,
+  "metadata": {
+    "handle": "CHARLES-SCHWAB-2",
+    "description": "Charles Schwab & Co. Inc.",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "162.93.62.0/24", "162.93.64.0/19", "162.93.124.0/22", "162.93.160.0/19" ],
+    "ipv6": [ ]
+  }
+}

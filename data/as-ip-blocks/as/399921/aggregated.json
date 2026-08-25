@@ -1,0 +1,14 @@
+{
+  "asn": 399921,
+  "metadata": {
+    "handle": "FIA-TECH-01",
+    "description": "FIA Technology Services, LLC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

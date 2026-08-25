@@ -1,0 +1,14 @@
+{
+  "asn": 153456,
+  "metadata": {
+    "handle": "INFOTECHPACELINK-AS-AP",
+    "description": "Infotech Pacelink",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

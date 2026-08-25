@@ -1,0 +1,14 @@
+{
+  "asn": 59913,
+  "metadata": {
+    "handle": "BDTV",
+    "description": "Aktiebolaget Sappa",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

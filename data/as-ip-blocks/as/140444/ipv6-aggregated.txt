@@ -1,0 +1,4 @@
+# AS140444 (IDNIC-BINAWAN-AS-ID)
+# Universitas Binawan
+#
+2001:df4:2f80::/48

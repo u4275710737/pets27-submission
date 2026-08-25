@@ -1,0 +1,16 @@
+{
+  "asn": 154445,
+  "metadata": {
+    "handle": "IRINN-TNSRDATA-AS-IN",
+    "description": "TENSORDATA GLOBAL PVT LTD",
+    "countryCode": "IN",
+    "country": "India",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "144.79.144.0/23" ],
+    "ipv6": [ "2402:3fe0::/32" ]
+  }
+}

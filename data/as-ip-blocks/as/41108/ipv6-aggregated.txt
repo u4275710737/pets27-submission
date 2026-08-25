@@ -1,0 +1,5 @@
+# AS41108 (FIRSTROOT-AS)
+# comtrance service GmbH
+#
+2001:67c:12a0::/48
+2a0f:5707:ab26::/48

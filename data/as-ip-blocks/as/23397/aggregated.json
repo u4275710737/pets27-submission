@@ -1,0 +1,16 @@
+{
+  "asn": 23397,
+  "metadata": {
+    "handle": "CME-VEN-AS23397",
+    "description": "Chicago Mercantile Exchange",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "167.204.37.0/24", "204.10.10.0/24" ],
+    "ipv6": [ ]
+  }
+}

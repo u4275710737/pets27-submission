@@ -1,0 +1,16 @@
+{
+  "asn": 197469,
+  "metadata": {
+    "handle": "JONASLED",
+    "description": "JONAS LEDER",
+    "countryCode": "DE",
+    "country": "Germany",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ "2a0e:97c0:b50::/47", "2a0e:97c0:b53::/48", "2a0e:b107:128::/48" ]
+  }
+}

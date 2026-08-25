@@ -1,0 +1,14 @@
+{
+  "asn": 33303,
+  "metadata": {
+    "handle": "BL-836",
+    "description": "Buzmo, LLC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

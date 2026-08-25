@@ -1,0 +1,14 @@
+{
+  "asn": 329241,
+  "metadata": {
+    "handle": "FRIENDS-WIRELESS-AS",
+    "description": "Friends Wireless Limited",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

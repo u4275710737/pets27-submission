@@ -1,0 +1,14 @@
+{
+  "asn": 136950,
+  "metadata": {
+    "handle": "HIITL-AS-AP",
+    "description": "HONGKONG IHUASHU INTERNET TECHNOLOGY LIMITED",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

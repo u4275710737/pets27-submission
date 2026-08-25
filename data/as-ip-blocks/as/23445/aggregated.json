@@ -1,0 +1,14 @@
+{
+  "asn": 23445,
+  "metadata": {
+    "handle": "SCL",
+    "description": "Sanders Capital, LLC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

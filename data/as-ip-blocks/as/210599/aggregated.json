@@ -1,0 +1,16 @@
+{
+  "asn": 210599,
+  "metadata": {
+    "handle": "UBIQUITI-LV",
+    "description": "Ubiquiti (Latvia) SIA",
+    "countryCode": "LV",
+    "country": "Latvia",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ "2a14:f280::/32" ]
+  }
+}

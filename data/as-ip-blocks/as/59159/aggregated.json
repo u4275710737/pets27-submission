@@ -1,0 +1,14 @@
+{
+  "asn": 59159,
+  "metadata": {
+    "handle": "IDNIC-PDISBPPT-ID",
+    "description": "PDIS - BADAN PENGKAJIAN DAN PENERAPAN TEKNOLOGI",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

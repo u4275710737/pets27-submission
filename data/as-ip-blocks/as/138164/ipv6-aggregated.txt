@@ -1,0 +1,5 @@
+# AS138164 (MUST-AS-AP)
+# Macau University of Science and Technology
+#
+2401:20e0::/32
+240c::/48

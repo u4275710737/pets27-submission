@@ -1,0 +1,14 @@
+{
+  "asn": 46604,
+  "metadata": {
+    "handle": "INTERLINE-BRANDS-ATL",
+    "description": "Interline Brands, Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

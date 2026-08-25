@@ -1,0 +1,14 @@
+{
+  "asn": 398738,
+  "metadata": {
+    "handle": "REM5",
+    "description": "REM5 LLC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

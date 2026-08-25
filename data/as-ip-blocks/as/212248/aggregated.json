@@ -1,0 +1,14 @@
+{
+  "asn": 212248,
+  "metadata": {
+    "handle": "AB",
+    "description": "Abolfazl-Shirdel",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

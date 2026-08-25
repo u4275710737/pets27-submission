@@ -1,0 +1,14 @@
+{
+  "asn": 153104,
+  "metadata": {
+    "handle": "IDNIC-DMWT-ID",
+    "description": "PT Darma Media Warta",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 50678,
+  "metadata": {
+    "handle": "ASLEANDOMAINS",
+    "description": "Internet Vikings International AB",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

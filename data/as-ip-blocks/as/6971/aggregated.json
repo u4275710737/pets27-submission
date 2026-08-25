@@ -1,0 +1,14 @@
+{
+  "asn": 6971,
+  "metadata": {
+    "handle": "VMX-US1",
+    "description": "Verimatrix, Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

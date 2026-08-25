@@ -1,0 +1,14 @@
+{
+  "asn": 46748,
+  "metadata": {
+    "handle": "GRADUATE-SCHOOL",
+    "description": "Graduate School",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

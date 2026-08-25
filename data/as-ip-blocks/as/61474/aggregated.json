@@ -1,0 +1,14 @@
+{
+  "asn": 61474,
+  "metadata": {
+    "handle": "INFOTRANS-CARIBBEAN",
+    "description": "INFOTRANS CARIBBEAN",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

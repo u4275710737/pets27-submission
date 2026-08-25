@@ -1,0 +1,16 @@
+{
+  "asn": 210492,
+  "metadata": {
+    "handle": "NERD-AS",
+    "description": "Nintendo European Research and Development SAS",
+    "countryCode": "FR",
+    "country": "France",
+    "origin": "authoritative",
+    "category": "education_research",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "79.108.226.0/24", "85.137.183.0/24", "212.52.17.0/24" ],
+    "ipv6": [ ]
+  }
+}

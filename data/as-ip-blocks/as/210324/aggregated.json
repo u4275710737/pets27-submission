@@ -1,0 +1,14 @@
+{
+  "asn": 210324,
+  "metadata": {
+    "handle": "MAZDA-EUROPE",
+    "description": "Mazda Motor Logistics Europe NV",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

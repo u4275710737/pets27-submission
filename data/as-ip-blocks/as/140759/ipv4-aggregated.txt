@@ -1,0 +1,4 @@
+# AS140759 (SKHCN-DAKLAK-VN)
+# Dak Lak Provincial Department of Science and Technology
+#
+103.159.48.0/23

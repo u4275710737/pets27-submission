@@ -1,0 +1,16 @@
+{
+  "asn": 210825,
+  "metadata": {
+    "handle": "TEIGTASCHERLFABRIK",
+    "description": "Sebastian Pfeifer",
+    "countryCode": "AT",
+    "country": "Austria",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ "2a10:ccc0:1330::/44" ]
+  }
+}

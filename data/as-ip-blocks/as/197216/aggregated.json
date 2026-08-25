@@ -1,0 +1,14 @@
+{
+  "asn": 197216,
+  "metadata": {
+    "handle": "DELTA-BG",
+    "description": "Delta HighTech Ltd.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

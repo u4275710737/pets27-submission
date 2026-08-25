@@ -1,0 +1,4 @@
+# AS140748 (ICTVL-AS-VN)
+# Department of Science and Technology of Vinh Long province
+#
+2001:df4:9480::/48

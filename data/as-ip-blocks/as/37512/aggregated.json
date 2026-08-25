@@ -1,0 +1,16 @@
+{
+  "asn": 37512,
+  "metadata": {
+    "handle": "IPX",
+    "description": "AS IPX",
+    "countryCode": "GQ",
+    "country": "Equatorial Guinea",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "197.149.168.0/22" ],
+    "ipv6": [ ]
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 132902,
+  "metadata": {
+    "handle": "INFOTRACKPTYLTD-AS-AP",
+    "description": "InfoTrack Pty Ltd",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

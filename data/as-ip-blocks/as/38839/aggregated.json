@@ -1,0 +1,16 @@
+{
+  "asn": 38839,
+  "metadata": {
+    "handle": "CSPTEK-AS-TW",
+    "description": "CSPTEK LTD. CO.",
+    "countryCode": "TW",
+    "country": "Taiwan",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "103.159.176.0/23" ],
+    "ipv6": [ "2406:d7c0:f000::/36" ]
+  }
+}

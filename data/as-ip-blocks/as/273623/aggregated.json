@@ -1,0 +1,16 @@
+{
+  "asn": 273623,
+  "metadata": {
+    "handle": "SPEEDNET-ACARA",
+    "description": "SPEEDNET ACARA LTDA",
+    "countryCode": "BR",
+    "country": "Brazil",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "access_provider"
+  },
+  "prefixes": {
+    "ipv4": [ "38.210.120.0/23", "200.39.145.0/24" ],
+    "ipv6": [ "2804:89bc::/32" ]
+  }
+}

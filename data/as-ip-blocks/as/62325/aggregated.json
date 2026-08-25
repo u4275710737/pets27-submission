@@ -1,0 +1,14 @@
+{
+  "asn": 62325,
+  "metadata": {
+    "handle": "HDHK",
+    "description": "HUNGTAK International Network Limited",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

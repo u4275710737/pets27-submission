@@ -1,0 +1,4 @@
+# AS152829 (IDNIC-TERANET-AS-ID)
+# PT Intercon Fiber Optic
+#
+2402:57a0::/32

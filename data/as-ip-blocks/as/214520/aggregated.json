@@ -1,0 +1,14 @@
+{
+  "asn": 214520,
+  "metadata": {
+    "handle": "PEACEWEB-CLOUD-STALE",
+    "description": "PeaceWeb Group B.V.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

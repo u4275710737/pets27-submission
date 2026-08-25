@@ -1,0 +1,14 @@
+{
+  "asn": 140672,
+  "metadata": {
+    "handle": "LCA-AS-AP",
+    "description": "Lutheran Church of Australia",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

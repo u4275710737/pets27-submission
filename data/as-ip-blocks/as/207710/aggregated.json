@@ -1,0 +1,14 @@
+{
+  "asn": 207710,
+  "metadata": {
+    "handle": "WSTELECOM-DE",
+    "description": "SIA Singularity Telecom",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

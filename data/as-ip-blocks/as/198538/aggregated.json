@@ -1,0 +1,14 @@
+{
+  "asn": 198538,
+  "metadata": {
+    "handle": "SE-SONYMOBILE",
+    "description": "Sony Mobile Communications AB",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

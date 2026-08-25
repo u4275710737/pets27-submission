@@ -1,0 +1,14 @@
+{
+  "asn": 7759,
+  "metadata": {
+    "handle": "OSTER",
+    "description": "Oster Communications, Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

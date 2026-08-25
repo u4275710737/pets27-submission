@@ -1,0 +1,4 @@
+# AS267127 (PH-TELECOM)
+# PH Telecom
+#
+2804:4888::/32

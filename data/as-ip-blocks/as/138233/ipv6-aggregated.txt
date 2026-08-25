@@ -1,0 +1,6 @@
+# AS138233 (PROTON-AS-IN)
+# Proton Internet Llp
+#
+2001:df3:1680::/48
+2001:df6:ad40::/48
+2401:f4e0::/32

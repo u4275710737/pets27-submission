@@ -1,0 +1,14 @@
+{
+  "asn": 272506,
+  "metadata": {
+    "handle": "OHR-TELECOM-EIRELI",
+    "description": "OHR TELECOM EIRELI",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

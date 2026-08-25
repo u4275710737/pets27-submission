@@ -1,0 +1,14 @@
+{
+  "asn": 34950,
+  "metadata": {
+    "handle": "ASN-EVRY-ESN",
+    "description": "Vivicta Sweden AB",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

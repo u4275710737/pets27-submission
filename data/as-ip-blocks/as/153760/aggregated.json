@@ -1,0 +1,16 @@
+{
+  "asn": 153760,
+  "metadata": {
+    "handle": "CITYOFROCKINGHAM-AS-AP",
+    "description": "City of Rockingham",
+    "countryCode": "AU",
+    "country": "Australia",
+    "origin": "authoritative",
+    "category": "government_admin",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "163.223.246.0/24" ],
+    "ipv6": [ ]
+  }
+}

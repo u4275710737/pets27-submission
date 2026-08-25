@@ -1,0 +1,14 @@
+{
+  "asn": 16474,
+  "metadata": {
+    "handle": "RESPONSYS-1",
+    "description": "Responsys Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

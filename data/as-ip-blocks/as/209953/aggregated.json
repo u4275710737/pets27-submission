@@ -1,0 +1,16 @@
+{
+  "asn": 209953,
+  "metadata": {
+    "handle": "KNSERVICES",
+    "description": "Maier Rainer",
+    "countryCode": "DE",
+    "country": "Germany",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "212.107.8.0/22" ],
+    "ipv6": [ ]
+  }
+}

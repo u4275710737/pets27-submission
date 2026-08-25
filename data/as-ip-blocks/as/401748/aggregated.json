@@ -1,0 +1,16 @@
+{
+  "asn": 401748,
+  "metadata": {
+    "handle": "ASRINFOPRO-LLC-INFRA",
+    "description": "ASR INFOPRO LLC",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "204.154.109.0/24" ],
+    "ipv6": [ ]
+  }
+}

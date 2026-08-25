@@ -1,0 +1,14 @@
+{
+  "asn": 62848,
+  "metadata": {
+    "handle": "PMB",
+    "description": "Pacific Mercantile Bank",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 21011,
+  "metadata": {
+    "handle": "TOPNET",
+    "description": "PRIVATE JOINT STOCK COMPANY DATAGROUP",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

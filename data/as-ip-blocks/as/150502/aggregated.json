@@ -1,0 +1,14 @@
+{
+  "asn": 150502,
+  "metadata": {
+    "handle": "IDNIC-LINTASDATAASIA-ID",
+    "description": "PT Lintas Data Asia",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

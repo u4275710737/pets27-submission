@@ -1,0 +1,14 @@
+{
+  "asn": 31447,
+  "metadata": {
+    "handle": "SOFTRATING-AS",
+    "description": "Soft-Rating Consult ltd.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

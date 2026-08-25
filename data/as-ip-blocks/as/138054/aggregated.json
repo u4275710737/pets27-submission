@@ -1,0 +1,14 @@
+{
+  "asn": 138054,
+  "metadata": {
+    "handle": "IDNIC-PTBANKCOMMONWEALTH-AS-ID",
+    "description": "PT .Bank Common Wealth",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

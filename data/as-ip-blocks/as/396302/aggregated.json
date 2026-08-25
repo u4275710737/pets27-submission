@@ -1,0 +1,14 @@
+{
+  "asn": 396302,
+  "metadata": {
+    "handle": "YYCNETLAB",
+    "description": "YYC Net Lab",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

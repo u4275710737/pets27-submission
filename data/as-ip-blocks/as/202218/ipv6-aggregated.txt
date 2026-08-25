@@ -1,0 +1,4 @@
+# AS202218 (INTERNETSTIFTELSEN-ANYCAST)
+# Stiftelsen for Internetinfrastruktur
+#
+2a10:ba00:53::/48

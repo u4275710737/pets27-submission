@@ -1,0 +1,14 @@
+{
+  "asn": 22453,
+  "metadata": {
+    "handle": "INFORMACION-TECNOLOGIA",
+    "description": "Informacion y Tecnologia S.A",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

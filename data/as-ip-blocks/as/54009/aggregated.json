@@ -1,0 +1,14 @@
+{
+  "asn": 54009,
+  "metadata": {
+    "handle": "BRUDDA-NETWORKS",
+    "description": "Brudda Networks LLC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

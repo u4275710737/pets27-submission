@@ -1,0 +1,14 @@
+{
+  "asn": 399724,
+  "metadata": {
+    "handle": "DIGICEL-STVINCENT",
+    "description": "Digicel St.Lucia Ltd",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

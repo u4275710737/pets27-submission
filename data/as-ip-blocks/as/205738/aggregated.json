@@ -1,0 +1,16 @@
+{
+  "asn": 205738,
+  "metadata": {
+    "handle": "MARMITE",
+    "description": "Marmite Sp. z o.o.",
+    "countryCode": "PL",
+    "country": "Poland",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "85.219.216.0/24" ],
+    "ipv6": [ ]
+  }
+}

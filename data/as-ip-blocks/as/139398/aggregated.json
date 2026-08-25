@@ -1,0 +1,16 @@
+{
+  "asn": 139398,
+  "metadata": {
+    "handle": "IDNIC-PIK-ID",
+    "description": "PT. Pusat Informasi Kredit",
+    "countryCode": "ID",
+    "country": "Indonesia",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "144.48.13.0/24", "144.48.14.0/24" ],
+    "ipv6": [ ]
+  }
+}

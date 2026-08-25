@@ -1,0 +1,14 @@
+{
+  "asn": 31651,
+  "metadata": {
+    "handle": "INTERXION-BE-TRANSIT-AS",
+    "description": "Interxion Belgium B.V.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

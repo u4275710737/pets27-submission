@@ -1,0 +1,16 @@
+{
+  "asn": 198840,
+  "metadata": {
+    "handle": "AL-CLOUD",
+    "description": "YUJUN KIM trading as ALCLOUD",
+    "countryCode": "KR",
+    "country": "South Korea",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "142.249.58.0/24" ],
+    "ipv6": [ "2a06:9801:22f::/48" ]
+  }
+}

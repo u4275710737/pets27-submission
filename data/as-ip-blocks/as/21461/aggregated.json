@@ -1,0 +1,14 @@
+{
+  "asn": 21461,
+  "metadata": {
+    "handle": "TRANSFAIRNET",
+    "description": "Haendle & Korte GmbH",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

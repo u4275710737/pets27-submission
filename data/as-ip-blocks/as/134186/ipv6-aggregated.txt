@@ -1,0 +1,4 @@
+# AS134186 (PARADISETEC-AS-AP)
+# Paradise Technologies Limited
+#
+2001:df6:a940::/48

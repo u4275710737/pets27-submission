@@ -1,0 +1,14 @@
+{
+  "asn": 1796,
+  "metadata": {
+    "handle": "GRADED-LABS-LLC",
+    "description": "Graded Labs, LLC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

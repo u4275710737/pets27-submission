@@ -1,0 +1,14 @@
+{
+  "asn": 133204,
+  "metadata": {
+    "handle": "BSLCOM-AS-AP",
+    "description": "Black Solution Limited",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

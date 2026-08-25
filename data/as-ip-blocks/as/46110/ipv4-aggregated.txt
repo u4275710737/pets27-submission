@@ -1,0 +1,4 @@
+# AS46110 (CHEMEKETA-COMMUNITY-COLLEGE)
+# Chemeketa Community College
+#
+199.101.8.0/21

@@ -1,0 +1,14 @@
+{
+  "asn": 45772,
+  "metadata": {
+    "handle": "INTERACTIVELABS-AP",
+    "description": "Interactive Labs",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

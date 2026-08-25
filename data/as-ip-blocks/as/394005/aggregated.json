@@ -1,0 +1,14 @@
+{
+  "asn": 394005,
+  "metadata": {
+    "handle": "DEN-AS",
+    "description": "Selling Simplified Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

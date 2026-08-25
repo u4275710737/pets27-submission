@@ -1,0 +1,16 @@
+{
+  "asn": 43653,
+  "metadata": {
+    "handle": "PEGONET-AS",
+    "description": "PEGO Slovakia s.r.o.",
+    "countryCode": "SK",
+    "country": "Slovakia",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "185.183.232.0/22", "213.181.128.0/19" ],
+    "ipv6": [ ]
+  }
+}

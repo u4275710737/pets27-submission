@@ -1,0 +1,4 @@
+# AS269293 (GOLDFIBRA-TELECOMUNICACOES)
+# Goldfibra Telecomunicaçoes ltda.
+#
+45.183.228.0/22

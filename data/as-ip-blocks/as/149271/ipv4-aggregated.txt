@@ -1,0 +1,4 @@
+# AS149271 (DEFAULT-MAINTAINER-OBJECT)
+# Default maintainer object for TWNIC
+#
+103.123.152.0/24

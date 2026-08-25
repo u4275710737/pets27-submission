@@ -1,0 +1,5 @@
+# AS206599 (FNACDARTY)
+# Fnac Darty Participations et Services SA
+#
+193.108.68.0/23
+194.69.168.0/24

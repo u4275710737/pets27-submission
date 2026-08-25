@@ -1,0 +1,16 @@
+{
+  "asn": 11155,
+  "metadata": {
+    "handle": "DELIGHTSPEED-01",
+    "description": "DE LightSpeed",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "147.124.16.0/20", "153.75.32.0/22", "162.118.64.0/19" ],
+    "ipv6": [ ]
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 139091,
+  "metadata": {
+    "handle": "SHMBN",
+    "description": "Shanghai MBN telecommunication technology Co., LTD.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

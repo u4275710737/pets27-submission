@@ -1,0 +1,14 @@
+{
+  "asn": 394282,
+  "metadata": {
+    "handle": "TESTOUTCORP",
+    "description": "TestOut Corporation",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

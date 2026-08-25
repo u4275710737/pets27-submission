@@ -1,0 +1,14 @@
+{
+  "asn": 55854,
+  "metadata": {
+    "handle": "LOREAL-SG",
+    "description": "L'Oreal Singapore Pte Ltd",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

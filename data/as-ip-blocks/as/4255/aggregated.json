@@ -1,0 +1,14 @@
+{
+  "asn": 4255,
+  "metadata": {
+    "handle": "BAIN",
+    "description": "Bain And Company",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

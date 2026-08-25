@@ -1,0 +1,16 @@
+{
+  "asn": 37712,
+  "metadata": {
+    "handle": "NITEL",
+    "description": "National Integrated Technologies Limited",
+    "countryCode": "MW",
+    "country": "Malawi",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "41.79.88.0/22" ],
+    "ipv6": [ ]
+  }
+}

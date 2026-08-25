@@ -1,0 +1,14 @@
+{
+  "asn": 273819,
+  "metadata": {
+    "handle": "PLAY-NET-CONECT",
+    "description": "play net conect",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

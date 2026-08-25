@@ -1,0 +1,14 @@
+{
+  "asn": 62603,
+  "metadata": {
+    "handle": "FRSS-01",
+    "description": "Four Rivers Software Systems, Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

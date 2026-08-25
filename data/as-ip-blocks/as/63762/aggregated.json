@@ -1,0 +1,14 @@
+{
+  "asn": 63762,
+  "metadata": {
+    "handle": "VNBOOKING-VN",
+    "description": "VietNam Booking corporation",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

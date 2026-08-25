@@ -1,0 +1,14 @@
+{
+  "asn": 37197,
+  "metadata": {
+    "handle": "SUDREN",
+    "description": "Sudanese Research and Education Network",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

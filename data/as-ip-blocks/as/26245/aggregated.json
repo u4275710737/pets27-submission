@@ -1,0 +1,14 @@
+{
+  "asn": 26245,
+  "metadata": {
+    "handle": "ROBERT-H",
+    "description": "Robert Half International",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

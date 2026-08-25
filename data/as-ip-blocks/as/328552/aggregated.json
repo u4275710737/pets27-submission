@@ -1,0 +1,14 @@
+{
+  "asn": 328552,
+  "metadata": {
+    "handle": "STE-MDICIS",
+    "description": "STE MDICIS SAS",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

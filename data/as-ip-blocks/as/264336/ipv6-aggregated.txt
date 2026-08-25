@@ -1,0 +1,4 @@
+# AS264336 (BLOOM-TELECOMUNICACOES)
+# Bloom telecomunicações LTDA
+#
+2804:2644::/32

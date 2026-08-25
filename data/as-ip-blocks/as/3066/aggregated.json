@@ -1,0 +1,16 @@
+{
+  "asn": 3066,
+  "metadata": {
+    "handle": "RS-AS",
+    "description": "Robert E. Seastrom",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "168.245.132.0/24" ],
+    "ipv6": [ ]
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 152096,
+  "metadata": {
+    "handle": "OTTOITCARE-AP",
+    "description": "OTTOITCARE",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

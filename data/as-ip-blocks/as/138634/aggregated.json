@@ -1,0 +1,14 @@
+{
+  "asn": 138634,
+  "metadata": {
+    "handle": "MSCL-AP",
+    "description": "MYNET SOLUTIONS COMPANY LIMITED",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

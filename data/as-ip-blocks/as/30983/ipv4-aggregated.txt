@@ -1,0 +1,6 @@
+# AS30983 (MARWAN-AS)
+# Moroccan Academic Network - MARWAN
+#
+105.73.96.0/22
+196.12.203.0/24
+196.200.128.0/18

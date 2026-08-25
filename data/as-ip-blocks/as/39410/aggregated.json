@@ -1,0 +1,14 @@
+{
+  "asn": 39410,
+  "metadata": {
+    "handle": "FN2-AS",
+    "description": "FreeNet L.L.C-FZ",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

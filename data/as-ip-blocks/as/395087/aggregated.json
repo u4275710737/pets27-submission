@@ -1,0 +1,14 @@
+{
+  "asn": 395087,
+  "metadata": {
+    "handle": "SURFEASY-NET",
+    "description": "SurfEasy Inc",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

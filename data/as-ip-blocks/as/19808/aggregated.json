@@ -1,0 +1,16 @@
+{
+  "asn": 19808,
+  "metadata": {
+    "handle": "VIRTELA-NET-VFLMIA1",
+    "description": "Virtela Communications",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "64.254.111.0/24", "74.84.171.0/24", "74.220.101.0/24", "74.220.123.0/24", "207.179.20.0/24" ],
+    "ipv6": [ ]
+  }
+}

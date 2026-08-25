@@ -1,0 +1,16 @@
+{
+  "asn": 37298,
+  "metadata": {
+    "handle": "EQUITY-BANK-K-LTD",
+    "description": "EQUITY BANK K LTD",
+    "countryCode": "KE",
+    "country": "Kenya",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "196.11.88.0/23", "196.216.242.0/23" ],
+    "ipv6": [ ]
+  }
+}

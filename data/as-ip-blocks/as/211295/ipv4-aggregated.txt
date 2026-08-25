@@ -1,0 +1,5 @@
+# AS211295 (SA-NET-KO-AS)
+# Aneta Gwiazdowska trading as SaNET
+#
+81.15.156.0/24
+194.113.249.0/24

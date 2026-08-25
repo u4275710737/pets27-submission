@@ -1,0 +1,14 @@
+{
+  "asn": 151668,
+  "metadata": {
+    "handle": "RCL-AP",
+    "description": "RDCW Company Limited",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

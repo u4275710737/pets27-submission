@@ -1,0 +1,14 @@
+{
+  "asn": 38720,
+  "metadata": {
+    "handle": "MBTNET-AP",
+    "description": "Tech Mahindra Limited",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

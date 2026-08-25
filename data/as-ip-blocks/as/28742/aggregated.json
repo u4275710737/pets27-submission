@@ -1,0 +1,14 @@
+{
+  "asn": 28742,
+  "metadata": {
+    "handle": "AXERA",
+    "description": "Axera SpA",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

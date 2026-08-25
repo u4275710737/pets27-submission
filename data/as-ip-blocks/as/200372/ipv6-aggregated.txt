@@ -1,0 +1,5 @@
+# AS200372 (DORFHOSTER-AS)
+# Lars Ewald
+#
+2001:67c:b40::/48
+2a14:8b80::/30

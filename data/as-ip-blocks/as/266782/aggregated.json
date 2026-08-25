@@ -1,0 +1,14 @@
+{
+  "asn": 266782,
+  "metadata": {
+    "handle": "MASTERNET-TELECOMUNICACIONES",
+    "description": "Masternet Telecomunicaciones",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

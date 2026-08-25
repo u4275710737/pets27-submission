@@ -1,0 +1,14 @@
+{
+  "asn": 397834,
+  "metadata": {
+    "handle": "GHOST",
+    "description": "Ghost Autonomy Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

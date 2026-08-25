@@ -1,0 +1,5 @@
+# AS32850 (CLARITEV-VA)
+# Claritev Corporation
+#
+208.78.20.0/24
+208.78.22.0/23

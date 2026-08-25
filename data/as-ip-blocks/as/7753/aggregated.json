@@ -1,0 +1,14 @@
+{
+  "asn": 7753,
+  "metadata": {
+    "handle": "GREENCLOUD",
+    "description": "ipHouse",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

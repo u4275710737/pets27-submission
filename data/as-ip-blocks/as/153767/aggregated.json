@@ -1,0 +1,14 @@
+{
+  "asn": 153767,
+  "metadata": {
+    "handle": "IDNIC-PRAGATA-AS-ID",
+    "description": "PT Sinergi Innovate Pragata",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

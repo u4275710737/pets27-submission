@@ -1,0 +1,14 @@
+{
+  "asn": 33260,
+  "metadata": {
+    "handle": "HOSTASAURUS",
+    "description": "Miva Merchant, Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

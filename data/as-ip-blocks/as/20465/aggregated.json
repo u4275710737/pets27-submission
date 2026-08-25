@@ -1,0 +1,14 @@
+{
+  "asn": 20465,
+  "metadata": {
+    "handle": "BILL",
+    "description": "Bill.com, Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

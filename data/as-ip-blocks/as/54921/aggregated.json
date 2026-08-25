@@ -1,0 +1,14 @@
+{
+  "asn": 54921,
+  "metadata": {
+    "handle": "ISCA",
+    "description": "Industrial Scientific Corporation",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

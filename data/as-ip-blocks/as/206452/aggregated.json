@@ -1,0 +1,14 @@
+{
+  "asn": 206452,
+  "metadata": {
+    "handle": "ORNG-GI",
+    "description": "GoeTel GmbH",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

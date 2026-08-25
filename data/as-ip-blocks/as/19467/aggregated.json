@@ -1,0 +1,14 @@
+{
+  "asn": 19467,
+  "metadata": {
+    "handle": "PL-892-19467",
+    "description": "PostageApp",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

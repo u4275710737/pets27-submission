@@ -1,0 +1,14 @@
+{
+  "asn": 62726,
+  "metadata": {
+    "handle": "WWS-PEN-01",
+    "description": "Windward Software Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

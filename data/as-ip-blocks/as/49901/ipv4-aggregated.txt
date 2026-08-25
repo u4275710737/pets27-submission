@@ -1,0 +1,4 @@
+# AS49901 (CHINA-INTERNET-NETWORK)
+# China Internet Network Information Center
+#
+117.121.245.0/24

@@ -1,0 +1,14 @@
+{
+  "asn": 149599,
+  "metadata": {
+    "handle": "BTNPL3013-IN",
+    "description": "Belltel Network Pvt Ltd.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

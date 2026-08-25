@@ -1,0 +1,16 @@
+{
+  "asn": 154280,
+  "metadata": {
+    "handle": "BWSPL-AS-AP",
+    "description": "Bytesun Web Services Private Limited",
+    "countryCode": "IN",
+    "country": "India",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "138.252.6.0/23" ],
+    "ipv6": [ ]
+  }
+}

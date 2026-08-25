@@ -1,0 +1,16 @@
+{
+  "asn": 263305,
+  "metadata": {
+    "handle": "NETCOM-TELECOMUNICACOES-EIRELI",
+    "description": "NET.COM TELECOMUNICACOES EIRELI",
+    "countryCode": "BR",
+    "country": "Brazil",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "access_provider"
+  },
+  "prefixes": {
+    "ipv4": [ "177.38.92.0/22", "191.6.132.0/22" ],
+    "ipv6": [ "2804:13f8::/32" ]
+  }
+}

@@ -1,0 +1,4 @@
+# AS20077 (IPNETZONE-ASN)
+# IPNetZone
+#
+204.193.33.0/24

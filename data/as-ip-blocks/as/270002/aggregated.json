@@ -1,0 +1,16 @@
+{
+  "asn": 270002,
+  "metadata": {
+    "handle": "SIEBEN-SERGIO-OVIDIO",
+    "description": "SIEBEN SERGIO OVIDIO (INTRAGIGA)",
+    "countryCode": "AR",
+    "country": "Argentina",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "200.59.212.0/22" ],
+    "ipv6": [ ]
+  }
+}

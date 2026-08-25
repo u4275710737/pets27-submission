@@ -1,0 +1,5 @@
+# AS20020 (POWERNET)
+# Power Systems Computers
+#
+23.164.8.0/24
+192.34.16.0/23

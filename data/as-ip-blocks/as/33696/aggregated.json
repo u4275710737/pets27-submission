@@ -1,0 +1,14 @@
+{
+  "asn": 33696,
+  "metadata": {
+    "handle": "NEXTARRAY-ASN-01",
+    "description": "NextArray LLC.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

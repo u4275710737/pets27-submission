@@ -1,0 +1,16 @@
+{
+  "asn": 153587,
+  "metadata": {
+    "handle": "CLOUDEXPAKISTAN-AS-AP",
+    "description": "Cloudex Pakistan",
+    "countryCode": "PK",
+    "country": "Pakistan",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "163.61.91.0/24" ],
+    "ipv6": [ ]
+  }
+}

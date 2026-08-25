@@ -1,0 +1,16 @@
+{
+  "asn": 202595,
+  "metadata": {
+    "handle": "SQUIZUS",
+    "description": "Squiz UK Limited",
+    "countryCode": "GB",
+    "country": "United Kingdom",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "203.82.24.0/23", "203.82.26.0/24" ],
+    "ipv6": [ ]
+  }
+}

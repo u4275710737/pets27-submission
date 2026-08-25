@@ -1,0 +1,14 @@
+{
+  "asn": 35735,
+  "metadata": {
+    "handle": "COMPROMISE",
+    "description": "ComPromise Domino B.V.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

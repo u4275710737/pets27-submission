@@ -1,0 +1,14 @@
+{
+  "asn": 214925,
+  "metadata": {
+    "handle": "BRAILOR",
+    "description": "Pietro Tamilia",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

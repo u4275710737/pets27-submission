@@ -1,0 +1,14 @@
+{
+  "asn": 45084,
+  "metadata": {
+    "handle": "BTV",
+    "description": "No.98 JianGuo Road Chaoyang District Beijing China",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

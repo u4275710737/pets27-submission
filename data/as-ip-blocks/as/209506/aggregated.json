@@ -1,0 +1,16 @@
+{
+  "asn": 209506,
+  "metadata": {
+    "handle": "CUSHNET",
+    "description": "Stephen Cushen",
+    "countryCode": "IE",
+    "country": "Ireland",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "44.30.83.0/24" ],
+    "ipv6": [ "2a04:b480:20::/48" ]
+  }
+}

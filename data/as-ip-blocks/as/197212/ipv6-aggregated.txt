@@ -1,0 +1,4 @@
+# AS197212 (AARDALSNETT-AS)
+# Ardalsnett AS
+#
+2a04:7f40::/29

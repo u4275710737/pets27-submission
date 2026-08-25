@@ -1,0 +1,16 @@
+{
+  "asn": 215081,
+  "metadata": {
+    "handle": "ZESTY-ASN",
+    "description": "Cheuk Wang Wu",
+    "countryCode": "HK",
+    "country": "Hong Kong SAR China",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "5.253.87.0/24", "66.118.236.0/24", "66.118.238.0/24", "104.249.129.0/24", "161.129.32.0/24", "178.173.240.0/24", "185.234.115.0/24", "193.36.73.0/24", "201.78.130.0/24" ],
+    "ipv6": [ ]
+  }
+}

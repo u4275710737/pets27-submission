@@ -1,0 +1,14 @@
+{
+  "asn": 203566,
+  "metadata": {
+    "handle": "PL-EGOSKY",
+    "description": "Adam Pacyga",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

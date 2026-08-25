@@ -1,0 +1,14 @@
+{
+  "asn": 135890,
+  "metadata": {
+    "handle": "MLC1-AP",
+    "description": "MLC LIMITED",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

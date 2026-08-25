@@ -1,0 +1,14 @@
+{
+  "asn": 206085,
+  "metadata": {
+    "handle": "HOSTING",
+    "description": "SC ITNS.NET SRL",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

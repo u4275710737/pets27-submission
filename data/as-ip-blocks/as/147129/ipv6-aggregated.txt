@@ -1,0 +1,4 @@
+# AS147129 (IDNIC-AIS-AS-ID)
+# Universitas Aisyiyah Surakarta
+#
+2001:df0:10c0::/48

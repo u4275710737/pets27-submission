@@ -1,0 +1,14 @@
+{
+  "asn": 19907,
+  "metadata": {
+    "handle": "NEUSTAR-AS6",
+    "description": "NeuStar, Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

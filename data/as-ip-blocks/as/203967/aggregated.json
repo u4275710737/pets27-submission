@@ -1,0 +1,14 @@
+{
+  "asn": 203967,
+  "metadata": {
+    "handle": "UK-CROWN",
+    "description": "ARCTICTEL LTD",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,3 @@
+# AS33318 (AS-AHC-80)
+# Agfa HealthCare Corporation
+#

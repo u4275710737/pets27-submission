@@ -1,0 +1,4 @@
+# AS13357 (AMPERNET-TELECOMUNICACOES)
+# Ampernet Telecomunicações Ltda
+#
+200.192.96.0/21

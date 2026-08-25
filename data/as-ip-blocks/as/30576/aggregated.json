@@ -1,0 +1,14 @@
+{
+  "asn": 30576,
+  "metadata": {
+    "handle": "SAEN",
+    "description": "San Antonio Express-News",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

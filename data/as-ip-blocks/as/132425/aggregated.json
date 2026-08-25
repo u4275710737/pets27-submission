@@ -1,0 +1,14 @@
+{
+  "asn": 132425,
+  "metadata": {
+    "handle": "EXABYTES-AP",
+    "description": "Exabytes Network (Singapore) Pte. Ltd.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

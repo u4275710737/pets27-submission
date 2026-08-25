@@ -1,0 +1,14 @@
+{
+  "asn": 211987,
+  "metadata": {
+    "handle": "DATAGRID-NETWORK",
+    "description": "COMMERCIS NETWORK LTD",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

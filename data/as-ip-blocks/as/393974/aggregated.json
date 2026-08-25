@@ -1,0 +1,14 @@
+{
+  "asn": 393974,
+  "metadata": {
+    "handle": "GWNCT",
+    "description": "Goodwill of Western and Northern Connecticut, Inc",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

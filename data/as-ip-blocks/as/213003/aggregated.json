@@ -1,0 +1,14 @@
+{
+  "asn": 213003,
+  "metadata": {
+    "handle": "YELLOWANT",
+    "description": "Janis Streib",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

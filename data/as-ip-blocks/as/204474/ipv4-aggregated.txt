@@ -1,0 +1,4 @@
+# AS204474 (METRO-CC-AS)
+# METRO Cash & Carry OOO
+#
+195.80.139.0/24

@@ -1,0 +1,14 @@
+{
+  "asn": 46618,
+  "metadata": {
+    "handle": "DERYTELECOM",
+    "description": "Cogeco Connexion inc",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

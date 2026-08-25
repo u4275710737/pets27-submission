@@ -1,0 +1,14 @@
+{
+  "asn": 63388,
+  "metadata": {
+    "handle": "WAVEMARKET",
+    "description": "Location Labs",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

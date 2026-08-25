@@ -1,0 +1,14 @@
+{
+  "asn": 23491,
+  "metadata": {
+    "handle": "TPCO-NY-GW01",
+    "description": "Thomas Publishing Company LLC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

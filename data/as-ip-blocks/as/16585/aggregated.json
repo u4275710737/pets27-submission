@@ -1,0 +1,14 @@
+{
+  "asn": 16585,
+  "metadata": {
+    "handle": "SUL-4-AS",
+    "description": "STORCK USA",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

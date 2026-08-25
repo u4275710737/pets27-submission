@@ -1,0 +1,3 @@
+# AS37211 (MAXNET-AS)
+# MaxNET Aut-Sys number
+#

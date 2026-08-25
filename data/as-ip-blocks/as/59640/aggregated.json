@@ -1,0 +1,14 @@
+{
+  "asn": 59640,
+  "metadata": {
+    "handle": "RESO-GARANTIA",
+    "description": "Insurance JSC RESO-GARANTIA",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

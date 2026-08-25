@@ -1,0 +1,14 @@
+{
+  "asn": 35601,
+  "metadata": {
+    "handle": "ZEORK-AS",
+    "description": "PGE Systemy S.A.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

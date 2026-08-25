@@ -1,0 +1,14 @@
+{
+  "asn": 137761,
+  "metadata": {
+    "handle": "ETIIR",
+    "description": "ETIIR",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 265666,
+  "metadata": {
+    "handle": "GLOBAL-FIBER-PERU",
+    "description": "GLOBAL FIBER PER\u00da S.A.C.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

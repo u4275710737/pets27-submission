@@ -1,0 +1,14 @@
+{
+  "asn": 53814,
+  "metadata": {
+    "handle": "BGP",
+    "description": "Lafayette Federal Credit Union - NET Telcos Inc",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

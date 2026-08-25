@@ -1,0 +1,14 @@
+{
+  "asn": 147075,
+  "metadata": {
+    "handle": "IDNIC-SALMANET-ID",
+    "description": "PT Raihan Teknologi Pratama",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

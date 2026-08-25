@@ -1,0 +1,14 @@
+{
+  "asn": 131264,
+  "metadata": {
+    "handle": "FSIPL-AS-AP",
+    "description": "Functional Solutions PTY LTD",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 136878,
+  "metadata": {
+    "handle": "IDNIC-ISN-ID",
+    "description": "PT. InfoMedia Solusi Net",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

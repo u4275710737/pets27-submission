@@ -1,0 +1,14 @@
+{
+  "asn": 54668,
+  "metadata": {
+    "handle": "MARCHEX-EAST",
+    "description": "Marchex, Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

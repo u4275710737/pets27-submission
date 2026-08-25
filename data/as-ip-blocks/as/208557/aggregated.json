@@ -1,0 +1,14 @@
+{
+  "asn": 208557,
+  "metadata": {
+    "handle": "COI-ZIR",
+    "description": "Centralny Osrodek Informatyki",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

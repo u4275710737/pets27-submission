@@ -1,0 +1,14 @@
+{
+  "asn": 55868,
+  "metadata": {
+    "handle": "SAFETY-INSURANCE-AS-AP",
+    "description": "TRUE INTERNET CORPORATION CO. LTD.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

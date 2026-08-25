@@ -1,0 +1,16 @@
+{
+  "asn": 55280,
+  "metadata": {
+    "handle": "AS-RACKBYTE",
+    "description": "RackByte LLC",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "31.58.228.0/24", "104.250.104.0/24", "104.250.119.0/24", "104.250.120.0/23" ],
+    "ipv6": [ "2602:f4d3::/47" ]
+  }
+}

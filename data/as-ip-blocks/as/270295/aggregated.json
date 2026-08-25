@@ -1,0 +1,16 @@
+{
+  "asn": 270295,
+  "metadata": {
+    "handle": "MVM-INTERNET-FIBRA-OPTICA",
+    "description": "MVM INTERNET FIBRA OPTICA",
+    "countryCode": "BR",
+    "country": "Brazil",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "201.77.152.0/22" ],
+    "ipv6": [ "2804:69d8::/32" ]
+  }
+}

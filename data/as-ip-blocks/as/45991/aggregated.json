@@ -1,0 +1,14 @@
+{
+  "asn": 45991,
+  "metadata": {
+    "handle": "KAKAO-45991-AS",
+    "description": "Kakao Corp",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

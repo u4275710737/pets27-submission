@@ -1,0 +1,4 @@
+# AS214066 (TATSPIRTPROM-AS)
+# Tatspirtprom JSC
+#
+193.105.175.0/24

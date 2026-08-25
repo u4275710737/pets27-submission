@@ -1,0 +1,14 @@
+{
+  "asn": 329157,
+  "metadata": {
+    "handle": "ZBL1",
+    "description": "Zoom Broadbands Limited",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

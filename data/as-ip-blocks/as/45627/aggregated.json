@@ -1,0 +1,14 @@
+{
+  "asn": 45627,
+  "metadata": {
+    "handle": "VBRN-TCA-AP",
+    "description": "Viewbank Rise Networks",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

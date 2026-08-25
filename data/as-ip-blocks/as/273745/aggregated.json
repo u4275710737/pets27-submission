@@ -1,0 +1,14 @@
+{
+  "asn": 273745,
+  "metadata": {
+    "handle": "DMSTOR-INFORMATICA",
+    "description": "DMSTOR INFORMATICA LTDA",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

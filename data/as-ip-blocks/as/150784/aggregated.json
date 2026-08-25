@@ -1,0 +1,14 @@
+{
+  "asn": 150784,
+  "metadata": {
+    "handle": "VCL-AP",
+    "description": "Virtury Cloud Private Limited",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 27188,
+  "metadata": {
+    "handle": "CUOFCO",
+    "description": "Credit Union of Colorado",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

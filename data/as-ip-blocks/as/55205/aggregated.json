@@ -1,0 +1,14 @@
+{
+  "asn": 55205,
+  "metadata": {
+    "handle": "PAT-01",
+    "description": "Patrick Engineering Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

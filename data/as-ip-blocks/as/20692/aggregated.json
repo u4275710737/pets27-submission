@@ -1,0 +1,14 @@
+{
+  "asn": 20692,
+  "metadata": {
+    "handle": "NETGATE-AS",
+    "description": "Matthias Rojahn",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

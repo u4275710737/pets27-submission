@@ -1,0 +1,14 @@
+{
+  "asn": 198583,
+  "metadata": {
+    "handle": "AIC-TELECOMS-ALPES",
+    "description": "LASOTEL SAS",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

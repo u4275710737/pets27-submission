@@ -1,0 +1,16 @@
+{
+  "asn": 203440,
+  "metadata": {
+    "handle": "LFTY-AS",
+    "description": "linefinity GmbH",
+    "countryCode": "DE",
+    "country": "Germany",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "185.40.244.0/22" ],
+    "ipv6": [ ]
+  }
+}

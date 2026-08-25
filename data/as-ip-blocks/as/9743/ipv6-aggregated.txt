@@ -1,0 +1,4 @@
+# AS9743 (NIPPONEDUIX-AS-AP)
+# Nippon EDUIX
+#
+2001:df3:25c0::/48

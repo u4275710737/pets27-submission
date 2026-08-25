@@ -1,0 +1,16 @@
+{
+  "asn": 4258,
+  "metadata": {
+    "handle": "ATG-4258",
+    "description": "Accretive Networks",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "access_provider"
+  },
+  "prefixes": {
+    "ipv4": [ "207.66.184.0/24", "207.66.191.0/24", "207.178.16.0/22" ],
+    "ipv6": [ "2606:e600::/32" ]
+  }
+}

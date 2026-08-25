@@ -1,0 +1,14 @@
+{
+  "asn": 205092,
+  "metadata": {
+    "handle": "KLOSIX",
+    "description": "Philipp Klos",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,3 @@
+# AS43188 (LDC-AS)
+# Lauku atbalsta dienests
+#

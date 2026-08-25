@@ -1,0 +1,5 @@
+# AS61003 (GLOBALTELEHOST)
+# GlobalTeleHost Corp.
+#
+23.168.88.0/24
+216.152.146.0/24

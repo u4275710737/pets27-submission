@@ -1,0 +1,14 @@
+{
+  "asn": 136044,
+  "metadata": {
+    "handle": "BRENNAN-AP",
+    "description": "Brennan Voice and Data Pty Ltd",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

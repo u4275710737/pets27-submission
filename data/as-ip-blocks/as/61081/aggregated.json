@@ -1,0 +1,16 @@
+{
+  "asn": 61081,
+  "metadata": {
+    "handle": "NEKOTOPIA",
+    "description": "Richard Lowton",
+    "countryCode": "AE",
+    "country": "United Arab Emirates",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "185.24.72.0/24", "185.24.74.0/24", "185.65.116.0/24" ],
+    "ipv6": [ ]
+  }
+}

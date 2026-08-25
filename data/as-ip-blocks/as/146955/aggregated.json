@@ -1,0 +1,14 @@
+{
+  "asn": 146955,
+  "metadata": {
+    "handle": "FLAMENETWORKS1-AP",
+    "description": "Flame Networks Private Limited",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

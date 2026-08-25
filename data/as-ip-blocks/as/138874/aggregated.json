@@ -1,0 +1,14 @@
+{
+  "asn": 138874,
+  "metadata": {
+    "handle": "APINDO-ID",
+    "description": "PT Anugerah Pratama Indonesia",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

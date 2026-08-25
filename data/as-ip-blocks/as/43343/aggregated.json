@@ -1,0 +1,14 @@
+{
+  "asn": 43343,
+  "metadata": {
+    "handle": "FANAPTELECOM",
+    "description": "Tose'h Fanavari Ertebabat Pasargad Arian Co. PJS",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 153342,
+  "metadata": {
+    "handle": "MRITSERVICES-AS-AP",
+    "description": "MR IT Services",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

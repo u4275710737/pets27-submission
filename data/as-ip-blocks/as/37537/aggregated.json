@@ -1,0 +1,16 @@
+{
+  "asn": 37537,
+  "metadata": {
+    "handle": "ALTRON-BOTSWANA",
+    "description": "Altron Botswana Proprietary Limited",
+    "countryCode": "BW",
+    "country": "Botswana",
+    "origin": "overlaid",
+    "category": null,
+    "networkRole": null
+  },
+  "prefixes": {
+    "ipv4": [ "197.234.208.0/24" ],
+    "ipv6": [ ]
+  }
+}

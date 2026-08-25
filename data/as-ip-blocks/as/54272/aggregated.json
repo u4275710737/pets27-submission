@@ -1,0 +1,14 @@
+{
+  "asn": 54272,
+  "metadata": {
+    "handle": "MEC-1",
+    "description": "Meridian Enterprises Corporation",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

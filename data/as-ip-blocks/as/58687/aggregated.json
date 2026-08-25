@@ -1,0 +1,14 @@
+{
+  "asn": 58687,
+  "metadata": {
+    "handle": "LOGITECH-AP",
+    "description": "Logi-tech Pty Ltd",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

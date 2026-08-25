@@ -1,0 +1,14 @@
+{
+  "asn": 151604,
+  "metadata": {
+    "handle": "WEBWIRESOLUTIONS-AP",
+    "description": "WEB WIRE SOLUTIONS",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

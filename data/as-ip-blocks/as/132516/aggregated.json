@@ -1,0 +1,14 @@
+{
+  "asn": 132516,
+  "metadata": {
+    "handle": "PACENET-AS-IN",
+    "description": "Pacenet Meghbela Broadband Pvt. Ltd.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

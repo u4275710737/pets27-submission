@@ -1,0 +1,14 @@
+{
+  "asn": 199445,
+  "metadata": {
+    "handle": "SENTASERV",
+    "description": "Senta Service LLC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

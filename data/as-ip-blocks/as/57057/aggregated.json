@@ -1,0 +1,14 @@
+{
+  "asn": 57057,
+  "metadata": {
+    "handle": "AVALON",
+    "description": "AVALON Computersystem Ges.m.b.H.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

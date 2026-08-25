@@ -1,0 +1,14 @@
+{
+  "asn": 59936,
+  "metadata": {
+    "handle": "JOEY",
+    "description": "Joseph White-Swift",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,4 @@
+# AS5420 (KEMNET)
+# Kemira Oyj
+#
+2a06:f040::/32

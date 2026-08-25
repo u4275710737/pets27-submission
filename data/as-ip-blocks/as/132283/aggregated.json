@@ -1,0 +1,14 @@
+{
+  "asn": 132283,
+  "metadata": {
+    "handle": "FXCM-ASIA-AP",
+    "description": "FX Corporate LLC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

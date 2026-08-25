@@ -1,0 +1,14 @@
+{
+  "asn": 132837,
+  "metadata": {
+    "handle": "OTSB-AP",
+    "description": "Orient Telecoms Sdn. Bhd",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

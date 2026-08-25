@@ -1,0 +1,14 @@
+{
+  "asn": 272673,
+  "metadata": {
+    "handle": "CF-TELECOMUNICACOES",
+    "description": "CF TELECOMUNICACOES LTDA",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

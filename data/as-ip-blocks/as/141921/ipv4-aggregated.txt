@@ -1,0 +1,5 @@
+# AS141921 (IDNIC-ISEVEN-AS-ID)
+# PT Jaringan Keluarga Bersama
+#
+103.165.155.0/24
+103.178.194.0/24

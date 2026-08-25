@@ -1,0 +1,14 @@
+{
+  "asn": 63172,
+  "metadata": {
+    "handle": "S1SOL",
+    "description": "Source One Solutions, Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

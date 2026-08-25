@@ -1,0 +1,14 @@
+{
+  "asn": 20070,
+  "metadata": {
+    "handle": "TELNES",
+    "description": "Telnes Broadband",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

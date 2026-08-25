@@ -1,0 +1,14 @@
+{
+  "asn": 27836,
+  "metadata": {
+    "handle": "SMARTCOM",
+    "description": "Smartcom",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

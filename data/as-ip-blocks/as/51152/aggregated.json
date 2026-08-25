@@ -1,0 +1,16 @@
+{
+  "asn": 51152,
+  "metadata": {
+    "handle": "VALMESA-AS",
+    "description": "VALORACIONES MEDITERRANEO SA",
+    "countryCode": "ES",
+    "country": "Spain",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "185.151.36.0/23", "185.151.38.0/24" ],
+    "ipv6": [ ]
+  }
+}

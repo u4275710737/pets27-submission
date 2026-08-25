@@ -1,0 +1,5 @@
+# AS25350 (ASN-NUOVOPIGNONE)
+# Nuovo Pignone International S.r.l
+#
+81.200.224.0/21
+81.200.232.0/23

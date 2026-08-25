@@ -1,0 +1,4 @@
+# AS27520 (TECHOGS)
+# Techogs llc
+#
+2602:f8de::/40

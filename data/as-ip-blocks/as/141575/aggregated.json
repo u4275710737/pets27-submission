@@ -1,0 +1,14 @@
+{
+  "asn": 141575,
+  "metadata": {
+    "handle": "BHARATIP-AP-IN",
+    "description": "Bharat Digital Network Private Limited",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

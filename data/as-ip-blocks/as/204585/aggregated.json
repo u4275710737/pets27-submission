@@ -1,0 +1,14 @@
+{
+  "asn": 204585,
+  "metadata": {
+    "handle": "SHANEMCC-EVENTS",
+    "description": "ShaneMcC Ltd",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

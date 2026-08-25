@@ -1,0 +1,16 @@
+{
+  "asn": 266223,
+  "metadata": {
+    "handle": "WALTER-ELIAS-VILLA",
+    "description": "Walter Elias Villa",
+    "countryCode": "BR",
+    "country": "Brazil",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "192.140.28.0/22" ],
+    "ipv6": [ ]
+  }
+}

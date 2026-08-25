@@ -1,0 +1,14 @@
+{
+  "asn": 203349,
+  "metadata": {
+    "handle": "ABICOM",
+    "description": "ABICOM SAS",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

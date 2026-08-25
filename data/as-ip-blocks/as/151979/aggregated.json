@@ -1,0 +1,14 @@
+{
+  "asn": 151979,
+  "metadata": {
+    "handle": "FIRELINE-AS-AP",
+    "description": "HONG KONG FIRELINE NETWORK TECHNOLOGY CO. LIMITED",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

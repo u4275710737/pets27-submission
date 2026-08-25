@@ -1,0 +1,16 @@
+{
+  "asn": 36928,
+  "metadata": {
+    "handle": "SIERRATEL-AS",
+    "description": "Sierratel AS Number",
+    "countryCode": "SL",
+    "country": "Sierra Leone",
+    "origin": "overlaid",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "41.205.224.0/19" ],
+    "ipv6": [ ]
+  }
+}

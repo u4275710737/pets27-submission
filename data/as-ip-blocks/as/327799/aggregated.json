@@ -1,0 +1,16 @@
+{
+  "asn": 327799,
+  "metadata": {
+    "handle": "AS-327799",
+    "description": "Viattel ASN",
+    "countryCode": "BI",
+    "country": "Burundi",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "access_provider"
+  },
+  "prefixes": {
+    "ipv4": [ "154.73.104.0/22", "154.117.192.0/18" ],
+    "ipv6": [ ]
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 136363,
+  "metadata": {
+    "handle": "ROCKNET",
+    "description": "Rocknet Internet Services Pvt Ltd",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

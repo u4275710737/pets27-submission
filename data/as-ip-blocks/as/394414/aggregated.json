@@ -1,0 +1,16 @@
+{
+  "asn": 394414,
+  "metadata": {
+    "handle": "AS394414",
+    "description": "E2W Solutions LLC",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "192.154.3.0/24" ],
+    "ipv6": [ "2602:fafd:fc0::/43" ]
+  }
+}

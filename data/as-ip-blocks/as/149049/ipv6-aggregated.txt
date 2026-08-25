@@ -1,0 +1,3 @@
+# AS149049 (RESERVED)
+# APNIC ASN block
+#

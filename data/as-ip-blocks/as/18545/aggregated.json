@@ -1,0 +1,14 @@
+{
+  "asn": 18545,
+  "metadata": {
+    "handle": "OSMNET",
+    "description": "Office of Surface Mining Reclamation and Enforcement",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

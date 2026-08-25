@@ -1,0 +1,16 @@
+{
+  "asn": 265894,
+  "metadata": {
+    "handle": "PORTALCOM-STI-EIRELE",
+    "description": "Portal.com STI eirele",
+    "countryCode": "BR",
+    "country": "Brazil",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "131.196.48.0/22" ],
+    "ipv6": [ "2804:3f78::/32" ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "asn": 204545,
+  "metadata": {
+    "handle": "LEOTELECOMUNICAZIONI",
+    "description": "LEO TELECOMUNICAZIONI SRL",
+    "countryCode": "IT",
+    "country": "Italy",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "217.65.128.0/24" ],
+    "ipv6": [ "2a01:ec00::/29" ]
+  }
+}

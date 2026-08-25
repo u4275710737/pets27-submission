@@ -1,0 +1,14 @@
+{
+  "asn": 43961,
+  "metadata": {
+    "handle": "FISERVPL",
+    "description": "FISERV POLSKA S.A.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

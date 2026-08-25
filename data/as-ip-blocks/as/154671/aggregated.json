@@ -1,0 +1,16 @@
+{
+  "asn": 154671,
+  "metadata": {
+    "handle": "NURHOST-AS-AP",
+    "description": "Nur Host",
+    "countryCode": "BD",
+    "country": "Bangladesh",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "162.4.112.0/23" ],
+    "ipv6": [ ]
+  }
+}

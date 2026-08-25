@@ -1,0 +1,14 @@
+{
+  "asn": 200071,
+  "metadata": {
+    "handle": "KRESCO-AS",
+    "description": "hallo Nederland B.V.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

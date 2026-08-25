@@ -1,0 +1,4 @@
+# AS17393 (MVP1-BGP-CORE)
+# CMMS Data Group Inc.
+#
+206.109.77.0/24

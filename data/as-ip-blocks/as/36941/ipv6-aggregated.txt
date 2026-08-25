@@ -1,0 +1,4 @@
+# AS36941 (MTDS-AS)
+# Morocco Trade and Development Services (MTDS)
+#
+2c0f:f378::/32

@@ -1,0 +1,5 @@
+# AS14043 (SCANSOURCE-INC)
+# ScanSource Inc.
+#
+198.154.60.0/22
+204.10.4.0/22

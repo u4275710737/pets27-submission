@@ -1,0 +1,14 @@
+{
+  "asn": 149706,
+  "metadata": {
+    "handle": "IDNIC-AEGISNET-AS-ID",
+    "description": "PT Aegis Ekakarsa Garuda Informatika Semesta",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

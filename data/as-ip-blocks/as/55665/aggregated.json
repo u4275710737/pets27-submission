@@ -1,0 +1,14 @@
+{
+  "asn": 55665,
+  "metadata": {
+    "handle": "STMI-ID",
+    "description": "PT Sampoerna Telemedia Indonesia",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

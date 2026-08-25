@@ -1,0 +1,14 @@
+{
+  "asn": 394496,
+  "metadata": {
+    "handle": "GLCU",
+    "description": "Great Lakes Credit Union",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

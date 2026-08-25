@@ -1,0 +1,14 @@
+{
+  "asn": 136309,
+  "metadata": {
+    "handle": "STNE-IN",
+    "description": "STAR NETWORKS",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 40616,
+  "metadata": {
+    "handle": "CAP-ABLE",
+    "description": "Center for American Progress",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

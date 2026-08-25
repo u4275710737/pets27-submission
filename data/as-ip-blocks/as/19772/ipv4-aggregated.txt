@@ -1,0 +1,4 @@
+# AS19772 (LIBERATED)
+# Liberated Networks Inc
+#
+139.60.118.0/24

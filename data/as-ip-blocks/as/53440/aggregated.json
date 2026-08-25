@@ -1,0 +1,14 @@
+{
+  "asn": 53440,
+  "metadata": {
+    "handle": "VB-AK",
+    "description": "Vertical Broadband LLC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

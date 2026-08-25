@@ -1,0 +1,4 @@
+# AS37013 (SNAL-AS)
+# SatCom Networks Africa Ltd.
+#
+2c0f:fd10::/32

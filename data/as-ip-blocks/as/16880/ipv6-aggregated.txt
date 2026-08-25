@@ -1,0 +1,6 @@
+# AS16880 (TRENDMICRO)
+# Global IDC and Backbone of Trend Micro Inc.
+#
+2620:101:4034::/48
+2620:101:4036::/48
+2620:101:403c::/48

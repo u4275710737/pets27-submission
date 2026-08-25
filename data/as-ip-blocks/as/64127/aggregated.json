@@ -1,0 +1,14 @@
+{
+  "asn": 64127,
+  "metadata": {
+    "handle": "XCONNECT-SPA",
+    "description": "XCONNECT SPA",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

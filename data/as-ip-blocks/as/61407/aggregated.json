@@ -1,0 +1,16 @@
+{
+  "asn": 61407,
+  "metadata": {
+    "handle": "NEWTELCO-AS",
+    "description": "NewTelco GmbH",
+    "countryCode": "DE",
+    "country": "Germany",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "midsize_transit"
+  },
+  "prefixes": {
+    "ipv4": [ "185.29.211.0/24" ],
+    "ipv6": [ "2a07:5240::/29" ]
+  }
+}

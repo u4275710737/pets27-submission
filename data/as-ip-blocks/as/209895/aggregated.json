@@ -1,0 +1,16 @@
+{
+  "asn": 209895,
+  "metadata": {
+    "handle": "KVANTANETAS",
+    "description": "NBI SIA",
+    "countryCode": "LV",
+    "country": "Latvia",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "45.65.124.0/24", "45.65.126.0/23" ],
+    "ipv6": [ ]
+  }
+}

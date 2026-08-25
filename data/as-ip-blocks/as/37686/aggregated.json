@@ -1,0 +1,16 @@
+{
+  "asn": 37686,
+  "metadata": {
+    "handle": "ABU-AS",
+    "description": "ABU Zaria Autonomus System",
+    "countryCode": "NG",
+    "country": "Nigeria",
+    "origin": "authoritative",
+    "category": "education_research",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "196.220.66.0/23" ],
+    "ipv6": [ ]
+  }
+}

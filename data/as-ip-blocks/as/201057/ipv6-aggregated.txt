@@ -1,0 +1,5 @@
+# AS201057 (MULTIMFI)
+# Multim Oy
+#
+2a05:b9c0::/29
+2a0a:2000::/29

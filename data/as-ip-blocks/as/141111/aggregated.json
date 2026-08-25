@@ -1,0 +1,14 @@
+{
+  "asn": 141111,
+  "metadata": {
+    "handle": "IDNIC-DISKOMINFOSALATIGA-ID",
+    "description": "Dinas Komunikasi dan Informatika Kota Salatiga",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

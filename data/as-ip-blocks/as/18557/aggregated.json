@@ -1,0 +1,14 @@
+{
+  "asn": 18557,
+  "metadata": {
+    "handle": "HAWKCOMM",
+    "description": "Hawk Communications LLC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

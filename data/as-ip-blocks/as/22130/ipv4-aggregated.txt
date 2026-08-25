@@ -1,0 +1,5 @@
+# AS22130 (DAS-BGP-29)
+# Doctor's Associates LLC
+#
+160.72.10.0/24
+209.160.235.0/24

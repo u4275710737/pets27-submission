@@ -1,0 +1,14 @@
+{
+  "asn": 58787,
+  "metadata": {
+    "handle": "TERAKOYA-NET",
+    "description": "Cyber Terakoya",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

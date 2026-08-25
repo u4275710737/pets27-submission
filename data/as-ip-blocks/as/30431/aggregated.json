@@ -1,0 +1,14 @@
+{
+  "asn": 30431,
+  "metadata": {
+    "handle": "AS-PREFIXX",
+    "description": "Prefixx Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

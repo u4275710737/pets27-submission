@@ -1,0 +1,14 @@
+{
+  "asn": 142150,
+  "metadata": {
+    "handle": "MSNETWORKS-AS-AP",
+    "description": "MIAN SIDDIQUE NETWORKS (PRIVATE) LIMITED",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

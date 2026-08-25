@@ -1,0 +1,14 @@
+{
+  "asn": 394207,
+  "metadata": {
+    "handle": "RGHQ-ASN-ONE",
+    "description": "rateGenius inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

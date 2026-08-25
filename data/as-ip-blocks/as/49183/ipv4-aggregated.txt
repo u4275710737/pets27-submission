@@ -1,0 +1,5 @@
+# AS49183 (BEREZHANY-AS)
+# Galichina Telekommunication LTD
+#
+46.173.160.0/20
+94.231.176.0/20

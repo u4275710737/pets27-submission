@@ -1,0 +1,16 @@
+{
+  "asn": 273830,
+  "metadata": {
+    "handle": "CABLE-CARIBE",
+    "description": "CABLE CARIBE S.A.",
+    "countryCode": "CR",
+    "country": "Costa Rica",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "38.3.135.0/24" ],
+    "ipv6": [ ]
+  }
+}

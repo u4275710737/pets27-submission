@@ -1,0 +1,4 @@
+# AS55393 (MIDOKURA)
+# Midokura Japan K.K.
+#
+119.15.112.0/22

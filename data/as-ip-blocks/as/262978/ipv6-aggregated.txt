@@ -1,0 +1,4 @@
+# AS262978 (CENTRO-TECNOLOGIA-ARMAZEM)
+# Centro de Tecnologia Armazem Datacenter LTDA.
+#
+2804:4d44::/32

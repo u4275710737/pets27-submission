@@ -1,0 +1,5 @@
+# AS150297 (GMBECL-AS-AP)
+# Golden Myanmar Business Exchange Co. Ltd
+#
+123.253.20.0/23
+123.253.22.0/24

@@ -1,0 +1,4 @@
+# AS154205 (IDNIC-SUSU-TECHNET-AS-ID)
+# PT Susu Teknologi Indonesia
+#
+203.17.189.0/24

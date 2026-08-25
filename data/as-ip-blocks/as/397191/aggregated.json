@@ -1,0 +1,14 @@
+{
+  "asn": 397191,
+  "metadata": {
+    "handle": "SIEL-AS2",
+    "description": "Sony Interactive Entertainment LLC.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

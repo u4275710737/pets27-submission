@@ -1,0 +1,16 @@
+{
+  "asn": 29145,
+  "metadata": {
+    "handle": "CENTAUR-GMBH-AS",
+    "description": "Centaur GmbH",
+    "countryCode": "DE",
+    "country": "Germany",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "217.30.48.0/20" ],
+    "ipv6": [ ]
+  }
+}

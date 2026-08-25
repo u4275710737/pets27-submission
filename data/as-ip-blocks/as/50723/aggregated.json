@@ -1,0 +1,14 @@
+{
+  "asn": 50723,
+  "metadata": {
+    "handle": "IPTRADE",
+    "description": "IP Resources Trading SRL",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

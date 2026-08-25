@@ -1,0 +1,4 @@
+# AS38253 (HANOITELECOM-AS-VN)
+# Hanoi Telecom JSC
+#
+2400:b520::/48

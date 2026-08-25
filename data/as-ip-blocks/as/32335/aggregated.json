@@ -1,0 +1,14 @@
+{
+  "asn": 32335,
+  "metadata": {
+    "handle": "N-T-TECHNOLOGY",
+    "description": "N.T. Technology, Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

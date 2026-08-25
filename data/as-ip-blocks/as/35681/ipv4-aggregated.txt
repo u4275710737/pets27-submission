@@ -1,0 +1,4 @@
+# AS35681 (A2TELECOM)
+# Oyoun al Wasool Communications and Information Technology Company
+#
+185.160.68.0/22

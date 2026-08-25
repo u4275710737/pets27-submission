@@ -1,0 +1,14 @@
+{
+  "asn": 150061,
+  "metadata": {
+    "handle": "CITYLNK-IN",
+    "description": "Citylink Services",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 139397,
+  "metadata": {
+    "handle": "IDNIC-MNI-ID",
+    "description": "PT. Multimedia Network Indonesia",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

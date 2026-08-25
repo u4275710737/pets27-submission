@@ -1,0 +1,14 @@
+{
+  "asn": 142560,
+  "metadata": {
+    "handle": "VDC-AS-AP",
+    "description": "Vega Dior Company Limited",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 46680,
+  "metadata": {
+    "handle": "CONTACTUAL",
+    "description": "Contactual, Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

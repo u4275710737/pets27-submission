@@ -1,0 +1,14 @@
+{
+  "asn": 142129,
+  "metadata": {
+    "handle": "EEEI-IXP-CONNECT-IX",
+    "description": "Electrical and Electronics Engineering Institute",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 16464,
+  "metadata": {
+    "handle": "CT-CORPORATION-SYSTEM",
+    "description": "CT Corporation System",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

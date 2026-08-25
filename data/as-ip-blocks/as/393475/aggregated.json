@@ -1,0 +1,14 @@
+{
+  "asn": 393475,
+  "metadata": {
+    "handle": "AS-DYNATRACE-01",
+    "description": "Dynatrace",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

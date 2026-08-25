@@ -1,0 +1,16 @@
+{
+  "asn": 199241,
+  "metadata": {
+    "handle": "LH142",
+    "description": "Leon Haerle",
+    "countryCode": "DE",
+    "country": "Germany",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ "2a0f:85c1:b71::/48" ]
+  }
+}

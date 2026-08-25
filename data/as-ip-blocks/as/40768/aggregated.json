@@ -1,0 +1,14 @@
+{
+  "asn": 40768,
+  "metadata": {
+    "handle": "GANNETT-ROC",
+    "description": "Democrat and Chronicle",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

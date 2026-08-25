@@ -1,0 +1,4 @@
+# AS11600 (PARALLAX)
+# Parallax Services LLC
+#
+208.88.69.0/24

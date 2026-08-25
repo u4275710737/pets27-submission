@@ -1,0 +1,14 @@
+{
+  "asn": 19203,
+  "metadata": {
+    "handle": "IMPRI-1",
+    "description": "Imprivata Inc",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

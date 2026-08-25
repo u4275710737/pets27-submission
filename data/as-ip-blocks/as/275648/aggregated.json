@@ -1,0 +1,16 @@
+{
+  "asn": 275648,
+  "metadata": {
+    "handle": "EPM-TELECOMUNICACOES",
+    "description": "EPM TELECOMUNICACOES LTDA",
+    "countryCode": "BR",
+    "country": "Brazil",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "191.227.142.0/23" ],
+    "ipv6": [ "2804:97d4::/32" ]
+  }
+}

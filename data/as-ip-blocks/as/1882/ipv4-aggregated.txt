@@ -1,0 +1,5 @@
+# AS1882 (STUPI)
+# Svensk Teleutveckling & Produktinnovation STUPI AB
+#
+192.36.42.0/24
+194.71.10.0/24

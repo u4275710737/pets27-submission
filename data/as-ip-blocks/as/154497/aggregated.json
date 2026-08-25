@@ -1,0 +1,16 @@
+{
+  "asn": 154497,
+  "metadata": {
+    "handle": "TSL-AS-AP",
+    "description": "Technonext Software Limited",
+    "countryCode": "BD",
+    "country": "Bangladesh",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "151.158.164.0/23" ],
+    "ipv6": [ ]
+  }
+}

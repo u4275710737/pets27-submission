@@ -1,0 +1,14 @@
+{
+  "asn": 26636,
+  "metadata": {
+    "handle": "QUICKPACKET-3",
+    "description": "QuickPacket, LLC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

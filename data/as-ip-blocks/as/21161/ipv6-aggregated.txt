@@ -1,0 +1,4 @@
+# AS21161 (ASN-BECHTLE)
+# Bechtle AG
+#
+2a02:2198::/32

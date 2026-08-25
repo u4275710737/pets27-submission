@@ -1,0 +1,14 @@
+{
+  "asn": 62684,
+  "metadata": {
+    "handle": "XLBROADBAND",
+    "description": "XL Broadband Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

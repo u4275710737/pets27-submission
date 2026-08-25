@@ -1,0 +1,14 @@
+{
+  "asn": 205360,
+  "metadata": {
+    "handle": "MIGFO",
+    "description": "Migration Forensics Limited",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 397104,
+  "metadata": {
+    "handle": "BIP",
+    "description": "BIP MEDIA LLC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

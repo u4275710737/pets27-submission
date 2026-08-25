@@ -1,0 +1,14 @@
+{
+  "asn": 153113,
+  "metadata": {
+    "handle": "IDNIC-BIGGEST-AS-ID",
+    "description": "PT Central Karya Lintas Buana",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

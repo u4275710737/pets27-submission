@@ -1,0 +1,16 @@
+{
+  "asn": 150051,
+  "metadata": {
+    "handle": "SKYNETBB-AS-IN",
+    "description": "Skynet Broadband",
+    "countryCode": "IN",
+    "country": "India",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "103.190.238.0/23" ],
+    "ipv6": [ ]
+  }
+}

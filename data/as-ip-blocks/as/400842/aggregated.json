@@ -1,0 +1,14 @@
+{
+  "asn": 400842,
+  "metadata": {
+    "handle": "NSWAT",
+    "description": "NetSWAT LLC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

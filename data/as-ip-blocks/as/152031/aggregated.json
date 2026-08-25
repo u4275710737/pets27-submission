@@ -1,0 +1,14 @@
+{
+  "asn": 152031,
+  "metadata": {
+    "handle": "NARATEL-ID",
+    "description": "PT Naraya Telematika",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

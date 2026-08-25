@@ -1,0 +1,14 @@
+{
+  "asn": 7490,
+  "metadata": {
+    "handle": "NABINVEST-AP",
+    "description": "NAB Investment Holdings Pty Ltd",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 151562,
+  "metadata": {
+    "handle": "IDNIC-UMSU-AS-ID",
+    "description": "Universitas Muhammadiyah Sumatera Utara",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

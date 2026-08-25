@@ -1,0 +1,14 @@
+{
+  "asn": 19781,
+  "metadata": {
+    "handle": "AAA-CLUB-ALLIANCE",
+    "description": "AAA Club Alliance Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

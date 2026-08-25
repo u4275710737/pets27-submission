@@ -1,0 +1,14 @@
+{
+  "asn": 58958,
+  "metadata": {
+    "handle": "NEWSBOOKLIMITED-HK",
+    "description": "Newsbook Limited",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

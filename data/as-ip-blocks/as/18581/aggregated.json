@@ -1,0 +1,14 @@
+{
+  "asn": 18581,
+  "metadata": {
+    "handle": "ALLIANZLIFE",
+    "description": "Allianz Life",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

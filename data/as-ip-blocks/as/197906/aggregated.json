@@ -1,0 +1,16 @@
+{
+  "asn": 197906,
+  "metadata": {
+    "handle": "AS-AIRLAN",
+    "description": "Anastasios Nistas trading as AIRLAN",
+    "countryCode": "GR",
+    "country": "Greece",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "185.168.37.0/24" ],
+    "ipv6": [ ]
+  }
+}

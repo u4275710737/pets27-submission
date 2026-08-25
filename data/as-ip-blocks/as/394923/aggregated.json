@@ -1,0 +1,16 @@
+{
+  "asn": 394923,
+  "metadata": {
+    "handle": "ARTFILES-LLC-RIPE-DUMMY",
+    "description": "Artfiles LLC",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "31.210.148.0/23" ],
+    "ipv6": [ "2602:ff52::/48" ]
+  }
+}

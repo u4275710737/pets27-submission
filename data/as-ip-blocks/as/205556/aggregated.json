@@ -1,0 +1,14 @@
+{
+  "asn": 205556,
+  "metadata": {
+    "handle": "ANTWORK-AS",
+    "description": "Antwork LTD",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

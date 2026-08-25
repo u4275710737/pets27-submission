@@ -1,0 +1,14 @@
+{
+  "asn": 22822,
+  "metadata": {
+    "handle": "LLNW",
+    "description": "Limelight Networks Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

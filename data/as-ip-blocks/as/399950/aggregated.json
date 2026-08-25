@@ -1,0 +1,14 @@
+{
+  "asn": 399950,
+  "metadata": {
+    "handle": "SMG-KC-LLC",
+    "description": "Service Management Group",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "asn": 203096,
+  "metadata": {
+    "handle": "BUNQ",
+    "description": "bunq B.V.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [
+      "185.40.108.0/23"
+    ],
+    "ipv6": []
+  }
+}

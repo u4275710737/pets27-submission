@@ -1,0 +1,4 @@
+# AS28640 (VIPWAY-TELECOMUNICACOES)
+# VIPWAY Telecomunicações Ltda
+#
+2001:1288::/32

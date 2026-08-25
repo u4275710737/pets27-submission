@@ -1,0 +1,14 @@
+{
+  "asn": 60096,
+  "metadata": {
+    "handle": "IBM-TR",
+    "description": "Kyndryl Global Services Is ve Teknoloji Hizmetleri ve Ticaret Limited Sirketi",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 212885,
+  "metadata": {
+    "handle": "RBSI-UK-AS",
+    "description": "Natwest Markets PLC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 204608,
+  "metadata": {
+    "handle": "ASAGG",
+    "description": "AGGARA LLC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

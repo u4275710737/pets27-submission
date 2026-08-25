@@ -1,0 +1,16 @@
+{
+  "asn": 154658,
+  "metadata": {
+    "handle": "TNWIS-AS-AP",
+    "description": "Trident Network Wireless Internet Services",
+    "countryCode": "PH",
+    "country": "Philippines",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "162.4.94.0/23" ],
+    "ipv6": [ ]
+  }
+}

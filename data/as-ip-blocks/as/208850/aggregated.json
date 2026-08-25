@@ -1,0 +1,16 @@
+{
+  "asn": 208850,
+  "metadata": {
+    "handle": "JOSEKI-AI",
+    "description": "Iraj Taghlidi",
+    "countryCode": "NL",
+    "country": "Netherlands",
+    "origin": "authoritative",
+    "category": null,
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "87.58.128.0/24" ],
+    "ipv6": [ ]
+  }
+}

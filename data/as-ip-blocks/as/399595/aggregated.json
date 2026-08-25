@@ -1,0 +1,14 @@
+{
+  "asn": 399595,
+  "metadata": {
+    "handle": "TELSERV-COMM-01",
+    "description": "TELSERV COMMUNICATION SERVICES LLC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

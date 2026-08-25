@@ -1,0 +1,4 @@
+# AS213726 (DE-EFS)
+# EFS Euro-Finanz-Service Vermittlungs AG
+#
+185.197.164.0/24

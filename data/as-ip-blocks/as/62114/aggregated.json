@@ -1,0 +1,14 @@
+{
+  "asn": 62114,
+  "metadata": {
+    "handle": "GARMIN-AS",
+    "description": "GARMIN Cluj SRL",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

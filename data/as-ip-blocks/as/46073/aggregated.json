@@ -1,0 +1,14 @@
+{
+  "asn": 46073,
+  "metadata": {
+    "handle": "REEDELSEVIER-AUSTRALIA",
+    "description": "Reed Elsevier Australia Pty Ltd",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

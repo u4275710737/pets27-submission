@@ -1,0 +1,14 @@
+{
+  "asn": 16644,
+  "metadata": {
+    "handle": "ZANG-01",
+    "description": "Zangmeister cancer Center",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

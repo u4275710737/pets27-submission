@@ -1,0 +1,14 @@
+{
+  "asn": 396958,
+  "metadata": {
+    "handle": "SBT",
+    "description": "Sterling Bank & Trust FSB",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

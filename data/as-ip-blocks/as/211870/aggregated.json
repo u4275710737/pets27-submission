@@ -1,0 +1,14 @@
+{
+  "asn": 211870,
+  "metadata": {
+    "handle": "WALTHER-IT",
+    "description": "Nikolaus Walther",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 197300,
+  "metadata": {
+    "handle": "TURBO-AS",
+    "description": "JAROSLAW JANCZAK trading as FHUP TURBO",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

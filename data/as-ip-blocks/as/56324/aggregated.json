@@ -1,0 +1,14 @@
+{
+  "asn": 56324,
+  "metadata": {
+    "handle": "LOGITUS",
+    "description": "Netia SA",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

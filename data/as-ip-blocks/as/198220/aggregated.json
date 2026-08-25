@@ -1,0 +1,16 @@
+{
+  "asn": 198220,
+  "metadata": {
+    "handle": "GOGRID",
+    "description": "Rackspace Ltd.",
+    "countryCode": "GB",
+    "country": "United Kingdom",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "164.40.128.0/19", "173.1.184.0/21" ],
+    "ipv6": [ ]
+  }
+}

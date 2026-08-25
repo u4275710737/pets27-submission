@@ -1,0 +1,16 @@
+{
+  "asn": 198038,
+  "metadata": {
+    "handle": "WAVEHOST-EU",
+    "description": "Szymon Dabrowski",
+    "countryCode": "PL",
+    "country": "Poland",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ "2a06:9801:2b7::/48" ]
+  }
+}

@@ -1,0 +1,6 @@
+# AS55085 (OLBANKING-PROD-AS)
+# Fiserv Solutions LLC
+#
+72.28.96.0/24
+198.167.0.0/24
+216.151.33.0/24

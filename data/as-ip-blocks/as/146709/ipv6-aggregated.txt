@@ -1,0 +1,4 @@
+# AS146709 (CERNET)
+# China Education and Research Network
+#
+240a:afdb::/32

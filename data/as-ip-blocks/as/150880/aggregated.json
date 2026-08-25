@@ -1,0 +1,14 @@
+{
+  "asn": 150880,
+  "metadata": {
+    "handle": "FASTBYTE-VN",
+    "description": "FAST BYTE FAST DATA COMPANY LIMITED",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

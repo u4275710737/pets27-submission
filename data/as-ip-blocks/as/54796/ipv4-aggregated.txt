@@ -1,0 +1,4 @@
+# AS54796 (ATU-AM)
+# Enerpac Tool Group Corp.
+#
+192.84.24.0/24

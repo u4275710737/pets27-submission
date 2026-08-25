@@ -1,0 +1,16 @@
+{
+  "asn": 211090,
+  "metadata": {
+    "handle": "DIL",
+    "description": "DIL Technology Limited",
+    "countryCode": "IQ",
+    "country": "Iraq",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "31.14.228.0/24", "185.172.230.0/24", "185.253.76.0/24", "185.253.78.0/23" ],
+    "ipv6": [ "2a0b:81c0::/29", "2a10:f1c0:1::/48" ]
+  }
+}

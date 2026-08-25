@@ -1,0 +1,14 @@
+{
+  "asn": 38028,
+  "metadata": {
+    "handle": "MCKINSEY-AP",
+    "description": "McKinsey & Company",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

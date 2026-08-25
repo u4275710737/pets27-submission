@@ -1,0 +1,14 @@
+{
+  "asn": 206489,
+  "metadata": {
+    "handle": "PINNACLEHUE",
+    "description": "PinnacleHue LLC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

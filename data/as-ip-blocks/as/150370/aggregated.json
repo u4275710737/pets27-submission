@@ -1,0 +1,14 @@
+{
+  "asn": 150370,
+  "metadata": {
+    "handle": "BWNTCL-AS-AP",
+    "description": "Beijing WuYuYunLian Network Technology Co. Ltd.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 210365,
+  "metadata": {
+    "handle": "FRAGNET",
+    "description": "Fragnet Networks International AB",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

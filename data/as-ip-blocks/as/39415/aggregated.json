@@ -1,0 +1,16 @@
+{
+  "asn": 39415,
+  "metadata": {
+    "handle": "MGTSUASIT-AS",
+    "description": "PJSC Moscow city telephone network",
+    "countryCode": "RU",
+    "country": "Russia",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "195.178.108.0/23" ],
+    "ipv6": [ ]
+  }
+}

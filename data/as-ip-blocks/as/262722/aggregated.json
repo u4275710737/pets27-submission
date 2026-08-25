@@ -1,0 +1,16 @@
+{
+  "asn": 262722,
+  "metadata": {
+    "handle": "TELEVIGO-TELECOM-EIRELI",
+    "description": "Televigo Telecom EIRELI",
+    "countryCode": "BR",
+    "country": "Brazil",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "187.120.224.0/21" ],
+    "ipv6": [ ]
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 32857,
+  "metadata": {
+    "handle": "COLO5",
+    "description": "Webster Bank, National Association",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

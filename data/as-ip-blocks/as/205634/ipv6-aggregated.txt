@@ -1,0 +1,6 @@
+# AS205634 (PF)
+# Prime Formation GmbH
+#
+2a0a:79c0:f00::/45
+2a0a:79c0:f08::/47
+2a0a:79c0:f0a::/48

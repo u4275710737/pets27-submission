@@ -1,0 +1,14 @@
+{
+  "asn": 398220,
+  "metadata": {
+    "handle": "QSHL",
+    "description": "Quick Server Hosting LLC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

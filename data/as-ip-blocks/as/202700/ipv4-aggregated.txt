@@ -1,0 +1,6 @@
+# AS202700 (KUSHKHOV-AS)
+# Aliev Zalim Khasanovich
+#
+37.18.61.0/24
+37.18.105.0/24
+178.170.247.0/24

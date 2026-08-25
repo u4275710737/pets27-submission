@@ -1,0 +1,4 @@
+# AS59124 (KYOTO-PREF)
+# KYOTO Prefectural Government
+#
+202.34.14.0/24

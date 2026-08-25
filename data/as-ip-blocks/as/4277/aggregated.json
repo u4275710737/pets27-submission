@@ -1,0 +1,14 @@
+{
+  "asn": 4277,
+  "metadata": {
+    "handle": "SEMBLER-STPETE",
+    "description": "The Sembler Company",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

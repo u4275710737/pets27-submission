@@ -1,0 +1,4 @@
+# AS41497 (AS-QCOM)
+# INTRED S.p.A.
+#
+2001:4bb0::/32

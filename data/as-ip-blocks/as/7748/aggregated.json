@@ -1,0 +1,14 @@
+{
+  "asn": 7748,
+  "metadata": {
+    "handle": "SHUREAS",
+    "description": "Shure Incorporated",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

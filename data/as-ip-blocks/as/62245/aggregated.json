@@ -1,0 +1,14 @@
+{
+  "asn": 62245,
+  "metadata": {
+    "handle": "EQUINIX-SVC",
+    "description": "Equinix (Netherlands) B.V.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 40445,
+  "metadata": {
+    "handle": "RISE-UT-LASTMILE-AS40045",
+    "description": "JAB Wireless INC.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

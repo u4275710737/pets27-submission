@@ -1,0 +1,16 @@
+{
+  "asn": 153186,
+  "metadata": {
+    "handle": "XUJIAYOU-AS-AP",
+    "description": "Xu Jiayou",
+    "countryCode": "CN",
+    "country": "China",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ "2406:840:fc40::/47", "2406:840:fc42::/48", "2406:840:fefa::/48" ]
+  }
+}

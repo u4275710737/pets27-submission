@@ -1,0 +1,14 @@
+{
+  "asn": 12626,
+  "metadata": {
+    "handle": "CEGETEL",
+    "description": "Societe Francaise Du Radiotelephone - SFR SA",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

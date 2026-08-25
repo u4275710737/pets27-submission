@@ -1,0 +1,14 @@
+{
+  "asn": 51591,
+  "metadata": {
+    "handle": "SHTODA",
+    "description": "Shtoda Andrey Viktorovich",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

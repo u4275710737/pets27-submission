@@ -1,0 +1,16 @@
+{
+  "asn": 399943,
+  "metadata": {
+    "handle": "FIGFCU-P1",
+    "description": "Farmers Insurance Group Federal Credit Union",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "government_admin",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "64.112.48.0/24" ],
+    "ipv6": [ ]
+  }
+}

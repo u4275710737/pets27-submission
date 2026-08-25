@@ -1,0 +1,14 @@
+{
+  "asn": 43112,
+  "metadata": {
+    "handle": "TSBG-HOSTING",
+    "description": "TSBG Hosting Ltd.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

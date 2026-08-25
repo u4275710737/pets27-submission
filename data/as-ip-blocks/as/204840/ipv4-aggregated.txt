@@ -1,0 +1,4 @@
+# AS204840 (XALQ-SIGORTA-AS)
+# Xalq Sigorta OJSC
+#
+167.150.216.0/24

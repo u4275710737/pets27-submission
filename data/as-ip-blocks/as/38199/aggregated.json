@@ -1,0 +1,14 @@
+{
+  "asn": 38199,
+  "metadata": {
+    "handle": "VIEWQWEST-AP",
+    "description": "ViewQwest Sdn. Bhd.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

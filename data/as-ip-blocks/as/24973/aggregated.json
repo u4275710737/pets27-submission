@@ -1,0 +1,14 @@
+{
+  "asn": 24973,
+  "metadata": {
+    "handle": "KOMPLEX",
+    "description": "dogado GmbH",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

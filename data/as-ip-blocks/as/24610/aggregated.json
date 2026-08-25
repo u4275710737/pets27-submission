@@ -1,0 +1,14 @@
+{
+  "asn": 24610,
+  "metadata": {
+    "handle": "OPTIMA-PHARM-AS",
+    "description": "JV Optima Pharm LTD",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

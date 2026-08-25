@@ -1,0 +1,14 @@
+{
+  "asn": 18085,
+  "metadata": {
+    "handle": "INFOVALLEY",
+    "description": "Fujitsu Limited.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "asn": 3373,
+  "metadata": {
+    "handle": "MCI-ASN",
+    "description": "Verizon Business",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "153.39.64.0/19" ],
+    "ipv6": [ ]
+  }
+}

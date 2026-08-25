@@ -1,0 +1,14 @@
+{
+  "asn": 153868,
+  "metadata": {
+    "handle": "WIDEWIRED-AS-AP",
+    "description": "WideWired Networks Limited",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

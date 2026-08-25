@@ -1,0 +1,6 @@
+# AS45413 (SERVENET-AS-TH-AP)
+# ServeNet Solution Limited Partnership
+#
+14.128.9.0/24
+14.128.10.0/23
+124.109.0.0/22

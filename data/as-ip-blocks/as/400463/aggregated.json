@@ -1,0 +1,16 @@
+{
+  "asn": 400463,
+  "metadata": {
+    "handle": "DYNANODE-ASN-01",
+    "description": "DynaNode LLC",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "156.230.192.0/18", "156.241.192.0/18", "196.51.0.0/16", "199.16.236.0/22" ],
+    "ipv6": [ ]
+  }
+}

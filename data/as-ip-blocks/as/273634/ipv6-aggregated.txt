@@ -1,0 +1,4 @@
+# AS273634 (G-LINK-TELECOMUNICACOES-EIRELI)
+# G-Link Telecomunicações Ltda.
+#
+2804:89e8::/32

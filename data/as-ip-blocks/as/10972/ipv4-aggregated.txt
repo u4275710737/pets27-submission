@@ -1,0 +1,4 @@
+# AS10972 (NF-CANET2)
+# Memorial University NF CAnet 2 gigaPOP
+#
+198.165.161.0/24

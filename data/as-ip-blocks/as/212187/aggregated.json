@@ -1,0 +1,14 @@
+{
+  "asn": 212187,
+  "metadata": {
+    "handle": "XNET",
+    "description": "IrpenComunikaciaService Municipal Enterprise",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

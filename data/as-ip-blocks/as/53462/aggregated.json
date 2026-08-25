@@ -1,0 +1,14 @@
+{
+  "asn": 53462,
+  "metadata": {
+    "handle": "KADLEC-REGIONAL-MEDICAL-CENTER",
+    "description": "Kadlec Regional Medical Center",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 9711,
+  "metadata": {
+    "handle": "KERINET-AS",
+    "description": "Kyonggi provin educational information research institute",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

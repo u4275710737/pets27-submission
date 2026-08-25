@@ -1,0 +1,14 @@
+{
+  "asn": 142018,
+  "metadata": {
+    "handle": "KUHELIADOTNET-AP",
+    "description": "Kuhelia Dot Net",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

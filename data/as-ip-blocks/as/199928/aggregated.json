@@ -1,0 +1,14 @@
+{
+  "asn": 199928,
+  "metadata": {
+    "handle": "SAP-DC-RUH",
+    "description": "SAP SE",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

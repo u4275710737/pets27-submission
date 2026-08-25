@@ -1,0 +1,14 @@
+{
+  "asn": 200230,
+  "metadata": {
+    "handle": "ZELLER",
+    "description": "Mark Orlando Zeller",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

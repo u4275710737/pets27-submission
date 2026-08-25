@@ -1,0 +1,16 @@
+{
+  "asn": 269008,
+  "metadata": {
+    "handle": "LOGIN-TELECOM",
+    "description": "LOGIN TELECOM LTDA",
+    "countryCode": "BR",
+    "country": "Brazil",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "access_provider"
+  },
+  "prefixes": {
+    "ipv4": [ "45.178.56.0/22" ],
+    "ipv6": [ "2804:5e0c::/32" ]
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 211871,
+  "metadata": {
+    "handle": "OWEB",
+    "description": "OWEB Bilisim Teknolojileri A.S.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

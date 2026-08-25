@@ -1,0 +1,16 @@
+{
+  "asn": 209790,
+  "metadata": {
+    "handle": "KPCEP-AS",
+    "description": "Municipal Enterprise Center for Electronic Services of the Krivorizian City Council",
+    "countryCode": "UA",
+    "country": "Ukraine",
+    "origin": "authoritative",
+    "category": "government_admin",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "91.194.193.0/24" ],
+    "ipv6": [ ]
+  }
+}

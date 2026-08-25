@@ -1,0 +1,14 @@
+{
+  "asn": 36476,
+  "metadata": {
+    "handle": "WEB-COM-ASN1",
+    "description": "Web.com Group, Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "asn": 40276,
+  "metadata": {
+    "handle": "RISKMGMT-NJ",
+    "description": "Risk Management Solutions, Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [
+      "8.44.177.0/24",
+      "185.156.165.0/24"
+    ],
+    "ipv6": []
+  }
+}

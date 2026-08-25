@@ -1,0 +1,14 @@
+{
+  "asn": 953,
+  "metadata": {
+    "handle": "MW-UUN",
+    "description": "Midwest Cable",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 22333,
+  "metadata": {
+    "handle": "ABE",
+    "description": "AB E-Commerce, LLC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 47384,
+  "metadata": {
+    "handle": "HOSTHUB",
+    "description": "Zhihua Lu trading as HostHub",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

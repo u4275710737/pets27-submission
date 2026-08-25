@@ -1,0 +1,4 @@
+# AS44363 (ASESN01)
+# Energie Steiermark Breitband GmbH
+#
+193.186.240.0/21

@@ -1,0 +1,14 @@
+{
+  "asn": 136895,
+  "metadata": {
+    "handle": "VIANET-AP",
+    "description": "VIA NET COMMUNICATION",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

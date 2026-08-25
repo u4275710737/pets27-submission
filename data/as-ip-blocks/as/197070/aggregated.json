@@ -1,0 +1,14 @@
+{
+  "asn": 197070,
+  "metadata": {
+    "handle": "ASINTERCOM",
+    "description": "MTS PJSC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

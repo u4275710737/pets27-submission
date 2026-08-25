@@ -1,0 +1,14 @@
+{
+  "asn": 23976,
+  "metadata": {
+    "handle": "REVITSYS-IN",
+    "description": "Sherpa Business Solutions (A division of Rev IT Systems Pvt.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

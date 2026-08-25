@@ -1,0 +1,14 @@
+{
+  "asn": 205071,
+  "metadata": {
+    "handle": "CC-NETZ-AS03",
+    "description": "Christian clos",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,4 @@
+# AS152518 (NENCY-AS-IN)
+# Nency Cable Private Limited
+#
+2001:df3:c9c0::/48

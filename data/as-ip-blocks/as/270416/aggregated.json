@@ -1,0 +1,14 @@
+{
+  "asn": 270416,
+  "metadata": {
+    "handle": "T2-FIBRA-PROVEDOR",
+    "description": "T2 FIBRA PROVEDOR DE INTERNET LTDA",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

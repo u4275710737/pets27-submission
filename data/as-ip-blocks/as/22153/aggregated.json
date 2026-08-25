@@ -1,0 +1,14 @@
+{
+  "asn": 22153,
+  "metadata": {
+    "handle": "CCI-NET01-HAWAII",
+    "description": "Pacxa Holding",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

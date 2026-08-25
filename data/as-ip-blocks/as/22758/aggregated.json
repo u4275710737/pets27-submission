@@ -1,0 +1,14 @@
+{
+  "asn": 22758,
+  "metadata": {
+    "handle": "SAPIENT-DCO",
+    "description": "Sapient Corporation",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

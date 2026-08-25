@@ -1,0 +1,14 @@
+{
+  "asn": 216209,
+  "metadata": {
+    "handle": "NETKREATIF",
+    "description": "CELIL KILIC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

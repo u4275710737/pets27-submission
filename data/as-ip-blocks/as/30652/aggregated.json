@@ -1,0 +1,14 @@
+{
+  "asn": 30652,
+  "metadata": {
+    "handle": "JACKHENRY-4",
+    "description": "Jack Henry & Associates, Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

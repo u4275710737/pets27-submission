@@ -1,0 +1,5 @@
+# AS138804 (IDNIC-SPEED-AS-ID)
+# PT Speed Network Indonesia
+#
+157.66.37.0/24
+163.61.87.0/24

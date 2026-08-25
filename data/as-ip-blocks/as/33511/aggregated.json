@@ -1,0 +1,14 @@
+{
+  "asn": 33511,
+  "metadata": {
+    "handle": "TEAMPRAXIS",
+    "description": "TeamPraxis, LLC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

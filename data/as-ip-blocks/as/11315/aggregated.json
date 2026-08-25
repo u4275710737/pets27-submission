@@ -1,0 +1,14 @@
+{
+  "asn": 11315,
+  "metadata": {
+    "handle": "TELEFONICA-MOVILES-ARGENTINA",
+    "description": "Telef\u00f3nica M\u00f3viles Argentina S.A. (Movistar Argentina)",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

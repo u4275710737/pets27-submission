@@ -1,0 +1,14 @@
+{
+  "asn": 22518,
+  "metadata": {
+    "handle": "PANDORA-CORP",
+    "description": "Pandora Media, LLC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

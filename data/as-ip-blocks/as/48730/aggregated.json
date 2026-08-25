@@ -1,0 +1,16 @@
+{
+  "asn": 48730,
+  "metadata": {
+    "handle": "KYIV-UDC-AS",
+    "description": "Skillvps LLC",
+    "countryCode": "UA",
+    "country": "Ukraine",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "164.215.101.0/24", "176.111.32.0/24" ],
+    "ipv6": [ ]
+  }
+}

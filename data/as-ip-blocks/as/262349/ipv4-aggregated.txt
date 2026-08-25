@@ -1,0 +1,4 @@
+# AS262349 (INSTITUTO-CURITIBA-INFORMATICA)
+# Instituto Curitiba de Informática
+#
+177.125.176.0/22

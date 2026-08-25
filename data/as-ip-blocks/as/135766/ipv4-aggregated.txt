@@ -1,0 +1,5 @@
+# AS135766 (WANDOOR-AS)
+# Wandoor Multiventures Pvt Ltd
+#
+103.127.100.0/22
+103.144.114.0/23

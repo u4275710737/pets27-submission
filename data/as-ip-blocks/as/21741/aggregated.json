@@ -1,0 +1,14 @@
+{
+  "asn": 21741,
+  "metadata": {
+    "handle": "VISUALCORP-HOLDING",
+    "description": "Visualcorp Holding Ltda",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

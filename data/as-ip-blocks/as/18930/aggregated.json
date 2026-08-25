@@ -1,0 +1,14 @@
+{
+  "asn": 18930,
+  "metadata": {
+    "handle": "DOWCORNING151-163",
+    "description": "Dow Corning",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

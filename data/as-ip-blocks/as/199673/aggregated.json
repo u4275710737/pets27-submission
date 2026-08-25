@@ -1,0 +1,16 @@
+{
+  "asn": 199673,
+  "metadata": {
+    "handle": "AMWEB-AM",
+    "description": "AMWEB LLC",
+    "countryCode": "AM",
+    "country": "Armenia",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "188.164.152.0/24" ],
+    "ipv6": [ ]
+  }
+}

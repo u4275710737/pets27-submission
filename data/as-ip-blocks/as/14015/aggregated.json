@@ -1,0 +1,14 @@
+{
+  "asn": 14015,
+  "metadata": {
+    "handle": "FORGESW",
+    "description": "Forge Software LLC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

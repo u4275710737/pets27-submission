@@ -1,0 +1,14 @@
+{
+  "asn": 272574,
+  "metadata": {
+    "handle": "TEMPERNET-TELECOM-EIRELI",
+    "description": "TEMPERNET TELECOM EIRELI",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

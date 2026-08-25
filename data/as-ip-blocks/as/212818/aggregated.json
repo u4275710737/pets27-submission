@@ -1,0 +1,14 @@
+{
+  "asn": 212818,
+  "metadata": {
+    "handle": "BUCKAROO",
+    "description": "Buckaroo B.V.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 23012,
+  "metadata": {
+    "handle": "HEATSEEKER-TECHNOLOGY-PARTNERS",
+    "description": "HeatSeeker Technology Partners, Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

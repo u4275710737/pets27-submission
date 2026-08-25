@@ -1,0 +1,14 @@
+{
+  "asn": 46682,
+  "metadata": {
+    "handle": "LVDC",
+    "description": "LIVEOPS, INC.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

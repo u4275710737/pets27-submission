@@ -1,0 +1,16 @@
+{
+  "asn": 200386,
+  "metadata": {
+    "handle": "T3HK0D3",
+    "description": "Igor Iamolov",
+    "countryCode": "NL",
+    "country": "Netherlands",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ "2a06:9801:c7::/48", "2a0d:d940:2010::/48" ]
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 24959,
+  "metadata": {
+    "handle": "LINJEGODS-AS",
+    "description": "Schenker AS",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

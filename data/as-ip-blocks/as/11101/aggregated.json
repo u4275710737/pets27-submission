@@ -1,0 +1,16 @@
+{
+  "asn": 11101,
+  "metadata": {
+    "handle": "PRISMA-HEALTH",
+    "description": "Prisma Health",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "167.171.0.0/16" ],
+    "ipv6": [ ]
+  }
+}

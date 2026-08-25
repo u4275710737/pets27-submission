@@ -1,0 +1,14 @@
+{
+  "asn": 209168,
+  "metadata": {
+    "handle": "SGPL",
+    "description": "SUN-GARDEN-POLSKA-SPZOO-SA",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

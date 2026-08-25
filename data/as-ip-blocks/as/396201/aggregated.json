@@ -1,0 +1,14 @@
+{
+  "asn": 396201,
+  "metadata": {
+    "handle": "CCCAS1",
+    "description": "Contra Costa County",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

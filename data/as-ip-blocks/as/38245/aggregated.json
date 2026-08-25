@@ -1,0 +1,14 @@
+{
+  "asn": 38245,
+  "metadata": {
+    "handle": "VIETBRANDS-VN",
+    "description": "VIETBRANDS COMPANY LIMITED",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

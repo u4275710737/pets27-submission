@@ -1,0 +1,16 @@
+{
+  "asn": 14076,
+  "metadata": {
+    "handle": "A-1",
+    "description": "Secure Network USA LLC",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "69.87.214.0/24", "75.98.69.0/24" ],
+    "ipv6": [ ]
+  }
+}

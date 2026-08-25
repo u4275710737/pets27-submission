@@ -1,0 +1,14 @@
+{
+  "asn": 16179,
+  "metadata": {
+    "handle": "ERTELECOM-CGN",
+    "description": "JSC ER-Telecom Holding",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

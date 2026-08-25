@@ -1,0 +1,16 @@
+{
+  "asn": 2036,
+  "metadata": {
+    "handle": "JOANNEUM",
+    "description": "Joanneum Research Forschungsgesellschaft mbH",
+    "countryCode": "AT",
+    "country": "Austria",
+    "origin": "authoritative",
+    "category": "education_research",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "143.224.0.0/16" ],
+    "ipv6": [ ]
+  }
+}

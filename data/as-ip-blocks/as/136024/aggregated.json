@@ -1,0 +1,14 @@
+{
+  "asn": 136024,
+  "metadata": {
+    "handle": "ADVANTAGE-AS-AP",
+    "description": "Advantage Limited",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

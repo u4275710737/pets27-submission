@@ -1,0 +1,16 @@
+{
+  "asn": 12778,
+  "metadata": {
+    "handle": "SGN",
+    "description": "MEGA M d.o.o.",
+    "countryCode": "SI",
+    "country": "Slovenia",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "midsize_transit"
+  },
+  "prefixes": {
+    "ipv4": [ "77.234.128.0/19", "212.72.96.0/19" ],
+    "ipv6": [ "2a02:d68::/32" ]
+  }
+}

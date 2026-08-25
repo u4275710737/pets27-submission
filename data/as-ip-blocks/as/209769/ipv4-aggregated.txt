@@ -1,0 +1,4 @@
+# AS209769 (ASORE)
+# Simplifae Poland S.A.
+#
+82.214.160.0/24

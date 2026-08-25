@@ -1,0 +1,14 @@
+{
+  "asn": 203624,
+  "metadata": {
+    "handle": "COLOCATION-CORPO",
+    "description": "SC ITNS.NET SRL",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

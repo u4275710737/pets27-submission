@@ -1,0 +1,14 @@
+{
+  "asn": 262933,
+  "metadata": {
+    "handle": "TRUSTCOR-SYSTEMS",
+    "description": "TRUSTCOR SYSTEMS S. DE R.L.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

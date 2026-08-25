@@ -1,0 +1,14 @@
+{
+  "asn": 150030,
+  "metadata": {
+    "handle": "ALGO-IN",
+    "description": "ALGOZINI SERVICES PRIVATE LIMITED",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

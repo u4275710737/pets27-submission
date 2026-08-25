@@ -1,0 +1,14 @@
+{
+  "asn": 137429,
+  "metadata": {
+    "handle": "STUARTHOLMESCHOOL-AP",
+    "description": "Stuartholme School",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

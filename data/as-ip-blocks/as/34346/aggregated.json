@@ -1,0 +1,14 @@
+{
+  "asn": 34346,
+  "metadata": {
+    "handle": "IPBNB",
+    "description": "LIMITED LIABILITY COMPANY I.D.STRATEGY",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

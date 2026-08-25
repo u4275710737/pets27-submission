@@ -1,0 +1,16 @@
+{
+  "asn": 37443,
+  "metadata": {
+    "handle": "USMANU",
+    "description": "Usmanu Danfodiyo University",
+    "countryCode": "NG",
+    "country": "Nigeria",
+    "origin": "authoritative",
+    "category": "education_research",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ ]
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 141263,
+  "metadata": {
+    "handle": "IMAGINEC-IN",
+    "description": "Imagine Multi Services Private Limited",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

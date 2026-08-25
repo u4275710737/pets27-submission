@@ -1,0 +1,14 @@
+{
+  "asn": 395021,
+  "metadata": {
+    "handle": "MASTRACCHIO",
+    "description": "MASTRACCHIO SYSTEMS LLC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,4 @@
+# AS139873 (JPLATKLUTTHT-AS-AP)
+# Host Tel
+#
+2400:7720::/32

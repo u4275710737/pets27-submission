@@ -1,0 +1,16 @@
+{
+  "asn": 395904,
+  "metadata": {
+    "handle": "SERVURY",
+    "description": "Servury",
+    "countryCode": "CA",
+    "country": "Canada",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "23.155.44.0/24" ],
+    "ipv6": [ "2602:f41c::/36" ]
+  }
+}

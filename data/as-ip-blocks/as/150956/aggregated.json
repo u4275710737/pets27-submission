@@ -1,0 +1,14 @@
+{
+  "asn": 150956,
+  "metadata": {
+    "handle": "IDNIC-PRONETSOLUSI-ID",
+    "description": "PT Pronet Data Solusi",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

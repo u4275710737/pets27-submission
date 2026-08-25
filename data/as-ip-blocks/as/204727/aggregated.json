@@ -1,0 +1,14 @@
+{
+  "asn": 204727,
+  "metadata": {
+    "handle": "SIS-NETWORKS",
+    "description": "Services2xs b.v.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

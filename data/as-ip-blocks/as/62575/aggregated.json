@@ -1,0 +1,14 @@
+{
+  "asn": 62575,
+  "metadata": {
+    "handle": "MHE",
+    "description": "McGraw-Hill Education",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

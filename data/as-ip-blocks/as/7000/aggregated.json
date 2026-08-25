@@ -1,0 +1,14 @@
+{
+  "asn": 7000,
+  "metadata": {
+    "handle": "ISPIX",
+    "description": "Globel Net, Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

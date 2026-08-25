@@ -1,0 +1,14 @@
+{
+  "asn": 37357,
+  "metadata": {
+    "handle": "SAINET",
+    "description": "Huge Networks (Pty) Ltd",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 400432,
+  "metadata": {
+    "handle": "SKYPACKET",
+    "description": "SkyPacket",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

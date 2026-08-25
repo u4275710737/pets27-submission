@@ -1,0 +1,4 @@
+# AS6431 (ATT-RESEARCH)
+# AT&T Enterprises LLC
+#
+2620:0:f00::/41

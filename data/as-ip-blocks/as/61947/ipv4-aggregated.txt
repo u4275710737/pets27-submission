@@ -1,0 +1,4 @@
+# AS61947 (SUPERNET-TELECOMUNICACOES-INFORMATICA)
+# Supernet Telecomunicaçoes e Informatica LTDA
+#
+200.33.164.0/22

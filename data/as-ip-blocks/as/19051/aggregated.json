@@ -1,0 +1,14 @@
+{
+  "asn": 19051,
+  "metadata": {
+    "handle": "SIMPLISAFE-01",
+    "description": "SimpliSafe",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

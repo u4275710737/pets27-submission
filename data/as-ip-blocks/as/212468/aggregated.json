@@ -1,0 +1,16 @@
+{
+  "asn": 212468,
+  "metadata": {
+    "handle": "MPB-ASN",
+    "description": "MPB TRADING DMCC",
+    "countryCode": "AE",
+    "country": "United Arab Emirates",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "78.17.77.0/24" ],
+    "ipv6": [ ]
+  }
+}

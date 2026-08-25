@@ -1,0 +1,16 @@
+{
+  "asn": 34572,
+  "metadata": {
+    "handle": "HELIANTIS-AS",
+    "description": "HELIANTIS SAS",
+    "countryCode": "FR",
+    "country": "France",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "access_provider"
+  },
+  "prefixes": {
+    "ipv4": [ "83.173.64.0/18" ],
+    "ipv6": [ "2a02:6100::/32" ]
+  }
+}

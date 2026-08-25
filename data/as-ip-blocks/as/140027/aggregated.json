@@ -1,0 +1,14 @@
+{
+  "asn": 140027,
+  "metadata": {
+    "handle": "IDNIC-RSI-ID",
+    "description": "PT. Ruang Siber Indonesia",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 18906,
+  "metadata": {
+    "handle": "CONCORD-AS",
+    "description": "Concord Management Ltd",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

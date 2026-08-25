@@ -1,0 +1,4 @@
+# AS35889 (GOREX)
+# University of Hawaii
+#
+192.35.145.0/24

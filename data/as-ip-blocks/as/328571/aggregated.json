@@ -1,0 +1,14 @@
+{
+  "asn": 328571,
+  "metadata": {
+    "handle": "TELESOL-GH",
+    "description": "Comsys (GH) Limited",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

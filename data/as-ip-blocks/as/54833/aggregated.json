@@ -1,0 +1,14 @@
+{
+  "asn": 54833,
+  "metadata": {
+    "handle": "CONCERTO",
+    "description": "Tribridge",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

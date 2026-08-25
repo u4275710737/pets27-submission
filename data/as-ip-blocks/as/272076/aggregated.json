@@ -1,0 +1,16 @@
+{
+  "asn": 272076,
+  "metadata": {
+    "handle": "FIBRA100",
+    "description": "FIBRA100 S.A.S.",
+    "countryCode": "CO",
+    "country": "Colombia",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "181.189.16.0/22" ],
+    "ipv6": [ "2803:2310::/32" ]
+  }
+}

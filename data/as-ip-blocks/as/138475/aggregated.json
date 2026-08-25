@@ -1,0 +1,14 @@
+{
+  "asn": 138475,
+  "metadata": {
+    "handle": "STORAGECRAFT-AP",
+    "description": "STORAGECRAFT INDO-PACIFIC PTY LTD",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

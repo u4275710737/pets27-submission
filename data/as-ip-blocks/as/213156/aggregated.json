@@ -1,0 +1,14 @@
+{
+  "asn": 213156,
+  "metadata": {
+    "handle": "NO-BENTOYSTEIN",
+    "description": "Bent Oystein Bostad",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

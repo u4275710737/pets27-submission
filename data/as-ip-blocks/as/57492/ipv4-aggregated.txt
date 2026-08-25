@@ -1,0 +1,4 @@
+# AS57492 (HOST4BIZ-CH)
+# Host4Biz sp. z o.o.
+#
+45.154.144.0/22

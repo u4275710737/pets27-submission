@@ -1,0 +1,14 @@
+{
+  "asn": 153846,
+  "metadata": {
+    "handle": "IRINN-CABLE-AS-IN",
+    "description": "Cablenet Communications (OPC) Private Limited",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

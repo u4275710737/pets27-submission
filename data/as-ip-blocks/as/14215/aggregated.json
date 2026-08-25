@@ -1,0 +1,14 @@
+{
+  "asn": 14215,
+  "metadata": {
+    "handle": "SABRE-HOLDINGS-CORPORATION",
+    "description": "Sabre GLBL Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

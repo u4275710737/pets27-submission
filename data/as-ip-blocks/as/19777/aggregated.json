@@ -1,0 +1,14 @@
+{
+  "asn": 19777,
+  "metadata": {
+    "handle": "TAMARAC-SEATTLE",
+    "description": "ENV",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

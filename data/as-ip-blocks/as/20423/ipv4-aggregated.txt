@@ -1,0 +1,4 @@
+# AS20423 (SUQUAMISH-TRIBE)
+# Suquamish Tribe
+#
+108.174.69.0/24

@@ -1,0 +1,14 @@
+{
+  "asn": 139600,
+  "metadata": {
+    "handle": "GREEN-NET-BD-AP",
+    "description": "Green Computer & Mobile Care",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "asn": 33311,
+  "metadata": {
+    "handle": "NET-TOPCON",
+    "description": "TOPCON POSITIONING SYSTEMS INC",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "12.107.178.0/24" ],
+    "ipv6": [ ]
+  }
+}

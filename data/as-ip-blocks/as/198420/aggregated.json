@@ -1,0 +1,16 @@
+{
+  "asn": 198420,
+  "metadata": {
+    "handle": "NETLY",
+    "description": "Netly LLC",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "82.29.43.0/24", "84.75.161.0/24", "89.125.20.0/24", "151.245.192.0/24", "195.58.150.0/24" ],
+    "ipv6": [ ]
+  }
+}

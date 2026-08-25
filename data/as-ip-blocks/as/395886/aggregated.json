@@ -1,0 +1,14 @@
+{
+  "asn": 395886,
+  "metadata": {
+    "handle": "KURUN-US",
+    "description": "KURUN CLOUD INC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

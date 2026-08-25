@@ -1,0 +1,14 @@
+{
+  "asn": 271958,
+  "metadata": {
+    "handle": "UNIVERSIDAD-CUNDINAMARCA",
+    "description": "UNIVERSIDAD DE CUNDINAMARCA",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

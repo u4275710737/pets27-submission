@@ -1,0 +1,14 @@
+{
+  "asn": 60932,
+  "metadata": {
+    "handle": "DABCO",
+    "description": "DADE PARDAZAN AVAYE BANDAR COMPANY",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

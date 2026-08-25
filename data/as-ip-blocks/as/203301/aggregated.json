@@ -1,0 +1,14 @@
+{
+  "asn": 203301,
+  "metadata": {
+    "handle": "DATACENTER",
+    "description": "Cloud 9 Ltd.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

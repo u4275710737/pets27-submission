@@ -1,0 +1,16 @@
+{
+  "asn": 41775,
+  "metadata": {
+    "handle": "ECOM-AS",
+    "description": "SKB Kontur Production JSC",
+    "countryCode": "RU",
+    "country": "Russia",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "195.191.226.0/23" ],
+    "ipv6": [ ]
+  }
+}

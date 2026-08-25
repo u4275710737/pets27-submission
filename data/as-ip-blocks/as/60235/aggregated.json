@@ -1,0 +1,14 @@
+{
+  "asn": 60235,
+  "metadata": {
+    "handle": "NEO-SCALE",
+    "description": "port-neo AG",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

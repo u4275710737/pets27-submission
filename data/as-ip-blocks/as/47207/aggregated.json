@@ -1,0 +1,14 @@
+{
+  "asn": 47207,
+  "metadata": {
+    "handle": "DIGIRES",
+    "description": "Digital Residence B.V.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

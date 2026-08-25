@@ -1,0 +1,14 @@
+{
+  "asn": 400270,
+  "metadata": {
+    "handle": "TML",
+    "description": "Target Microsystems LLC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

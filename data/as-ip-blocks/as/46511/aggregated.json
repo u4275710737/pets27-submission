@@ -1,0 +1,16 @@
+{
+  "asn": 46511,
+  "metadata": {
+    "handle": "MMC-026",
+    "description": "UNIVERSAL HEALTH SERVICES",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "66.138.250.0/24" ],
+    "ipv6": [ ]
+  }
+}

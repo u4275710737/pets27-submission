@@ -1,0 +1,4 @@
+# AS23674 (NAYATEL-PK)
+# Naya Tel (Pvt.) Limited
+#
+2407:d000::/32

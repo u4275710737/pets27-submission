@@ -1,0 +1,14 @@
+{
+  "asn": 54604,
+  "metadata": {
+    "handle": "DCN-IP01",
+    "description": "Dakota Cloud Networks, LLC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

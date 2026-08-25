@@ -1,0 +1,16 @@
+{
+  "asn": 263845,
+  "metadata": {
+    "handle": "PADRAO-SYSTEM-TELECOM",
+    "description": "Padrao System Telecom",
+    "countryCode": "BR",
+    "country": "Brazil",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ ]
+  }
+}

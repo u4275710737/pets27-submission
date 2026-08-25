@@ -1,0 +1,14 @@
+{
+  "asn": 49360,
+  "metadata": {
+    "handle": "POSITIVO",
+    "description": "Convergenze S.p.A.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

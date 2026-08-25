@@ -1,0 +1,14 @@
+{
+  "asn": 207199,
+  "metadata": {
+    "handle": "ZITCOM",
+    "description": "team.blue Denmark A/S",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

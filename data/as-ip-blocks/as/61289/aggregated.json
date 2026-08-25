@@ -1,0 +1,14 @@
+{
+  "asn": 61289,
+  "metadata": {
+    "handle": "OSONET-AS",
+    "description": "Jan Michlik trading as P.H.U. AVERTIS",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

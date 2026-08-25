@@ -1,0 +1,16 @@
+{
+  "asn": 209265,
+  "metadata": {
+    "handle": "INFINITYLOOP",
+    "description": "INFINITY LOOP SLU",
+    "countryCode": "AD",
+    "country": "Andorra",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "149.6.208.0/24" ],
+    "ipv6": [ ]
+  }
+}

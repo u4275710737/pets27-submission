@@ -1,0 +1,14 @@
+{
+  "asn": 21827,
+  "metadata": {
+    "handle": "CALIX-TX-DAL",
+    "description": "Calix, Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

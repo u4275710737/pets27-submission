@@ -1,0 +1,16 @@
+{
+  "asn": 133180,
+  "metadata": {
+    "handle": "STARBOWLTD-AS-AP",
+    "description": "Starbow Ltd.",
+    "countryCode": "JP",
+    "country": "Japan",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "14.137.228.0/24" ],
+    "ipv6": [ ]
+  }
+}

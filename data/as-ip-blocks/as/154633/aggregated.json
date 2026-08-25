@@ -1,0 +1,16 @@
+{
+  "asn": 154633,
+  "metadata": {
+    "handle": "SPARROWHOST-AS-AP",
+    "description": "Sparrowhost Technologies Private Limited",
+    "countryCode": "IN",
+    "country": "India",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "157.254.24.0/24" ],
+    "ipv6": [ ]
+  }
+}

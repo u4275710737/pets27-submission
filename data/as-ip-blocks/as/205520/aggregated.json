@@ -1,0 +1,16 @@
+{
+  "asn": 205520,
+  "metadata": {
+    "handle": "XTB",
+    "description": "XTB S.A.",
+    "countryCode": "PL",
+    "country": "Poland",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "content_network"
+  },
+  "prefixes": {
+    "ipv4": [ "81.2.190.0/24" ],
+    "ipv6": [ ]
+  }
+}

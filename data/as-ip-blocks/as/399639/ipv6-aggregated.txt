@@ -1,0 +1,4 @@
+# AS399639 (LAKELAND-COMMUNICATIONS)
+# Lakeland Communications
+#
+2606:56c0::/32

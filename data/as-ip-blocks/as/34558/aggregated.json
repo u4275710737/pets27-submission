@@ -1,0 +1,14 @@
+{
+  "asn": 34558,
+  "metadata": {
+    "handle": "TELEMAIL",
+    "description": "Melita Limited",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

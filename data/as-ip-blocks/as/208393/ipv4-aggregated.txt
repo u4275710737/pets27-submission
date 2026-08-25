@@ -1,0 +1,4 @@
+# AS208393 (DEDCLOUD)
+# Dedcloud Network Ltd
+#
+193.221.192.0/24

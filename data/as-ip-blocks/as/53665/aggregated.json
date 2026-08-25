@@ -1,0 +1,14 @@
+{
+  "asn": 53665,
+  "metadata": {
+    "handle": "BODIS-1",
+    "description": "Bodis LLC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 149772,
+  "metadata": {
+    "handle": "ABS-AP",
+    "description": "Alpha Broadway System",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

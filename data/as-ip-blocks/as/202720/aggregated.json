@@ -1,0 +1,14 @@
+{
+  "asn": 202720,
+  "metadata": {
+    "handle": "NAISSIX-IXP",
+    "description": "Faculty of Electronic Engineering",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,6 @@
+# AS15020 (AS-BANDITO)
+# Bandito Networks Inc
+#
+2602:fc2a:1::/48
+2602:fc2a:6::/48
+2a09:8400:3::/48

@@ -1,0 +1,14 @@
+{
+  "asn": 64034,
+  "metadata": {
+    "handle": "CHINAONE-HK",
+    "description": "ChinaOne Network Limited",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 54992,
+  "metadata": {
+    "handle": "NEXTFINANCIAL",
+    "description": "Next Financial",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

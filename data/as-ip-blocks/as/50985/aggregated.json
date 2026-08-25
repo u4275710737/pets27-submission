@@ -1,0 +1,16 @@
+{
+  "asn": 50985,
+  "metadata": {
+    "handle": "EA-UK-RUN",
+    "description": "Electronic Arts Limited",
+    "countryCode": "GB",
+    "country": "United Kingdom",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "159.153.91.0/24" ],
+    "ipv6": [ ]
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 265692,
+  "metadata": {
+    "handle": "FIBRAS-OPTICAS-OESTE",
+    "description": "FIBRAS OPTICAS DEL OESTE S.A.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

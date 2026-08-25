@@ -1,0 +1,4 @@
+# AS38930 (FIBERRING)
+# LeaseWeb Network B.V.
+#
+2a00:ec8::/32

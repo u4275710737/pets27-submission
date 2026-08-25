@@ -1,0 +1,14 @@
+{
+  "asn": 394506,
+  "metadata": {
+    "handle": "AL-PROD-01",
+    "description": "AppLovin Corporation",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

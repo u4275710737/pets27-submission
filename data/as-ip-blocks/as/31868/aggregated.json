@@ -1,0 +1,16 @@
+{
+  "asn": 31868,
+  "metadata": {
+    "handle": "MEGANET-CAPE",
+    "description": "Meganet Communications",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": null,
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ ]
+  }
+}

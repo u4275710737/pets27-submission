@@ -1,0 +1,8 @@
+# AS153913 (CPSTIL-AS-AP)
+# Check Point Software Technologies India PVT LTD.
+#
+124.198.240.0/24
+124.198.242.0/23
+124.198.244.0/23
+165.99.148.0/23
+203.169.6.0/23

@@ -1,0 +1,14 @@
+{
+  "asn": 47437,
+  "metadata": {
+    "handle": "MIG",
+    "description": "Media International group Ltd.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

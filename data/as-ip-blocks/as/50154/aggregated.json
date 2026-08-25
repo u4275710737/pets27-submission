@@ -1,0 +1,14 @@
+{
+  "asn": 50154,
+  "metadata": {
+    "handle": "ION-NOKIA",
+    "description": "Nokia Oyj",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

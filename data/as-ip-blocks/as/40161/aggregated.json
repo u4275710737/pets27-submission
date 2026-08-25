@@ -1,0 +1,14 @@
+{
+  "asn": 40161,
+  "metadata": {
+    "handle": "ATL-HOSTED",
+    "description": "Noble Systems Corporation",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 13741,
+  "metadata": {
+    "handle": "SHIELDCLOUD-DATACENTER",
+    "description": "ShieldCloud",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

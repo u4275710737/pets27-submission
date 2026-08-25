@@ -1,0 +1,4 @@
+# AS58246 (LOTHIANBROADBAND)
+# Highland Broadband Networks Limited
+#
+2a05:4340::/29

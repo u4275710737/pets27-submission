@@ -1,0 +1,14 @@
+{
+  "asn": 398258,
+  "metadata": {
+    "handle": "CITG4",
+    "description": "First-Citizens Bank & Trust Company",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

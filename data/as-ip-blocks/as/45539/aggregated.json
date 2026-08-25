@@ -1,0 +1,14 @@
+{
+  "asn": 45539,
+  "metadata": {
+    "handle": "VTCWLB-AS-VN",
+    "description": "VTCWLB-VN",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

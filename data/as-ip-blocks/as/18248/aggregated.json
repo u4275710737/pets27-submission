@@ -1,0 +1,14 @@
+{
+  "asn": 18248,
+  "metadata": {
+    "handle": "TWNOG-AS-TW",
+    "description": "Taiwan Network Operators' Group (TWNOG)",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

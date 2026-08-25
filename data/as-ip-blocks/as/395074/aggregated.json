@@ -1,0 +1,16 @@
+{
+  "asn": 395074,
+  "metadata": {
+    "handle": "SARH-ASN1",
+    "description": "San Antonio Regional Hospital",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "63.121.62.0/24" ],
+    "ipv6": [ ]
+  }
+}

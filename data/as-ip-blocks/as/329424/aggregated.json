@@ -1,0 +1,16 @@
+{
+  "asn": 329424,
+  "metadata": {
+    "handle": "HTL8",
+    "description": "Hynfra Technologies Ltd",
+    "countryCode": "KE",
+    "country": "Kenya",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "102.209.68.0/23" ],
+    "ipv6": [ ]
+  }
+}

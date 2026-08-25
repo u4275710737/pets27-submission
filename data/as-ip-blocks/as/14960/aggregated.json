@@ -1,0 +1,14 @@
+{
+  "asn": 14960,
+  "metadata": {
+    "handle": "TCABGP",
+    "description": "TCA Services Corp.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

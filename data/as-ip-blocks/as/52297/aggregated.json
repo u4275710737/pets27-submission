@@ -1,0 +1,14 @@
+{
+  "asn": 52297,
+  "metadata": {
+    "handle": "HAICOM-HAITI-COMMUNICATIONS",
+    "description": "HAICOM (Haiti Communications, S.A.)",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

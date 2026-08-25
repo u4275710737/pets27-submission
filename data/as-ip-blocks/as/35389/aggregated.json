@@ -1,0 +1,14 @@
+{
+  "asn": 35389,
+  "metadata": {
+    "handle": "KRASLAN",
+    "description": "PJSC Rostelecom",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

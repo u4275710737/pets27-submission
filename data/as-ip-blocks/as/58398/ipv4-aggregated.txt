@@ -1,0 +1,4 @@
+# AS58398 (INDIKAENERGY-AS-ID)
+# PT. Indika Energy Tbk
+#
+103.59.234.0/23

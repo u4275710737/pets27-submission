@@ -1,0 +1,14 @@
+{
+  "asn": 17335,
+  "metadata": {
+    "handle": "TPLLC-NJ",
+    "description": "Third Point LLC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

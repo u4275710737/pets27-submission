@@ -1,0 +1,7 @@
+# AS18257 (BITCOMM-AS)
+# ChangZhou Bitcomm Software Technology Co. Limited
+#
+118.184.152.0/24
+118.184.158.0/24
+118.184.168.0/21
+118.184.176.0/20

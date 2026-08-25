@@ -1,0 +1,14 @@
+{
+  "asn": 56098,
+  "metadata": {
+    "handle": "UNICO-AU",
+    "description": "Unico Computer Systems Pty Ltd",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

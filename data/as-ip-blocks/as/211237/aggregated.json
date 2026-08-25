@@ -1,0 +1,14 @@
+{
+  "asn": 211237,
+  "metadata": {
+    "handle": "URBAN-AS",
+    "description": "Urban Suhadolnik",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

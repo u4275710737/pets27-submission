@@ -1,0 +1,16 @@
+{
+  "asn": 131271,
+  "metadata": {
+    "handle": "ABSATELLITE-AS-AP",
+    "description": "Asia Broadcast Satellite Ltd.",
+    "countryCode": "HK",
+    "country": "Hong Kong SAR China",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "113.208.95.0/24" ],
+    "ipv6": [ ]
+  }
+}

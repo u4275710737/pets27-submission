@@ -1,0 +1,4 @@
+# AS45010 (MEGATUUTTI)
+# S1 Networks Oy
+#
+93.90.48.0/20

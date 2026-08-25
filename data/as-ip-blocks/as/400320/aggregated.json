@@ -1,0 +1,14 @@
+{
+  "asn": 400320,
+  "metadata": {
+    "handle": "VC-WIRELESS",
+    "description": "Valley Center Wireless",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 29026,
+  "metadata": {
+    "handle": "CTAYLOR",
+    "description": "CHARLES TAYLOR LIMITED",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

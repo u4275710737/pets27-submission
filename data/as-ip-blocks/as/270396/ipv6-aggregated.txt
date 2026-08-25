@@ -1,0 +1,4 @@
+# AS270396 (VELOXNETT-SERVICOS-COMUNICACAO)
+# VeloxNett serviços de comunicação multimídia
+#
+2804:6b60::/32

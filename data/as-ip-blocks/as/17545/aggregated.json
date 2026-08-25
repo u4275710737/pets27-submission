@@ -1,0 +1,14 @@
+{
+  "asn": 17545,
+  "metadata": {
+    "handle": "DATACOMMALAYSIA-AS-AP",
+    "description": "DATACOM SYSTEMS (AU) PTY LTD",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

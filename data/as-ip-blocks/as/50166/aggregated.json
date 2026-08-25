@@ -1,0 +1,16 @@
+{
+  "asn": 50166,
+  "metadata": {
+    "handle": "RTCLOUD-AS",
+    "description": "RTCloud LLC",
+    "countryCode": "RU",
+    "country": "Russia",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "access_provider"
+  },
+  "prefixes": {
+    "ipv4": [ "185.171.102.0/23", "195.170.210.0/24", "195.211.4.0/22" ],
+    "ipv6": [ "2a0a:cd00:1::/48" ]
+  }
+}

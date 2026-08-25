@@ -1,0 +1,16 @@
+{
+  "asn": 19583,
+  "metadata": {
+    "handle": "CIRION-TECHNOLOGIES-ARGENTINA",
+    "description": "CIRION TECHNOLOGIES ARGENTINA S.A.",
+    "countryCode": "AR",
+    "country": "Argentina",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "189.125.134.0/24" ],
+    "ipv6": [ ]
+  }
+}

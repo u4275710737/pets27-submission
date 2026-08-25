@@ -1,0 +1,14 @@
+{
+  "asn": 138978,
+  "metadata": {
+    "handle": "STARCHWORKS-AS-AP",
+    "description": "Starch Works",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

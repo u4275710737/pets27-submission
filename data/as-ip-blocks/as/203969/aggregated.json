@@ -1,0 +1,16 @@
+{
+  "asn": 203969,
+  "metadata": {
+    "handle": "NEXULA-HOSTING-AS",
+    "description": "Nexula GmbH",
+    "countryCode": "DE",
+    "country": "Germany",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "185.110.152.0/22" ],
+    "ipv6": [ "2a06:5880:dd::/48" ]
+  }
+}

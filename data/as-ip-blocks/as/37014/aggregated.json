@@ -1,0 +1,16 @@
+{
+  "asn": 37014,
+  "metadata": {
+    "handle": "MASCOM",
+    "description": "Mascom Botswana",
+    "countryCode": "BW",
+    "country": "Botswana",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "41.223.72.0/22", "102.215.0.0/22", "156.38.4.0/22" ],
+    "ipv6": [ "2c0f:4780::/32" ]
+  }
+}

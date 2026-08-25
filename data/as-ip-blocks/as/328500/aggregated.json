@@ -1,0 +1,16 @@
+{
+  "asn": 328500,
+  "metadata": {
+    "handle": "AMC-TELECOM",
+    "description": "A.M.C Telecom",
+    "countryCode": "CG",
+    "country": "Congo - Brazzaville",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "102.64.116.0/23", "102.64.119.0/24", "154.53.208.0/24" ],
+    "ipv6": [ ]
+  }
+}

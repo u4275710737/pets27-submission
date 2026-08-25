@@ -1,0 +1,16 @@
+{
+  "asn": 142525,
+  "metadata": {
+    "handle": "FLISPL-AS",
+    "description": "Frontline Internet Services Private Limited",
+    "countryCode": "IN",
+    "country": "India",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "103.170.180.0/23" ],
+    "ipv6": [ "2001:df6:aec0::/48" ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "asn": 41988,
+  "metadata": {
+    "handle": "TAKING-CARE-AS",
+    "description": "TAKING CARE PERSONAL ALARMS LIMITED",
+    "countryCode": "GB",
+    "country": "United Kingdom",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "194.60.83.0/24" ],
+    "ipv6": [ ]
+  }
+}

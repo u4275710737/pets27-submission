@@ -1,0 +1,4 @@
+# AS198257 (ASN-EASYTECH)
+# Easy Tech Solution SRL
+#
+2a03:aee0::/29

@@ -1,0 +1,14 @@
+{
+  "asn": 151632,
+  "metadata": {
+    "handle": "WASN-AS-AP",
+    "description": "Web and Soft Network",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

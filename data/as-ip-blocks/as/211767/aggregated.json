@@ -1,0 +1,14 @@
+{
+  "asn": 211767,
+  "metadata": {
+    "handle": "HON",
+    "description": "Haavard Ose Nordstrand",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

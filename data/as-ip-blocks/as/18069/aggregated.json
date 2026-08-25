@@ -1,0 +1,16 @@
+{
+  "asn": 18069,
+  "metadata": {
+    "handle": "SOFTBANK",
+    "description": "SoftBank Corp.",
+    "countryCode": "JP",
+    "country": "Japan",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "133.217.192.0/24" ],
+    "ipv6": [ ]
+  }
+}

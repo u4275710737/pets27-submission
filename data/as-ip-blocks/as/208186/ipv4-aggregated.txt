@@ -1,0 +1,4 @@
+# AS208186 (ASN-KONSOM)
+# CJSC Konsom SKS
+#
+80.244.38.0/24

@@ -1,0 +1,16 @@
+{
+  "asn": 214974,
+  "metadata": {
+    "handle": "ZEROTECH-AS",
+    "description": "ZEROTECH CLOUD LLC",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ "2a0e:fd45:2e70::/48" ]
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 141557,
+  "metadata": {
+    "handle": "ODINET-IN",
+    "description": "Odinet Infocom Private Limited",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

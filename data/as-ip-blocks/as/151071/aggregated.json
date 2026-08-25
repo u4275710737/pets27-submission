@@ -1,0 +1,14 @@
+{
+  "asn": 151071,
+  "metadata": {
+    "handle": "VMW-ICN",
+    "description": "VMWare Incorporation",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

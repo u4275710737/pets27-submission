@@ -1,0 +1,6 @@
+# AS208428 (YAHSAT-DUBAI)
+# Star Satellite Communications Company - PJSC
+#
+80.75.22.0/24
+82.180.181.0/24
+185.26.25.0/24

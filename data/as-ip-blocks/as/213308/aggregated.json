@@ -1,0 +1,14 @@
+{
+  "asn": 213308,
+  "metadata": {
+    "handle": "CRISILUKIREVNA",
+    "description": "CRISIL Irevna UK Limited",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

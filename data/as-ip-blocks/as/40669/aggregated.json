@@ -1,0 +1,14 @@
+{
+  "asn": 40669,
+  "metadata": {
+    "handle": "EKIT-AS",
+    "description": "ekit",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

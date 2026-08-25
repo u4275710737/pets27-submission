@@ -1,0 +1,4 @@
+# AS196870 (FSTH-ASN)
+# Freistaat Thueringen
+#
+195.191.14.0/23

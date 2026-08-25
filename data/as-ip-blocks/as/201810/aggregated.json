@@ -1,0 +1,16 @@
+{
+  "asn": 201810,
+  "metadata": {
+    "handle": "ARTANET",
+    "description": "AmirHosein Karimi",
+    "countryCode": "IR",
+    "country": "Iran",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ ]
+  }
+}

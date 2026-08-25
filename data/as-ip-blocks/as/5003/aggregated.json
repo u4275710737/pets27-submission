@@ -1,0 +1,14 @@
+{
+  "asn": 5003,
+  "metadata": {
+    "handle": "GIGAN-2",
+    "description": "Insync Internet Services, Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

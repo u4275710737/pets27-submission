@@ -1,0 +1,14 @@
+{
+  "asn": 21933,
+  "metadata": {
+    "handle": "MSCSOFTWARE-CORPORATION",
+    "description": "MSC.SOFTWARE CORPORATION",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

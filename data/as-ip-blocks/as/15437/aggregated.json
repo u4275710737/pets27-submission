@@ -1,0 +1,14 @@
+{
+  "asn": 15437,
+  "metadata": {
+    "handle": "ASN-KJWS",
+    "description": "CESENA NET S.R.L.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

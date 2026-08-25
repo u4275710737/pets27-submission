@@ -1,0 +1,14 @@
+{
+  "asn": 42108,
+  "metadata": {
+    "handle": "SIS",
+    "description": "Ozone Limited",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

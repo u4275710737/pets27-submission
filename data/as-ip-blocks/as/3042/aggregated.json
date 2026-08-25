@@ -1,0 +1,14 @@
+{
+  "asn": 3042,
+  "metadata": {
+    "handle": "LACHMAN",
+    "description": "Lachman Technology, Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

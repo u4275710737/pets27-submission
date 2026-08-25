@@ -1,0 +1,14 @@
+{
+  "asn": 44761,
+  "metadata": {
+    "handle": "GEALAN-AS",
+    "description": "SC Gealan Romania SRL",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

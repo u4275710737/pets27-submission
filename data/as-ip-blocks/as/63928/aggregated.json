@@ -1,0 +1,16 @@
+{
+  "asn": 63928,
+  "metadata": {
+    "handle": "FREECOMM-AS-AP",
+    "description": "Freecomm Hong Kong Limited",
+    "countryCode": "HK",
+    "country": "Hong Kong SAR China",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "access_provider"
+  },
+  "prefixes": {
+    "ipv4": [ "43.227.237.0/24", "43.227.238.0/24", "103.47.24.0/23", "103.47.27.0/24" ],
+    "ipv6": [ ]
+  }
+}

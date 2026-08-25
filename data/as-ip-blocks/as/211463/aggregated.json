@@ -1,0 +1,16 @@
+{
+  "asn": 211463,
+  "metadata": {
+    "handle": "CARRIER1",
+    "description": "Carrier1 GmbH",
+    "countryCode": "DE",
+    "country": "Germany",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "185.239.80.0/22" ],
+    "ipv6": [ ]
+  }
+}

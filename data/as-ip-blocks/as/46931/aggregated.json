@@ -1,0 +1,14 @@
+{
+  "asn": 46931,
+  "metadata": {
+    "handle": "ONNETASN",
+    "description": "ONNET",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

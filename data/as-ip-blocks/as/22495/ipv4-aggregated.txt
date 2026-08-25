@@ -1,0 +1,4 @@
+# AS22495 (SIMON-208-0)
+# Simon Property Group LP
+#
+199.36.204.0/22

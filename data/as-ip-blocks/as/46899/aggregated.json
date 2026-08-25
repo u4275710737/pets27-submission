@@ -1,0 +1,14 @@
+{
+  "asn": 46899,
+  "metadata": {
+    "handle": "SPECTRA-LABORATORIES",
+    "description": "Spectra Laboratories",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

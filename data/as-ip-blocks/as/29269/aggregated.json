@@ -1,0 +1,16 @@
+{
+  "asn": 29269,
+  "metadata": {
+    "handle": "CLOUDGLOBAL-AS",
+    "description": "Cloud Global S.L.",
+    "countryCode": "ES",
+    "country": "Spain",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "185.53.250.0/24" ],
+    "ipv6": [ ]
+  }
+}

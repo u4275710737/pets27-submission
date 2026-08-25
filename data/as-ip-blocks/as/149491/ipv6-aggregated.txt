@@ -1,0 +1,4 @@
+# AS149491 (RIGHTNET-AS-AP)
+# Right Net
+#
+2400:5760::/32

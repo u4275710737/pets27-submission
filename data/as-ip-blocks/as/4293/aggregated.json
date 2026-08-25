@@ -1,0 +1,14 @@
+{
+  "asn": 4293,
+  "metadata": {
+    "handle": "CENTURYLINK-QC-MOE-DULUTH",
+    "description": "CenturyLink Communications, LLC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

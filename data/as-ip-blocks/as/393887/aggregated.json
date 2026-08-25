@@ -1,0 +1,16 @@
+{
+  "asn": 393887,
+  "metadata": {
+    "handle": "BIAMP-HQ",
+    "description": "Biamp Systems LLC",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "38.147.159.0/24" ],
+    "ipv6": [ ]
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 134699,
+  "metadata": {
+    "handle": "CYPRESSTEL-AP",
+    "description": "CYPRESS TELECOM (SINGAPORE) PTE. LTD.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

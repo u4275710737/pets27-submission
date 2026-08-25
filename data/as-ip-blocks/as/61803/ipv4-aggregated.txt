@@ -1,0 +1,5 @@
+# AS61803 (PROVEDOR-CORPORATIVO-INTERNET)
+# Provedor Corporativo Internet Ltda
+#
+200.189.96.0/20
+201.148.208.0/22

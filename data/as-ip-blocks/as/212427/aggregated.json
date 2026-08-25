@@ -1,0 +1,14 @@
+{
+  "asn": 212427,
+  "metadata": {
+    "handle": "BASTION-GUARD",
+    "description": "BASTION GUARD LTD",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

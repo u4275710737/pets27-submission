@@ -1,0 +1,16 @@
+{
+  "asn": 269496,
+  "metadata": {
+    "handle": "SATURNOTECH-FIBRA",
+    "description": "SaturnoTech Fibra",
+    "countryCode": "BR",
+    "country": "Brazil",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "45.187.157.0/24", "45.187.158.0/23" ],
+    "ipv6": [ "2804:6584::/32" ]
+  }
+}

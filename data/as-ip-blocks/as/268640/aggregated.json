@@ -1,0 +1,16 @@
+{
+  "asn": 268640,
+  "metadata": {
+    "handle": "M-REGINA-O-SILVA",
+    "description": "M REGINA O DA SILVA LTDA",
+    "countryCode": "BR",
+    "country": "Brazil",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "access_provider"
+  },
+  "prefixes": {
+    "ipv4": [ "45.164.196.0/22" ],
+    "ipv6": [ ]
+  }
+}

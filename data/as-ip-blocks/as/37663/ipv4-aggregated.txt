@@ -1,0 +1,4 @@
+# AS37663 (CINX)
+# Cape Town Internet Exchange
+#
+196.10.54.0/24

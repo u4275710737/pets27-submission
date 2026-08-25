@@ -1,0 +1,14 @@
+{
+  "asn": 396442,
+  "metadata": {
+    "handle": "1901-ASN",
+    "description": "1901 Group LLC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

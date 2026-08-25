@@ -1,0 +1,14 @@
+{
+  "asn": 30862,
+  "metadata": {
+    "handle": "ATOS-CH-AS",
+    "description": "Eviden AG",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

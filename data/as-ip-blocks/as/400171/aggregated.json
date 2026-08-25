@@ -1,0 +1,14 @@
+{
+  "asn": 400171,
+  "metadata": {
+    "handle": "AINFO",
+    "description": "Alpha InfoLab Inc",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

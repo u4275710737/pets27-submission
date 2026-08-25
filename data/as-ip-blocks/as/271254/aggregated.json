@@ -1,0 +1,16 @@
+{
+  "asn": 271254,
+  "metadata": {
+    "handle": "ME-TELECOM-SERVICOS",
+    "description": "ME TELECOM SERVIÇOS DE INTERNET LTDA",
+    "countryCode": "BR",
+    "country": "Brazil",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "45.232.84.0/23", "45.232.86.0/24" ],
+    "ipv6": [ "2804:789c::/32" ]
+  }
+}

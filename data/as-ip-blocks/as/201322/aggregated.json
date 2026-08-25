@@ -1,0 +1,14 @@
+{
+  "asn": 201322,
+  "metadata": {
+    "handle": "SYKEHUSPARTNER-AS",
+    "description": "Helse Sor-Ost RHF",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

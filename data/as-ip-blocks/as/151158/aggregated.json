@@ -1,0 +1,14 @@
+{
+  "asn": 151158,
+  "metadata": {
+    "handle": "SFCAME-AS-IN",
+    "description": "SYNCFACTO CONSULTING PRIVATE LIMITED",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

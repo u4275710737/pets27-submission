@@ -1,0 +1,14 @@
+{
+  "asn": 142532,
+  "metadata": {
+    "handle": "MAAVE",
+    "description": "Maa Vindhyawasini Enterprises",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

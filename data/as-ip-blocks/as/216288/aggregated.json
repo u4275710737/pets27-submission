@@ -1,0 +1,14 @@
+{
+  "asn": 216288,
+  "metadata": {
+    "handle": "FASTRDP",
+    "description": "Bahniuk Serhii",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

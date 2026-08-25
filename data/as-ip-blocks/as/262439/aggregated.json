@@ -1,0 +1,16 @@
+{
+  "asn": 262439,
+  "metadata": {
+    "handle": "ALCANS-SERVICOS-EM",
+    "description": "ALCANS SERVICOS EM TELECOMUNICACOES LTDA",
+    "countryCode": "BR",
+    "country": "Brazil",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "asn": 141808,
+  "metadata": {
+    "handle": "DTPLD-AS-IN",
+    "description": "Dynowave Technologies Pvt Ltd",
+    "countryCode": "IN",
+    "country": "India",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "103.167.8.0/24" ],
+    "ipv6": [ ]
+  }
+}

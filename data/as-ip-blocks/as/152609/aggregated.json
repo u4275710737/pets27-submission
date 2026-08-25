@@ -1,0 +1,14 @@
+{
+  "asn": 152609,
+  "metadata": {
+    "handle": "KYNETUX",
+    "description": "I A.M. Translation LTD.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

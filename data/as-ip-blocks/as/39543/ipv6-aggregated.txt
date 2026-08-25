@@ -1,0 +1,4 @@
+# AS39543 (TENNET-AS)
+# Tennet Telecom SRL
+#
+2001:4d18::/48

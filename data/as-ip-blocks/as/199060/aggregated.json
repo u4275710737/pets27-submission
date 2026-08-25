@@ -1,0 +1,14 @@
+{
+  "asn": 199060,
+  "metadata": {
+    "handle": "SYRIUSZ",
+    "description": "Syriusz Dominika Mosor",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

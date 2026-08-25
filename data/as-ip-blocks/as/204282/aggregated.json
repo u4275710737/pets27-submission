@@ -1,0 +1,16 @@
+{
+  "asn": 204282,
+  "metadata": {
+    "handle": "HST",
+    "description": "HST Systemtechnik GmbH & Co. KG",
+    "countryCode": "DE",
+    "country": "Germany",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "217.117.99.0/24" ],
+    "ipv6": [ ]
+  }
+}

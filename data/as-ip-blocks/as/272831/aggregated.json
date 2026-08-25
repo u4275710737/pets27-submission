@@ -1,0 +1,14 @@
+{
+  "asn": 272831,
+  "metadata": {
+    "handle": "NEW-WORLD-TELECOMMUNICATIONS",
+    "description": "NEW WORLD TELECOMMUNICATIONS NWT, SRLS",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 395622,
+  "metadata": {
+    "handle": "MOZILLA-PDX1",
+    "description": "Mozilla Corporation",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

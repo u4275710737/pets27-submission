@@ -1,0 +1,5 @@
+# AS18333 (ATNET-AS)
+# at(Korea Argo-Fisheries Food Trade Corporation)
+#
+121.134.234.0/24
+210.103.25.0/24

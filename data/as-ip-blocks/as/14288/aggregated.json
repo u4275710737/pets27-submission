@@ -1,0 +1,16 @@
+{
+  "asn": 14288,
+  "metadata": {
+    "handle": "MPINET",
+    "description": "MPInet",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "216.53.216.0/22" ],
+    "ipv6": [ "2605:1280::/32" ]
+  }
+}

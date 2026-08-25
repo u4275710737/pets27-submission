@@ -1,0 +1,4 @@
+# AS263429 (BOM-JESUSIELUSC)
+# Associação Educacional Luterana Bom Jesus IELUSC
+#
+2801:80:860::/48

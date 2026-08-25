@@ -1,0 +1,14 @@
+{
+  "asn": 149336,
+  "metadata": {
+    "handle": "IDNIC-YAFIRA-ID",
+    "description": "PT Yafira Digital Technology",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

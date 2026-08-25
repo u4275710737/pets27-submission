@@ -1,0 +1,14 @@
+{
+  "asn": 197852,
+  "metadata": {
+    "handle": "RENCAP",
+    "description": "Renaissance Capital Limited",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

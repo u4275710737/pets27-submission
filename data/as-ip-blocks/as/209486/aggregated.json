@@ -1,0 +1,16 @@
+{
+  "asn": 209486,
+  "metadata": {
+    "handle": "EGOMNET",
+    "description": "EgomNet Kft.",
+    "countryCode": "HU",
+    "country": "Hungary",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "194.36.180.0/22" ],
+    "ipv6": [ ]
+  }
+}

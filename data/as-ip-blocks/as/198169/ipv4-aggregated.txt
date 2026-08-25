@@ -1,0 +1,7 @@
+# AS198169 (ITPC-AS)
+# Informatics and Telecommunications Public Company (ITPC)
+#
+78.109.224.0/24
+78.109.233.0/24
+78.109.234.0/23
+78.109.238.0/24

@@ -1,0 +1,14 @@
+{
+  "asn": 150100,
+  "metadata": {
+    "handle": "ARKCOM-IN",
+    "description": "A Telecommunications Pvt Ltd.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "asn": 396120,
+  "metadata": {
+    "handle": "DONUTSHIELD",
+    "description": "DonutSMP",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "40.183.111.0/24", "40.223.14.0/23", "82.29.121.0/24" ],
+    "ipv6": [ ]
+  }
+}

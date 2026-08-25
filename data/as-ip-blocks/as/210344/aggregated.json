@@ -1,0 +1,14 @@
+{
+  "asn": 210344,
+  "metadata": {
+    "handle": "WEBISERE",
+    "description": "Association WebIsere",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

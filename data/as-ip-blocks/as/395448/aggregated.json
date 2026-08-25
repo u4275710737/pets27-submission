@@ -1,0 +1,16 @@
+{
+  "asn": 395448,
+  "metadata": {
+    "handle": "APOG-COLO-PA",
+    "description": "Apogee Telecom Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [
+      "76.78.106.0/24"
+    ],
+    "ipv6": []
+  }
+}

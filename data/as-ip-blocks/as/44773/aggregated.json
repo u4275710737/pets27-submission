@@ -1,0 +1,16 @@
+{
+  "asn": 44773,
+  "metadata": {
+    "handle": "ZNAMENSKIY",
+    "description": "PE Znamenskiy L.V.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [
+      "91.202.216.0/22"
+    ],
+    "ipv6": []
+  }
+}

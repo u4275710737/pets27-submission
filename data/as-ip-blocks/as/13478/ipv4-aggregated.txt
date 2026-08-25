@@ -1,0 +1,4 @@
+# AS13478 (BEAGLE)
+# Beagle Networks
+#
+66.242.54.0/23

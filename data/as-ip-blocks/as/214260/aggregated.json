@@ -1,0 +1,16 @@
+{
+  "asn": 214260,
+  "metadata": {
+    "handle": "ITCOMMUNICATIONS",
+    "description": "I.T Communications Limited",
+    "countryCode": "GB",
+    "country": "United Kingdom",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "51.241.151.0/24", "185.227.4.0/24" ],
+    "ipv6": [ ]
+  }
+}

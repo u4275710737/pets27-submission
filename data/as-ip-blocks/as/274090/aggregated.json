@@ -1,0 +1,14 @@
+{
+  "asn": 274090,
+  "metadata": {
+    "handle": "CONEXIONFAST-SERVICIOS-TELECOMUNICACIONES",
+    "description": "CONEXIONFAST SERVICIOS DE TELECOMUNICACIONES S.A.S",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

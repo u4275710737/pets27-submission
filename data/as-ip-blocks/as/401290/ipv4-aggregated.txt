@@ -1,0 +1,5 @@
+# AS401290 (LSUAA)
+# Louisiana State University at Alexandria
+#
+76.165.0.0/16
+198.62.176.0/24

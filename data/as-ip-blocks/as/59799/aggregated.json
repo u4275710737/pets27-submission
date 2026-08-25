@@ -1,0 +1,14 @@
+{
+  "asn": 59799,
+  "metadata": {
+    "handle": "CUMULUS-ACE",
+    "description": "CUMULUS ACE SOLUTIONS LLC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

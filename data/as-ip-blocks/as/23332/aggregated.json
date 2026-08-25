@@ -1,0 +1,14 @@
+{
+  "asn": 23332,
+  "metadata": {
+    "handle": "JDASOFTRCKVLLE",
+    "description": "Blue Yonder, Inc",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

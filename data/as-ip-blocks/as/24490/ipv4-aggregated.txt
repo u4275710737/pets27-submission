@@ -1,0 +1,4 @@
+# AS24490 (TEIN2-SG-AP)
+# Trans-Eurasia Information Network (TEIN2) - SG
+#
+202.179.248.0/21

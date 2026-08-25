@@ -1,0 +1,4 @@
+# AS26552 (PROMCAP)
+# IntraFi LLC
+#
+208.184.9.0/24

@@ -1,0 +1,16 @@
+{
+  "asn": 327691,
+  "metadata": {
+    "handle": "BPA-AO-AS",
+    "description": "Banco Privado Atlantico Autonomous System",
+    "countryCode": "AO",
+    "country": "Angola",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "196.223.13.0/24" ],
+    "ipv6": [ ]
+  }
+}

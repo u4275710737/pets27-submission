@@ -1,0 +1,3 @@
+# AS31141 (SWISSQUOTE-AS)
+# Swissquote Bank SA
+#

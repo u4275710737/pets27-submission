@@ -1,0 +1,16 @@
+{
+  "asn": 203790,
+  "metadata": {
+    "handle": "AS-SECWELL",
+    "description": "SECWELL L.L.C-FZ",
+    "countryCode": "AE",
+    "country": "United Arab Emirates",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "access_provider"
+  },
+  "prefixes": {
+    "ipv4": [ "138.249.4.0/23" ],
+    "ipv6": [ ]
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 45548,
+  "metadata": {
+    "handle": "ARTEXSECURITIES-AS-VN",
+    "description": "Artex Securities Joint Stock Company",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

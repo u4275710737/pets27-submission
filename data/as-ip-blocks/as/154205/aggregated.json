@@ -1,0 +1,16 @@
+{
+  "asn": 154205,
+  "metadata": {
+    "handle": "IDNIC-SUSU-TECHNET-AS-ID",
+    "description": "PT Susu Teknologi Indonesia",
+    "countryCode": "ID",
+    "country": "Indonesia",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "203.17.189.0/24" ],
+    "ipv6": [ ]
+  }
+}

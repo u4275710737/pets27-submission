@@ -1,0 +1,4 @@
+# AS394923 (ARTFILES-LLC-RIPE-DUMMY)
+# Artfiles LLC
+#
+2602:ff52::/48

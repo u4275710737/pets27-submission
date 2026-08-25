@@ -1,0 +1,16 @@
+{
+  "asn": 197058,
+  "metadata": {
+    "handle": "ASPSTS",
+    "description": "PSTS Ltd.",
+    "countryCode": "UA",
+    "country": "Ukraine",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "194.28.144.0/22" ],
+    "ipv6": [ ]
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 211754,
+  "metadata": {
+    "handle": "STEPHENR",
+    "description": "Stephen Robinson",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

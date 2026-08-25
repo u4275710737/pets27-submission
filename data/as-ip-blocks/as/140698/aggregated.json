@@ -1,0 +1,14 @@
+{
+  "asn": 140698,
+  "metadata": {
+    "handle": "SKYLINE1-AP",
+    "description": "SKYLINE NETWORKS COMPANY LIMITED",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

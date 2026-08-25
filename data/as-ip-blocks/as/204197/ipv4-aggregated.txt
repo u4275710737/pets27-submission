@@ -1,0 +1,4 @@
+# AS204197 (JDGROUP-AS1)
+# JD Invest GmbH
+#
+185.204.148.0/22

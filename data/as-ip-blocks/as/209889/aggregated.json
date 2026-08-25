@@ -1,0 +1,14 @@
+{
+  "asn": 209889,
+  "metadata": {
+    "handle": "LIBERTY-CHISINAU",
+    "description": "SC ITNS.NET SRL",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

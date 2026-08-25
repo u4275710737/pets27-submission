@@ -1,0 +1,4 @@
+# AS270964 (C-R-C-C-INTERNET)
+# (Plugar Internet) C&R C. C. E INTERNET LTDA
+#
+200.24.92.0/22

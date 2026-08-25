@@ -1,0 +1,4 @@
+# AS32021 (OSOINTERNET)
+# Oso Internet Solutions
+#
+38.2.144.0/22

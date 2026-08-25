@@ -1,0 +1,16 @@
+{
+  "asn": 200326,
+  "metadata": {
+    "handle": "RANDHOST",
+    "description": "Randhost OU",
+    "countryCode": "EE",
+    "country": "Estonia",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ "2a03:bb80:10::/48" ]
+  }
+}

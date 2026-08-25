@@ -1,0 +1,4 @@
+# AS45138 (CPIT-NZ-AS-AP)
+# Christchurch Polytechnic Institute of Technology
+#
+165.84.64.0/18

@@ -1,0 +1,14 @@
+{
+  "asn": 136331,
+  "metadata": {
+    "handle": "SHRISAI-IN",
+    "description": "Shrisai Enterprises",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

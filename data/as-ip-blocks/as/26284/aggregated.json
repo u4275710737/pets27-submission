@@ -1,0 +1,14 @@
+{
+  "asn": 26284,
+  "metadata": {
+    "handle": "BADGER-INTERNET-INC",
+    "description": "Badger Internet Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

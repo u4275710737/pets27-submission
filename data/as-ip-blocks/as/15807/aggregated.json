@@ -1,0 +1,14 @@
+{
+  "asn": 15807,
+  "metadata": {
+    "handle": "WEBLINK",
+    "description": "Weblink srl",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

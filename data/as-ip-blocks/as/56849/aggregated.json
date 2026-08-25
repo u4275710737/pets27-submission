@@ -1,0 +1,14 @@
+{
+  "asn": 56849,
+  "metadata": {
+    "handle": "KEW1",
+    "description": "Kew Solutions Unipessoal Lda",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

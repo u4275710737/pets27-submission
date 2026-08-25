@@ -1,0 +1,14 @@
+{
+  "asn": 42338,
+  "metadata": {
+    "handle": "VERITEKNIK-AMSTERDAM",
+    "description": "VERITEKNIK BILISIM BASIN VE YAYIN LIMITED SIRKETI",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,5 @@
+# AS205561 (ASN-FLUVIUS-IT)
+# Fluvius System Operator CV
+#
+185.160.220.0/22
+193.53.101.0/24

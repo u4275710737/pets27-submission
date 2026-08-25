@@ -1,0 +1,14 @@
+{
+  "asn": 38586,
+  "metadata": {
+    "handle": "INTEGRALGROUP-NZ",
+    "description": "NTT NEW ZEALAND LIMITED",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

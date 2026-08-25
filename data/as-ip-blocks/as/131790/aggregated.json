@@ -1,0 +1,14 @@
+{
+  "asn": 131790,
+  "metadata": {
+    "handle": "SANOFI-SG",
+    "description": "Sanofi-aventis Singapore Pte Ltd",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

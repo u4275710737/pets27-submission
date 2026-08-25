@@ -1,0 +1,14 @@
+{
+  "asn": 200716,
+  "metadata": {
+    "handle": "RP",
+    "description": "Rafael Possamai",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

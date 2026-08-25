@@ -1,0 +1,14 @@
+{
+  "asn": 207220,
+  "metadata": {
+    "handle": "IPERION",
+    "description": "ION Bright Group B.V.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

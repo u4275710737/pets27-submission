@@ -1,0 +1,14 @@
+{
+  "asn": 43901,
+  "metadata": {
+    "handle": "UNITLINE-SAM",
+    "description": "OOO MediaSeti",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

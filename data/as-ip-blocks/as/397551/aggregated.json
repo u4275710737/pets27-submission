@@ -1,0 +1,14 @@
+{
+  "asn": 397551,
+  "metadata": {
+    "handle": "USFHP-PACMED",
+    "description": "PACMED CLINICS",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

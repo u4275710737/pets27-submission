@@ -1,0 +1,4 @@
+# AS399462 (SUMOFIBER-TEXAS)
+# Sumofiber
+#
+162.220.82.0/23

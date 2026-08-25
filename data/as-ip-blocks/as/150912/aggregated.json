@@ -1,0 +1,14 @@
+{
+  "asn": 150912,
+  "metadata": {
+    "handle": "TEKAWAY-VN",
+    "description": "TEKAWAY LIMITED COMPANY",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,8 @@
+# AS198225 (MDDSL-AS)
+# MDDSL - Mitteldeutsche Gesellschaft fuer Kommunikation mbH
+#
+85.208.128.0/22
+164.40.192.0/20
+185.76.164.0/22
+185.148.184.0/22
+185.215.76.0/22

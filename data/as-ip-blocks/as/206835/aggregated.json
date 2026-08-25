@@ -1,0 +1,14 @@
+{
+  "asn": 206835,
+  "metadata": {
+    "handle": "OPSEC",
+    "description": "Kurt Jaeger",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

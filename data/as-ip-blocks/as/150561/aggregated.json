@@ -1,0 +1,14 @@
+{
+  "asn": 150561,
+  "metadata": {
+    "handle": "AIRNET1-IN",
+    "description": "AIRNET WIFI",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

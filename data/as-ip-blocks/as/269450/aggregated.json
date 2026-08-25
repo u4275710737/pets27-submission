@@ -1,0 +1,16 @@
+{
+  "asn": 269450,
+  "metadata": {
+    "handle": "F-MOTA",
+    "description": "MOTA TELECOM LTDA",
+    "countryCode": "BR",
+    "country": "Brazil",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "45.187.28.0/22" ],
+    "ipv6": [ "2804:64d0::/32" ]
+  }
+}

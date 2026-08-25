@@ -1,0 +1,14 @@
+{
+  "asn": 141033,
+  "metadata": {
+    "handle": "PRANTAENTERPRISE-AP",
+    "description": "Pranta Enterprise",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

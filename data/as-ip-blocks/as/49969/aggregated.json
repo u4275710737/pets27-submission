@@ -1,0 +1,14 @@
+{
+  "asn": 49969,
+  "metadata": {
+    "handle": "EVRY-BORAS",
+    "description": "Vivicta Sweden AB",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

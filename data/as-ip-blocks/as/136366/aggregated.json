@@ -1,0 +1,14 @@
+{
+  "asn": 136366,
+  "metadata": {
+    "handle": "PROMPTIC",
+    "description": "Prompt Infracom Private Limited",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

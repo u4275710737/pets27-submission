@@ -1,0 +1,16 @@
+{
+  "asn": 152415,
+  "metadata": {
+    "handle": "IDNIC-UNIB-AS-ID",
+    "description": "Universitas Bengkulu",
+    "countryCode": "ID",
+    "country": "Indonesia",
+    "origin": "authoritative",
+    "category": "education_research",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "157.20.212.0/23" ],
+    "ipv6": [ ]
+  }
+}

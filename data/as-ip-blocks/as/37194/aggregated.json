@@ -1,0 +1,16 @@
+{
+  "asn": 37194,
+  "metadata": {
+    "handle": "VOIXNETWORKS",
+    "description": "VoixNETWORKS",
+    "countryCode": "NG",
+    "country": "Nigeria",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "41.76.64.0/21" ],
+    "ipv6": [ ]
+  }
+}

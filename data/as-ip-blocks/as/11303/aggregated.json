@@ -1,0 +1,16 @@
+{
+  "asn": 11303,
+  "metadata": {
+    "handle": "DATARETURN",
+    "description": "DATARETURN",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "199.45.60.0/24" ],
+    "ipv6": [ ]
+  }
+}

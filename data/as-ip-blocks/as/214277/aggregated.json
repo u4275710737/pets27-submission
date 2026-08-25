@@ -1,0 +1,14 @@
+{
+  "asn": 214277,
+  "metadata": {
+    "handle": "EMOFID",
+    "description": "Mofid Brokerage PJSC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

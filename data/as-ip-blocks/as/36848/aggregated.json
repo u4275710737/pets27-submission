@@ -1,0 +1,14 @@
+{
+  "asn": 36848,
+  "metadata": {
+    "handle": "WTG-BGP01",
+    "description": "Wireless Telecom Group, Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

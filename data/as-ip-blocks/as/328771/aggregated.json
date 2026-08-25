@@ -1,0 +1,16 @@
+{
+  "asn": 328771,
+  "metadata": {
+    "handle": "BUSOLE-CD",
+    "description": "STE Business Solutions Experts SARL (BUSOLE SARL)",
+    "countryCode": "CD",
+    "country": "Congo - Kinshasa",
+    "origin": "overlaid",
+    "category": null,
+    "networkRole": null
+  },
+  "prefixes": {
+    "ipv4": [ "102.222.60.0/24" ],
+    "ipv6": [ ]
+  }
+}

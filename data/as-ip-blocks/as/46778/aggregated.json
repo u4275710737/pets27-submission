@@ -1,0 +1,14 @@
+{
+  "asn": 46778,
+  "metadata": {
+    "handle": "PHSI-1996",
+    "description": "Prevea Health Services Inc",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

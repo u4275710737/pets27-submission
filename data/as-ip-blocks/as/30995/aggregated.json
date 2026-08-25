@@ -1,0 +1,16 @@
+{
+  "asn": 30995,
+  "metadata": {
+    "handle": "CIBEG-AS",
+    "description": "Commercial International Bank (Egypt) AS",
+    "countryCode": "EG",
+    "country": "Egypt",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "41.223.240.0/22" ],
+    "ipv6": [ ]
+  }
+}

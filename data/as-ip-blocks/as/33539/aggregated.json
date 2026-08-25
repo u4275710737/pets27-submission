@@ -1,0 +1,16 @@
+{
+  "asn": 33539,
+  "metadata": {
+    "handle": "ISP-MANAGEMENT",
+    "description": "ISP Management Inc.",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "204.124.116.0/22" ],
+    "ipv6": [ ]
+  }
+}

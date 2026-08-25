@@ -1,0 +1,14 @@
+{
+  "asn": 203283,
+  "metadata": {
+    "handle": "HIGHENDNETWORK",
+    "description": "HighEndNetwork LLC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

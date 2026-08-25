@@ -1,0 +1,14 @@
+{
+  "asn": 26906,
+  "metadata": {
+    "handle": "FSW-FMY",
+    "description": "Edison State College",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

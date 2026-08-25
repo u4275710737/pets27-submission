@@ -1,0 +1,4 @@
+# AS395773 (COLLEGIS)
+# Collegis Education
+#
+192.184.113.0/24

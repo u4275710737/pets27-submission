@@ -1,0 +1,16 @@
+{
+  "asn": 55277,
+  "metadata": {
+    "handle": "PINAL-AS",
+    "description": "Pinal County Arizona",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "government_admin",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "216.9.192.0/22" ],
+    "ipv6": [ ]
+  }
+}

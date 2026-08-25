@@ -1,0 +1,14 @@
+{
+  "asn": 57430,
+  "metadata": {
+    "handle": "BIX",
+    "description": "KOBA Sp. z o.o.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 1030,
+  "metadata": {
+    "handle": "DOMAIN",
+    "description": "Domain Privacy LLC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

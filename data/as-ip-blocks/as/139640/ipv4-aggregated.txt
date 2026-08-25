@@ -1,0 +1,4 @@
+# AS139640 (IDNIC-ADNNET-ID)
+# PT Amana Digital Nusantara
+#
+202.6.200.0/23

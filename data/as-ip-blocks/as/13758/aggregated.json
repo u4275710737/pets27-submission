@@ -1,0 +1,14 @@
+{
+  "asn": 13758,
+  "metadata": {
+    "handle": "IRVING-CONVENTION-CENTER-01",
+    "description": "SMG - Irving Convention Center",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

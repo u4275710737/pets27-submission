@@ -1,0 +1,16 @@
+{
+  "asn": 61626,
+  "metadata": {
+    "handle": "UNIVERSIDADE-ESTADUAL-PONTA",
+    "description": "UNIVERSIDADE ESTADUAL DE PONTA GROSSA",
+    "countryCode": "BR",
+    "country": "Brazil",
+    "origin": "authoritative",
+    "category": "education_research",
+    "networkRole": "access_provider"
+  },
+  "prefixes": {
+    "ipv4": [ "200.201.8.0/21", "200.201.16.0/20", "200.201.32.0/21" ],
+    "ipv6": [ "2804:1f5e::/32" ]
+  }
+}

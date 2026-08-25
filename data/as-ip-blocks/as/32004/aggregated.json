@@ -1,0 +1,14 @@
+{
+  "asn": 32004,
+  "metadata": {
+    "handle": "BIG",
+    "description": "Business Information Group, Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

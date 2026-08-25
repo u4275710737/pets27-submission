@@ -1,0 +1,16 @@
+{
+  "asn": 47340,
+  "metadata": {
+    "handle": "ROCHE-AS",
+    "description": "Roche Diagnostics GmbH",
+    "countryCode": "DE",
+    "country": "Germany",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ "2a04:c440:2a00::/40" ]
+  }
+}

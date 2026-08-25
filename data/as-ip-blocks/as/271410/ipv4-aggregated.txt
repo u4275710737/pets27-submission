@@ -1,0 +1,4 @@
+# AS271410 (SMART-SERVICO-INTERNET)
+# Smart Serviço de Internet Ltda
+#
+131.196.28.0/22

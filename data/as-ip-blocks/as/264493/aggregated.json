@@ -1,0 +1,16 @@
+{
+  "asn": 264493,
+  "metadata": {
+    "handle": "CABO-TELECOM",
+    "description": "Cabo Telecom (TECNET)",
+    "countryCode": "BR",
+    "country": "Brazil",
+    "origin": "overlaid",
+    "category": null,
+    "networkRole": null
+  },
+  "prefixes": {
+    "ipv4": [ "131.255.156.0/22" ],
+    "ipv6": [ ]
+  }
+}

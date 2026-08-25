@@ -1,0 +1,14 @@
+{
+  "asn": 139802,
+  "metadata": {
+    "handle": "SYNTAXIT-AP",
+    "description": "Syntax IT",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

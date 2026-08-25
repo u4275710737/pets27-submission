@@ -1,0 +1,16 @@
+{
+  "asn": 401496,
+  "metadata": {
+    "handle": "VIRTUO-NET",
+    "description": "Virtuo",
+    "countryCode": "CA",
+    "country": "Canada",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ "2a01:f440::/29" ]
+  }
+}

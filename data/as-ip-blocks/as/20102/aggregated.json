@@ -1,0 +1,14 @@
+{
+  "asn": 20102,
+  "metadata": {
+    "handle": "A-LA-MODE",
+    "description": "a la mode inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

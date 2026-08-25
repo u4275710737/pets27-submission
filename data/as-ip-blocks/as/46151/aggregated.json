@@ -1,0 +1,14 @@
+{
+  "asn": 46151,
+  "metadata": {
+    "handle": "CG-WW-NET",
+    "description": "Intersection Design and Technology",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

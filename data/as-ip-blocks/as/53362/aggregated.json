@@ -1,0 +1,14 @@
+{
+  "asn": 53362,
+  "metadata": {
+    "handle": "MIXIT",
+    "description": "Mixit, Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

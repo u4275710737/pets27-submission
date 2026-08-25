@@ -1,0 +1,16 @@
+{
+  "asn": 54852,
+  "metadata": {
+    "handle": "F4-NETWORKS",
+    "description": "F4 Networks",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ "2a01:e281:f4::/48", "2a09:4500::/29", "2a13:f40::/29" ]
+  }
+}

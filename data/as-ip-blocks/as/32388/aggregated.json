@@ -1,0 +1,14 @@
+{
+  "asn": 32388,
+  "metadata": {
+    "handle": "ITHS-ASN-002",
+    "description": "IT Hosting Services, LLC.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

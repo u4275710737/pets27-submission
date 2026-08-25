@@ -1,0 +1,16 @@
+{
+  "asn": 328485,
+  "metadata": {
+    "handle": "IPX-INTL-SYSTEMS-GA",
+    "description": "IPX International Systems Gabon",
+    "countryCode": "GA",
+    "country": "Gabon",
+    "origin": "overlaid",
+    "category": null,
+    "networkRole": null
+  },
+  "prefixes": {
+    "ipv4": [ "102.135.164.0/23", "102.135.166.0/24" ],
+    "ipv6": [ ]
+  }
+}

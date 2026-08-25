@@ -1,0 +1,16 @@
+{
+  "asn": 55323,
+  "metadata": {
+    "handle": "VIETINBANKSC-AS-VN",
+    "description": "VIETINBANK SECURITIES JOINT STOCK COMPANY",
+    "countryCode": "VN",
+    "country": "Vietnam",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "202.44.137.0/24" ],
+    "ipv6": [ ]
+  }
+}

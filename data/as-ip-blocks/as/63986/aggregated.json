@@ -1,0 +1,14 @@
+{
+  "asn": 63986,
+  "metadata": {
+    "handle": "CIX-PH",
+    "description": "IT.COREA INC.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

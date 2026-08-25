@@ -1,0 +1,14 @@
+{
+  "asn": 132858,
+  "metadata": {
+    "handle": "ANYCASTHOLDINGS-AP",
+    "description": "ANYCAST HOLDINGS PTY LTD",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

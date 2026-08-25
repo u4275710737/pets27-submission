@@ -1,0 +1,14 @@
+{
+  "asn": 215999,
+  "metadata": {
+    "handle": "DATA-FORTRESS",
+    "description": "Data Fortress FZC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

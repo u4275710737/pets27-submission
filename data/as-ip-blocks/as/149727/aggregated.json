@@ -1,0 +1,14 @@
+{
+  "asn": 149727,
+  "metadata": {
+    "handle": "IDNIC-PANDAWA-NET-AS-ID",
+    "description": "PT Pandawa Perkasa Teknologi",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

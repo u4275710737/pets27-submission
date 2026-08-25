@@ -1,0 +1,16 @@
+{
+  "asn": 401270,
+  "metadata": {
+    "handle": "TVH-PARTS-US",
+    "description": "TVH Parts Co.",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "130.12.125.0/24" ],
+    "ipv6": [ ]
+  }
+}

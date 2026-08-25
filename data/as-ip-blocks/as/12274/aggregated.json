@@ -1,0 +1,14 @@
+{
+  "asn": 12274,
+  "metadata": {
+    "handle": "FUJITSU-NORTH-AMERICA-INC",
+    "description": "Fujitsu North America, Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

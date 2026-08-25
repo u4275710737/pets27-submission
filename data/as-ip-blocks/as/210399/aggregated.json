@@ -1,0 +1,14 @@
+{
+  "asn": 210399,
+  "metadata": {
+    "handle": "KAZOPTICLINK",
+    "description": "KAZOPTICLINK LLP",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

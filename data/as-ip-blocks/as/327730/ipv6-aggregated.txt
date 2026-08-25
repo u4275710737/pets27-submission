@@ -1,0 +1,3 @@
+# AS327730 (AS-PPFTZ)
+# AUT-NUM object for PPFTZ
+#

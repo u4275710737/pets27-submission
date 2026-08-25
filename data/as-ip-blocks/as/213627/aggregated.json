@@ -1,0 +1,14 @@
+{
+  "asn": 213627,
+  "metadata": {
+    "handle": "QVQNETWORK",
+    "description": "QVQNETWORK OU",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

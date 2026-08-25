@@ -1,0 +1,14 @@
+{
+  "asn": 14998,
+  "metadata": {
+    "handle": "TSI-GC-NETBLK-01",
+    "description": "TSI, Incorporated",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

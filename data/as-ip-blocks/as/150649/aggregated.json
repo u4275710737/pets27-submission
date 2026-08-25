@@ -1,0 +1,14 @@
+{
+  "asn": 150649,
+  "metadata": {
+    "handle": "F5CLOUDS-IN",
+    "description": "F5 Clouds Private Limited",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

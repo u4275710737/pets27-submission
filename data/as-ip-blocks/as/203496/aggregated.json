@@ -1,0 +1,14 @@
+{
+  "asn": 203496,
+  "metadata": {
+    "handle": "OBNH-NETWORK",
+    "description": "Olaf Bernhard Rudolf Baumert",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

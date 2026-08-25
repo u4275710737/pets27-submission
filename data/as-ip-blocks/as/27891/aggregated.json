@@ -1,0 +1,14 @@
+{
+  "asn": 27891,
+  "metadata": {
+    "handle": "UNIVERSIDAD-PEDAGGICA-EXPERIMENTAL",
+    "description": "Universidad Pedaggica Experimental Libertador",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "asn": 25862,
+  "metadata": {
+    "handle": "ISNX",
+    "description": "ISNX LLC",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "43.247.228.0/22", "58.147.8.0/22", "103.18.182.0/23", "210.211.26.0/23" ],
+    "ipv6": [ ]
+  }
+}

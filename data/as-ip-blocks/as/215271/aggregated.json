@@ -1,0 +1,16 @@
+{
+  "asn": 215271,
+  "metadata": {
+    "handle": "TECHNOLOGY-TOWN",
+    "description": "Isfahan Science & Technology Town",
+    "countryCode": "IR",
+    "country": "Iran",
+    "origin": "authoritative",
+    "category": "government_admin",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "213.177.181.0/24" ],
+    "ipv6": [ ]
+  }
+}

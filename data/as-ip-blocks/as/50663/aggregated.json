@@ -1,0 +1,14 @@
+{
+  "asn": 50663,
+  "metadata": {
+    "handle": "NEYVA",
+    "description": "Comercial Neyva Bank Ltd",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

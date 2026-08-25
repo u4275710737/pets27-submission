@@ -1,0 +1,16 @@
+{
+  "asn": 216332,
+  "metadata": {
+    "handle": "CYBERBYTE-AS",
+    "description": "Advanced Placement Technologies LLC",
+    "countryCode": "RU",
+    "country": "Russia",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "85.137.160.0/23", "94.142.250.0/24", "195.20.16.0/24" ],
+    "ipv6": [ ]
+  }
+}

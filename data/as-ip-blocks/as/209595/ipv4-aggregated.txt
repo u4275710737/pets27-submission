@@ -1,0 +1,4 @@
+# AS209595 (NCTS-AS)
+# NKT Syzran LLC
+#
+155.212.148.0/22

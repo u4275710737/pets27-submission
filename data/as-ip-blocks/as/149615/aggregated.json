@@ -1,0 +1,14 @@
+{
+  "asn": 149615,
+  "metadata": {
+    "handle": "GOOD-AS-IN",
+    "description": "Goodwill Enterprises",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

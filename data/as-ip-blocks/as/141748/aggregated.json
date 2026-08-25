@@ -1,0 +1,14 @@
+{
+  "asn": 141748,
+  "metadata": {
+    "handle": "QDCI-AS-AP",
+    "description": "QUANTUM DATA COMMUNICATIONS INC.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 59854,
+  "metadata": {
+    "handle": "CYBER-FOLKS-RO-SHARED-HOSTING",
+    "description": "Cyber-Folks SRL",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

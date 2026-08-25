@@ -1,0 +1,16 @@
+{
+  "asn": 47154,
+  "metadata": {
+    "handle": "HUSAM-NETWORK",
+    "description": "HUSAM A. H. HIJAZI",
+    "countryCode": "PS",
+    "country": "Palestinian Territories",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "172.110.223.0/24" ],
+    "ipv6": [ ]
+  }
+}

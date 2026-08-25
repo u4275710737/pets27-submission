@@ -1,0 +1,16 @@
+{
+  "asn": 200775,
+  "metadata": {
+    "handle": "ROMANOV-AS",
+    "description": "Iurie Romanov",
+    "countryCode": "MD",
+    "country": "Moldova",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "185.121.178.0/24" ],
+    "ipv6": [ "2a0d:d904:f000::/36" ]
+  }
+}

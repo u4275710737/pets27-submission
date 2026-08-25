@@ -1,0 +1,14 @@
+{
+  "asn": 41258,
+  "metadata": {
+    "handle": "OPEN-BIN-1",
+    "description": "Public Joint-Stock Company Bank Otkritie Financial Corporation",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "asn": 149260,
+  "metadata": {
+    "handle": "WIBERNET-AS-IN",
+    "description": "WIBERNET",
+    "countryCode": "IN",
+    "country": "India",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "103.180.67.0/24" ],
+    "ipv6": [ ]
+  }
+}

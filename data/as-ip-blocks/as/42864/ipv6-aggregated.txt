@@ -1,0 +1,6 @@
+# AS42864 (GIGANET-HU)
+# Giganet Internet Szolgaltato Kft
+#
+2a00:1f40::/29
+2a05:f5c0::/32
+2a0c:f1c0::/29

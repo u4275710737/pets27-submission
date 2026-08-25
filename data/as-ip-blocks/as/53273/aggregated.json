@@ -1,0 +1,14 @@
+{
+  "asn": 53273,
+  "metadata": {
+    "handle": "MWC-BH-ITC",
+    "description": "Mitchell-Wayne Technologies",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

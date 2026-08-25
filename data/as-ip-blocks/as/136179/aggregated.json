@@ -1,0 +1,16 @@
+{
+  "asn": 136179,
+  "metadata": {
+    "handle": "GMRA-AS-AP",
+    "description": "GMR Airports Limited",
+    "countryCode": "IN",
+    "country": "India",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "103.83.59.0/24" ],
+    "ipv6": [ "2001:df7:d200::/48" ]
+  }
+}

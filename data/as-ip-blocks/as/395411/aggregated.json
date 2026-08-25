@@ -1,0 +1,14 @@
+{
+  "asn": 395411,
+  "metadata": {
+    "handle": "SMY-ISP",
+    "description": "City of Smyrna, GA",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

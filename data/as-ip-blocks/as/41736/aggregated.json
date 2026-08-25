@@ -1,0 +1,14 @@
+{
+  "asn": 41736,
+  "metadata": {
+    "handle": "NOVANETWORKS",
+    "description": "Digiweb ltd",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

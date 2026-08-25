@@ -1,0 +1,5 @@
+# AS24257 (JPIX-64ES)
+# Japan Internet Xing Co. Ltd.
+#
+2400:3000:70::/47
+2400:3000:72::/48

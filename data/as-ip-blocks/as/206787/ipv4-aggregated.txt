@@ -1,0 +1,5 @@
+# AS206787 (OSV)
+# IP Odintsov Stepan Vladimirovich
+#
+95.181.152.0/24
+194.190.69.0/24

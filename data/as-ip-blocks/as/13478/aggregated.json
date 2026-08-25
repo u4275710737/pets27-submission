@@ -1,0 +1,16 @@
+{
+  "asn": 13478,
+  "metadata": {
+    "handle": "BEAGLE",
+    "description": "Beagle Networks",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "66.242.54.0/23" ],
+    "ipv6": [ ]
+  }
+}

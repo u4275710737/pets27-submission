@@ -1,0 +1,14 @@
+{
+  "asn": 139219,
+  "metadata": {
+    "handle": "HCPL-AP",
+    "description": "Helium Communication PVT LTD",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

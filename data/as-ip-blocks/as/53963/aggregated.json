@@ -1,0 +1,14 @@
+{
+  "asn": 53963,
+  "metadata": {
+    "handle": "CHL-350",
+    "description": "Concord Hospital - Laconia",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

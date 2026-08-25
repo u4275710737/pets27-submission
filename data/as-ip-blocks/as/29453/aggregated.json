@@ -1,0 +1,14 @@
+{
+  "asn": 29453,
+  "metadata": {
+    "handle": "TELEKOM-MPLS",
+    "description": "Crnogorski Telekom a.d.Podgorica",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

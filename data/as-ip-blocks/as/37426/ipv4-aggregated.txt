@@ -1,0 +1,4 @@
+# AS37426 (AMCON)
+# Asset Management Corporation of Nigeria
+#
+196.43.232.0/24

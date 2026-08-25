@@ -1,0 +1,4 @@
+# AS137378 (PTPNET-AS-ID)
+# PT. Perdana Teknologi Persada
+#
+2403:4340::/32

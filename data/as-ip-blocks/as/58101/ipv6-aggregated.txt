@@ -1,0 +1,5 @@
+# AS58101 (GLADSERV)
+# Gladserv Limited
+#
+2a06:d140::/44
+2a06:d141::/32

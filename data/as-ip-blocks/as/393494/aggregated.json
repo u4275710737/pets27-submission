@@ -1,0 +1,14 @@
+{
+  "asn": 393494,
+  "metadata": {
+    "handle": "L3TV",
+    "description": "T-Mobile USA, Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

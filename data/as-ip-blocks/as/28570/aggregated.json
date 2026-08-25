@@ -1,0 +1,14 @@
+{
+  "asn": 28570,
+  "metadata": {
+    "handle": "RYDER-CAPITAL",
+    "description": "Ryder Capital, S. de R.L. de C.V.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

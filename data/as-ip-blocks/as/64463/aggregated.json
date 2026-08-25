@@ -1,0 +1,14 @@
+{
+  "asn": 64463,
+  "metadata": {
+    "handle": "TISMI",
+    "description": "Tismi BV",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

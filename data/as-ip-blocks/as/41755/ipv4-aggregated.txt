@@ -1,0 +1,5 @@
+# AS41755 (EGM-TR)
+# Emeklilik Gozetim Merkezi Anonim Sirketi
+#
+130.43.162.0/24
+193.37.154.0/24

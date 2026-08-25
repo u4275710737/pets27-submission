@@ -1,0 +1,14 @@
+{
+  "asn": 149418,
+  "metadata": {
+    "handle": "MSMONLINE-AP",
+    "description": "MSM Online",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

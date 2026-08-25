@@ -1,0 +1,14 @@
+{
+  "asn": 1146,
+  "metadata": {
+    "handle": "OS3",
+    "description": "SURF B.V.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

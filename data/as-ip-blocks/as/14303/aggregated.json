@@ -1,0 +1,14 @@
+{
+  "asn": 14303,
+  "metadata": {
+    "handle": "MEMASN1",
+    "description": "City of Memphis",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

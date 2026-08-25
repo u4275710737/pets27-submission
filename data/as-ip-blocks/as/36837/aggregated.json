@@ -1,0 +1,14 @@
+{
+  "asn": 36837,
+  "metadata": {
+    "handle": "TELETRAC",
+    "description": "Teletrac, Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "asn": 394647,
+  "metadata": {
+    "handle": "ZAYO-CCF-AS394647",
+    "description": "Zayo Bandwidth",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": null,
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "69.25.150.0/23" ],
+    "ipv6": [ ]
+  }
+}

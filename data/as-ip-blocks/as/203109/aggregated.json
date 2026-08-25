@@ -1,0 +1,16 @@
+{
+  "asn": 203109,
+  "metadata": {
+    "handle": "ORG-AL1060-RIPE",
+    "description": "AeroFibre Ltd",
+    "countryCode": "GB",
+    "country": "United Kingdom",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "45.38.33.0/24" ],
+    "ipv6": [ ]
+  }
+}

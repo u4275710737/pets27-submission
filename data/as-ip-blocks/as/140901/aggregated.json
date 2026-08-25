@@ -1,0 +1,14 @@
+{
+  "asn": 140901,
+  "metadata": {
+    "handle": "WEBRANGERSNET-AS-AP",
+    "description": "Web Rangers.net",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

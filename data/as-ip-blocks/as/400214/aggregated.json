@@ -1,0 +1,14 @@
+{
+  "asn": 400214,
+  "metadata": {
+    "handle": "TELZIO",
+    "description": "Telzio, Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 202351,
+  "metadata": {
+    "handle": "FRICKEL-NETWORK",
+    "description": "Jan Gilla",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 27471,
+  "metadata": {
+    "handle": "SYMN",
+    "description": "Avago Technologies U.S. Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 20926,
+  "metadata": {
+    "handle": "PULSATION-AS",
+    "description": "CELESTE SAS",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,4 @@
+# AS140403 (IDNIC-GFCDN-ID)
+# PT. Graha Fatta
+#
+103.150.223.0/24

@@ -1,0 +1,16 @@
+{
+  "asn": 329665,
+  "metadata": {
+    "handle": "GRIDONLINE",
+    "description": "NamPower",
+    "countryCode": "NA",
+    "country": "Namibia",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "access_provider"
+  },
+  "prefixes": {
+    "ipv4": [ "102.204.80.0/22" ],
+    "ipv6": [ ]
+  }
+}

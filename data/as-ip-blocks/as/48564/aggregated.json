@@ -1,0 +1,14 @@
+{
+  "asn": 48564,
+  "metadata": {
+    "handle": "IPVISION",
+    "description": "Dstny A/S",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 13082,
+  "metadata": {
+    "handle": "KAR-TEL-LLC",
+    "description": "Kar-Tel LLC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

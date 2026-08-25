@@ -1,0 +1,16 @@
+{
+  "asn": 395572,
+  "metadata": {
+    "handle": "CLEARWINDS",
+    "description": "Clear Winds Technologies Incorporated",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "12.181.20.0/24", "97.65.10.0/24", "168.151.157.0/24" ],
+    "ipv6": [ ]
+  }
+}

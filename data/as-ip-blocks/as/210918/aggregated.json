@@ -1,0 +1,14 @@
+{
+  "asn": 210918,
+  "metadata": {
+    "handle": "KERNSTOCK",
+    "description": "Patrik Kernstock",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

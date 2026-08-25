@@ -1,0 +1,14 @@
+{
+  "asn": 27911,
+  "metadata": {
+    "handle": "METLIFE-CHILE-SEGUROS-DE-VIDA",
+    "description": "Metlife Chile Seguros de Vida",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

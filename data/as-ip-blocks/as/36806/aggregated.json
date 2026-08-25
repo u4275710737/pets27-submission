@@ -1,0 +1,14 @@
+{
+  "asn": 36806,
+  "metadata": {
+    "handle": "AERIS-SJCORP-BGPNET",
+    "description": "Aeris Communications, Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

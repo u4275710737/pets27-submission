@@ -1,0 +1,14 @@
+{
+  "asn": 29720,
+  "metadata": {
+    "handle": "PDS",
+    "description": "Paragon Development Systems Inc",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

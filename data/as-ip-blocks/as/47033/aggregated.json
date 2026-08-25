@@ -1,0 +1,14 @@
+{
+  "asn": 47033,
+  "metadata": {
+    "handle": "CANTON-DC",
+    "description": "MTD Products Inc",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

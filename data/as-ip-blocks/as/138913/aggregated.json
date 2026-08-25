@@ -1,0 +1,16 @@
+{
+  "asn": 138913,
+  "metadata": {
+    "handle": "EDGECENTRES-AP",
+    "description": "Edge Centres",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [
+      "103.165.182.0/23"
+    ],
+    "ipv6": []
+  }
+}

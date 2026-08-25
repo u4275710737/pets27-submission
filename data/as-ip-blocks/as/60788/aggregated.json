@@ -1,0 +1,14 @@
+{
+  "asn": 60788,
+  "metadata": {
+    "handle": "VARIDION",
+    "description": "Gamma Network Solution Limited",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

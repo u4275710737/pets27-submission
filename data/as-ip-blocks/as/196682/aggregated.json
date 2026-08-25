@@ -1,0 +1,14 @@
+{
+  "asn": 196682,
+  "metadata": {
+    "handle": "INVERTA",
+    "description": "Inverta s.r.o.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 395459,
+  "metadata": {
+    "handle": "CORP-HDQTRS",
+    "description": "Domega, Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

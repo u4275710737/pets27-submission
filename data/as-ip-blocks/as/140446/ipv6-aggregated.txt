@@ -1,0 +1,4 @@
+# AS140446 (IDNIC-KINGPOLAH-AS-ID)
+# PT Kingpolah Network Solutions
+#
+2001:df4:2080::/48

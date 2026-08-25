@@ -1,0 +1,16 @@
+{
+  "asn": 264053,
+  "metadata": {
+    "handle": "ZAP-AL-INTERNET-SERVICE",
+    "description": "ZAP AL INTERNET SERVICE LTDA",
+    "countryCode": "BR",
+    "country": "Brazil",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "143.137.213.0/24", "143.137.215.0/24" ],
+    "ipv6": [ ]
+  }
+}

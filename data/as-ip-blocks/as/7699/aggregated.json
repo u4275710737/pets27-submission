@@ -1,0 +1,16 @@
+{
+  "asn": 7699,
+  "metadata": {
+    "handle": "CTL-AS-AP",
+    "description": "Cabos de Timor-Leste E.P.",
+    "countryCode": "TL",
+    "country": "Timor-Leste",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "access_provider"
+  },
+  "prefixes": {
+    "ipv4": [ "103.198.176.0/24", "163.128.48.0/23" ],
+    "ipv6": [ ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "asn": 329511,
+  "metadata": {
+    "handle": "TELEWYZ-LTD",
+    "description": "TeleWyz LTD",
+    "countryCode": "NG",
+    "country": "Nigeria",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "102.207.116.0/22" ],
+    "ipv6": [ ]
+  }
+}

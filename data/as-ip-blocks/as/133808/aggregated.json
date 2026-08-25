@@ -1,0 +1,14 @@
+{
+  "asn": 133808,
+  "metadata": {
+    "handle": "JETCOMS-ID",
+    "description": "PT Jetcoms Netindo",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 18154,
+  "metadata": {
+    "handle": "AUSTRADE-AU-AP",
+    "description": "Austrade",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

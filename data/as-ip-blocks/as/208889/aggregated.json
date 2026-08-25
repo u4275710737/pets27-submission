@@ -1,0 +1,14 @@
+{
+  "asn": 208889,
+  "metadata": {
+    "handle": "RNTECH",
+    "description": "Rithvik-Nakirikanti",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

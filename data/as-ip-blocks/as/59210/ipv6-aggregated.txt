@@ -1,0 +1,5 @@
+# AS59210 (PHOENIXNAP-AS-SG1)
+# PhoenixNAP
+#
+2401:bc40:a100::/40
+2401:bc40:e301::/48

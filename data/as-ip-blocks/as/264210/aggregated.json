@@ -1,0 +1,16 @@
+{
+  "asn": 264210,
+  "metadata": {
+    "handle": "W2I-TELECOM-SERVICOS",
+    "description": "W2I TELECOM E SERVICOS LTDA - ME",
+    "countryCode": "BR",
+    "country": "Brazil",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ ]
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 204823,
+  "metadata": {
+    "handle": "LINUXFABRIK",
+    "description": "Vinivia AG",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

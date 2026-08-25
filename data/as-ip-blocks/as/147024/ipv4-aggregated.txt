@@ -1,0 +1,4 @@
+# AS147024 (BTLTB-AS-AP)
+# bikpla.net
+#
+103.173.32.0/23

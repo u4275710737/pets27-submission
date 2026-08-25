@@ -1,0 +1,4 @@
+# AS29074 (FAUST-ASN)
+# FAUST ISP LTD.
+#
+2001:67c:ce8::/48

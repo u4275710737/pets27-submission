@@ -1,0 +1,14 @@
+{
+  "asn": 135598,
+  "metadata": {
+    "handle": "SIBERFY-AP",
+    "description": "SIBERFY (PRIVATE) LIMITED",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

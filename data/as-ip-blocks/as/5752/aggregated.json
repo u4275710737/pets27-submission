@@ -1,0 +1,14 @@
+{
+  "asn": 5752,
+  "metadata": {
+    "handle": "GREATBASIN",
+    "description": "GBIS Holdings Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

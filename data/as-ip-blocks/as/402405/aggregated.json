@@ -1,0 +1,16 @@
+{
+  "asn": 402405,
+  "metadata": {
+    "handle": "PAWPAYMENTS",
+    "description": "PawPayments Inc.",
+    "countryCode": "CA",
+    "country": "Canada",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "94.249.204.0/24" ],
+    "ipv6": [ ]
+  }
+}

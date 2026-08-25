@@ -1,0 +1,14 @@
+{
+  "asn": 132440,
+  "metadata": {
+    "handle": "USFBPL-AS-AP",
+    "description": "Unity Small Finance Bank Pvt. Ltd.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 50280,
+  "metadata": {
+    "handle": "MCSSA",
+    "description": "Ministry Of Civil Service, Kingdom of Saudi Arabia",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

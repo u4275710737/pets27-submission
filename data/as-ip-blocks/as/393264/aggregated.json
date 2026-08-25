@@ -1,0 +1,14 @@
+{
+  "asn": 393264,
+  "metadata": {
+    "handle": "COEUR-MINING-INC",
+    "description": "COEUR MINING, INC.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

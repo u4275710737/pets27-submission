@@ -1,0 +1,16 @@
+{
+  "asn": 62569,
+  "metadata": {
+    "handle": "BLACKSTONE-AMERICA-INC",
+    "description": "Blackstone America Inc.",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "inferred",
+    "category": null,
+    "networkRole": null
+  },
+  "prefixes": {
+    "ipv4": [ "198.22.228.0/24" ],
+    "ipv6": [ ]
+  }
+}

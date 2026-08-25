@@ -1,0 +1,14 @@
+{
+  "asn": 18717,
+  "metadata": {
+    "handle": "AKAMAI-AS",
+    "description": "Akamai Technologies Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,4 @@
+# AS34542 (SAFRANHE-AS)
+# Safran Helicopter Engines SASU
+#
+156.28.0.0/23

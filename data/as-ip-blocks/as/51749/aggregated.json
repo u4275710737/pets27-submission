@@ -1,0 +1,14 @@
+{
+  "asn": 51749,
+  "metadata": {
+    "handle": "ICTTEAMWORK",
+    "description": "DataFiber Group B.V.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 136858,
+  "metadata": {
+    "handle": "IDNIC-ELEVENIA-AS-ID",
+    "description": "PT XL Planet",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

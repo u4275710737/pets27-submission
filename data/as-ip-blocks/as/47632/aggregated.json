@@ -1,0 +1,14 @@
+{
+  "asn": 47632,
+  "metadata": {
+    "handle": "CONTINUITY-SOLUTIONS",
+    "description": "Accenture B. V.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

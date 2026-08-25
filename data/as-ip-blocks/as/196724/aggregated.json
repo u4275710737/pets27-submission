@@ -1,0 +1,14 @@
+{
+  "asn": 196724,
+  "metadata": {
+    "handle": "LYNERO",
+    "description": "DLX A/S",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

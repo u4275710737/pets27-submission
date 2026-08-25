@@ -1,0 +1,14 @@
+{
+  "asn": 329368,
+  "metadata": {
+    "handle": "CALNET-FIBRE",
+    "description": "CALNET FIBRE (PTY) LTD",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

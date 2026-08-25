@@ -1,0 +1,14 @@
+{
+  "asn": 47210,
+  "metadata": {
+    "handle": "DJIVAYA-VODA-AS",
+    "description": "Djivaya Voda Ltd.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

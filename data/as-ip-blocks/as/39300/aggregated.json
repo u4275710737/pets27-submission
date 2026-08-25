@@ -1,0 +1,14 @@
+{
+  "asn": 39300,
+  "metadata": {
+    "handle": "WHS",
+    "description": "Private Enterprise Shtambur Mikhailo Oleksandrovich",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

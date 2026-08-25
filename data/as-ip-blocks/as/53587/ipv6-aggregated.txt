@@ -1,0 +1,4 @@
+# AS53587 (AS-SYNFLOOD)
+# Packetz.io DDoS mitigation
+#
+2607:5d00::/32

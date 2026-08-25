@@ -1,0 +1,16 @@
+{
+  "asn": 41240,
+  "metadata": {
+    "handle": "SE-ALMBRAND",
+    "description": "ALM. Brand Forsikring A/S",
+    "countryCode": "DK",
+    "country": "Denmark",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "192.165.120.0/24", "194.88.234.0/23" ],
+    "ipv6": [ ]
+  }
+}

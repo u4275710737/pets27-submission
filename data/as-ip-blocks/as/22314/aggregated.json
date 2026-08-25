@@ -1,0 +1,14 @@
+{
+  "asn": 22314,
+  "metadata": {
+    "handle": "COMMUNICATIONS-CORPORATION-OF-AMERICA",
+    "description": "Communications Corporation of America",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

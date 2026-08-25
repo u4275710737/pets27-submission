@@ -1,0 +1,16 @@
+{
+  "asn": 266213,
+  "metadata": {
+    "handle": "PLANETCLICK-TELECOMUNICACOES",
+    "description": "PLANETCLICK TELECOMUNICACOES LTDA",
+    "countryCode": "BR",
+    "country": "Brazil",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "access_provider"
+  },
+  "prefixes": {
+    "ipv4": [ "45.226.182.0/23", "160.20.204.0/22" ],
+    "ipv6": [ "2804:3c74::/32" ]
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 53954,
+  "metadata": {
+    "handle": "NHA-ASN-01",
+    "description": "National Heritage Academies",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

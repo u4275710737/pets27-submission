@@ -1,0 +1,14 @@
+{
+  "asn": 38342,
+  "metadata": {
+    "handle": "SVCNET",
+    "description": "SHANGHAI VSAT NETWORK SYSTEMS CO.,LTD",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 22605,
+  "metadata": {
+    "handle": "RACKBUNKER-PRIMARY-01",
+    "description": "Rack Bunker Data Centers, LLC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

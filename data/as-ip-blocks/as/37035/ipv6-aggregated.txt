@@ -1,0 +1,4 @@
+# AS37035 (MIC-AS)
+# MIC Tanzania ltd
+#
+2c0f:f0c0::/31

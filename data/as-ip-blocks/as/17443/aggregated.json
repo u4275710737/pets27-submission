@@ -1,0 +1,16 @@
+{
+  "asn": 17443,
+  "metadata": {
+    "handle": "KARUTURI-IN",
+    "description": "Karuturi Telecom Pvt Ltd",
+    "countryCode": "IN",
+    "country": "India",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "202.131.159.0/24" ],
+    "ipv6": [ ]
+  }
+}

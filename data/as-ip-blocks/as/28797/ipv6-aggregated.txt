@@ -1,0 +1,3 @@
+# AS28797 (KOSMAN-COM-AS)
+# Technical University of Koszalin
+#

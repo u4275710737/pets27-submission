@@ -1,0 +1,5 @@
+# AS139734 (YTXC-AS-AP)
+# Akari Networks Limited
+#
+87.229.50.0/24
+103.235.16.0/23

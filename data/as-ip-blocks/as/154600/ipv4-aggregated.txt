@@ -1,0 +1,4 @@
+# AS154600 (SWINBURNE-AS-AP)
+# Swinburne University of Technology Sarawak Campus
+#
+27.110.95.0/24

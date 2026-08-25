@@ -1,0 +1,4 @@
+# AS196829 (TERANET-AS)
+# Private entrepreneur Anastasiia Khyzha
+#
+213.110.96.0/19

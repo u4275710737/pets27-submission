@@ -1,0 +1,14 @@
+{
+  "asn": 18494,
+  "metadata": {
+    "handle": "CENTURYLINK-LEGACY-EMBARQ-WRBG",
+    "description": "CenturyLink Communications LLC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

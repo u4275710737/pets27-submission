@@ -1,0 +1,14 @@
+{
+  "asn": 214801,
+  "metadata": {
+    "handle": "PUBLIC-ROUTER",
+    "description": "Kyle Mueller",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

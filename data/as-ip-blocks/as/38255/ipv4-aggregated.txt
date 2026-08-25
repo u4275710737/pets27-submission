@@ -1,0 +1,4 @@
+# AS38255 (FITI-AS-AP)
+# China Education and Research Network (CERNET)
+#
+118.229.40.0/21

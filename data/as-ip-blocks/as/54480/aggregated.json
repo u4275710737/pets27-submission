@@ -1,0 +1,14 @@
+{
+  "asn": 54480,
+  "metadata": {
+    "handle": "PEWRESEARCH-DC",
+    "description": "Pew Research Center",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

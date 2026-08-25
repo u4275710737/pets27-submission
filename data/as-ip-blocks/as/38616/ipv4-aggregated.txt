@@ -1,0 +1,4 @@
+# AS38616 (WORLDCALL-AS-UK)
+# Used in UK with TeleCity
+#
+115.186.0.0/24

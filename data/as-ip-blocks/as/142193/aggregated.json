@@ -1,0 +1,16 @@
+{
+  "asn": 142193,
+  "metadata": {
+    "handle": "IDNIC-TURBONET-AS-ID",
+    "description": "PT Turbo Network Indonesia",
+    "countryCode": "ID",
+    "country": "Indonesia",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "144.79.229.0/24" ],
+    "ipv6": [ "2001:df6:8540::/48" ]
+  }
+}

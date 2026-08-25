@@ -1,0 +1,14 @@
+{
+  "asn": 980,
+  "metadata": {
+    "handle": "NORTHERN-CABLE",
+    "description": "NORTHERN CABLE AND FIBER, LLC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

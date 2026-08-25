@@ -1,0 +1,16 @@
+{
+  "asn": 402315,
+  "metadata": {
+    "handle": "SUPERNETWORK",
+    "description": "FSTcloud",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "16.216.96.0/24", "16.217.14.0/24" ],
+    "ipv6": [ ]
+  }
+}

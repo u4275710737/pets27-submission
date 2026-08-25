@@ -1,0 +1,14 @@
+{
+  "asn": 20240,
+  "metadata": {
+    "handle": "VENTURAFOODS",
+    "description": "VENTURA FOODS LLC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 36314,
+  "metadata": {
+    "handle": "CELL-SIGNALING-TECHNOLOGY",
+    "description": "Cell Signaling Technology, Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

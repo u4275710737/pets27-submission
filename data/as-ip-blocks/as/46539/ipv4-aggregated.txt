@@ -1,0 +1,5 @@
+# AS46539 (SHADOW-INTERNET)
+# Shadow Internet Ltd
+#
+23.159.144.0/24
+192.187.138.0/24

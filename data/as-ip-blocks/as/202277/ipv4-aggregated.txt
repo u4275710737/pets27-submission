@@ -1,0 +1,4 @@
+# AS202277 (PT-SGE-ASN)
+# Secretaria-Geral do Governo
+#
+195.225.180.0/22

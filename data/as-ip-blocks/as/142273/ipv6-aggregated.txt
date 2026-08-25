@@ -1,0 +1,4 @@
+# AS142273 (DRKL-AS-AP)
+# Digital Realty Korea Ltd.
+#
+2407:64c0::/32

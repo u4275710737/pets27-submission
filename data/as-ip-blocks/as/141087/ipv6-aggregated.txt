@@ -1,0 +1,4 @@
+# AS141087 (IDNIC-RAPATEL-AS-ID)
+# PT Karya Panca Telekomunikasi
+#
+2406:8440::/32

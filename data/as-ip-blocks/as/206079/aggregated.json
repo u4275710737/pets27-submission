@@ -1,0 +1,14 @@
+{
+  "asn": 206079,
+  "metadata": {
+    "handle": "SBSHOSTING",
+    "description": "MH HOLDING AF 1. JUNI 2009 ApS",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

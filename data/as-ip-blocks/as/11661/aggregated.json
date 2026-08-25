@@ -1,0 +1,14 @@
+{
+  "asn": 11661,
+  "metadata": {
+    "handle": "SEMICUBIC",
+    "description": "Semicubic Systems LLC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

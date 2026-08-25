@@ -1,0 +1,5 @@
+# AS21105 (RTK-TRANZIT)
+# Alexander Sbezhnev
+#
+80.89.8.0/22
+193.8.201.0/24

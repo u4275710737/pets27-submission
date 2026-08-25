@@ -1,0 +1,14 @@
+{
+  "asn": 49000,
+  "metadata": {
+    "handle": "TELECABLEJUMILLA",
+    "description": "AVATEL TELECOM, SA",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

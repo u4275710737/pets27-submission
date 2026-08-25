@@ -1,0 +1,4 @@
+# AS198913 (BABIEL-NET)
+# CONET Deutschland GmbH
+#
+2a03:d400::/32

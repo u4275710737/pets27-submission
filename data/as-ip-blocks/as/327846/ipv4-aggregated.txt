@@ -1,0 +1,4 @@
+# AS327846 (WDI-AS)
+# Wadi-Degla-Investments-WDI-AS
+#
+196.216.206.0/24

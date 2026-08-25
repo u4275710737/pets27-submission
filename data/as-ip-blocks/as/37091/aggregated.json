@@ -1,0 +1,16 @@
+{
+  "asn": 37091,
+  "metadata": {
+    "handle": "PIRAEUS-AS",
+    "description": "Piraeus Bank Egypt",
+    "countryCode": "EG",
+    "country": "Egypt",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "196.216.246.0/24" ],
+    "ipv6": [ ]
+  }
+}

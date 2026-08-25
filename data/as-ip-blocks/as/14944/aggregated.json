@@ -1,0 +1,14 @@
+{
+  "asn": 14944,
+  "metadata": {
+    "handle": "EMA-PRO",
+    "description": "eMoney Advisor",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 149093,
+  "metadata": {
+    "handle": "VPSVIETNAM-VN",
+    "description": "VPS VIET NAM COMPANY LIMITED",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

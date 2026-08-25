@@ -1,0 +1,14 @@
+{
+  "asn": 45868,
+  "metadata": {
+    "handle": "FUJITSU-AS-AP",
+    "description": "FUJITSU AUSTRALIA LTD",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

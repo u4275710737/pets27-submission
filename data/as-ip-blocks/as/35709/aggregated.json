@@ -1,0 +1,14 @@
+{
+  "asn": 35709,
+  "metadata": {
+    "handle": "TRIX",
+    "description": "Ministerie van Justitie en Veiligheid",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

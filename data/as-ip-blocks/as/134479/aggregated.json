@@ -1,0 +1,14 @@
+{
+  "asn": 134479,
+  "metadata": {
+    "handle": "DNSBD1-AP",
+    "description": "DNSBD",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,4 @@
+# AS46104 (OMEGA-COMMUNICATIONS-INC)
+# Omega Communications Inc
+#
+65.246.192.0/24

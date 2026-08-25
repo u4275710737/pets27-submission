@@ -1,0 +1,14 @@
+{
+  "asn": 140116,
+  "metadata": {
+    "handle": "JETFIBER-IN",
+    "description": "Jet Fiber",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 8576,
+  "metadata": {
+    "handle": "CW-ASPAC",
+    "description": "Vodafone Limited",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

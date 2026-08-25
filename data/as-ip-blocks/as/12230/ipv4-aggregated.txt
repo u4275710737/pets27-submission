@@ -1,0 +1,4 @@
+# AS12230 (TABLEBOUND)
+# Tablebound LLC
+#
+204.9.189.0/24

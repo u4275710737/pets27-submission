@@ -1,0 +1,14 @@
+{
+  "asn": 54871,
+  "metadata": {
+    "handle": "GNUSA-FL",
+    "description": "Global Network USA",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

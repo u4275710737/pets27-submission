@@ -1,0 +1,14 @@
+{
+  "asn": 31744,
+  "metadata": {
+    "handle": "MULTIBAND-NEWHOPE",
+    "description": "DirecTV MDU Broadband",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

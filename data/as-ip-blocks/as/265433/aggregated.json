@@ -1,0 +1,14 @@
+{
+  "asn": 265433,
+  "metadata": {
+    "handle": "FERROPORT-LOGISTICA-COMERCIAL",
+    "description": "FERROPORT LOGISTICA COMERCIAL EXPORTADORA S/A",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

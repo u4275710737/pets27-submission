@@ -1,0 +1,14 @@
+{
+  "asn": 58274,
+  "metadata": {
+    "handle": "PRIMELINE",
+    "description": "PRIME LINE LLC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

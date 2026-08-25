@@ -1,0 +1,14 @@
+{
+  "asn": 398051,
+  "metadata": {
+    "handle": "MUTUALINK01",
+    "description": "Mutualink Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

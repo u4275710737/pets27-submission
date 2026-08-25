@@ -1,0 +1,14 @@
+{
+  "asn": 272921,
+  "metadata": {
+    "handle": "IAC-TELECOM-CA",
+    "description": "IAC TELECOM C.A",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

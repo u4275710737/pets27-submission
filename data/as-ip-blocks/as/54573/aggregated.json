@@ -1,0 +1,16 @@
+{
+  "asn": 54573,
+  "metadata": {
+    "handle": "BSRL-PROD",
+    "description": "Brightstar Global Solutions Corporation",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "160.20.248.0/23", "160.238.61.0/24" ],
+    "ipv6": [ ]
+  }
+}

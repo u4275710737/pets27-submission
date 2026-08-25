@@ -1,0 +1,14 @@
+{
+  "asn": 209584,
+  "metadata": {
+    "handle": "THUNDER",
+    "description": "THUNDER NETWORK LIMITED",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

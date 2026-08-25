@@ -1,0 +1,16 @@
+{
+  "asn": 214194,
+  "metadata": {
+    "handle": "JUSTIN-NOLTE",
+    "description": "Justin Nolte",
+    "countryCode": "DE",
+    "country": "Germany",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ ]
+  }
+}

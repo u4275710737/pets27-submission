@@ -1,0 +1,14 @@
+{
+  "asn": 26575,
+  "metadata": {
+    "handle": "SERENA01",
+    "description": "Serena Software, Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

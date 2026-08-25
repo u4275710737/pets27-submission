@@ -1,0 +1,14 @@
+{
+  "asn": 25665,
+  "metadata": {
+    "handle": "EV-CLOUD",
+    "description": "Veritas Technologies LLC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

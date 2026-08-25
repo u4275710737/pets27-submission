@@ -1,0 +1,14 @@
+{
+  "asn": 27599,
+  "metadata": {
+    "handle": "FIRELIGHT",
+    "description": "Uncommon Technology Incorporated",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

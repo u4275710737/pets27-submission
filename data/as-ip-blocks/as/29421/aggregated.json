@@ -1,0 +1,14 @@
+{
+  "asn": 29421,
+  "metadata": {
+    "handle": "DCI-AS",
+    "description": "Ukrainian Scientific Institute of Applied Technologies LLC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

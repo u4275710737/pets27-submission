@@ -1,0 +1,4 @@
+# AS203958 (KUL-EDU-AS)
+# Katolicki Uniwersytet Lubelski Jana Pawla II
+#
+194.187.54.0/23

@@ -1,0 +1,5 @@
+# AS46138 (MAIKIWI-COMPANY-AS)
+# Maikiwi Network LLC
+#
+131.143.167.0/24
+205.209.9.0/24

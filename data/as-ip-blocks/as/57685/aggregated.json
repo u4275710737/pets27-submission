@@ -1,0 +1,14 @@
+{
+  "asn": 57685,
+  "metadata": {
+    "handle": "TRANS-IX-CONNECT",
+    "description": "Webfra B.V.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

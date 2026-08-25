@@ -1,0 +1,16 @@
+{
+  "asn": 7538,
+  "metadata": {
+    "handle": "NORDA-NET",
+    "description": "10F No 33 Sec 2 Zhongshan Rd Zhonghe Dist",
+    "countryCode": "TW",
+    "country": "Taiwan",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "access_provider"
+  },
+  "prefixes": {
+    "ipv4": [ "103.24.54.0/23" ],
+    "ipv6": [ ]
+  }
+}

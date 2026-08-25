@@ -1,0 +1,14 @@
+{
+  "asn": 31995,
+  "metadata": {
+    "handle": "SCANTRON",
+    "description": "Secur-Serv Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

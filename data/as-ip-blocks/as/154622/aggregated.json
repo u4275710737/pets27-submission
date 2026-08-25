@@ -1,0 +1,16 @@
+{
+  "asn": 154622,
+  "metadata": {
+    "handle": "IRINN-AFSB-AS-IN",
+    "description": "AFS BROADBAND SERVICES PRIVATE LIMITED",
+    "countryCode": "IN",
+    "country": "India",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "163.128.230.0/23" ],
+    "ipv6": [ ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "asn": 275683,
+  "metadata": {
+    "handle": "A2NET-TELECOM",
+    "description": "A2NET TELECOM",
+    "countryCode": "BR",
+    "country": "Brazil",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ "2804:985c::/32" ]
+  }
+}

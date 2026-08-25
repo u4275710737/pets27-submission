@@ -1,0 +1,16 @@
+{
+  "asn": 201550,
+  "metadata": {
+    "handle": "EXT-PDN-STE-AS",
+    "description": "Syrian Telecommunication Private Closed Joint Stock Company",
+    "countryCode": "SY",
+    "country": "Syria",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "188.133.0.0/17", "193.124.192.0/21" ],
+    "ipv6": [ ]
+  }
+}

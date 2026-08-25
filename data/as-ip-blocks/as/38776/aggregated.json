@@ -1,0 +1,14 @@
+{
+  "asn": 38776,
+  "metadata": {
+    "handle": "JANUS-CDN-ID",
+    "description": "PT Radmila Pratama Multireka",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

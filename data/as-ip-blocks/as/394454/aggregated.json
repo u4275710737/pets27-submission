@@ -1,0 +1,14 @@
+{
+  "asn": 394454,
+  "metadata": {
+    "handle": "WB-AS-US",
+    "description": "Withers Bergman LLP",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

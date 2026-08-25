@@ -1,0 +1,4 @@
+# AS13527 (GOOFL-TESTBED)
+# Gooflare LLC
+#
+199.188.148.0/23

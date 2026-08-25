@@ -1,0 +1,16 @@
+{
+  "asn": 395909,
+  "metadata": {
+    "handle": "KAWAII-NETWORKS-CARRIER",
+    "description": "Kawaii Networks LLC",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ "2602:f93b:142::/48", "2602:f93b:a11::/48", "2602:f93b:a41::/48", "2602:f93b:4000::/34", "2602:f93b:8000::/34" ]
+  }
+}

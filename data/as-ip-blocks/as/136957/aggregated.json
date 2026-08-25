@@ -1,0 +1,14 @@
+{
+  "asn": 136957,
+  "metadata": {
+    "handle": "IFIBER-AP",
+    "description": "IFIBER SDN. BHD.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

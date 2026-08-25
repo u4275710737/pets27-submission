@@ -1,0 +1,14 @@
+{
+  "asn": 18894,
+  "metadata": {
+    "handle": "SPRINGHILL-MH1",
+    "description": "Springhill Memorial Hospital",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

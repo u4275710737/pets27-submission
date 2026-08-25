@@ -1,0 +1,14 @@
+{
+  "asn": 147111,
+  "metadata": {
+    "handle": "IDNIC-EASYNET-ID",
+    "description": "PT Sinyal Bayan Hadua",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

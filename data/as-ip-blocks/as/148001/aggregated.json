@@ -1,0 +1,14 @@
+{
+  "asn": 148001,
+  "metadata": {
+    "handle": "INDIAN-PUBLIC-DNS",
+    "description": "National Knowledge Network",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

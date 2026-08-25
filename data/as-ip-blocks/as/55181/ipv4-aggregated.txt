@@ -1,0 +1,5 @@
+# AS55181 (KEUKA-COLLEGE)
+# Keuka College
+#
+209.94.79.0/24
+216.234.132.0/24

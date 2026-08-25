@@ -1,0 +1,14 @@
+{
+  "asn": 33620,
+  "metadata": {
+    "handle": "ALTRINSIC",
+    "description": "Altrinsic Global Advisors, LLC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

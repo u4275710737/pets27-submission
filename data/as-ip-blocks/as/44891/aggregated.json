@@ -1,0 +1,16 @@
+{
+  "asn": 44891,
+  "metadata": {
+    "handle": "AS24SEVEN-AS",
+    "description": "24 Seven Communications Ltd",
+    "countryCode": "GB",
+    "country": "United Kingdom",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ ]
+  }
+}

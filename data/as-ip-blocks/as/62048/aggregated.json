@@ -1,0 +1,16 @@
+{
+  "asn": 62048,
+  "metadata": {
+    "handle": "ACAI",
+    "description": "Avini cultural and Art Institute",
+    "countryCode": "IR",
+    "country": "Iran",
+    "origin": "authoritative",
+    "category": "education_research",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "5.160.146.0/24", "45.86.87.0/24", "109.122.240.0/24", "188.253.2.0/23" ],
+    "ipv6": [ ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "asn": 396278,
+  "metadata": {
+    "handle": "TELECOMSERVICESNETWORKLIMITED",
+    "description": "Telecom Services Network Limited",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "23.147.96.0/24", "161.188.240.0/22" ],
+    "ipv6": [ "2605:440::/32" ]
+  }
+}

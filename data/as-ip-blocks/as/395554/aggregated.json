@@ -1,0 +1,14 @@
+{
+  "asn": 395554,
+  "metadata": {
+    "handle": "ADVANCETRADINGINCCHICAGO",
+    "description": "Advance Trading Inc",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,4 @@
+# AS154444 (IDNIC-SATAK-ID)
+# PT Nusa Data Koneksi
+#
+144.79.94.0/23

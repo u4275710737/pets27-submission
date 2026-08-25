@@ -1,0 +1,16 @@
+{
+  "asn": 210880,
+  "metadata": {
+    "handle": "ARDADAGLIOGLU",
+    "description": "Arda Daglioglu",
+    "countryCode": "TR",
+    "country": "Türkiye",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ "2a0f:85c1:bfc::/48" ]
+  }
+}

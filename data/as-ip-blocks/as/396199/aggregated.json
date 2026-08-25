@@ -1,0 +1,14 @@
+{
+  "asn": 396199,
+  "metadata": {
+    "handle": "SMNA-PUBLIC",
+    "description": "Swedish Match",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

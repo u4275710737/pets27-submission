@@ -1,0 +1,4 @@
+# AS22063 (JPGT-22063)
+# J. Paul Getty Trust
+#
+153.10.0.0/16

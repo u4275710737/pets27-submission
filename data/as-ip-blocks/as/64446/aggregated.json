@@ -1,0 +1,14 @@
+{
+  "asn": 64446,
+  "metadata": {
+    "handle": "DE-ROHWERDER",
+    "description": "Rohwerder Datasystems GmbH",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

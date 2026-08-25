@@ -1,0 +1,3 @@
+# AS49611 (BPSA-AS)
+# Bank Pocztowy Spolka Akcyjna
+#

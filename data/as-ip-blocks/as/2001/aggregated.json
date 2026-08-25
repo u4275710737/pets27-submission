@@ -1,0 +1,14 @@
+{
+  "asn": 2001,
+  "metadata": {
+    "handle": "AS-NALCO-MPLS",
+    "description": "Ecolab Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 53248,
+  "metadata": {
+    "handle": "LIMETREE-ASN",
+    "description": "Limetree Bay Holdings LLC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "asn": 203861,
+  "metadata": {
+    "handle": "MITEFLUX-AS",
+    "description": "Miteflux Technologies Ltd",
+    "countryCode": "GB",
+    "country": "United Kingdom",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "5.175.215.0/24", "31.59.160.0/24", "176.65.143.0/24" ],
+    "ipv6": [ ]
+  }
+}

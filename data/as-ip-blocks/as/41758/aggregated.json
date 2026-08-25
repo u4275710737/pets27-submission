@@ -1,0 +1,14 @@
+{
+  "asn": 41758,
+  "metadata": {
+    "handle": "DA-NET",
+    "description": "Da.Net Ltd",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

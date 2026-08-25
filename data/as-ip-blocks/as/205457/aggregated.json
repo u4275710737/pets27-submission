@@ -1,0 +1,16 @@
+{
+  "asn": 205457,
+  "metadata": {
+    "handle": "WISP-TACHIRA",
+    "description": "Valor Information Technologies S.L.",
+    "countryCode": "ES",
+    "country": "Spain",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "45.89.81.0/24" ],
+    "ipv6": [ "2a0a:e9c6::/32" ]
+  }
+}

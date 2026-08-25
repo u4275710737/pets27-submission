@@ -1,0 +1,14 @@
+{
+  "asn": 133668,
+  "metadata": {
+    "handle": "INFOBB-IN",
+    "description": "Infolink Broadband Services Pvt Ltd",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 7412,
+  "metadata": {
+    "handle": "ENS-NET",
+    "description": "EZ Network Systems, Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

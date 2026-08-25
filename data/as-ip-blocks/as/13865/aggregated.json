@@ -1,0 +1,16 @@
+{
+  "asn": 13865,
+  "metadata": {
+    "handle": "SFL-255-13865",
+    "description": "Southeastern Freight Lines Inc.",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "204.174.227.0/24" ],
+    "ipv6": [ ]
+  }
+}

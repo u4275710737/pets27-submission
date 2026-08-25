@@ -1,0 +1,14 @@
+{
+  "asn": 131119,
+  "metadata": {
+    "handle": "CBNNET-ID",
+    "description": "Internet Service Provider",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

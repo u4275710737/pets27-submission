@@ -1,0 +1,14 @@
+{
+  "asn": 48436,
+  "metadata": {
+    "handle": "FEMSCI",
+    "description": "Daniel Drozdz",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

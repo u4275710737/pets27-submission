@@ -1,0 +1,14 @@
+{
+  "asn": 150113,
+  "metadata": {
+    "handle": "HEROLINE-AP",
+    "description": "HERO LINE LIMITED",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

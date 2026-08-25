@@ -1,0 +1,14 @@
+{
+  "asn": 37621,
+  "metadata": {
+    "handle": "CIPHERWAVE",
+    "description": "Cipherwave",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

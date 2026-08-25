@@ -1,0 +1,4 @@
+# AS2036 (JOANNEUM)
+# Joanneum Research Forschungsgesellschaft mbH
+#
+143.224.0.0/16

@@ -1,0 +1,14 @@
+{
+  "asn": 51148,
+  "metadata": {
+    "handle": "CLX",
+    "description": "CELLNEX POLAND Sp. z o.o.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

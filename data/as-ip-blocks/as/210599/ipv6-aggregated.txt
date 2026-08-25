@@ -1,0 +1,4 @@
+# AS210599 (UBIQUITI-LV)
+# Ubiquiti (Latvia) SIA
+#
+2a14:f280::/32

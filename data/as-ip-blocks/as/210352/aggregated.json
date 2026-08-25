@@ -1,0 +1,16 @@
+{
+  "asn": 210352,
+  "metadata": {
+    "handle": "YIJIAXU",
+    "description": "Yijia Xu",
+    "countryCode": "CN",
+    "country": "China",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "content_network"
+  },
+  "prefixes": {
+    "ipv4": [ "193.233.49.0/24" ],
+    "ipv6": [ "2406:840:9178::/48", "2602:f92a:a47d::/48", "2a0f:1cc5:f01::/48", "2a0f:1cc5:f02::/47", "2a0f:1cc5:f04::/46", "2a0f:1cc5:f08::/47", "2a0f:1cc5:fff::/48" ]
+  }
+}

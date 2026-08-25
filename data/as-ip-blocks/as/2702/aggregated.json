@@ -1,0 +1,16 @@
+{
+  "asn": 2702,
+  "metadata": {
+    "handle": "INTERSERVE",
+    "description": "Novx Systems Inc",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "access_provider"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ ]
+  }
+}

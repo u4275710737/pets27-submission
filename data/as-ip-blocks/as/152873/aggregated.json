@@ -1,0 +1,16 @@
+{
+  "asn": 152873,
+  "metadata": {
+    "handle": "NEODY-NET",
+    "description": "Neodyland",
+    "countryCode": "JP",
+    "country": "Japan",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "43.229.16.0/23" ],
+    "ipv6": [ "2402:2f60::/32" ]
+  }
+}

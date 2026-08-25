@@ -1,0 +1,14 @@
+{
+  "asn": 25831,
+  "metadata": {
+    "handle": "PREFIX-NETWORK",
+    "description": "Prefix Network LLC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

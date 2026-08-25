@@ -1,0 +1,5 @@
+# AS205018 (IRSYAD-AS-ID)
+# Irsyad Khoirul Anwar
+#
+2a14:7583:8055::/48
+2a14:7583:8dea::/48

@@ -1,0 +1,16 @@
+{
+  "asn": 209583,
+  "metadata": {
+    "handle": "ARMADA",
+    "description": "Fabio Mascio",
+    "countryCode": "IT",
+    "country": "Italy",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "5.134.121.0/24", "5.134.123.0/24" ],
+    "ipv6": [ ]
+  }
+}

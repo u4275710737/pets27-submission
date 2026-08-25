@@ -1,0 +1,14 @@
+{
+  "asn": 14159,
+  "metadata": {
+    "handle": "LAKEFIELD",
+    "description": "NetNet",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

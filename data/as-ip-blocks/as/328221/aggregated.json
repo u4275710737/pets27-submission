@@ -1,0 +1,16 @@
+{
+  "asn": 328221,
+  "metadata": {
+    "handle": "CORALPAY",
+    "description": "Coralpay Tech. Nig Ltd",
+    "countryCode": "NG",
+    "country": "Nigeria",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "204.8.207.0/24" ],
+    "ipv6": [ ]
+  }
+}

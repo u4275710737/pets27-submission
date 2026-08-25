@@ -1,0 +1,14 @@
+{
+  "asn": 16100,
+  "metadata": {
+    "handle": "BNS",
+    "description": "Blocul National Sindical BNS",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

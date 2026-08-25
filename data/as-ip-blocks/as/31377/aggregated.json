@@ -1,0 +1,14 @@
+{
+  "asn": 31377,
+  "metadata": {
+    "handle": "AKAMAI-BOS",
+    "description": "Akamai International B.V.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

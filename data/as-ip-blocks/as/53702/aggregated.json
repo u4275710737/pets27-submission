@@ -1,0 +1,14 @@
+{
+  "asn": 53702,
+  "metadata": {
+    "handle": "GROUPON-CHI",
+    "description": "Groupon, Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

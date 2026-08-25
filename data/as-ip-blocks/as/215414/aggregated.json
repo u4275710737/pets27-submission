@@ -1,0 +1,14 @@
+{
+  "asn": 215414,
+  "metadata": {
+    "handle": "PUBLIC-RETAIL",
+    "description": "Public Retail S.A.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

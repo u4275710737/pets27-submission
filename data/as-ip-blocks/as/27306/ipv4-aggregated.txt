@@ -1,0 +1,4 @@
+# AS27306 (MTASCUTNEYHOSPITALANDHEALTHCENTER)
+# Dartmouth Hitchcock Medical Center
+#
+8.37.164.0/24

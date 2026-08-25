@@ -1,0 +1,4 @@
+# AS197863 (PL-RZESZOW)
+# Port Lotniczy Rzeszow - Jasionka im. Rodziny Ulmow sp. z o.o.
+#
+46.174.239.0/24

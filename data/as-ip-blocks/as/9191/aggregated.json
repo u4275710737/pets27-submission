@@ -1,0 +1,14 @@
+{
+  "asn": 9191,
+  "metadata": {
+    "handle": "NEWNET",
+    "description": "Digital Space Group Limited",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

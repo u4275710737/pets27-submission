@@ -1,0 +1,14 @@
+{
+  "asn": 395606,
+  "metadata": {
+    "handle": "MOZILLA-SFO1",
+    "description": "Mozilla Corporation",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

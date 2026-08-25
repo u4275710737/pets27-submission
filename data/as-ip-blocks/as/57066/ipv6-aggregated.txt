@@ -1,0 +1,4 @@
+# AS57066 (YLE)
+# Yleisradio Oy
+#
+2001:67c:2e30::/48

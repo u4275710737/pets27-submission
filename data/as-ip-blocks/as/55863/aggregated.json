@@ -1,0 +1,14 @@
+{
+  "asn": 55863,
+  "metadata": {
+    "handle": "ICONNECT-NET-AP",
+    "description": "Choice Phone LLC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

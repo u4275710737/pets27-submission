@@ -1,0 +1,14 @@
+{
+  "asn": 28991,
+  "metadata": {
+    "handle": "ZABCOMNET",
+    "description": "OAO Russian Railway",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

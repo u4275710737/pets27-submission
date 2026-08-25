@@ -1,0 +1,4 @@
+# AS49401 (BINKNET)
+# Bink Group Ltd
+#
+194.60.196.0/23

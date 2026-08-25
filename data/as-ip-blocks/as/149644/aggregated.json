@@ -1,0 +1,14 @@
+{
+  "asn": 149644,
+  "metadata": {
+    "handle": "ZSNET-AS-AP",
+    "description": "Z S NET",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

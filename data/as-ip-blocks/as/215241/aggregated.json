@@ -1,0 +1,14 @@
+{
+  "asn": 215241,
+  "metadata": {
+    "handle": "WARD-ONE",
+    "description": "John Ward",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

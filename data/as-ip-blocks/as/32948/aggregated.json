@@ -1,0 +1,14 @@
+{
+  "asn": 32948,
+  "metadata": {
+    "handle": "LLS-HO",
+    "description": "LEUKEMIA & LYMPHOMA SOCIETY",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

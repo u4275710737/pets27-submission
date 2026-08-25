@@ -1,0 +1,14 @@
+{
+  "asn": 401394,
+  "metadata": {
+    "handle": "TRAFFICTECHINC-MTL",
+    "description": "Traffic Tech",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

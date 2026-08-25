@@ -1,0 +1,16 @@
+{
+  "asn": 152157,
+  "metadata": {
+    "handle": "IRINN-ETECH-AS-IN",
+    "description": "EFFECTIVE TELE SERVICES PRIVATE LIMITED",
+    "countryCode": "IN",
+    "country": "India",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "162.4.42.0/24" ],
+    "ipv6": [ ]
+  }
+}

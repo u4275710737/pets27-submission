@@ -1,0 +1,16 @@
+{
+  "asn": 329696,
+  "metadata": {
+    "handle": "PRIMESOFT-SOLUTIONS-K-LIMITED",
+    "description": "PRIMESOFT SOLUTIONS (K) LIMITED",
+    "countryCode": "KE",
+    "country": "Kenya",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "102.203.126.0/23" ],
+    "ipv6": [ ]
+  }
+}

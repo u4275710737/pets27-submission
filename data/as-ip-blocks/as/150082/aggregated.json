@@ -1,0 +1,14 @@
+{
+  "asn": 150082,
+  "metadata": {
+    "handle": "GARGASSO-IN",
+    "description": "Garg Associate",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

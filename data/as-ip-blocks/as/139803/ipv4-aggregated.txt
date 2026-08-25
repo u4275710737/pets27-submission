@@ -1,0 +1,4 @@
+# AS139803 (INLWW-AS-AP)
+# iOVZ Networks Limited
+#
+85.149.192.0/20

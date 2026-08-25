@@ -1,0 +1,16 @@
+{
+  "asn": 208686,
+  "metadata": {
+    "handle": "NORDIC-SERVERS",
+    "description": "Nordic Servers AS",
+    "countryCode": "NO",
+    "country": "Norway",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "151.240.121.0/24", "185.244.0.0/24" ],
+    "ipv6": [ ]
+  }
+}

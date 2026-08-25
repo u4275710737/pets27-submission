@@ -1,0 +1,14 @@
+{
+  "asn": 19012,
+  "metadata": {
+    "handle": "ENDSIGHT-CL-1",
+    "description": "Endsight",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

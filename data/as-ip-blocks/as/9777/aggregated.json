@@ -1,0 +1,16 @@
+{
+  "asn": 9777,
+  "metadata": {
+    "handle": "NPIX-AS",
+    "description": "NPIX Powered by IBR",
+    "countryCode": "KR",
+    "country": "South Korea",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "211.223.208.0/20", "220.66.171.0/24", "220.66.172.0/22", "220.66.176.0/22", "220.66.180.0/24", "220.149.68.0/22" ],
+    "ipv6": [ ]
+  }
+}

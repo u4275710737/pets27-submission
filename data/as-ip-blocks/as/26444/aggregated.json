@@ -1,0 +1,14 @@
+{
+  "asn": 26444,
+  "metadata": {
+    "handle": "PAYPAL",
+    "description": "PayPal, Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

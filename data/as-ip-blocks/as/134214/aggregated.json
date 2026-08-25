@@ -1,0 +1,14 @@
+{
+  "asn": 134214,
+  "metadata": {
+    "handle": "ASAP-AP",
+    "description": "AVALOQ SOURCING ASIA PACIFIC (SINGAPORE) PTE. LTD.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

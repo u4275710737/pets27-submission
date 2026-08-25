@@ -1,0 +1,14 @@
+{
+  "asn": 396228,
+  "metadata": {
+    "handle": "ZIPCAR-1",
+    "description": "Zipcar, Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

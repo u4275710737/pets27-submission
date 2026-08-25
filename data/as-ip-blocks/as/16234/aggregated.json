@@ -1,0 +1,14 @@
+{
+  "asn": 16234,
+  "metadata": {
+    "handle": "STAYON",
+    "description": "Tafjord Connect AS",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

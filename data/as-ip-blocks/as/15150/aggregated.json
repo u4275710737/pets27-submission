@@ -1,0 +1,14 @@
+{
+  "asn": 15150,
+  "metadata": {
+    "handle": "BELLTECH",
+    "description": "BELLWETHER TECHNOLOGY CORPORATION",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

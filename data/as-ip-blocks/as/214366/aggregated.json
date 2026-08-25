@@ -1,0 +1,16 @@
+{
+  "asn": 214366,
+  "metadata": {
+    "handle": "PRIVACYFIRST",
+    "description": "Moustafa Mohamed Mohamed Ahmed Elghoubashi",
+    "countryCode": "AE",
+    "country": "United Arab Emirates",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "157.173.24.0/24", "194.147.140.0/24" ],
+    "ipv6": [ "2a07:cec0:4100::/48" ]
+  }
+}

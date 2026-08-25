@@ -1,0 +1,14 @@
+{
+  "asn": 51454,
+  "metadata": {
+    "handle": "CRIF-AS",
+    "description": "CRIF GmbH",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

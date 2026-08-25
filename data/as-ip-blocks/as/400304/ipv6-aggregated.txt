@@ -1,0 +1,6 @@
+# AS400304 (CRUNCHBITS)
+# Redoubt Networks
+#
+2606:a8c0::/39
+2606:a8c0:1700::/40
+2606:a8c0:8000::/47

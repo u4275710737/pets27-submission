@@ -1,0 +1,14 @@
+{
+  "asn": 132160,
+  "metadata": {
+    "handle": "SPEEDCASTAUSTRALIA-AP",
+    "description": "SPEEDCAST AUSTRALIA PTY LIMITED",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

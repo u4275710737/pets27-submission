@@ -1,0 +1,4 @@
+# AS14424 (ANDERINGERSTA)
+# A.N. Deringer Inc.
+#
+204.153.96.0/22

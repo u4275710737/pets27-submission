@@ -1,0 +1,14 @@
+{
+  "asn": 397763,
+  "metadata": {
+    "handle": "SPACEX-STARLINK",
+    "description": "SpaceX Services, Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

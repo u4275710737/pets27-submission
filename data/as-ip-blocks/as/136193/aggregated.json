@@ -1,0 +1,14 @@
+{
+  "asn": 136193,
+  "metadata": {
+    "handle": "CHINATELECOM-HUBEI-JINGZHOU-IDC",
+    "description": "Jingzhou, Hubei Province, P.R.China.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

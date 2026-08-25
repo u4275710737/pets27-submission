@@ -1,0 +1,5 @@
+# AS264000 (FIBRAON-FABRICIO-PILONI)
+# FibraON - Fabricio Piloni Bertolo - ME
+#
+143.0.124.0/22
+177.72.146.0/23

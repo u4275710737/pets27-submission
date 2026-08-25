@@ -1,0 +1,14 @@
+{
+  "asn": 22291,
+  "metadata": {
+    "handle": "CHARTER-22291-DC",
+    "description": "Charter Communications LLC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

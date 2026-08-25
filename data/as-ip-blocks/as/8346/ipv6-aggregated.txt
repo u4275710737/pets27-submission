@@ -1,0 +1,5 @@
+# AS8346 (SONATEL)
+# SONATEL-AS Autonomous System
+#
+2001:4278::/32
+2a01:c9c0:c016::/48

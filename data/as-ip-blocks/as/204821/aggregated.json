@@ -1,0 +1,16 @@
+{
+  "asn": 204821,
+  "metadata": {
+    "handle": "SINOFIBRE",
+    "description": "Sinofibre Limited",
+    "countryCode": "GB",
+    "country": "United Kingdom",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "82.38.121.0/24" ],
+    "ipv6": [ ]
+  }
+}

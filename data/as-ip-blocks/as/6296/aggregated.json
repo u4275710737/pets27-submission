@@ -1,0 +1,14 @@
+{
+  "asn": 6296,
+  "metadata": {
+    "handle": "MIND",
+    "description": "InfoStructure",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

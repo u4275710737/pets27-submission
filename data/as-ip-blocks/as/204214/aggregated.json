@@ -1,0 +1,14 @@
+{
+  "asn": 204214,
+  "metadata": {
+    "handle": "CN-CZR",
+    "description": "CHEN ZAO RONG",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

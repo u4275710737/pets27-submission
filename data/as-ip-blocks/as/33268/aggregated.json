@@ -1,0 +1,14 @@
+{
+  "asn": 33268,
+  "metadata": {
+    "handle": "TRUST",
+    "description": "TRUST, LLC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

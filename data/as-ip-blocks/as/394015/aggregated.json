@@ -1,0 +1,16 @@
+{
+  "asn": 394015,
+  "metadata": {
+    "handle": "MIKMAW-KINAMATNEWEY",
+    "description": "Mikmaw Kinamatnewey",
+    "countryCode": "CA",
+    "country": "Canada",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "172.93.124.0/22" ],
+    "ipv6": [ "2620:131:4000::/40" ]
+  }
+}

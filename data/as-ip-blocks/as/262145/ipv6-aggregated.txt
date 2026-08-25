@@ -1,0 +1,4 @@
+# AS262145 (COOPERATIVA-ELECTRIFICACION-RURAL)
+# Cooperativa de Electrificación Rural de San Carlos R.L. (Coopelesca R.L.)
+#
+2803:5840::/32

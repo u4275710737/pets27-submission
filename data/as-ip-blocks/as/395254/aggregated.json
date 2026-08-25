@@ -1,0 +1,14 @@
+{
+  "asn": 395254,
+  "metadata": {
+    "handle": "SSFWIME",
+    "description": "Solutions Sans Fil WiMe Inc",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 22419,
+  "metadata": {
+    "handle": "ACNINC-01",
+    "description": "ACN, INC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

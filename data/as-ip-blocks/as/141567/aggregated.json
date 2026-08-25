@@ -1,0 +1,14 @@
+{
+  "asn": 141567,
+  "metadata": {
+    "handle": "INTERSP-AS-IN",
+    "description": "Interspire Addon",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

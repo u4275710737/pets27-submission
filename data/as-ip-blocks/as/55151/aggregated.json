@@ -1,0 +1,14 @@
+{
+  "asn": 55151,
+  "metadata": {
+    "handle": "MEHEALTH-NORTH",
+    "description": "Pen Bay Healthcare",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 44538,
+  "metadata": {
+    "handle": "ALGATA",
+    "description": "PE Danishevsky Ivan Olegovich",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "asn": 211692,
+  "metadata": {
+    "handle": "LVLDN-AS",
+    "description": "Level-Donetsk Ltd.",
+    "countryCode": "RU",
+    "country": "Russia",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "access_provider"
+  },
+  "prefixes": {
+    "ipv4": [ "176.124.19.0/24" ],
+    "ipv6": [ ]
+  }
+}

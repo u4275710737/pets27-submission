@@ -1,0 +1,14 @@
+{
+  "asn": 399136,
+  "metadata": {
+    "handle": "QL",
+    "description": "QUADIX LLC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

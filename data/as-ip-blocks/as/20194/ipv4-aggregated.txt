@@ -1,0 +1,4 @@
+# AS20194 (BEARTECH)
+# Bear Technologies Corporation
+#
+204.11.40.0/21

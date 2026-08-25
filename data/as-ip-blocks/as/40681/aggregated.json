@@ -1,0 +1,14 @@
+{
+  "asn": 40681,
+  "metadata": {
+    "handle": "PHS-MT",
+    "description": "Providence Health & Services",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

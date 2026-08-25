@@ -1,0 +1,16 @@
+{
+  "asn": 971,
+  "metadata": {
+    "handle": "PUREVOLTAGE",
+    "description": "PureVoltage Hosting Inc.",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "midsize_transit"
+  },
+  "prefixes": {
+    "ipv4": [ "192.34.101.0/24" ],
+    "ipv6": [ "2604:fbc0:1000::/36" ]
+  }
+}

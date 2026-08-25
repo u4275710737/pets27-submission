@@ -1,0 +1,14 @@
+{
+  "asn": 150588,
+  "metadata": {
+    "handle": "SSHAKTI-IN",
+    "description": "SHIVSHAKTI WIFI PVT LTD",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

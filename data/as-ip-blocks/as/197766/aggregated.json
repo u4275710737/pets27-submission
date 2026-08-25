@@ -1,0 +1,14 @@
+{
+  "asn": 197766,
+  "metadata": {
+    "handle": "SL-NET",
+    "description": "SL-NET sp. z o.o.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

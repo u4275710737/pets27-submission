@@ -1,0 +1,4 @@
+# AS34514 (FUTURECOM)
+# INGO Zurich AG
+#
+194.116.196.0/23

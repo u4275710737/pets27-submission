@@ -1,0 +1,14 @@
+{
+  "asn": 215112,
+  "metadata": {
+    "handle": "THINZNET",
+    "description": "Thinz Ltd",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

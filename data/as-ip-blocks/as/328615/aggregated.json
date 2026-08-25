@@ -1,0 +1,14 @@
+{
+  "asn": 328615,
+  "metadata": {
+    "handle": "LITC2",
+    "description": "LIBYAN INTERNATIONAL TELECOMMUNICATION COMPANY",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

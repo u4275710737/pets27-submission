@@ -1,0 +1,14 @@
+{
+  "asn": 149463,
+  "metadata": {
+    "handle": "CHINANET-GANSU-JINCHANG-5G-MAN-NETWORK",
+    "description": "China Telecom",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

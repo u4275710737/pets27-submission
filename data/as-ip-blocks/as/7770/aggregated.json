@@ -1,0 +1,14 @@
+{
+  "asn": 7770,
+  "metadata": {
+    "handle": "TRITON",
+    "description": "Triton Technologies, Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

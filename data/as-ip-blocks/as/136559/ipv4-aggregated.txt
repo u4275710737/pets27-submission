@@ -1,0 +1,4 @@
+# AS136559 (TYPCN)
+# Omega Networks
+#
+103.169.36.0/23

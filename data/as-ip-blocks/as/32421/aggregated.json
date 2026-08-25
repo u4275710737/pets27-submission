@@ -1,0 +1,14 @@
+{
+  "asn": 32421,
+  "metadata": {
+    "handle": "BLCC",
+    "description": "Level 3 Parent, LLC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

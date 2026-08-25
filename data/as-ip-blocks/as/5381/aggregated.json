@@ -1,0 +1,14 @@
+{
+  "asn": 5381,
+  "metadata": {
+    "handle": "POWTECH",
+    "description": "GLOBALCONNECT AS",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

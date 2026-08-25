@@ -1,0 +1,14 @@
+{
+  "asn": 200776,
+  "metadata": {
+    "handle": "FJ-EURONET-CE",
+    "description": "Manage Now GmbH",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 49807,
+  "metadata": {
+    "handle": "LANDMARK-PLC",
+    "description": "Landmark Space Limited",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

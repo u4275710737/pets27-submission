@@ -1,0 +1,5 @@
+# AS44854 (ERITAP-AS)
+# Arend Brouwer
+#
+2001:67c:ff4::/48
+2a10:e300:20::/44

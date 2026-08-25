@@ -1,0 +1,14 @@
+{
+  "asn": 3365,
+  "metadata": {
+    "handle": "SEESIP-1",
+    "description": "Seesip Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

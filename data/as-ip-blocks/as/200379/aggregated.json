@@ -1,0 +1,14 @@
+{
+  "asn": 200379,
+  "metadata": {
+    "handle": "ZUORA-EMEA",
+    "description": "Zuora Inc",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 273857,
+  "metadata": {
+    "handle": "RED-DORADA-CA",
+    "description": "RED DORADA C.A",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

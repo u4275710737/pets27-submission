@@ -1,0 +1,5 @@
+# AS61019 (MEDIABAY-ASIA-AS)
+# Mediabay Asia LLC
+#
+46.8.35.0/24
+46.8.235.0/24

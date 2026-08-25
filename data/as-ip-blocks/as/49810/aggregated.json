@@ -1,0 +1,14 @@
+{
+  "asn": 49810,
+  "metadata": {
+    "handle": "IP-IT-LAB",
+    "description": "ip-it consult GmbH",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

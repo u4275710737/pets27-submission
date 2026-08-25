@@ -1,0 +1,14 @@
+{
+  "asn": 28540,
+  "metadata": {
+    "handle": "NETWORK-INFORMATION-CENTER",
+    "description": "Network Information Center Mxico",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

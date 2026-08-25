@@ -1,0 +1,14 @@
+{
+  "asn": 393834,
+  "metadata": {
+    "handle": "CLYDE-COMPANIES",
+    "description": "Clyde Companies, INC.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

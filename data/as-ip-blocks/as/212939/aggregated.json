@@ -1,0 +1,16 @@
+{
+  "asn": 212939,
+  "metadata": {
+    "handle": "LAMERDICT",
+    "description": "Lamerd Information & Communication Technology Co. ltd",
+    "countryCode": "IR",
+    "country": "Iran",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "185.66.228.0/23", "185.66.231.0/24" ],
+    "ipv6": [ ]
+  }
+}

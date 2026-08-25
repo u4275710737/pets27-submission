@@ -1,0 +1,14 @@
+{
+  "asn": 203269,
+  "metadata": {
+    "handle": "MNAGEL-NETWORK",
+    "description": "Malte Nagel",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

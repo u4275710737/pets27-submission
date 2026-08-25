@@ -1,0 +1,5 @@
+# AS199978 (NETCOM)
+# Robert Jerzy Opielinski trading as NETCOM COMPUTERS
+#
+91.231.72.0/22
+185.155.40.0/22

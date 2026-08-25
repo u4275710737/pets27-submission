@@ -1,0 +1,16 @@
+{
+  "asn": 63849,
+  "metadata": {
+    "handle": "MANETCOM-AP",
+    "description": "Yaren Lam",
+    "countryCode": "HK",
+    "country": "Hong Kong SAR China",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "43.251.32.0/23" ],
+    "ipv6": [ ]
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 57417,
+  "metadata": {
+    "handle": "WHOOZ",
+    "description": "Whooz Entertainment Ltd",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

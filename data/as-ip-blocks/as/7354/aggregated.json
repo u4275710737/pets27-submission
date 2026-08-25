@@ -1,0 +1,14 @@
+{
+  "asn": 7354,
+  "metadata": {
+    "handle": "DEDIOUTLET-NETWORK-PHX",
+    "description": "DediOutlet LLC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,4 @@
+# AS214588 (ICSTEKNOLOJI)
+# ICS Bilisim Teknolojileri Danismanlik Hizmetleri A.S.
+#
+2a14:7340::/29

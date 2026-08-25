@@ -1,0 +1,14 @@
+{
+  "asn": 57841,
+  "metadata": {
+    "handle": "KATI-AS",
+    "description": "Telenet SIA",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

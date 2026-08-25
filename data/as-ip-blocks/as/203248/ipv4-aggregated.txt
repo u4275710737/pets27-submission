@@ -1,0 +1,6 @@
+# AS203248 (BURTINET)
+# BNET BULUT Bilisim Hizmetleri Tic. Ltd. Sti.
+#
+146.19.208.0/24
+167.160.4.0/24
+185.165.46.0/24

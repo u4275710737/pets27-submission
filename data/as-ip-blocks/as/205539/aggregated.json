@@ -1,0 +1,14 @@
+{
+  "asn": 205539,
+  "metadata": {
+    "handle": "AS-UZC",
+    "description": "URZICA CRISTIAN",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

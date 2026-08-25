@@ -1,0 +1,16 @@
+{
+  "asn": 197530,
+  "metadata": {
+    "handle": "VTELECOM",
+    "description": "VIRTUAL TELECOM SP. Z O.O.",
+    "countryCode": "PL",
+    "country": "Poland",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ ]
+  }
+}

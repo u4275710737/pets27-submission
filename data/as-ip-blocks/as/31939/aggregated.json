@@ -1,0 +1,14 @@
+{
+  "asn": 31939,
+  "metadata": {
+    "handle": "GIGSTREEM-GIGAMONSTER",
+    "description": "GiGstreem",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

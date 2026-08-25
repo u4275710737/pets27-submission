@@ -1,0 +1,14 @@
+{
+  "asn": 205048,
+  "metadata": {
+    "handle": "AHREMENKO",
+    "description": "PE Akhremenko Sergiy Victorovich",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "asn": 214953,
+  "metadata": {
+    "handle": "MRICKL",
+    "description": "Marcel Rickl",
+    "countryCode": "DE",
+    "country": "Germany",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ "2a0c:9a46:1900::/43", "2a0c:9a46:1920::/44" ]
+  }
+}

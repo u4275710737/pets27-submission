@@ -1,0 +1,14 @@
+{
+  "asn": 204950,
+  "metadata": {
+    "handle": "BEYONDIX",
+    "description": "BEYONDIX EOOD",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

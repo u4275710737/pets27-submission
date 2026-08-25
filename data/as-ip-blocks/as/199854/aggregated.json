@@ -1,0 +1,16 @@
+{
+  "asn": 199854,
+  "metadata": {
+    "handle": "ITBYPASSION",
+    "description": "Jens Thies",
+    "countryCode": "DE",
+    "country": "Germany",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ "2a0c:b641:b30::/44" ]
+  }
+}

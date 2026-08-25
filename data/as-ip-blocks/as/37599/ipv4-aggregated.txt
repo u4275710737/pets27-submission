@@ -1,0 +1,5 @@
+# AS37599 (TERACO-AS37599)
+# Teraco Data Environments
+#
+102.220.102.0/23
+196.10.98.0/23

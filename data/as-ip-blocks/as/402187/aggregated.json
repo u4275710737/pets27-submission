@@ -1,0 +1,16 @@
+{
+  "asn": 402187,
+  "metadata": {
+    "handle": "AANSYS-NET",
+    "description": "AANSys Network LLC",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "2.27.164.0/24", "46.17.13.0/24", "95.134.154.0/24", "191.96.105.0/24" ],
+    "ipv6": [ ]
+  }
+}

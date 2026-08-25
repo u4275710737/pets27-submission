@@ -1,0 +1,4 @@
+# AS4697 (NTTV6NET)
+# Nippon Telegraph and Telephone Corporation
+#
+2001:fa8::/32

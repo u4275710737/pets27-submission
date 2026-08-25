@@ -1,0 +1,14 @@
+{
+  "asn": 51138,
+  "metadata": {
+    "handle": "ESTEITINVEST",
+    "description": "JSC ESTEIT INVEST",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

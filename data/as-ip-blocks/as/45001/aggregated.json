@@ -1,0 +1,16 @@
+{
+  "asn": 45001,
+  "metadata": {
+    "handle": "MBANK-AS",
+    "description": "Mbank OJSC",
+    "countryCode": "KG",
+    "country": "Kyrgyzstan",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "93.171.235.0/24", "95.46.154.0/24" ],
+    "ipv6": [ ]
+  }
+}

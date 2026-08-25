@@ -1,0 +1,16 @@
+{
+  "asn": 213846,
+  "metadata": {
+    "handle": "NALMI-AS",
+    "description": "NALMI LIMITED",
+    "countryCode": "MH",
+    "country": "Marshall Islands",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "185.207.196.0/22" ],
+    "ipv6": [ ]
+  }
+}

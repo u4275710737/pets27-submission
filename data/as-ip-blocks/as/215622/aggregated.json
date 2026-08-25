@@ -1,0 +1,14 @@
+{
+  "asn": 215622,
+  "metadata": {
+    "handle": "MECRA-BILISIM",
+    "description": "FATIH SANLI",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

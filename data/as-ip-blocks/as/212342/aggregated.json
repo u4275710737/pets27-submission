@@ -1,0 +1,14 @@
+{
+  "asn": 212342,
+  "metadata": {
+    "handle": "CRYPTID",
+    "description": "Kitteh Cupit",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

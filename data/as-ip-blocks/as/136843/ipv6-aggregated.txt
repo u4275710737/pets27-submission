@@ -1,0 +1,4 @@
+# AS136843 (IDNIC-DISKOMINFOSMG-AS-ID)
+# Dinas Komunikasi dan Informatika Pemerintah Kota Semarang
+#
+2001:df2:9100::/48

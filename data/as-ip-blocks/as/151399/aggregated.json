@@ -1,0 +1,14 @@
+{
+  "asn": 151399,
+  "metadata": {
+    "handle": "HERZA-AP",
+    "description": "Herza Cloud",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 17081,
+  "metadata": {
+    "handle": "NKTR-AS02",
+    "description": "Nektar Therapeutics",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

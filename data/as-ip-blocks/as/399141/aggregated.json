@@ -1,0 +1,14 @@
+{
+  "asn": 399141,
+  "metadata": {
+    "handle": "TLG-AS",
+    "description": "THE LYNX GROUP LLC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

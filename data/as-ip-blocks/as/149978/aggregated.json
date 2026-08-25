@@ -1,0 +1,16 @@
+{
+  "asn": 149978,
+  "metadata": {
+    "handle": "SPNHOST-AS-AP",
+    "description": "SPNHOST",
+    "countryCode": "BD",
+    "country": "Bangladesh",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "72.244.168.0/22", "169.40.52.0/22", "169.40.60.0/22" ],
+    "ipv6": [ ]
+  }
+}

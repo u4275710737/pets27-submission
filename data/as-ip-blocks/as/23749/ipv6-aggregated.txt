@@ -1,0 +1,4 @@
+# AS23749 (GLOBAL-TRANSIT-AS-HKCOLO-AP)
+# hkcolo limited
+#
+2401:3c60::/32

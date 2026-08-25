@@ -1,0 +1,14 @@
+{
+  "asn": 47773,
+  "metadata": {
+    "handle": "BINET",
+    "description": "Binet Telekomunikasyon LTD. STI.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

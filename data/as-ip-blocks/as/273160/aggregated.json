@@ -1,0 +1,16 @@
+{
+  "asn": 273160,
+  "metadata": {
+    "handle": "CABLE-NACIONAL",
+    "description": "CABLE NACIONAL S.A.",
+    "countryCode": "HN",
+    "country": "Honduras",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "168.228.44.0/24" ],
+    "ipv6": [ ]
+  }
+}

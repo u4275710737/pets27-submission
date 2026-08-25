@@ -1,0 +1,14 @@
+{
+  "asn": 53997,
+  "metadata": {
+    "handle": "DNC-HOLDINGS-INC",
+    "description": "DNC Holdings, Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

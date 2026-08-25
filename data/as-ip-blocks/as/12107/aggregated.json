@@ -1,0 +1,14 @@
+{
+  "asn": 12107,
+  "metadata": {
+    "handle": "DEALER-COM",
+    "description": "Dealer Dot Com Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

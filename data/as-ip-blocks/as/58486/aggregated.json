@@ -1,0 +1,14 @@
+{
+  "asn": 58486,
+  "metadata": {
+    "handle": "ITECHNET-ID",
+    "description": "PT. Intelex Technet Global",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

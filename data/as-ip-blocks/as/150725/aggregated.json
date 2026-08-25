@@ -1,0 +1,14 @@
+{
+  "asn": 150725,
+  "metadata": {
+    "handle": "KHANBROADBAND-AP",
+    "description": "khanbroadband",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

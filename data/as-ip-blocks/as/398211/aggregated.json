@@ -1,0 +1,14 @@
+{
+  "asn": 398211,
+  "metadata": {
+    "handle": "AMPD",
+    "description": "AMPD Holdings Corp.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

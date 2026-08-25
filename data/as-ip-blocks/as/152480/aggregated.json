@@ -1,0 +1,16 @@
+{
+  "asn": 152480,
+  "metadata": {
+    "handle": "NIL-AS-AP",
+    "description": "NETVISION INFOCOMM LTD",
+    "countryCode": "BT",
+    "country": "Bhutan",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "163.128.114.0/24" ],
+    "ipv6": [ "2001:df6:d9c0::/48" ]
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 47197,
+  "metadata": {
+    "handle": "IPSOFT",
+    "description": "IPsoft Nederland BV",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

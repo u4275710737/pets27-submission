@@ -1,0 +1,14 @@
+{
+  "asn": 132979,
+  "metadata": {
+    "handle": "FIVENET",
+    "description": "Five Net Service Provider Pvt. Ltd.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

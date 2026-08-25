@@ -1,0 +1,14 @@
+{
+  "asn": 139504,
+  "metadata": {
+    "handle": "MINETCOM",
+    "description": "Minet Communication",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

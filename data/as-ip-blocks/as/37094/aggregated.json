@@ -1,0 +1,16 @@
+{
+  "asn": 37094,
+  "metadata": {
+    "handle": "CELLCOMLB",
+    "description": "Cellcom Telecommunications Inc",
+    "countryCode": "LR",
+    "country": "Liberia",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "access_provider"
+  },
+  "prefixes": {
+    "ipv4": [ "41.191.104.0/22", "102.210.76.0/24", "102.214.136.0/22" ],
+    "ipv6": [ ]
+  }
+}

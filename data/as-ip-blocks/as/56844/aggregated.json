@@ -1,0 +1,14 @@
+{
+  "asn": 56844,
+  "metadata": {
+    "handle": "S2EENERGIE",
+    "description": "CELESTE SAS",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

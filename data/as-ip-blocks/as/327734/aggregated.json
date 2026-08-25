@@ -1,0 +1,16 @@
+{
+  "asn": 327734,
+  "metadata": {
+    "handle": "ECONET",
+    "description": "Econet Wireless Burundi",
+    "countryCode": "BI",
+    "country": "Burundi",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "196.13.223.0/24" ],
+    "ipv6": [ ]
+  }
+}

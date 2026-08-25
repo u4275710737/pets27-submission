@@ -1,0 +1,16 @@
+{
+  "asn": 210622,
+  "metadata": {
+    "handle": "KICKED-SRL",
+    "description": "Kicked SRL",
+    "countryCode": "RO",
+    "country": "Romania",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ ]
+  }
+}

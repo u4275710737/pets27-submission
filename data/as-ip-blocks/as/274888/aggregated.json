@@ -1,0 +1,16 @@
+{
+  "asn": 274888,
+  "metadata": {
+    "handle": "RASER-TELECOMUNICACIONES",
+    "description": "RASER TELECOMUNICACIONES SAS",
+    "countryCode": "CO",
+    "country": "Colombia",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "38.190.120.0/23", "38.190.123.0/24" ],
+    "ipv6": [ "2803:e630::/35" ]
+  }
+}

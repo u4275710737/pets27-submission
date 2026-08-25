@@ -1,0 +1,16 @@
+{
+  "asn": 198402,
+  "metadata": {
+    "handle": "FLOWHARDWARE",
+    "description": "Valentin Flueckiger trading as FlowHardware",
+    "countryCode": "CH",
+    "country": "Switzerland",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "141.11.178.0/24" ],
+    "ipv6": [ "2a13:9500:16a::/48" ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "asn": 329707,
+  "metadata": {
+    "handle": "NAIVATEL-NETWORKS-LIMITED",
+    "description": "Naivatel Networks Limited",
+    "countryCode": "KE",
+    "country": "Kenya",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "102.202.48.0/22", "102.203.44.0/22" ],
+    "ipv6": [ ]
+  }
+}

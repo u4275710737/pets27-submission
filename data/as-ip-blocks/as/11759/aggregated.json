@@ -1,0 +1,14 @@
+{
+  "asn": 11759,
+  "metadata": {
+    "handle": "CANINE-COMPANIES",
+    "description": "The Canine Companies Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

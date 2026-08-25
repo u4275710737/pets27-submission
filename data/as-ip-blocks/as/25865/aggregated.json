@@ -1,0 +1,14 @@
+{
+  "asn": 25865,
+  "metadata": {
+    "handle": "PINNA-86",
+    "description": "Pinnacle Telecom, LLC.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

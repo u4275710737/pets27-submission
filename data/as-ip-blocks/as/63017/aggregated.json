@@ -1,0 +1,14 @@
+{
+  "asn": 63017,
+  "metadata": {
+    "handle": "SFERA-CA",
+    "description": "Register Societa per Azioni",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

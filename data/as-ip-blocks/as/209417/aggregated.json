@@ -1,0 +1,14 @@
+{
+  "asn": 209417,
+  "metadata": {
+    "handle": "TIANHAI-EU",
+    "description": "Tianhai InfoTech",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

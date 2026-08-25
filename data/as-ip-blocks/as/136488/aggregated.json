@@ -1,0 +1,14 @@
+{
+  "asn": 136488,
+  "metadata": {
+    "handle": "HCONZ-AP",
+    "description": "Health Care of New Zealand Limited",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

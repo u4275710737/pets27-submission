@@ -1,0 +1,16 @@
+{
+  "asn": 153928,
+  "metadata": {
+    "handle": "SATISFYSOFT2-AS-AP",
+    "description": "SatisfySoft",
+    "countryCode": "BD",
+    "country": "Bangladesh",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "5.182.112.0/24", "83.137.153.0/24", "151.243.188.0/24", "179.61.170.0/24" ],
+    "ipv6": [ ]
+  }
+}

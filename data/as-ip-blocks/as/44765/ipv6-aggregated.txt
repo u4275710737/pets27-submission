@@ -1,0 +1,5 @@
+# AS44765 (MAKENEWMEDIA-AS)
+# MakeNewMedia Communications GmbH
+#
+2a00:8e40::/30
+2a00:8e44::/32

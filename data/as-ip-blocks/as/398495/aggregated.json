@@ -1,0 +1,14 @@
+{
+  "asn": 398495,
+  "metadata": {
+    "handle": "CT-444-2",
+    "description": "CS Technologies",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

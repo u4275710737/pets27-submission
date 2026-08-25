@@ -1,0 +1,4 @@
+# AS199190 (CGGVERITAS-AS)
+# CGG Services SAS
+#
+95.215.236.0/23

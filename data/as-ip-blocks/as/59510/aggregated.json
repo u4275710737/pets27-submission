@@ -1,0 +1,14 @@
+{
+  "asn": 59510,
+  "metadata": {
+    "handle": "GIBIRIX-TR",
+    "description": "GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

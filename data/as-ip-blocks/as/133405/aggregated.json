@@ -1,0 +1,16 @@
+{
+  "asn": 133405,
+  "metadata": {
+    "handle": "ADK-AS-AP",
+    "description": "RETN Co. Ltd.",
+    "countryCode": "JP",
+    "country": "Japan",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "163.128.219.0/24" ],
+    "ipv6": [ "2001:df6:edc0::/48" ]
+  }
+}

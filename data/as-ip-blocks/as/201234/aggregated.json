@@ -1,0 +1,14 @@
+{
+  "asn": 201234,
+  "metadata": {
+    "handle": "SBT",
+    "description": "Spotting Brands Technologies S.L",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

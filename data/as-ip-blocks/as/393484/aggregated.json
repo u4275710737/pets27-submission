@@ -1,0 +1,14 @@
+{
+  "asn": 393484,
+  "metadata": {
+    "handle": "SHOREWAVES-HOUGHTON-01",
+    "description": "ShoreWaves Internet",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

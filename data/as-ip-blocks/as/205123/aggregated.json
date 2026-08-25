@@ -1,0 +1,14 @@
+{
+  "asn": 205123,
+  "metadata": {
+    "handle": "THEYAGIZSINA",
+    "description": "theyagizsina LLC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

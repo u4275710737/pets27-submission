@@ -1,0 +1,14 @@
+{
+  "asn": 58459,
+  "metadata": {
+    "handle": "WEBSURFER-INTERNATIONAL-TRANSIT",
+    "description": "Websurfer International Transit",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

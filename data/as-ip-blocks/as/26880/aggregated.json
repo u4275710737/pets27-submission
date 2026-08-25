@@ -1,0 +1,14 @@
+{
+  "asn": 26880,
+  "metadata": {
+    "handle": "NODELORD",
+    "description": "NodeLord, LLC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

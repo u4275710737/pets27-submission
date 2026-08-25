@@ -1,0 +1,16 @@
+{
+  "asn": 275671,
+  "metadata": {
+    "handle": "OURONET",
+    "description": "OURONET LTDA",
+    "countryCode": "BR",
+    "country": "Brazil",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "177.104.16.0/21" ],
+    "ipv6": [ "2804:9828::/32" ]
+  }
+}

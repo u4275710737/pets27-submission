@@ -1,0 +1,4 @@
+# AS152655 (DIGICELPNG-AS-AP)
+# Digicel (PNG) Ltd
+#
+14.192.75.0/24

@@ -1,0 +1,14 @@
+{
+  "asn": 42379,
+  "metadata": {
+    "handle": "MAU",
+    "description": "CJSC Aviation Company International Airline of Ukraine",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

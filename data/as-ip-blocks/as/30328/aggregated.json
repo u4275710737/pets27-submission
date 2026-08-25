@@ -1,0 +1,14 @@
+{
+  "asn": 30328,
+  "metadata": {
+    "handle": "SAIC",
+    "description": "State Auto Insurance Company",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

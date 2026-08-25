@@ -1,0 +1,14 @@
+{
+  "asn": 39877,
+  "metadata": {
+    "handle": "IRM",
+    "description": "Internet Resources Management SRL",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 214435,
+  "metadata": {
+    "handle": "MINERVA-AS",
+    "description": "PAOLO RECAGNO trading as Minerva Communications SNC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

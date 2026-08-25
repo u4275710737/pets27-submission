@@ -1,0 +1,14 @@
+{
+  "asn": 41805,
+  "metadata": {
+    "handle": "IQ-SAWADLAND-AS",
+    "description": "SAWAD LAND for Information Technology Ltd",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

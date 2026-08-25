@@ -1,0 +1,16 @@
+{
+  "asn": 135204,
+  "metadata": {
+    "handle": "KATYANI",
+    "description": "Katyani Energy Solution Private Limited",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [
+      "103.216.91.0/24"
+    ],
+    "ipv6": []
+  }
+}

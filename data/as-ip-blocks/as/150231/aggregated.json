@@ -1,0 +1,14 @@
+{
+  "asn": 150231,
+  "metadata": {
+    "handle": "IDNIC-JSNDEMAK-AS-ID",
+    "description": "PT Jaringanku Sarana Nusantara Demak",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

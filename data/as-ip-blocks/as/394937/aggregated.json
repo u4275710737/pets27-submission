@@ -1,0 +1,14 @@
+{
+  "asn": 394937,
+  "metadata": {
+    "handle": "ATC",
+    "description": "Windstream Communications LLC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

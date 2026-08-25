@@ -1,0 +1,16 @@
+{
+  "asn": 402452,
+  "metadata": {
+    "handle": "LXAER",
+    "description": "LX Aer",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "23.157.148.0/24" ],
+    "ipv6": [ "2606:1e80::/32" ]
+  }
+}

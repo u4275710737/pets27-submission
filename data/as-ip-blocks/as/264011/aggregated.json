@@ -1,0 +1,16 @@
+{
+  "asn": 264011,
+  "metadata": {
+    "handle": "TREND-CONNECT",
+    "description": "A. MORAIS DE SÁ FERREIRA",
+    "countryCode": "BR",
+    "country": "Brazil",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "143.0.136.0/22" ],
+    "ipv6": [ "2804:2960::/32" ]
+  }
+}

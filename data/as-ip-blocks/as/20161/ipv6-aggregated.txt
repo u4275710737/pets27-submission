@@ -1,0 +1,4 @@
+# AS20161 (TRGO)
+# TeraGo Networks Inc.
+#
+2600:d00::/28

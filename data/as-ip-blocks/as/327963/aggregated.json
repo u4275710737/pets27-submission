@@ -1,0 +1,16 @@
+{
+  "asn": 327963,
+  "metadata": {
+    "handle": "GEONET-COMMUNICATIONS-ASN",
+    "description": "GEONET ASN",
+    "countryCode": "KE",
+    "country": "Kenya",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "169.239.160.0/23" ],
+    "ipv6": [ "2c0f:f548::/32" ]
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 215143,
+  "metadata": {
+    "handle": "PERONDAM",
+    "description": "Roni Wahyudi",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

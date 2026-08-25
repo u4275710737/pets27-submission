@@ -1,0 +1,16 @@
+{
+  "asn": 212370,
+  "metadata": {
+    "handle": "APAS",
+    "description": "Adrian Pekunov",
+    "countryCode": "BG",
+    "country": "Bulgaria",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ "2a0f:85c1:bb0::/48" ]
+  }
+}

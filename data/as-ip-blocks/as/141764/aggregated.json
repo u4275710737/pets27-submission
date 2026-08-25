@@ -1,0 +1,14 @@
+{
+  "asn": 141764,
+  "metadata": {
+    "handle": "MCL-AS-AP",
+    "description": "Woi",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

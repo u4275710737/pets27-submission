@@ -1,0 +1,16 @@
+{
+  "asn": 52551,
+  "metadata": {
+    "handle": "SAMM-SOCIEDADE-ATIVIDADES",
+    "description": "SAMM Sociedade de Atividades em Multimidia LTDA",
+    "countryCode": "BR",
+    "country": "Brazil",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ "2804:cc4::/32" ]
+  }
+}

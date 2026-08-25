@@ -1,0 +1,14 @@
+{
+  "asn": 328936,
+  "metadata": {
+    "handle": "DGCL1",
+    "description": "DAL Group Co. Limited",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

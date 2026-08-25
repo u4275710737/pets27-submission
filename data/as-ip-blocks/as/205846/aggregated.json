@@ -1,0 +1,16 @@
+{
+  "asn": 205846,
+  "metadata": {
+    "handle": "HILLEROD-KOMMUNE",
+    "description": "Hillerod Kommune",
+    "countryCode": "DK",
+    "country": "Denmark",
+    "origin": "authoritative",
+    "category": "government_admin",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "185.204.112.0/22" ],
+    "ipv6": [ "2a0a:fdc0::/29" ]
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 395815,
+  "metadata": {
+    "handle": "SKYMESH-NET",
+    "description": "Skymesh Inc",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 140143,
+  "metadata": {
+    "handle": "VISHVA",
+    "description": "Vishva Infratel Pvt. Ltd.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,5 @@
+# AS21856 (NOKIA-APAC)
+# NOKIA Corporation
+#
+2a00:8a05::/44
+2a03:5345::/44

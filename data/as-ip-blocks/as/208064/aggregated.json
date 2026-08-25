@@ -1,0 +1,14 @@
+{
+  "asn": 208064,
+  "metadata": {
+    "handle": "NL-BLUE-WIRELESS",
+    "description": "Blue Wireless (Europe) B.V.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

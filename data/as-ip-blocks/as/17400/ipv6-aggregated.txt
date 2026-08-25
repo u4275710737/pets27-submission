@@ -1,0 +1,4 @@
+# AS17400 (MSTELCOM)
+# MSTELCOM
+#
+2c0f:fa60::/32

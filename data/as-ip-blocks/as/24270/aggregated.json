@@ -1,0 +1,16 @@
+{
+  "asn": 24270,
+  "metadata": {
+    "handle": "CTC-KCC",
+    "description": "ITOCHU Techno-Solutions Corporation",
+    "countryCode": "JP",
+    "country": "Japan",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "103.68.144.0/22", "202.83.144.0/21", "203.99.240.0/21" ],
+    "ipv6": [ "2405:2700::/32" ]
+  }
+}

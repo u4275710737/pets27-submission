@@ -1,0 +1,6 @@
+# AS55427 (BROADLINK-NP)
+# Divinetworks for BLINK
+#
+43.245.92.0/22
+103.232.228.0/22
+182.50.64.0/22

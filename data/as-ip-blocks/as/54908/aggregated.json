@@ -1,0 +1,14 @@
+{
+  "asn": 54908,
+  "metadata": {
+    "handle": "WPXENERGY",
+    "description": "Devon Energy Corporation",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

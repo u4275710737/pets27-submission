@@ -1,0 +1,16 @@
+{
+  "asn": 328285,
+  "metadata": {
+    "handle": "EDELNET",
+    "description": "EDELNET CC",
+    "countryCode": "ZA",
+    "country": "South Africa",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "102.164.64.0/20" ],
+    "ipv6": [ ]
+  }
+}

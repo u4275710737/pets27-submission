@@ -1,0 +1,16 @@
+{
+  "asn": 200283,
+  "metadata": {
+    "handle": "SENKRONET",
+    "description": "Mehmet Fatih Gultekin trading as Senkronet Bilgisayar Destek Hizmetleri",
+    "countryCode": "TR",
+    "country": "Türkiye",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "2.27.85.0/24", "45.195.156.0/24", "188.132.128.0/24" ],
+    "ipv6": [ ]
+  }
+}

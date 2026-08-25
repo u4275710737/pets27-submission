@@ -1,0 +1,14 @@
+{
+  "asn": 201338,
+  "metadata": {
+    "handle": "DAMOVO-BE",
+    "description": "DAMOVO BELGIUM SA",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

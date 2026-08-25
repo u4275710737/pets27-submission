@@ -1,0 +1,4 @@
+# AS49938 (CHEMGINEERING-AS)
+# Chemgineering Holding AG
+#
+193.104.47.0/24

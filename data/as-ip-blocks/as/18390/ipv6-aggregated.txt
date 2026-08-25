@@ -1,0 +1,4 @@
+# AS18390 (SPINTEL-AS-AP)
+# Spintel Pty Ltd
+#
+2407:e400::/32

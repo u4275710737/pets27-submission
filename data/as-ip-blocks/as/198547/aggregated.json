@@ -1,0 +1,14 @@
+{
+  "asn": 198547,
+  "metadata": {
+    "handle": "PL-OKTAWAVE-AS-2",
+    "description": "Oktawave S.A.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

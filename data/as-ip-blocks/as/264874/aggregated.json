@@ -1,0 +1,16 @@
+{
+  "asn": 264874,
+  "metadata": {
+    "handle": "A-G-SANTOS-LIMA",
+    "description": "V. COMNET TELECOM LTDA",
+    "countryCode": "BR",
+    "country": "Brazil",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "168.227.64.0/22" ],
+    "ipv6": [ "2804:2f24::/32" ]
+  }
+}

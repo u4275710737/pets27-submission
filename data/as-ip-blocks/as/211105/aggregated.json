@@ -1,0 +1,14 @@
+{
+  "asn": 211105,
+  "metadata": {
+    "handle": "ISEG",
+    "description": "Groupe I.S.E.G",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

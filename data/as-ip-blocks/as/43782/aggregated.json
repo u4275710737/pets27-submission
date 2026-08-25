@@ -1,0 +1,14 @@
+{
+  "asn": 43782,
+  "metadata": {
+    "handle": "TTK-UL",
+    "description": "Joint Stock Company TransTeleCom",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

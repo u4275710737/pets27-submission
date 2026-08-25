@@ -1,0 +1,14 @@
+{
+  "asn": 206036,
+  "metadata": {
+    "handle": "DRT-EXCHANGE",
+    "description": "Digital Realty (UK) Limited",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

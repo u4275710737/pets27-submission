@@ -1,0 +1,14 @@
+{
+  "asn": 53711,
+  "metadata": {
+    "handle": "OWENS-CORNING",
+    "description": "Owens-Corning",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

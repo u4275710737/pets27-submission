@@ -1,0 +1,14 @@
+{
+  "asn": 216005,
+  "metadata": {
+    "handle": "ELIVELD-ICT-AS",
+    "description": "Wilco Eliveld",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

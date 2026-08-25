@@ -1,0 +1,14 @@
+{
+  "asn": 56370,
+  "metadata": {
+    "handle": "ASINTTEL",
+    "description": "Daria Aleksiienko",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

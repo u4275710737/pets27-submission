@@ -1,0 +1,16 @@
+{
+  "asn": 37668,
+  "metadata": {
+    "handle": "DINX",
+    "description": "Durban Internet Exchange",
+    "countryCode": "ZA",
+    "country": "South Africa",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "access_provider"
+  },
+  "prefixes": {
+    "ipv4": [ "196.10.55.0/24" ],
+    "ipv6": [ "2001:43f8:1f5::/48" ]
+  }
+}

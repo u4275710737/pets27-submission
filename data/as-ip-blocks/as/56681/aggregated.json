@@ -1,0 +1,14 @@
+{
+  "asn": 56681,
+  "metadata": {
+    "handle": "OTELEKOMUNIKACIJE",
+    "description": "Drustvo za telekomunikacije Orion telekom doo Beograd-Zemun",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

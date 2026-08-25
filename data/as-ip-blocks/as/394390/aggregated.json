@@ -1,0 +1,14 @@
+{
+  "asn": 394390,
+  "metadata": {
+    "handle": "APICS-HQ-ASN01",
+    "description": "APICS",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

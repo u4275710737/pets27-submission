@@ -1,0 +1,16 @@
+{
+  "asn": 21899,
+  "metadata": {
+    "handle": "ABBOTT",
+    "description": "Abbot Labs",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "130.36.0.0/16" ],
+    "ipv6": [ ]
+  }
+}

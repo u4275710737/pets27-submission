@@ -1,0 +1,4 @@
+# AS394663 (ARTIFICIAL-LABS-AI-USA)
+# Artificial Labs Corp
+#
+149.112.10.0/24

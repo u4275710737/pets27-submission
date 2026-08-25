@@ -1,0 +1,14 @@
+{
+  "asn": 150860,
+  "metadata": {
+    "handle": "JETCLOUD-VN",
+    "description": "JETCLOUD TECHNOLOGY CO. LTD",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

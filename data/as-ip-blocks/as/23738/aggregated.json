@@ -1,0 +1,14 @@
+{
+  "asn": 23738,
+  "metadata": {
+    "handle": "TEEMO-AP",
+    "description": "Bandle City Internet LLC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,5 @@
+# AS58350 (CLASSCOM-AS)
+# PHU Classcom Sp. z o.o.
+#
+2001:678:258::/48
+2001:6df:fff0::/44

@@ -1,0 +1,16 @@
+{
+  "asn": 18109,
+  "metadata": {
+    "handle": "MAISHANET-AS-AP",
+    "description": "Maisha Net",
+    "countryCode": "BD",
+    "country": "Bangladesh",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "103.86.196.0/22", "119.148.100.0/22", "157.20.114.0/23" ],
+    "ipv6": [ ]
+  }
+}

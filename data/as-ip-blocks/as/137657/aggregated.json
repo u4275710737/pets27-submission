@@ -1,0 +1,14 @@
+{
+  "asn": 137657,
+  "metadata": {
+    "handle": "TENGNET-IN",
+    "description": "Ten G Network Solution Private Limited",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,4 @@
+# AS59418 (NEWTECHNOLOGIES-AS)
+# CJSC Telecommunications 21
+#
+193.35.42.0/23

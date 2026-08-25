@@ -1,0 +1,14 @@
+{
+  "asn": 23234,
+  "metadata": {
+    "handle": "MSUSA-FUTURES-1",
+    "description": "Mizuho Americas Services LLC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

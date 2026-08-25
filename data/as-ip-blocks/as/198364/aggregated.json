@@ -1,0 +1,16 @@
+{
+  "asn": 198364,
+  "metadata": {
+    "handle": "BANATSYNC-SRL",
+    "description": "BANATSYNC SRL",
+    "countryCode": "RO",
+    "country": "Romania",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "5.175.137.0/24", "5.175.224.0/24", "89.106.72.0/24" ],
+    "ipv6": [ "2a14:7583:fb00::/40" ]
+  }
+}

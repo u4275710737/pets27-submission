@@ -1,0 +1,14 @@
+{
+  "asn": 149198,
+  "metadata": {
+    "handle": "SICARE-IN",
+    "description": "Si Care Private Limited",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

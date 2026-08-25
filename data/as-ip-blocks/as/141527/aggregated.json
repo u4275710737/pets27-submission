@@ -1,0 +1,14 @@
+{
+  "asn": 141527,
+  "metadata": {
+    "handle": "PRITAM",
+    "description": "RHODESIAN NETWORK PRIVATE LIMITED",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

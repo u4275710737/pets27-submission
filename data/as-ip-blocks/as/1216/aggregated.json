@@ -1,0 +1,14 @@
+{
+  "asn": 1216,
+  "metadata": {
+    "handle": "ORACLE-OCI-IAD1",
+    "description": "Oracle Corporation",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

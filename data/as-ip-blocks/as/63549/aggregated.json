@@ -1,0 +1,14 @@
+{
+  "asn": 63549,
+  "metadata": {
+    "handle": "TULONGNET",
+    "description": "LiaoNing Tulong Science & Technology Co.,Ltd.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

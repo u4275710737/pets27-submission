@@ -1,0 +1,14 @@
+{
+  "asn": 13403,
+  "metadata": {
+    "handle": "ALAWEB-INTERNET",
+    "description": "ALAWEB Internet Services",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,7 @@
+# AS205614 (MEDIALINE-EUROTRADE-AG)
+# Medialine EuroTrade AG
+#
+2001:67c:814::/48
+2001:67c:e9c::/48
+2a0d:1f80::/35
+2a0d:1f80:2000::/36

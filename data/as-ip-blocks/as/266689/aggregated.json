@@ -1,0 +1,14 @@
+{
+  "asn": 266689,
+  "metadata": {
+    "handle": "VOCALSAT-ARGENTINA",
+    "description": "VOCALSAT ARGENTINA S.A.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

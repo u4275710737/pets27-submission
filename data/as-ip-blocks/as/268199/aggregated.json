@@ -1,0 +1,16 @@
+{
+  "asn": 268199,
+  "metadata": {
+    "handle": "RIOS-NETWORK",
+    "description": "Rios Network",
+    "countryCode": "BR",
+    "country": "Brazil",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "midsize_transit"
+  },
+  "prefixes": {
+    "ipv4": [ "45.235.196.0/22", "151.246.225.0/24" ],
+    "ipv6": [ "2804:4d7c::/32" ]
+  }
+}

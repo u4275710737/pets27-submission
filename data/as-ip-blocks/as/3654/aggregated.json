@@ -1,0 +1,14 @@
+{
+  "asn": 3654,
+  "metadata": {
+    "handle": "AMSTD-NET",
+    "description": "American Standard",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

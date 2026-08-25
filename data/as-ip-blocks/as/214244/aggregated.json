@@ -1,0 +1,16 @@
+{
+  "asn": 214244,
+  "metadata": {
+    "handle": "AJIB",
+    "description": "Arab Jordan investment bank PLC",
+    "countryCode": "JO",
+    "country": "Jordan",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "185.68.54.0/24" ],
+    "ipv6": [ ]
+  }
+}

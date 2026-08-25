@@ -1,0 +1,14 @@
+{
+  "asn": 141334,
+  "metadata": {
+    "handle": "SKYNET1",
+    "description": "Skynet Digital Services Pvt. Ltd.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

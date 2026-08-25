@@ -1,0 +1,4 @@
+# AS11284 (NUCLEO-INF-COORD)
+# Núcleo de Inf. e Coord. do Ponto BR - NIC.BR
+#
+200.192.232.0/23

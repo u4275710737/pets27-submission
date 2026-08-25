@@ -1,0 +1,14 @@
+{
+  "asn": 18904,
+  "metadata": {
+    "handle": "CONVERGEDTECHGROUP",
+    "description": "Converged Technology Group Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

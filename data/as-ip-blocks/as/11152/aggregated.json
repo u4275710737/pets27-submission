@@ -1,0 +1,14 @@
+{
+  "asn": 11152,
+  "metadata": {
+    "handle": "WAVCOM",
+    "description": "Highline Services, LLC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

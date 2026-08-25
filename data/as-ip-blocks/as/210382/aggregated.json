@@ -1,0 +1,14 @@
+{
+  "asn": 210382,
+  "metadata": {
+    "handle": "IT-GREENDATA",
+    "description": "FOP Kalyaka Andrey Viktorovich",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

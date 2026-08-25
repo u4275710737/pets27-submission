@@ -1,0 +1,14 @@
+{
+  "asn": 55377,
+  "metadata": {
+    "handle": "SADAITEC",
+    "description": "Sadiatec Co. Ltd",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

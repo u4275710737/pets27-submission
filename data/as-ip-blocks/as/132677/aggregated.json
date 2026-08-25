@@ -1,0 +1,14 @@
+{
+  "asn": 132677,
+  "metadata": {
+    "handle": "GARUDAINFORMATIKA-ID",
+    "description": "PT Garuda Media Informatika",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

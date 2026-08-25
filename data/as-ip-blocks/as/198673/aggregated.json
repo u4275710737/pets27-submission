@@ -1,0 +1,14 @@
+{
+  "asn": 198673,
+  "metadata": {
+    "handle": "ASNEW",
+    "description": "Perceptive Informatics (Germany) GmbH",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

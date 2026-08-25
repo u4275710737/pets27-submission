@@ -1,0 +1,14 @@
+{
+  "asn": 54995,
+  "metadata": {
+    "handle": "NEOLANE-INC",
+    "description": "Adobe Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

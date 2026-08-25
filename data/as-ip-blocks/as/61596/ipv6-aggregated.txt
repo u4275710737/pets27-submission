@@ -1,0 +1,5 @@
+# AS61596 (HUGE-NETWORKS-SEGURANCA)
+# Huge Networks Segurança da Informação LTDA
+#
+2804:5874::/48
+2804:5874:47::/48

@@ -1,0 +1,16 @@
+{
+  "asn": 215910,
+  "metadata": {
+    "handle": "EDMA-NET",
+    "description": "Edma Net SHPK",
+    "countryCode": "AL",
+    "country": "Albania",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "45.90.80.0/24" ],
+    "ipv6": [ ]
+  }
+}

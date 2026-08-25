@@ -1,0 +1,14 @@
+{
+  "asn": 54408,
+  "metadata": {
+    "handle": "FICOH",
+    "description": "First Insurance Company of Hawaii",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 54632,
+  "metadata": {
+    "handle": "EVERYTHINK",
+    "description": "Everythink Innovations Limited",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 12108,
+  "metadata": {
+    "handle": "PROFITDEV",
+    "description": "PROFIT DEVELOPERS INC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

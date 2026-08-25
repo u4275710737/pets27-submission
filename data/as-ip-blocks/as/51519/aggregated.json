@@ -1,0 +1,16 @@
+{
+  "asn": 51519,
+  "metadata": {
+    "handle": "KARABRO",
+    "description": "Karabro AB",
+    "countryCode": "SE",
+    "country": "Sweden",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "midsize_transit"
+  },
+  "prefixes": {
+    "ipv4": [ "45.132.232.0/22" ],
+    "ipv6": [ "2a0e:73c0::/29" ]
+  }
+}

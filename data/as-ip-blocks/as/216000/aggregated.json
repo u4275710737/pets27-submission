@@ -1,0 +1,14 @@
+{
+  "asn": 216000,
+  "metadata": {
+    "handle": "DORIAN-BOITEL",
+    "description": "Dorian Boitel Trading as Dorian Dev",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

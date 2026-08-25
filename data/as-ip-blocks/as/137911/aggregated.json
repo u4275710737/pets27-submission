@@ -1,0 +1,14 @@
+{
+  "asn": 137911,
+  "metadata": {
+    "handle": "PMO-AS-AP",
+    "description": "Prime Minister Office",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

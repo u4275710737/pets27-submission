@@ -1,0 +1,14 @@
+{
+  "asn": 49871,
+  "metadata": {
+    "handle": "DDG-AS",
+    "description": "Bango Germany GmbH",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

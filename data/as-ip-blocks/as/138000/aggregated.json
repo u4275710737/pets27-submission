@@ -1,0 +1,16 @@
+{
+  "asn": 138000,
+  "metadata": {
+    "handle": "IDNIC-AFNET-ID",
+    "description": "PT Antar Fiber Optik",
+    "countryCode": "ID",
+    "country": "Indonesia",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "144.79.187.0/24" ],
+    "ipv6": [ ]
+  }
+}

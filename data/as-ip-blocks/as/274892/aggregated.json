@@ -1,0 +1,16 @@
+{
+  "asn": 274892,
+  "metadata": {
+    "handle": "NETOOLS-CA",
+    "description": "NETOOLS C.A.",
+    "countryCode": "VE",
+    "country": "Venezuela",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ "2803:9630::/32" ]
+  }
+}

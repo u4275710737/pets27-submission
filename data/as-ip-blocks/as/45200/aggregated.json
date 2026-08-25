@@ -1,0 +1,14 @@
+{
+  "asn": 45200,
+  "metadata": {
+    "handle": "SPANSION-TH-AP",
+    "description": "Spansion Thailand limited",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

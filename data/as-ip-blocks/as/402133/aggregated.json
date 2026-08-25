@@ -1,0 +1,16 @@
+{
+  "asn": 402133,
+  "metadata": {
+    "handle": "NOVOSERVE-LLC-CUSTOMERS-AS",
+    "description": "NovoServe LLC",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "153.51.164.0/22", "188.215.236.0/22" ],
+    "ipv6": [ ]
+  }
+}

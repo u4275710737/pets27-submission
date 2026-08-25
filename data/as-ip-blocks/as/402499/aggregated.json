@@ -1,0 +1,16 @@
+{
+  "asn": 402499,
+  "metadata": {
+    "handle": "ICIRUS-GROUP",
+    "description": "Yanan Technologies",
+    "countryCode": "CA",
+    "country": "Canada",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ "2606:6180:1::/48" ]
+  }
+}

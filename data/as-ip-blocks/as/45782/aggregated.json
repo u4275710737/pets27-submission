@@ -1,0 +1,14 @@
+{
+  "asn": 45782,
+  "metadata": {
+    "handle": "PHILIPPINEAIRLINES-PH-AP",
+    "description": "Sky Internet",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 33190,
+  "metadata": {
+    "handle": "KAZ",
+    "description": "KAZ INCORPORATED",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

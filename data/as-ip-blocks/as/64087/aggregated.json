@@ -1,0 +1,14 @@
+{
+  "asn": 64087,
+  "metadata": {
+    "handle": "CNET-HK",
+    "description": "Clouds Network Limited",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 14613,
+  "metadata": {
+    "handle": "TOCICI",
+    "description": "TOCICI LLC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

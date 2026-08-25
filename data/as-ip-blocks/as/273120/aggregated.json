@@ -1,0 +1,16 @@
+{
+  "asn": 273120,
+  "metadata": {
+    "handle": "TECNOLOGIA-INFORMACION-COMUNICACIONES",
+    "description": "TECNOLOGÍA INFORMACIÓN Y COMUNICACIONES DE COLOMBIA SAS (TICCOL)",
+    "countryCode": "CO",
+    "country": "Colombia",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ "2803:b850:1::/48", "2803:b850:4::/48", "2803:b850:6::/47", "2803:b850:40::/42", "2803:b850:c0::/42" ]
+  }
+}

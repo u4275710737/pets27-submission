@@ -1,0 +1,14 @@
+{
+  "asn": 210454,
+  "metadata": {
+    "handle": "RJVW1",
+    "description": "Rein van Weerden",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

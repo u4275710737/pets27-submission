@@ -1,0 +1,3 @@
+# AS141580 (IDNIC-MUBANET-AS-ID)
+# PT Muba Network Connection
+#

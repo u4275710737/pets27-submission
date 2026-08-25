@@ -1,0 +1,14 @@
+{
+  "asn": 142000,
+  "metadata": {
+    "handle": "BSPL-AP",
+    "description": "BELLACOM (SMC-PRIVATE) LIMITED",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

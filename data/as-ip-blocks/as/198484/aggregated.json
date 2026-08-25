@@ -1,0 +1,16 @@
+{
+  "asn": 198484,
+  "metadata": {
+    "handle": "RHAPSODY-AS",
+    "description": "Rhapsody CE Sp. z o.o.",
+    "countryCode": "PL",
+    "country": "Poland",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "162.27.162.0/24" ],
+    "ipv6": [ ]
+  }
+}

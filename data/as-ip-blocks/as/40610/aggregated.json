@@ -1,0 +1,14 @@
+{
+  "asn": 40610,
+  "metadata": {
+    "handle": "DTS",
+    "description": "dts.edu",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

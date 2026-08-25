@@ -1,0 +1,16 @@
+{
+  "asn": 210809,
+  "metadata": {
+    "handle": "UNIFLEX",
+    "description": "UniFlex Systems Limited",
+    "countryCode": "GB",
+    "country": "United Kingdom",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "151.247.207.0/24" ],
+    "ipv6": [ ]
+  }
+}

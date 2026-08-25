@@ -1,0 +1,14 @@
+{
+  "asn": 207724,
+  "metadata": {
+    "handle": "WEBDADE",
+    "description": "Web Dadeh Paydar Co (Ltd)",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 13658,
+  "metadata": {
+    "handle": "QUANTIL",
+    "description": "QUANTIL, INC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

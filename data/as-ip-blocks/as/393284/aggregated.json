@@ -1,0 +1,14 @@
+{
+  "asn": 393284,
+  "metadata": {
+    "handle": "EL-MAITLAND-FL",
+    "description": "Ellucian Company LP",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

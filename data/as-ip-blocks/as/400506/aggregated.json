@@ -1,0 +1,16 @@
+{
+  "asn": 400506,
+  "metadata": {
+    "handle": "BAIAS",
+    "description": "Black Apple",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "access_provider"
+  },
+  "prefixes": {
+    "ipv4": [ "2.27.124.0/24", "87.76.176.0/24", "151.243.153.0/24", "178.214.221.0/24", "185.58.23.0/24" ],
+    "ipv6": [ ]
+  }
+}

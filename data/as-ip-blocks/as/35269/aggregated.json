@@ -1,0 +1,14 @@
+{
+  "asn": 35269,
+  "metadata": {
+    "handle": "VX-LONDON",
+    "description": "VELOCIX SOLUTIONS LIMITED",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

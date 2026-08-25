@@ -1,0 +1,4 @@
+# AS209938 (ASMT6)
+# Moy Telecom LLC
+#
+91.210.132.0/22

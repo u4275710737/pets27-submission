@@ -1,0 +1,14 @@
+{
+  "asn": 210023,
+  "metadata": {
+    "handle": "WIECZOREK",
+    "description": "Christian Wieczorek",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

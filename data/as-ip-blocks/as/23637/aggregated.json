@@ -1,0 +1,14 @@
+{
+  "asn": 23637,
+  "metadata": {
+    "handle": "BI-CDN-IX",
+    "description": "Equinix Japan Enterprise K.K.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 209526,
+  "metadata": {
+    "handle": "BATTERSEA-FIBRE-BORADBAND-SERVICE",
+    "description": "Cyber Assets FZCO",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

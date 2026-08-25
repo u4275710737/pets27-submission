@@ -1,0 +1,5 @@
+# AS4813 (BACKBONE-GUANGDONG-AP)
+# China Telecom(Group)
+#
+14.22.56.0/21
+14.22.64.0/23

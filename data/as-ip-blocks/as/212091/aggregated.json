@@ -1,0 +1,14 @@
+{
+  "asn": 212091,
+  "metadata": {
+    "handle": "DATARGO-AS",
+    "description": "Datargo GmbH",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

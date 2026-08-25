@@ -1,0 +1,14 @@
+{
+  "asn": 60477,
+  "metadata": {
+    "handle": "SIXDG-INSITE",
+    "description": "Six Degrees Technology Group Limited",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

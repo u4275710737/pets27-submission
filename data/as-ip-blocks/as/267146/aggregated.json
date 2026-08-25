@@ -1,0 +1,16 @@
+{
+  "asn": 267146,
+  "metadata": {
+    "handle": "STEC-PROVIDER",
+    "description": "Stec Provedor de Internet LTDA",
+    "countryCode": "BR",
+    "country": "Brazil",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "access_provider"
+  },
+  "prefixes": {
+    "ipv4": [ "45.230.40.0/22" ],
+    "ipv6": [ "2804:48d0::/32" ]
+  }
+}

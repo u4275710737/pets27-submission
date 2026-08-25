@@ -1,0 +1,14 @@
+{
+  "asn": 150091,
+  "metadata": {
+    "handle": "VEDIMA-IN",
+    "description": "VEDIMANTRA LIFECARE PRIVATE LIMITED",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

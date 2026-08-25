@@ -1,0 +1,16 @@
+{
+  "asn": 268661,
+  "metadata": {
+    "handle": "INFRANET-FIBRA",
+    "description": "INFRANET FIBRA",
+    "countryCode": "BR",
+    "country": "Brazil",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "45.165.76.0/22" ],
+    "ipv6": [ "2804:549c::/33" ]
+  }
+}

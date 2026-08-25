@@ -1,0 +1,5 @@
+# AS25683 (FFB-NET-ASN)
+# First Financial Bank
+#
+199.89.222.0/24
+209.43.70.0/24

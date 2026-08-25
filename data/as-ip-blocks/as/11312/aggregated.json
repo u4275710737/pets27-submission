@@ -1,0 +1,14 @@
+{
+  "asn": 11312,
+  "metadata": {
+    "handle": "YORKTEL-AS",
+    "description": "York Telecom Corporation",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

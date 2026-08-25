@@ -1,0 +1,16 @@
+{
+  "asn": 328301,
+  "metadata": {
+    "handle": "MSGAFRICA-CLOUD",
+    "description": "MESSAGE LABS AFRICA LTD",
+    "countryCode": "KE",
+    "country": "Kenya",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "196.216.245.0/24" ],
+    "ipv6": [ ]
+  }
+}

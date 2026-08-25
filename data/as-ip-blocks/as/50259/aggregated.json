@@ -1,0 +1,14 @@
+{
+  "asn": 50259,
+  "metadata": {
+    "handle": "ARMANNET",
+    "description": "Information Technology ArmanNet PLC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

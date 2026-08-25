@@ -1,0 +1,16 @@
+{
+  "asn": 28819,
+  "metadata": {
+    "handle": "IMS-DENTSU-BG",
+    "description": "Merkle EOOD",
+    "countryCode": "BG",
+    "country": "Bulgaria",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "82.112.172.0/24" ],
+    "ipv6": [ ]
+  }
+}

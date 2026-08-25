@@ -1,0 +1,14 @@
+{
+  "asn": 35605,
+  "metadata": {
+    "handle": "ERICSSON-AS-ITALY",
+    "description": "Telefonaktiebolaget L M Ericsson",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

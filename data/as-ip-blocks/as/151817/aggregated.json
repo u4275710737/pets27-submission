@@ -1,0 +1,16 @@
+{
+  "asn": 151817,
+  "metadata": {
+    "handle": "ZAPPIEHOST-AS-AP",
+    "description": "Zappie Host LLC",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ "2404:3d80::/32", "2a09:54c5:1100::/48" ]
+  }
+}

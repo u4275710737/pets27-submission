@@ -1,0 +1,14 @@
+{
+  "asn": 137808,
+  "metadata": {
+    "handle": "XHNET",
+    "description": "Hebei Xuan Hao Information Technology Co. Ltd..",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

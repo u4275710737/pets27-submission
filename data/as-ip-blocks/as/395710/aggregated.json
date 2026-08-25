@@ -1,0 +1,14 @@
+{
+  "asn": 395710,
+  "metadata": {
+    "handle": "STUDENTUNIVERSE-US",
+    "description": "StudentUniverse.com INC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

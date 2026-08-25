@@ -1,0 +1,14 @@
+{
+  "asn": 268102,
+  "metadata": {
+    "handle": "DATASAFER-TECNOL-SEGURANCA",
+    "description": "DATASAFER TECNOL E SEGURANCA DA INFORMACAO LTDA",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

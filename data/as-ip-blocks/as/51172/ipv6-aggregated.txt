@@ -1,0 +1,7 @@
+# AS51172 (DOMREG-UNI-AS)
+# Kauno Technologijos Universitetas
+#
+2001:67c:218::/48
+2a07:ab40::/48
+2a07:ab41::/48
+2a07:ab43::/48

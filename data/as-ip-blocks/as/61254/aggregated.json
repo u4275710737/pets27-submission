@@ -1,0 +1,16 @@
+{
+  "asn": 61254,
+  "metadata": {
+    "handle": "ESTOXY-OU",
+    "description": "ESTOXY OU",
+    "countryCode": "EE",
+    "country": "Estonia",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "37.49.230.0/23", "45.196.229.0/24" ],
+    "ipv6": [ "2a13:adc3::/48" ]
+  }
+}

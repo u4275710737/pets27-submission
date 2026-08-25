@@ -1,0 +1,14 @@
+{
+  "asn": 13632,
+  "metadata": {
+    "handle": "VWRSP",
+    "description": "VWR International, LLC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,4 @@
+# AS31811 (CENTRACOM-MT)
+# Manti Tele Communication Company
+#
+209.213.32.0/20

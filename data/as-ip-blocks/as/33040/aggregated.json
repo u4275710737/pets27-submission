@@ -1,0 +1,14 @@
+{
+  "asn": 33040,
+  "metadata": {
+    "handle": "TIPL",
+    "description": "Telecom Intellectual Property Limited",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

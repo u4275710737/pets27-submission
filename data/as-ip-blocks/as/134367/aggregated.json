@@ -1,0 +1,14 @@
+{
+  "asn": 134367,
+  "metadata": {
+    "handle": "GIBZTECH-AS-AP",
+    "description": "GIBZTECH",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "asn": 328275,
+  "metadata": {
+    "handle": "BDC-WIRELESS",
+    "description": "BDC Wireless Solutions CC",
+    "countryCode": "ZA",
+    "country": "South Africa",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "102.165.120.0/22" ],
+    "ipv6": [ ]
+  }
+}

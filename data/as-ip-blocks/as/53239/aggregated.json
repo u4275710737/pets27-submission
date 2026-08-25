@@ -1,0 +1,16 @@
+{
+  "asn": 53239,
+  "metadata": {
+    "handle": "COMPANHIA-GOVERNANCA-ELETRONICA",
+    "description": "Companhia Salvador Cidade Inteligente",
+    "countryCode": "BR",
+    "country": "Brazil",
+    "origin": "authoritative",
+    "category": "government_admin",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "177.20.0.0/17" ],
+    "ipv6": [ ]
+  }
+}

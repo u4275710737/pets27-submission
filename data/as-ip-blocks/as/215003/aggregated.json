@@ -1,0 +1,16 @@
+{
+  "asn": 215003,
+  "metadata": {
+    "handle": "TUBES-AS",
+    "description": "Internet Tubes LTD",
+    "countryCode": "GB",
+    "country": "United Kingdom",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ ]
+  }
+}

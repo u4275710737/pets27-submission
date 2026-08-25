@@ -1,0 +1,14 @@
+{
+  "asn": 45087,
+  "metadata": {
+    "handle": "CTGDFCL",
+    "description": "China Duty Free group",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

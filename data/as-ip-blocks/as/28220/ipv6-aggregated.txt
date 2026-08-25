@@ -1,0 +1,7 @@
+# AS28220 (ALARES-CABO-SERVICOS)
+# Alares Cabo Servicos de Telecomunicacoes S.A.
+#
+2804:54::/32
+2804:880:1001::/48
+2804:880:1600::/39
+2804:2140::/32

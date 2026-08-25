@@ -1,0 +1,16 @@
+{
+  "asn": 151673,
+  "metadata": {
+    "handle": "CHENXINYU-AS-AP",
+    "description": "Chen Xinyu",
+    "countryCode": "CN",
+    "country": "China",
+    "origin": "authoritative",
+    "category": "education_research",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "44.30.130.0/24", "44.30.152.0/24" ],
+    "ipv6": [ "2a14:7581:3810::/47", "2a14:7581:3814::/48" ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "asn": 210537,
+  "metadata": {
+    "handle": "AVVGO",
+    "description": "Kevin Feiler",
+    "countryCode": "DE",
+    "country": "Germany",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ ]
+  }
+}

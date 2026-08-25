@@ -1,0 +1,14 @@
+{
+  "asn": 56897,
+  "metadata": {
+    "handle": "IPC",
+    "description": "iNet Ltd",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

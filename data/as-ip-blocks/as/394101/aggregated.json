@@ -1,0 +1,14 @@
+{
+  "asn": 394101,
+  "metadata": {
+    "handle": "THOUSANDEYES",
+    "description": "ThousandEyes, Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

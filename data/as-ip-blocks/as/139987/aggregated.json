@@ -1,0 +1,14 @@
+{
+  "asn": 139987,
+  "metadata": {
+    "handle": "IDNIC-ACP-AS-ID",
+    "description": "PT Adhikarya Cipta Persada",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

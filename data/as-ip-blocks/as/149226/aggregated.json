@@ -1,0 +1,16 @@
+{
+  "asn": 149226,
+  "metadata": {
+    "handle": "TIYATEL1-AS-IN",
+    "description": "Tiyatel Communications Private Limited",
+    "countryCode": "IN",
+    "country": "India",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "103.123.172.0/23", "103.169.178.0/23" ],
+    "ipv6": [ "2400:f1a0::/32" ]
+  }
+}

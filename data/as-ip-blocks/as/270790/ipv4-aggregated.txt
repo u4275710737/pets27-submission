@@ -1,0 +1,4 @@
+# AS270790 (MEGALINK-TI-TELECOM)
+# Vexxo Telecom LTDA
+#
+186.233.28.0/22

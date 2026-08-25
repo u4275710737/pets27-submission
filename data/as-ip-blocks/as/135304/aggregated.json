@@ -1,0 +1,14 @@
+{
+  "asn": 135304,
+  "metadata": {
+    "handle": "VMWARE-AP",
+    "description": "VMWare Incorporation",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

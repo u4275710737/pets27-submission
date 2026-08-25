@@ -1,0 +1,14 @@
+{
+  "asn": 64067,
+  "metadata": {
+    "handle": "HCITS-AS-AP",
+    "description": "HostCircle IT Solutions PVT LTD",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

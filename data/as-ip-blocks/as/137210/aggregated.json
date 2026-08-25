@@ -1,0 +1,16 @@
+{
+  "asn": 137210,
+  "metadata": {
+    "handle": "RAPDNET",
+    "description": "NETRPD SERVICES PRIVATE LIMITED",
+    "countryCode": "IN",
+    "country": "India",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "access_provider"
+  },
+  "prefixes": {
+    "ipv4": [ "163.223.0.0/23" ],
+    "ipv6": [ ]
+  }
+}

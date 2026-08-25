@@ -1,0 +1,14 @@
+{
+  "asn": 139641,
+  "metadata": {
+    "handle": "TIGERONLINE-AP",
+    "description": "Tiger Online",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

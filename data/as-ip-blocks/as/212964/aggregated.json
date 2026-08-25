@@ -1,0 +1,14 @@
+{
+  "asn": 212964,
+  "metadata": {
+    "handle": "TEKSPB-AS",
+    "description": "TEK SPB GUP",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

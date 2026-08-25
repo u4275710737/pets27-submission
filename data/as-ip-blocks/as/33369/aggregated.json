@@ -1,0 +1,14 @@
+{
+  "asn": 33369,
+  "metadata": {
+    "handle": "LIFEWATCH-SERVICES",
+    "description": "LIFEWATCH SERVICES INC.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "asn": 55348,
+  "metadata": {
+    "handle": "SYMBIO-AS-AP-SG",
+    "description": "Symbio Networks Pty Ltd",
+    "countryCode": "AU",
+    "country": "Australia",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "66.234.168.0/23" ],
+    "ipv6": [ ]
+  }
+}

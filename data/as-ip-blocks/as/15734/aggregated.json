@@ -1,0 +1,14 @@
+{
+  "asn": 15734,
+  "metadata": {
+    "handle": "EQUINIX-CONNECT-IBERIA",
+    "description": "EQUINIX (SPAIN) ENTERPRISES SLU",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

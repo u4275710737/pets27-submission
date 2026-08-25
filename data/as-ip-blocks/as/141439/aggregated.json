@@ -1,0 +1,14 @@
+{
+  "asn": 141439,
+  "metadata": {
+    "handle": "SFBDONLINE-AP",
+    "description": "S F BD Online",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

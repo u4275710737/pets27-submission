@@ -1,0 +1,16 @@
+{
+  "asn": 138251,
+  "metadata": {
+    "handle": "PLAY1-AS-IN",
+    "description": "PLAYWEB TECHNOLOGIES PRIVATE LIMITED",
+    "countryCode": "IN",
+    "country": "India",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "103.171.54.0/24", "163.61.100.0/23" ],
+    "ipv6": [ "2001:df5:1240::/48" ]
+  }
+}

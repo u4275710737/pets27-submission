@@ -1,0 +1,14 @@
+{
+  "asn": 16919,
+  "metadata": {
+    "handle": "CBNY",
+    "description": "College Entrance Examination Board",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

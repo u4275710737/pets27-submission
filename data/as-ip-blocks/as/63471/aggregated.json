@@ -1,0 +1,14 @@
+{
+  "asn": 63471,
+  "metadata": {
+    "handle": "HIDGLOBAL",
+    "description": "HID Global Corporation",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,4 @@
+# AS57492 (HOST4BIZ-CH)
+# Host4Biz sp. z o.o.
+#
+2a06:3900::/32

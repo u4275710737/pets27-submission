@@ -1,0 +1,6 @@
+# AS63112 (SERVICENOWLTD)
+# administrative copy of ARIN registered ASN.
+#
+70.34.50.0/24
+70.34.57.0/24
+70.34.58.0/24

@@ -1,0 +1,14 @@
+{
+  "asn": 54854,
+  "metadata": {
+    "handle": "BORDERBGPNETWORK",
+    "description": "Blueport Commerce",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

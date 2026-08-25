@@ -1,0 +1,16 @@
+{
+  "asn": 214702,
+  "metadata": {
+    "handle": "NETLINE-AS",
+    "description": "Net Line LLC",
+    "countryCode": "RU",
+    "country": "Russia",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "194.61.235.0/24" ],
+    "ipv6": [ ]
+  }
+}

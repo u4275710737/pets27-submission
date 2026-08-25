@@ -1,0 +1,14 @@
+{
+  "asn": 16512,
+  "metadata": {
+    "handle": "RACKIFI",
+    "description": "Fiberifi",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

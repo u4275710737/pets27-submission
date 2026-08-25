@@ -1,0 +1,14 @@
+{
+  "asn": 4600,
+  "metadata": {
+    "handle": "LINK-OREGON-RESEARCH",
+    "description": "University of Oregon",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

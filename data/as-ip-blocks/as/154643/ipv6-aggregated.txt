@@ -1,0 +1,4 @@
+# AS154643 (MAGNIFICENTLIMITED-AS-AP)
+# Magnificent Limited
+#
+2001:df6:f640::/48

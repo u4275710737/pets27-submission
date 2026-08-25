@@ -1,0 +1,16 @@
+{
+  "asn": 25909,
+  "metadata": {
+    "handle": "STEVE-MADDEN",
+    "description": "Steven Madden LTD.",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "104.37.16.0/24", "104.37.18.0/23" ],
+    "ipv6": [ ]
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 50515,
+  "metadata": {
+    "handle": "TIER-DATA-CENTER",
+    "description": "Tier SRL",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

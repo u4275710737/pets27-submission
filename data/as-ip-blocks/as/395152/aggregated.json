@@ -1,0 +1,14 @@
+{
+  "asn": 395152,
+  "metadata": {
+    "handle": "CLOUDPBX-VAN",
+    "description": "CloudPBX",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

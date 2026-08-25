@@ -1,0 +1,16 @@
+{
+  "asn": 60351,
+  "metadata": {
+    "handle": "GEIBIT-AS",
+    "description": "Geib IT GmbH",
+    "countryCode": "DE",
+    "country": "Germany",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "37.77.200.0/24", "37.77.203.0/24", "37.77.205.0/24", "37.77.207.0/24", "185.21.164.0/22" ],
+    "ipv6": [ "2a00:8140:f000::/36" ]
+  }
+}

@@ -1,0 +1,5 @@
+# AS29769 (AWT-ASN-29769)
+# Allwire Technologies LLC
+#
+23.137.76.0/24
+23.184.72.0/24

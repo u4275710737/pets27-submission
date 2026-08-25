@@ -1,0 +1,14 @@
+{
+  "asn": 53689,
+  "metadata": {
+    "handle": "AS-FINCAHQ",
+    "description": "FINCA International Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

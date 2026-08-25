@@ -1,0 +1,14 @@
+{
+  "asn": 131741,
+  "metadata": {
+    "handle": "IDNIC-LKPP-AS-ID",
+    "description": "Lembaga Kebijakan Pengadaan Barang/Jasa Pemerintah",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 34734,
+  "metadata": {
+    "handle": "EXPRESS-EQUINIX-NEW-YORK",
+    "description": "A&F Networks B.V.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

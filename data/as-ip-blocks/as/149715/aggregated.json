@@ -1,0 +1,14 @@
+{
+  "asn": 149715,
+  "metadata": {
+    "handle": "IDNIC-GANAS-ID",
+    "description": "PT Giga Network Solusindo",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

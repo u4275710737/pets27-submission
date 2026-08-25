@@ -1,0 +1,14 @@
+{
+  "asn": 47001,
+  "metadata": {
+    "handle": "LIVEPERSON",
+    "description": "LivePerson Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

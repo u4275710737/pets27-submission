@@ -1,0 +1,14 @@
+{
+  "asn": 135883,
+  "metadata": {
+    "handle": "JIALIU-AS-AP",
+    "description": "Ba Cai Yun (Beijing) Network Technology Co. Ltd",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

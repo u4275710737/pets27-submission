@@ -1,0 +1,14 @@
+{
+  "asn": 204480,
+  "metadata": {
+    "handle": "GODSPOT",
+    "description": "godspot GmbH",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

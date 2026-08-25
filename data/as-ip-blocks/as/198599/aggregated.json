@@ -1,0 +1,16 @@
+{
+  "asn": 198599,
+  "metadata": {
+    "handle": "THEJAMESDECKER",
+    "description": "James Decker",
+    "countryCode": "AU",
+    "country": "Australia",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ ]
+  }
+}

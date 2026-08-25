@@ -1,0 +1,4 @@
+# AS5585 (IIX-ASN)
+# Israel Internet Association
+#
+192.114.62.0/23

@@ -1,0 +1,14 @@
+{
+  "asn": 20206,
+  "metadata": {
+    "handle": "ASI-BUSINESS",
+    "description": "ASI Business Solutions, Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

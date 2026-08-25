@@ -1,0 +1,14 @@
+{
+  "asn": 45011,
+  "metadata": {
+    "handle": "SE-A3",
+    "description": "Bredband2 AB",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

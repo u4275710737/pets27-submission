@@ -1,0 +1,14 @@
+{
+  "asn": 45922,
+  "metadata": {
+    "handle": "VOCUS-AU",
+    "description": "Vocus Communications",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

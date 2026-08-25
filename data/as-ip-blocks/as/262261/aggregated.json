@@ -1,0 +1,16 @@
+{
+  "asn": 262261,
+  "metadata": {
+    "handle": "BANCO-GNB-SUDAMERIS",
+    "description": "Banco GNB Sudameris",
+    "countryCode": "CO",
+    "country": "Colombia",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "179.0.15.0/24" ],
+    "ipv6": [ ]
+  }
+}

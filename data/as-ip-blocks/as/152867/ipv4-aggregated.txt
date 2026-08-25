@@ -1,0 +1,4 @@
+# AS152867 (TCNET)
+# Takaoka cable network
+#
+103.211.74.0/24

@@ -1,0 +1,14 @@
+{
+  "asn": 21521,
+  "metadata": {
+    "handle": "EXELA-21521",
+    "description": "HOV Services Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

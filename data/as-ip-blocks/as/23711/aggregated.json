@@ -1,0 +1,14 @@
+{
+  "asn": 23711,
+  "metadata": {
+    "handle": "ISC-SIN1",
+    "description": "Internet Systems Consortium",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

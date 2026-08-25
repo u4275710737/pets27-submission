@@ -1,0 +1,16 @@
+{
+  "asn": 212618,
+  "metadata": {
+    "handle": "XENTAIN-SOLUTIONS-INC",
+    "description": "Xentain Solutions Inc.",
+    "countryCode": "CA",
+    "country": "Canada",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "142.248.20.0/24", "144.225.93.0/24" ],
+    "ipv6": [ ]
+  }
+}

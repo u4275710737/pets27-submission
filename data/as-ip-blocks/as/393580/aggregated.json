@@ -1,0 +1,14 @@
+{
+  "asn": 393580,
+  "metadata": {
+    "handle": "PEOPLES-HEALTH-NUMBER",
+    "description": "Peoples Health",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

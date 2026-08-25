@@ -1,0 +1,14 @@
+{
+  "asn": 199684,
+  "metadata": {
+    "handle": "SHITDEFINEDNETWORK-EU",
+    "description": "Shangren Lu",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

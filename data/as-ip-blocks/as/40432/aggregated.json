@@ -1,0 +1,14 @@
+{
+  "asn": 40432,
+  "metadata": {
+    "handle": "CAMBRIDGE-NA",
+    "description": "Cambridge Integrated Services Group Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

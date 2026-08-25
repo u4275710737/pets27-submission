@@ -1,0 +1,14 @@
+{
+  "asn": 205970,
+  "metadata": {
+    "handle": "OPENBGPD",
+    "description": "Peter Hessler",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

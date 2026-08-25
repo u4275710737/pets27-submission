@@ -1,0 +1,16 @@
+{
+  "asn": 20955,
+  "metadata": {
+    "handle": "PROQUEST-UK",
+    "description": "Proquest Information and Learning Ltd",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [
+      "195.22.150.0/23"
+    ],
+    "ipv6": []
+  }
+}

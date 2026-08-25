@@ -1,0 +1,14 @@
+{
+  "asn": 13933,
+  "metadata": {
+    "handle": "ANCHOR-STL2",
+    "description": "Anchor Packaging, Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,3 @@
+# AS58077 (ESBANK-AS)
+# ESBANK Bank Spoldzielczy
+#

@@ -1,0 +1,14 @@
+{
+  "asn": 211942,
+  "metadata": {
+    "handle": "AARAN",
+    "description": "Aaran Perry",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

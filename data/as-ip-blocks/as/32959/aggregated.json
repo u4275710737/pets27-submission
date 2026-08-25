@@ -1,0 +1,14 @@
+{
+  "asn": 32959,
+  "metadata": {
+    "handle": "LITEUP",
+    "description": "LiteUp, Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

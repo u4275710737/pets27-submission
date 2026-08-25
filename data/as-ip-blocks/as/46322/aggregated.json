@@ -1,0 +1,14 @@
+{
+  "asn": 46322,
+  "metadata": {
+    "handle": "CONDUCTOR",
+    "description": "Conductor, Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 55497,
+  "metadata": {
+    "handle": "BLIZZARD-AP",
+    "description": "Blizzard Entertainment, Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

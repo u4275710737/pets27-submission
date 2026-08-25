@@ -1,0 +1,14 @@
+{
+  "asn": 45224,
+  "metadata": {
+    "handle": "BELLNET-AP",
+    "description": "Lanka Bell Limited",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

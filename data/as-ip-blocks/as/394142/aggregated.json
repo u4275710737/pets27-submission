@@ -1,0 +1,16 @@
+{
+  "asn": 394142,
+  "metadata": {
+    "handle": "AVIDBIT-SLC",
+    "description": "AvidBit",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "45.45.133.0/24", "45.45.134.0/23", "216.10.72.0/22" ],
+    "ipv6": [ ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "asn": 37252,
+  "metadata": {
+    "handle": "GHABBOUR-AS",
+    "description": "Ghabbour Aut-num object",
+    "countryCode": "EG",
+    "country": "Egypt",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "196.223.16.0/23" ],
+    "ipv6": [ ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "asn": 16424,
+  "metadata": {
+    "handle": "LBL-ESD",
+    "description": "Linn Benton Lincoln Education Service District",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "education_research",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "167.128.0.0/16" ],
+    "ipv6": [ ]
+  }
+}

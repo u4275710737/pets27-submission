@@ -1,0 +1,14 @@
+{
+  "asn": 151656,
+  "metadata": {
+    "handle": "NUGEN-AS-AP",
+    "description": "NUGEN COMMUNICATION PVT LTD",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

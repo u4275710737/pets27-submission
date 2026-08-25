@@ -1,0 +1,14 @@
+{
+  "asn": 14526,
+  "metadata": {
+    "handle": "TEKLINKS-CLARIS-NETWORKS",
+    "description": "TekLinks, Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

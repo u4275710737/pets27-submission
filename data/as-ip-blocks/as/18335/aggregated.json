@@ -1,0 +1,14 @@
+{
+  "asn": 18335,
+  "metadata": {
+    "handle": "SWU-NET",
+    "description": "Seoul Women University",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

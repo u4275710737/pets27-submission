@@ -1,0 +1,9 @@
+# AS211619 (MAXKO)
+# MAXKO d.o.o.
+#
+2a0e:bfc0::/30
+2a0e:bfc4::/31
+2a0e:bfc6::/32
+2a0e:bfc7::/39
+2a0e:bfc7:300::/40
+2a0e:bfc7:1000::/38

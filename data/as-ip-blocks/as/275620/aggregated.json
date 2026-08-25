@@ -1,0 +1,16 @@
+{
+  "asn": 275620,
+  "metadata": {
+    "handle": "COOPERATIVA-CENTRAL-CREDITO",
+    "description": "COOPERATIVA CENTRAL DE CREDITO URBANO - AILOS",
+    "countryCode": "BR",
+    "country": "Brazil",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ "2801:81:200::/44" ]
+  }
+}

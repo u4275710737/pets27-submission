@@ -1,0 +1,4 @@
+# AS197670 (LOVABLE-AS)
+# Lovable Labs Sweden AB
+#
+185.41.149.0/24

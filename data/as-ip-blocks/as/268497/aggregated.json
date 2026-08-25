@@ -1,0 +1,14 @@
+{
+  "asn": 268497,
+  "metadata": {
+    "handle": "SERVAUX-SERVICOS-EM",
+    "description": "Servaux Servi\u00e7os em Tecnologia da Informa\u00e7\u00e3o LTDA",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

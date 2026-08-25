@@ -1,0 +1,16 @@
+{
+  "asn": 272762,
+  "metadata": {
+    "handle": "DH-SUPER-FIBRA",
+    "description": "DH SUPER FIBRA LTDA",
+    "countryCode": "BR",
+    "country": "Brazil",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "168.181.108.0/23" ],
+    "ipv6": [ "2804:884c::/32" ]
+  }
+}

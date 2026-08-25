@@ -1,0 +1,7 @@
+# AS44931 (TNT-EXP-ICS)
+# FedEx Express International B.V.
+#
+46.248.0.0/22
+46.248.4.0/23
+46.248.6.0/24
+164.39.96.0/19

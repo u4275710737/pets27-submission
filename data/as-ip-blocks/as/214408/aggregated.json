@@ -1,0 +1,16 @@
+{
+  "asn": 214408,
+  "metadata": {
+    "handle": "ARWNET",
+    "description": "Alexander Rudolf Wuerstlein",
+    "countryCode": "DE",
+    "country": "Germany",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ "2a0b:2a00::/32" ]
+  }
+}

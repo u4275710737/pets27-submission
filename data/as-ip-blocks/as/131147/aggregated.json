@@ -1,0 +1,16 @@
+{
+  "asn": 131147,
+  "metadata": {
+    "handle": "LIRUN-AS",
+    "description": "Taiwan Li Run Ltd.",
+    "countryCode": "TW",
+    "country": "Taiwan",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ "2401:97e0::/48" ]
+  }
+}

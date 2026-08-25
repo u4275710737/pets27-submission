@@ -1,0 +1,4 @@
+# AS37223 (VODACOM-MZ)
+# Vodacom Mozambique
+#
+2c0f:f308::/32

@@ -1,0 +1,14 @@
+{
+  "asn": 23858,
+  "metadata": {
+    "handle": "XTOM-AU",
+    "description": "xTom Pty Ltd",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

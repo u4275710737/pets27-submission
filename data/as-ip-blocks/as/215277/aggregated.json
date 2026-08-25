@@ -1,0 +1,14 @@
+{
+  "asn": 215277,
+  "metadata": {
+    "handle": "ZTENNANT",
+    "description": "Zachary Tennant",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

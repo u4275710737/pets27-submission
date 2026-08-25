@@ -1,0 +1,14 @@
+{
+  "asn": 273737,
+  "metadata": {
+    "handle": "OL-TELECOM-FIBRA-PTICA",
+    "description": "Ol Telecom Fibra ptica Ltda",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "asn": 63335,
+  "metadata": {
+    "handle": "CITIZENS-BANK-AS",
+    "description": "Citizens Bank National Association",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "174.128.104.0/21" ],
+    "ipv6": [ ]
+  }
+}

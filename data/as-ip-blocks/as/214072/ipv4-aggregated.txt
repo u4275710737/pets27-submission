@@ -1,0 +1,5 @@
+# AS214072 (HMBA)
+# Hlavne mesto Slovenskej republiky Bratislava
+#
+193.93.75.0/24
+217.70.13.0/24

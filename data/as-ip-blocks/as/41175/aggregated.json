@@ -1,0 +1,14 @@
+{
+  "asn": 41175,
+  "metadata": {
+    "handle": "INTERNETBORDER",
+    "description": "Iver Sverige AB",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

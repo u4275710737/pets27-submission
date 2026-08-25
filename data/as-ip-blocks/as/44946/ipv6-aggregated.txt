@@ -1,0 +1,8 @@
+# AS44946 (DGINET-AS)
+# Dembach Goo Informatik GmbH & Co. KG
+#
+2001:678:4f4::/48
+2a02:158::/37
+2a02:158:aa00::/39
+2a02:158:c000::/39
+2a02:158:fffe::/48

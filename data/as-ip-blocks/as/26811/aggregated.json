@@ -1,0 +1,14 @@
+{
+  "asn": 26811,
+  "metadata": {
+    "handle": "ACPRO-ASN-01",
+    "description": "AC Pro",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

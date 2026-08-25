@@ -1,0 +1,14 @@
+{
+  "asn": 132993,
+  "metadata": {
+    "handle": "FLASHIN",
+    "description": "Flash Broadband Pvt Ltd",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

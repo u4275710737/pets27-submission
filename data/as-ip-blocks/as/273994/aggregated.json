@@ -1,0 +1,16 @@
+{
+  "asn": 273994,
+  "metadata": {
+    "handle": "CORPORACION-FIBERTECH-CA",
+    "description": "CORPORACION FIBERTECH C.A.",
+    "countryCode": "VE",
+    "country": "Venezuela",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "178.19.41.0/24" ],
+    "ipv6": [ "2803:58d0::/32" ]
+  }
+}

@@ -1,0 +1,4 @@
+# AS6652 (PIMA-COLLEGE)
+# Pima Community College
+#
+104.204.240.0/22

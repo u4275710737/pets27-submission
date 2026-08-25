@@ -1,0 +1,14 @@
+{
+  "asn": 30269,
+  "metadata": {
+    "handle": "BERTRAM-COMMUNICATIONS-DCB",
+    "description": "Bertram Communications LLC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

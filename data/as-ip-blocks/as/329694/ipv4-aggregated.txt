@@ -1,0 +1,4 @@
+# AS329694 (UGANDA-REGISTRATION-SERVICES)
+# Uganda Registration Services Bureau
+#
+102.203.138.0/24

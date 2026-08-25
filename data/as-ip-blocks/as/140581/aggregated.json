@@ -1,0 +1,14 @@
+{
+  "asn": 140581,
+  "metadata": {
+    "handle": "AQURATECHNOLOGIES-AS-AP",
+    "description": "Aqura Technologies",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

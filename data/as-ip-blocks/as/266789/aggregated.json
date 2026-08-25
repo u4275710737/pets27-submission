@@ -1,0 +1,14 @@
+{
+  "asn": 266789,
+  "metadata": {
+    "handle": "FIDELIZADOR-SPA",
+    "description": "FIDELIZADOR SPA",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

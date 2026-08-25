@@ -1,0 +1,14 @@
+{
+  "asn": 138269,
+  "metadata": {
+    "handle": "WIZNET-IN",
+    "description": "Wizbyte Networks Private Limited",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

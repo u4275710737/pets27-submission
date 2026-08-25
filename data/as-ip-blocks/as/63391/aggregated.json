@@ -1,0 +1,14 @@
+{
+  "asn": 63391,
+  "metadata": {
+    "handle": "RSG",
+    "description": "MailChimp",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

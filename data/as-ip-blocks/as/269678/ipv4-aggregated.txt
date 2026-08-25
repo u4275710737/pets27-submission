@@ -1,0 +1,4 @@
+# AS269678 (NETGTI-INTERNET-TELECOMUNICACOES)
+# NETGTI Internet e Telecomunicações Eireli
+#
+45.191.68.0/22

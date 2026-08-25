@@ -1,0 +1,16 @@
+{
+  "asn": 327885,
+  "metadata": {
+    "handle": "HALOTEL-ASN",
+    "description": "Viettel Tanzania AS",
+    "countryCode": "TZ",
+    "country": "Tanzania",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "access_provider"
+  },
+  "prefixes": {
+    "ipv4": [ "169.255.184.0/22", "196.249.64.0/18" ],
+    "ipv6": [ ]
+  }
+}

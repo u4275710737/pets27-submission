@@ -1,0 +1,14 @@
+{
+  "asn": 31489,
+  "metadata": {
+    "handle": "PIB-AS",
+    "description": "PJSC ProminvestBank",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

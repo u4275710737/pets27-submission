@@ -1,0 +1,14 @@
+{
+  "asn": 48597,
+  "metadata": {
+    "handle": "ABRBARANIDC",
+    "description": "Ali Abedi",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

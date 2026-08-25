@@ -1,0 +1,14 @@
+{
+  "asn": 57258,
+  "metadata": {
+    "handle": "SWITS",
+    "description": "SW IT Solutions Sp. z o.o. Sp. k",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

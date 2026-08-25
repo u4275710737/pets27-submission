@@ -1,0 +1,14 @@
+{
+  "asn": 265785,
+  "metadata": {
+    "handle": "SERVICIOS-BANCARIOS-COMPARTIDOS",
+    "description": "SERVICIOS BANCARIOS COMPARTIDOS S.A. (UNIBANCA)",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

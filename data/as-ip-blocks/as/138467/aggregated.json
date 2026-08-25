@@ -1,0 +1,14 @@
+{
+  "asn": 138467,
+  "metadata": {
+    "handle": "BBNPL-AS-AP",
+    "description": "Blue Bird Networks",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

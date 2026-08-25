@@ -1,0 +1,14 @@
+{
+  "asn": 32921,
+  "metadata": {
+    "handle": "ZSCALER-NEWYORK",
+    "description": "ZSCALER, INC.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

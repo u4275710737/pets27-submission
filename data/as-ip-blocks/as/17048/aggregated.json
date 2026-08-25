@@ -1,0 +1,14 @@
+{
+  "asn": 17048,
+  "metadata": {
+    "handle": "OBJX",
+    "description": "objx.net, LLC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

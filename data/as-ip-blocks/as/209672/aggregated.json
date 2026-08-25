@@ -1,0 +1,14 @@
+{
+  "asn": 209672,
+  "metadata": {
+    "handle": "GETSERVERS-NET",
+    "description": "Get Servers LLC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

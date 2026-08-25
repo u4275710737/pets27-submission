@@ -1,0 +1,14 @@
+{
+  "asn": 134817,
+  "metadata": {
+    "handle": "NTT-DS",
+    "description": "NTT (Thailand) Limited",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

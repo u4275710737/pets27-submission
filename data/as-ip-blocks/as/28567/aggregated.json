@@ -1,0 +1,14 @@
+{
+  "asn": 28567,
+  "metadata": {
+    "handle": "OPERADORA-RASTREOS-UDA",
+    "description": "Operadora de Rastreos UDA S.A. de C.V.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

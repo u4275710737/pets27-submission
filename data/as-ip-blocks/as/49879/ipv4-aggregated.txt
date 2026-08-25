@@ -1,0 +1,6 @@
+# AS49879 (HOSTHANE)
+# Dincer Isik trading as ISIK Bilgisayar Internet ve Yayincilik Hizmetleri
+#
+185.21.204.0/22
+185.141.109.0/24
+217.116.192.0/20

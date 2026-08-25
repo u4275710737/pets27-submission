@@ -1,0 +1,16 @@
+{
+  "asn": 201064,
+  "metadata": {
+    "handle": "IDEALHOSTING",
+    "description": "Ideal Hosting Teknoloji A.S.",
+    "countryCode": "TR",
+    "country": "Türkiye",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "185.98.60.0/24" ],
+    "ipv6": [ ]
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 397306,
+  "metadata": {
+    "handle": "PJU-01",
+    "description": "Papa John's USA, Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

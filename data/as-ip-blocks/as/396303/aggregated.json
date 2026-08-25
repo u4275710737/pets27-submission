@@ -1,0 +1,16 @@
+{
+  "asn": 396303,
+  "metadata": {
+    "handle": "NATOLAB-LEGACY",
+    "description": "Black Mesa Corporation",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ "2602:feda:102::/48", "2602:feda:105::/48", "2602:feda:f400::/40" ]
+  }
+}

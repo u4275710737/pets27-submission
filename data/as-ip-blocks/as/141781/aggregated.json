@@ -1,0 +1,16 @@
+{
+  "asn": 141781,
+  "metadata": {
+    "handle": "WAHWAY-AS-AP",
+    "description": "WAHWAY DATA NETWORKS INC.",
+    "countryCode": "PH",
+    "country": "Philippines",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "103.68.100.0/24", "103.100.240.0/24" ],
+    "ipv6": [ ]
+  }
+}

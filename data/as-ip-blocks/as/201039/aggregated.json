@@ -1,0 +1,16 @@
+{
+  "asn": 201039,
+  "metadata": {
+    "handle": "HOSTER",
+    "description": "Manushak Galoyan",
+    "countryCode": "AM",
+    "country": "Armenia",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ ]
+  }
+}

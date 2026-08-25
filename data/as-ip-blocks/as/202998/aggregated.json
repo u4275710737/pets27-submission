@@ -1,0 +1,14 @@
+{
+  "asn": 202998,
+  "metadata": {
+    "handle": "GONET",
+    "description": "MyFatDigital Ltd",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 41040,
+  "metadata": {
+    "handle": "IIRU",
+    "description": "civillent GmbH",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

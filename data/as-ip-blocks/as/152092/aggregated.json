@@ -1,0 +1,16 @@
+{
+  "asn": 152092,
+  "metadata": {
+    "handle": "HACCTCL-AS-AP",
+    "description": "Henan Angran Cloud Computing Technology Co. Ltd",
+    "countryCode": "CN",
+    "country": "China",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "103.218.92.0/22" ],
+    "ipv6": [ ]
+  }
+}

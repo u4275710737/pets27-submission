@@ -1,0 +1,14 @@
+{
+  "asn": 199974,
+  "metadata": {
+    "handle": "MDTECH-AS",
+    "description": "MD TECHNOLOGY LIMITED",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

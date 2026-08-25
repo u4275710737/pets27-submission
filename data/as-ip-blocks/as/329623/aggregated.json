@@ -1,0 +1,16 @@
+{
+  "asn": 329623,
+  "metadata": {
+    "handle": "NETWORK-INTERNATIONAL-PAYMENTS-SERVICES-NIGERIA-LIMITED",
+    "description": "NETWORK INTERNATIONAL PAYMENTS SERVICES NIGERIA LIMITED",
+    "countryCode": "NG",
+    "country": "Nigeria",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "102.204.215.0/24" ],
+    "ipv6": [ ]
+  }
+}

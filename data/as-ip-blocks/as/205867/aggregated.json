@@ -1,0 +1,14 @@
+{
+  "asn": 205867,
+  "metadata": {
+    "handle": "FJ-CE-LAB",
+    "description": "Fujitsu Services GmbH",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

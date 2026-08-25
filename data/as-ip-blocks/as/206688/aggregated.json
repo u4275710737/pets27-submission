@@ -1,0 +1,14 @@
+{
+  "asn": 206688,
+  "metadata": {
+    "handle": "AS-GMFIO",
+    "description": "Stellantis Financial Services UK Limited",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

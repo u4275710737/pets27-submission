@@ -1,0 +1,4 @@
+# AS27224 (DIGINETITCC-AS)
+# Web Africa
+#
+2607:f6f0:202::/48

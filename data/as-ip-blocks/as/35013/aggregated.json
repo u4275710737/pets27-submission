@@ -1,0 +1,14 @@
+{
+  "asn": 35013,
+  "metadata": {
+    "handle": "ALFA-BANK-SK-AS",
+    "description": "JSC Alfa-Bank",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

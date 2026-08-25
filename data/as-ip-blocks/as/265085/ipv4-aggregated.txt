@@ -1,0 +1,4 @@
+# AS265085 (LINFORTEL-INTERNET)
+# Linfortel Internet Ltda
+#
+170.233.24.0/22

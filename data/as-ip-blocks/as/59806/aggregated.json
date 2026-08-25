@@ -1,0 +1,14 @@
+{
+  "asn": 59806,
+  "metadata": {
+    "handle": "VIRTIRICA",
+    "description": "Paradigm Support Ltd",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

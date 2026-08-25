@@ -1,0 +1,16 @@
+{
+  "asn": 274641,
+  "metadata": {
+    "handle": "JAAF-SOLUCOES-TECNOLOGIA",
+    "description": "JAAF SOLUCOES TECNOLOGIA LTDA",
+    "countryCode": "BR",
+    "country": "Brazil",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "38.226.52.0/24" ],
+    "ipv6": [ "2804:9170::/32" ]
+  }
+}

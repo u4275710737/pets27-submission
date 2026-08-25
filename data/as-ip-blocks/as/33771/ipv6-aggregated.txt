@@ -1,0 +1,5 @@
+# AS33771 (SAFARICOM)
+# Safaricom
+#
+2001:43d0:8::/48
+2c0f:fe38::/32

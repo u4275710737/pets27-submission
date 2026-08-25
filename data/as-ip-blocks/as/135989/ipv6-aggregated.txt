@@ -1,0 +1,4 @@
+# AS135989 (TAYNINH-VN)
+# Department of Science and Technology of Tay Ninh Province
+#
+2001:df1:9680::/48

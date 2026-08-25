@@ -1,0 +1,14 @@
+{
+  "asn": 13982,
+  "metadata": {
+    "handle": "NIBWAN01",
+    "description": "National Industries for the Blind",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

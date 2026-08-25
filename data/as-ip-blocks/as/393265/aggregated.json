@@ -1,0 +1,14 @@
+{
+  "asn": 393265,
+  "metadata": {
+    "handle": "LOCKHART-POWER",
+    "description": "Lockhart Power Company",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 54161,
+  "metadata": {
+    "handle": "ION",
+    "description": "ION",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

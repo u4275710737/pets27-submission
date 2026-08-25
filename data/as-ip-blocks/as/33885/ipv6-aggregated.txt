@@ -1,0 +1,4 @@
+# AS33885 (OWNIT)
+# Telenor Sverige AB
+#
+2a01:3b8::/32

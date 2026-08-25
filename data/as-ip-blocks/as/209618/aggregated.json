@@ -1,0 +1,16 @@
+{
+  "asn": 209618,
+  "metadata": {
+    "handle": "AS-HOLAMUNDO-MX",
+    "description": "Valor Information Technologies S.L.",
+    "countryCode": "ES",
+    "country": "Spain",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "185.226.192.0/24" ],
+    "ipv6": [ "2a0a:e9c2::/32" ]
+  }
+}

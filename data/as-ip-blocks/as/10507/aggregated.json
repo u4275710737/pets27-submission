@@ -1,0 +1,14 @@
+{
+  "asn": 10507,
+  "metadata": {
+    "handle": "SPCS",
+    "description": "Sprint Personal Communications Systems",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

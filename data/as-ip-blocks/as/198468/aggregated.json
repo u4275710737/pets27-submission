@@ -1,0 +1,14 @@
+{
+  "asn": 198468,
+  "metadata": {
+    "handle": "DUTCHIS-AS",
+    "description": "Gijsbertus Henricus van Gemert trading as DutchIS",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

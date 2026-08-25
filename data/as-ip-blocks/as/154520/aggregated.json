@@ -1,0 +1,16 @@
+{
+  "asn": 154520,
+  "metadata": {
+    "handle": "IDNIC-NEUCENTRA-ID",
+    "description": "PT NEUCENTRA JARINGAN INDONESIA",
+    "countryCode": "ID",
+    "country": "Indonesia",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "151.158.234.0/24" ],
+    "ipv6": [ ]
+  }
+}

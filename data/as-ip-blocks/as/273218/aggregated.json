@@ -1,0 +1,16 @@
+{
+  "asn": 273218,
+  "metadata": {
+    "handle": "INTEGRA-TIC-SOLUCIONES",
+    "description": "INTEGRA TIC SOLUCIONES S.A.S.",
+    "countryCode": "CO",
+    "country": "Colombia",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "185.75.12.0/24" ],
+    "ipv6": [ ]
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 149816,
+  "metadata": {
+    "handle": "KICT-AP",
+    "description": "Kuwaha Internet Charitable Trust",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

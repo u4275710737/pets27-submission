@@ -1,0 +1,14 @@
+{
+  "asn": 204888,
+  "metadata": {
+    "handle": "EUROLIR",
+    "description": "Eurolir OU",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

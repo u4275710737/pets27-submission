@@ -1,0 +1,16 @@
+{
+  "asn": 207223,
+  "metadata": {
+    "handle": "GLOBALCON",
+    "description": "Global Connections Network LLC",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "79.132.68.0/22", "88.223.209.0/24", "93.120.41.0/24", "185.162.116.0/22", "185.179.64.0/22" ],
+    "ipv6": [ ]
+  }
+}

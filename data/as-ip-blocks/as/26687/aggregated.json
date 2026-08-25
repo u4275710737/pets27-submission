@@ -1,0 +1,16 @@
+{
+  "asn": 26687,
+  "metadata": {
+    "handle": "JHS-CORP",
+    "description": "Jackson Memorial Hospital Public Health",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "170.134.144.0/23", "170.134.254.0/24" ],
+    "ipv6": [ ]
+  }
+}

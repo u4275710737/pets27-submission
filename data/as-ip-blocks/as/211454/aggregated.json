@@ -1,0 +1,14 @@
+{
+  "asn": 211454,
+  "metadata": {
+    "handle": "SELECTA-AS",
+    "description": "Selecta AG",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

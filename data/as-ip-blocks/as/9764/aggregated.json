@@ -1,0 +1,14 @@
+{
+  "asn": 9764,
+  "metadata": {
+    "handle": "DAUM-NET",
+    "description": "Kakao Corp",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

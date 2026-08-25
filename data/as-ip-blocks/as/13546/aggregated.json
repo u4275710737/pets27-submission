@@ -1,0 +1,14 @@
+{
+  "asn": 13546,
+  "metadata": {
+    "handle": "INNOVATIVE-INTERFACES-INC",
+    "description": "Innovative Interfaces, Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 19867,
+  "metadata": {
+    "handle": "VOODOO1",
+    "description": "Voodoo.com Inc",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

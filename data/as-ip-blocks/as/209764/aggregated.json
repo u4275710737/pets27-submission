@@ -1,0 +1,14 @@
+{
+  "asn": 209764,
+  "metadata": {
+    "handle": "RAIDVM",
+    "description": "Dawid Iwanski",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

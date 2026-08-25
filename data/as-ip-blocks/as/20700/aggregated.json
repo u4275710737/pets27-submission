@@ -1,0 +1,14 @@
+{
+  "asn": 20700,
+  "metadata": {
+    "handle": "BRS-CH-AS01",
+    "description": "Rothschild & Co Bank AG",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

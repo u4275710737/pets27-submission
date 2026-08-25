@@ -1,0 +1,16 @@
+{
+  "asn": 17204,
+  "metadata": {
+    "handle": "AKAMAI-NOMINUM-ASN",
+    "description": "Nominum Global NameServer network",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "64.89.224.0/20", "199.119.220.0/22" ],
+    "ipv6": [ "2620:0:b60::/48" ]
+  }
+}

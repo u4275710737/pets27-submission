@@ -1,0 +1,16 @@
+{
+  "asn": 264452,
+  "metadata": {
+    "handle": "R-B-SERVICOS",
+    "description": "R & B Serviços de Telecomunicações Ltda.",
+    "countryCode": "BR",
+    "country": "Brazil",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "132.255.48.0/22" ],
+    "ipv6": [ "2804:1ee4::/32" ]
+  }
+}

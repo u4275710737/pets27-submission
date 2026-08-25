@@ -1,0 +1,4 @@
+# AS59912 (ZNU-AS)
+# University of Zanjan
+#
+185.67.12.0/22

@@ -1,0 +1,14 @@
+{
+  "asn": 206747,
+  "metadata": {
+    "handle": "NCSC",
+    "description": "UK Ministry of Defence",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "asn": 402436,
+  "metadata": {
+    "handle": "LV-NETWORKS",
+    "description": "BEACON NETWORKS LLC",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "103.60.56.0/22", "163.223.182.0/23" ],
+    "ipv6": [ ]
+  }
+}

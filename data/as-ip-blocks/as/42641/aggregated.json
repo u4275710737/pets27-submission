@@ -1,0 +1,16 @@
+{
+  "asn": 42641,
+  "metadata": {
+    "handle": "IRNET-AS",
+    "description": "IR NET Ltd",
+    "countryCode": "UA",
+    "country": "Ukraine",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "access_provider"
+  },
+  "prefixes": {
+    "ipv4": [ "193.142.219.0/24" ],
+    "ipv6": [ ]
+  }
+}

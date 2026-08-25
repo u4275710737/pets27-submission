@@ -1,0 +1,14 @@
+{
+  "asn": 974,
+  "metadata": {
+    "handle": "UTSOUTHERN",
+    "description": "The University Of Tennessee Southern",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "asn": 214192,
+  "metadata": {
+    "handle": "ESPYRCLOUDNETWORKS",
+    "description": "Milad Ahadpour",
+    "countryCode": "IR",
+    "country": "Iran",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "94.183.240.0/24", "185.215.229.0/24" ],
+    "ipv6": [ ]
+  }
+}

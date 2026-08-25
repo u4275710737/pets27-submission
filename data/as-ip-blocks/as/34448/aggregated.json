@@ -1,0 +1,16 @@
+{
+  "asn": 34448,
+  "metadata": {
+    "handle": "SNTUA-AS",
+    "description": "Limited Liability Company SNT UKRAINE",
+    "countryCode": "UA",
+    "country": "Ukraine",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "194.116.170.0/23" ],
+    "ipv6": [ ]
+  }
+}

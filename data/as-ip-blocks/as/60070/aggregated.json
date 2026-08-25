@@ -1,0 +1,14 @@
+{
+  "asn": 60070,
+  "metadata": {
+    "handle": "LENFIBER-AS-2",
+    "description": "Lenfiber S.r.l.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

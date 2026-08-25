@@ -1,0 +1,4 @@
+# AS6485 (UUNET-TECHNOLOGIES-INC)
+# UUNET Technologies Inc
+#
+198.6.16.0/22

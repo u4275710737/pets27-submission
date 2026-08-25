@@ -1,0 +1,14 @@
+{
+  "asn": 398397,
+  "metadata": {
+    "handle": "QUICKCENTRALNETWORKS",
+    "description": "QuickCentralNetworks",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

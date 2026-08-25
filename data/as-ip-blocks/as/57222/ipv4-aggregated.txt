@@ -1,0 +1,4 @@
+# AS57222 (HAASE-IT-AS)
+# Olaf Haase
+#
+195.162.4.0/23

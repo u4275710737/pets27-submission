@@ -1,0 +1,14 @@
+{
+  "asn": 208683,
+  "metadata": {
+    "handle": "DCTHEFACTORY",
+    "description": "A3bc BV",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

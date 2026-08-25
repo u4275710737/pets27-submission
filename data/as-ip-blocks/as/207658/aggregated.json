@@ -1,0 +1,14 @@
+{
+  "asn": 207658,
+  "metadata": {
+    "handle": "ZONEVOICE",
+    "description": "ZONEVOICE LIMITED",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

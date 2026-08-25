@@ -1,0 +1,16 @@
+{
+  "asn": 3288,
+  "metadata": {
+    "handle": "MOFET-AS",
+    "description": "Zipcom Communications LTD",
+    "countryCode": "IL",
+    "country": "Israel",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "192.115.88.0/21", "192.115.96.0/21" ],
+    "ipv6": [ ]
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 202738,
+  "metadata": {
+    "handle": "MITTNAT",
+    "description": "MittNat AB",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

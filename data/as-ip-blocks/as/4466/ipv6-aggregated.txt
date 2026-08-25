@@ -1,0 +1,4 @@
+# AS4466 (ASATTIDNS)
+# AT&T Global Network iDNS Service
+#
+2620:32::/48

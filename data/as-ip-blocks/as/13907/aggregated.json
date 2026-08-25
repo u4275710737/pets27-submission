@@ -1,0 +1,14 @@
+{
+  "asn": 13907,
+  "metadata": {
+    "handle": "NCR-HOSPITALITY",
+    "description": "NCR Corporation",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

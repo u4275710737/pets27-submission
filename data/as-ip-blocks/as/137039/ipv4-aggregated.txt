@@ -1,0 +1,4 @@
+# AS137039 (ZT-AS-AP)
+# Zohak Technology (Z-Tech)
+#
+103.146.198.0/24

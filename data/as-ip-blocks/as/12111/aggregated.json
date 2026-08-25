@@ -1,0 +1,14 @@
+{
+  "asn": 12111,
+  "metadata": {
+    "handle": "ONEEIGHTY-NET",
+    "description": "Visionary Communications LLC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

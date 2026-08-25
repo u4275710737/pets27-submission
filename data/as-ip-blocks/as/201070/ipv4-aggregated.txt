@@ -1,0 +1,5 @@
+# AS201070 (AS3VHOSTING)
+# Bondarenko Oksana Volodymyrivna
+#
+138.249.242.0/24
+195.64.109.0/24

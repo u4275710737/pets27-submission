@@ -1,0 +1,4 @@
+# AS269649 (FIBRASIL-INTERNET)
+# Fibrasil Internet
+#
+45.189.20.0/22

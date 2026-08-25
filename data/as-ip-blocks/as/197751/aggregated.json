@@ -1,0 +1,14 @@
+{
+  "asn": 197751,
+  "metadata": {
+    "handle": "ARKTIKA",
+    "description": "Trade and logistics facility ARKTIKA Ltd",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

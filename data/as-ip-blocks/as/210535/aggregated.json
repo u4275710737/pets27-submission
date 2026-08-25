@@ -1,0 +1,16 @@
+{
+  "asn": 210535,
+  "metadata": {
+    "handle": "LORDHOSTING",
+    "description": "Association Lordhosting",
+    "countryCode": "FR",
+    "country": "France",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "141.11.165.0/24" ],
+    "ipv6": [ ]
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 7603,
+  "metadata": {
+    "handle": "GENECOMPUTINGLTD-AP",
+    "description": "GENE COMPUTING LTD.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

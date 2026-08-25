@@ -1,0 +1,14 @@
+{
+  "asn": 136892,
+  "metadata": {
+    "handle": "BGC-AP",
+    "description": "Rackspace.com Hong Kong Limited",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

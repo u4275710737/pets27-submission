@@ -1,0 +1,14 @@
+{
+  "asn": 58525,
+  "metadata": {
+    "handle": "YAHOO-CORP-TOK3",
+    "description": "Yahoo Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

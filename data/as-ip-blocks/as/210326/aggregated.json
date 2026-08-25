@@ -1,0 +1,14 @@
+{
+  "asn": 210326,
+  "metadata": {
+    "handle": "NTTS-GIS",
+    "description": "NTT Security GmbH",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

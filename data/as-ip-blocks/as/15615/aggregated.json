@@ -1,0 +1,14 @@
+{
+  "asn": 15615,
+  "metadata": {
+    "handle": "IT-SERVICES",
+    "description": "SIA IT Services",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

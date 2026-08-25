@@ -1,0 +1,14 @@
+{
+  "asn": 23479,
+  "metadata": {
+    "handle": "TSPEC",
+    "description": "Technology Specialists",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

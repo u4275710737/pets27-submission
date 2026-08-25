@@ -1,0 +1,16 @@
+{
+  "asn": 328940,
+  "metadata": {
+    "handle": "VCL8-AS",
+    "description": "Vovida Communications Ltd",
+    "countryCode": "NG",
+    "country": "Nigeria",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "102.218.116.0/23", "102.218.119.0/24" ],
+    "ipv6": [ ]
+  }
+}

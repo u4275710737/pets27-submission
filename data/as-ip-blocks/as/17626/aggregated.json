@@ -1,0 +1,16 @@
+{
+  "asn": 17626,
+  "metadata": {
+    "handle": "YNL-AS-AP",
+    "description": "Yasuda Network LTD",
+    "countryCode": "GB",
+    "country": "United Kingdom",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ "2001:df0:c940::/48" ]
+  }
+}

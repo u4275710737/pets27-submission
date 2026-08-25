@@ -1,0 +1,16 @@
+{
+  "asn": 271465,
+  "metadata": {
+    "handle": "FIBRA7-TELECOM",
+    "description": "FIBRA7 TELECOM LTDA",
+    "countryCode": "BR",
+    "country": "Brazil",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ ]
+  }
+}

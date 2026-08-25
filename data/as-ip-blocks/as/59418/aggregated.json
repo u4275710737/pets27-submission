@@ -1,0 +1,16 @@
+{
+  "asn": 59418,
+  "metadata": {
+    "handle": "NEWTECHNOLOGIES-AS",
+    "description": "CJSC Telecommunications 21",
+    "countryCode": "RU",
+    "country": "Russia",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "193.35.42.0/23" ],
+    "ipv6": [ ]
+  }
+}

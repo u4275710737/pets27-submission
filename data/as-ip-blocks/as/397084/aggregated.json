@@ -1,0 +1,14 @@
+{
+  "asn": 397084,
+  "metadata": {
+    "handle": "SOLV-01",
+    "description": "Solvaris, Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

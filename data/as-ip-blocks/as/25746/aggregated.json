@@ -1,0 +1,16 @@
+{
+  "asn": 25746,
+  "metadata": {
+    "handle": "UNISYSASN25746",
+    "description": "Unisys Corporation",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "129.220.48.0/20", "129.220.64.0/19" ],
+    "ipv6": [ ]
+  }
+}

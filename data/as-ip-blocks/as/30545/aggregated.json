@@ -1,0 +1,14 @@
+{
+  "asn": 30545,
+  "metadata": {
+    "handle": "LANDUSCOOPERATIVE",
+    "description": "Landus Cooperative",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

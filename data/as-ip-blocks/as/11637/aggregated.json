@@ -1,0 +1,14 @@
+{
+  "asn": 11637,
+  "metadata": {
+    "handle": "METRODATAPATH",
+    "description": "MetroDataPath Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

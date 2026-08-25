@@ -1,0 +1,16 @@
+{
+  "asn": 63094,
+  "metadata": {
+    "handle": "JAIXP-SERVICES",
+    "description": "Office of Utilities Regulation",
+    "countryCode": "JM",
+    "country": "Jamaica",
+    "origin": "authoritative",
+    "category": "government_admin",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "149.112.196.0/24" ],
+    "ipv6": [ "2602:81d:5000::/44" ]
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 141021,
+  "metadata": {
+    "handle": "GEEDGENET-AS-AP",
+    "description": "GeedgeNet",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

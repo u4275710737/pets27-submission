@@ -1,0 +1,14 @@
+{
+  "asn": 153660,
+  "metadata": {
+    "handle": "QLSC-AS-AP",
+    "description": "Quad L Solutions Corp.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

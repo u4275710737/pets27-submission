@@ -1,0 +1,4 @@
+# AS35282 (ARAMEX-AS)
+# Aramex International Services Jordan LLC
+#
+193.189.148.0/24

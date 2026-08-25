@@ -1,0 +1,14 @@
+{
+  "asn": 35878,
+  "metadata": {
+    "handle": "DEKAL-WIRELESS-JM",
+    "description": "Dekal Wireless Jamaica Limited",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

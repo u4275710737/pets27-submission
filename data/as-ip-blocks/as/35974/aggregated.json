@@ -1,0 +1,16 @@
+{
+  "asn": 35974,
+  "metadata": {
+    "handle": "CARPATHIA-ASN",
+    "description": "Carpathia Hosting Toronto",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "173.245.120.0/23" ],
+    "ipv6": [ ]
+  }
+}

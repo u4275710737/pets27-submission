@@ -1,0 +1,14 @@
+{
+  "asn": 139907,
+  "metadata": {
+    "handle": "PARSA-AP",
+    "description": "PARSA TELECOMMUNICATION PVT. LTD.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

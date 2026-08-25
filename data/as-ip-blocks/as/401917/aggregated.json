@@ -1,0 +1,16 @@
+{
+  "asn": 401917,
+  "metadata": {
+    "handle": "SUNY-COBLESKILL",
+    "description": "The State University of New York College of Agriculture and Technology at Cobleskill",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "education_research",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "137.36.0.0/16" ],
+    "ipv6": [ ]
+  }
+}

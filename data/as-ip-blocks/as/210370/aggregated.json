@@ -1,0 +1,14 @@
+{
+  "asn": 210370,
+  "metadata": {
+    "handle": "LSPISP",
+    "description": "LSPISP IT & INFORMATION TECHNOLOGY LTD",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

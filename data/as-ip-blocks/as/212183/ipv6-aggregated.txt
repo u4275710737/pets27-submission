@@ -1,0 +1,4 @@
+# AS212183 (HOUSENET)
+# House Net LLC
+#
+2001:67c:924::/48

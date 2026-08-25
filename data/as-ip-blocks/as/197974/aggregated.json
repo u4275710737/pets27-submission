@@ -1,0 +1,16 @@
+{
+  "asn": 197974,
+  "metadata": {
+    "handle": "PLYM-AS",
+    "description": "Vladislav Nitsenko",
+    "countryCode": "EE",
+    "country": "Estonia",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "31.76.38.0/23", "31.76.91.0/24", "31.76.113.0/24", "31.76.119.0/24", "31.76.249.0/24", "31.76.250.0/24", "31.77.201.0/24" ],
+    "ipv6": [ "2a0d:d940:121::/48", "2a0d:d940:124::/47", "2a10:ab80:400::/46" ]
+  }
+}

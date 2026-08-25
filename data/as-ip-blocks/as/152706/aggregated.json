@@ -1,0 +1,14 @@
+{
+  "asn": 152706,
+  "metadata": {
+    "handle": "TNC-AS-AP",
+    "description": "Neotel",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

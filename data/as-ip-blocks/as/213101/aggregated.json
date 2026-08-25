@@ -1,0 +1,14 @@
+{
+  "asn": 213101,
+  "metadata": {
+    "handle": "TAKEAWAY",
+    "description": "Takeaway.com Group B.V.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

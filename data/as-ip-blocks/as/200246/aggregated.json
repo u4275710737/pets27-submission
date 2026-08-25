@@ -1,0 +1,14 @@
+{
+  "asn": 200246,
+  "metadata": {
+    "handle": "MARTIAN111-AS1",
+    "description": "Martin Lui",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

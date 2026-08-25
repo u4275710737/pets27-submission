@@ -1,0 +1,16 @@
+{
+  "asn": 275634,
+  "metadata": {
+    "handle": "SPEED-MULTIMIDIA-PROVIMENTO",
+    "description": "SPEED MULTIMIDIA E PROVIMENTO",
+    "countryCode": "BR",
+    "country": "Brazil",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "191.227.132.0/23" ],
+    "ipv6": [ "2804:979c::/32" ]
+  }
+}

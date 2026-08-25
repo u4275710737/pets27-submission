@@ -1,0 +1,14 @@
+{
+  "asn": 199092,
+  "metadata": {
+    "handle": "CORTEX-IT",
+    "description": "Cortex IT SA",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 27626,
+  "metadata": {
+    "handle": "JOYTEL",
+    "description": "Joytel",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

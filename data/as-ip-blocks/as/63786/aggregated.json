@@ -1,0 +1,14 @@
+{
+  "asn": 63786,
+  "metadata": {
+    "handle": "MARCHE",
+    "description": "Mercari Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 30288,
+  "metadata": {
+    "handle": "ANRO-INC",
+    "description": "ANRO, Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

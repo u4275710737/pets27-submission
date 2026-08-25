@@ -1,0 +1,14 @@
+{
+  "asn": 14311,
+  "metadata": {
+    "handle": "XO-ASN2",
+    "description": "Verizon Business",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

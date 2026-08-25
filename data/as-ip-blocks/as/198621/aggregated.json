@@ -1,0 +1,16 @@
+{
+  "asn": 198621,
+  "metadata": {
+    "handle": "KLAUS-ONL",
+    "description": "Bernd Klaus",
+    "countryCode": "AT",
+    "country": "Austria",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "195.58.128.0/24" ],
+    "ipv6": [ "2a06:9801:281::/48", "2a06:9801:2bc::/48" ]
+  }
+}

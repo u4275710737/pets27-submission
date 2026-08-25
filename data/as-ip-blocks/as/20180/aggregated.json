@@ -1,0 +1,14 @@
+{
+  "asn": 20180,
+  "metadata": {
+    "handle": "SA-1TEL",
+    "description": "1tel S.A.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

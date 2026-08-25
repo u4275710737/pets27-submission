@@ -1,0 +1,14 @@
+{
+  "asn": 153812,
+  "metadata": {
+    "handle": "MSMEHEDITRADERS-AS-AP",
+    "description": "M/S Mehedi Traders",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 211199,
+  "metadata": {
+    "handle": "LIPTEL-AS",
+    "description": "LLC BIGNET UKRAINE",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

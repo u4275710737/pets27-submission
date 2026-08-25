@@ -1,0 +1,14 @@
+{
+  "asn": 139133,
+  "metadata": {
+    "handle": "GZ-EGOVNET",
+    "description": "Guangzhou Digital Government Operation Center",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 23139,
+  "metadata": {
+    "handle": "IHI",
+    "description": "Intelligent Holdings Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

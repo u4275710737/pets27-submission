@@ -1,0 +1,16 @@
+{
+  "asn": 402221,
+  "metadata": {
+    "handle": "NET",
+    "description": "Exaserver LLC",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "16.216.29.0/24", "16.216.157.0/24", "16.217.127.0/24", "199.235.102.0/24", "199.235.197.0/24" ],
+    "ipv6": [ ]
+  }
+}

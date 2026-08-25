@@ -1,0 +1,14 @@
+{
+  "asn": 1076,
+  "metadata": {
+    "handle": "TNC-WIRELESS-LTD-22",
+    "description": "TNC Wireless Limited",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

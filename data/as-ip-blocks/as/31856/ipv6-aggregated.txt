@@ -1,0 +1,4 @@
+# AS31856 (YO-AS31856)
+# YoAfricaCore
+#
+2c0f:f4a0::/32

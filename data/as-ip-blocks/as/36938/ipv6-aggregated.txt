@@ -1,0 +1,4 @@
+# AS36938 (AMSCOTELECOMS)
+# Amsco Telecommunications Nigeria Limited
+#
+2c0f:f098::/32

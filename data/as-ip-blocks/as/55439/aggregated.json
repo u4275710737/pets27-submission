@@ -1,0 +1,14 @@
+{
+  "asn": 55439,
+  "metadata": {
+    "handle": "ISC-PEK2",
+    "description": "Internet Systems Consortium",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

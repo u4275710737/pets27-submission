@@ -1,0 +1,14 @@
+{
+  "asn": 136549,
+  "metadata": {
+    "handle": "NET-AP",
+    "description": "NetStrategy Pty Ltd",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

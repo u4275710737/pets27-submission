@@ -1,0 +1,14 @@
+{
+  "asn": 21596,
+  "metadata": {
+    "handle": "AHCA",
+    "description": "AHCA",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 32538,
+  "metadata": {
+    "handle": "KOMATUSU-AMERICA-CORPORATION",
+    "description": "Komatsu America Corporation",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

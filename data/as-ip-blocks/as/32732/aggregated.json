@@ -1,0 +1,14 @@
+{
+  "asn": 32732,
+  "metadata": {
+    "handle": "DCT-TELECOM",
+    "description": "Momentum Telecom, Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

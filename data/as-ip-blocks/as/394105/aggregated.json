@@ -1,0 +1,16 @@
+{
+  "asn": 394105,
+  "metadata": {
+    "handle": "AMTRUST-INTERNET-ASN",
+    "description": "AmTrust Internet Facing ASN",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "172.110.248.0/22", "185.111.20.0/24", "185.111.22.0/23" ],
+    "ipv6": [ ]
+  }
+}

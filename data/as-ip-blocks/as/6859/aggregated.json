@@ -1,0 +1,14 @@
+{
+  "asn": 6859,
+  "metadata": {
+    "handle": "KCP-AS",
+    "description": "DIGITAL CONTINUITY LIMITED",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

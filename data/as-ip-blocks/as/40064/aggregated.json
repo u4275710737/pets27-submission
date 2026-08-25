@@ -1,0 +1,14 @@
+{
+  "asn": 40064,
+  "metadata": {
+    "handle": "AMATEUR-IX",
+    "description": "Austin Hadley Sole Proprietorship",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

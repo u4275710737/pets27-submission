@@ -1,0 +1,14 @@
+{
+  "asn": 57731,
+  "metadata": {
+    "handle": "DIVINETWORKS",
+    "description": "DiViNetworks LTD.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

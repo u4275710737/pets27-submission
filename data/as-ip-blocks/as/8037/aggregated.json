@@ -1,0 +1,14 @@
+{
+  "asn": 8037,
+  "metadata": {
+    "handle": "MTB",
+    "description": "Manufacturers and Traders Trust Company",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

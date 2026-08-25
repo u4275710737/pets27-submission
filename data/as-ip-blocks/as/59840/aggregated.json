@@ -1,0 +1,16 @@
+{
+  "asn": 59840,
+  "metadata": {
+    "handle": "BALTBANK-AS",
+    "description": "JSC Alfa-Bank",
+    "countryCode": "RU",
+    "country": "Russia",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "185.154.124.0/24" ],
+    "ipv6": [ ]
+  }
+}

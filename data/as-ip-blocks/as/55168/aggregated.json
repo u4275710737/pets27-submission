@@ -1,0 +1,16 @@
+{
+  "asn": 55168,
+  "metadata": {
+    "handle": "ACAB-INC",
+    "description": "All Computers Are Brilliant Inc.",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ ]
+  }
+}

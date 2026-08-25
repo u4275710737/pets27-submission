@@ -1,0 +1,14 @@
+{
+  "asn": 132577,
+  "metadata": {
+    "handle": "ORPL-AP",
+    "description": "OrionVM Retail Pty Ltd",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

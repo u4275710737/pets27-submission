@@ -1,0 +1,16 @@
+{
+  "asn": 202068,
+  "metadata": {
+    "handle": "ROCKJ",
+    "description": "ROY SINDRE NORANGSHOL",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": [
+      "2001:67c:550::/48"
+    ]
+  }
+}

@@ -1,0 +1,4 @@
+# AS46646 (ASBOTTOMLINE)
+# Bottomline Technologies AS Number
+#
+2620:101:e000::/47

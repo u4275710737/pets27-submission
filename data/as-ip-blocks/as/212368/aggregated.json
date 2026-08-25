@@ -1,0 +1,14 @@
+{
+  "asn": 212368,
+  "metadata": {
+    "handle": "GLOBAHUB-NET",
+    "description": "GlobaHub AG",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

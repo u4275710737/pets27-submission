@@ -1,0 +1,14 @@
+{
+  "asn": 207854,
+  "metadata": {
+    "handle": "CSG-NETWORK",
+    "description": "CSG S.A.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

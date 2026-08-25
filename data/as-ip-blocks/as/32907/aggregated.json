@@ -1,0 +1,16 @@
+{
+  "asn": 32907,
+  "metadata": {
+    "handle": "STTHOMAS",
+    "description": "University of St. Thomas",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "education_research",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "140.209.0.0/18" ],
+    "ipv6": [ ]
+  }
+}

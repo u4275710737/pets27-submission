@@ -1,0 +1,14 @@
+{
+  "asn": 204549,
+  "metadata": {
+    "handle": "LONTWEB-AS",
+    "description": "PE Bilkey Andrey Yosypovych",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "asn": 327912,
+  "metadata": {
+    "handle": "AS-NHIF",
+    "description": "NHIF TZ",
+    "countryCode": "TZ",
+    "country": "Tanzania",
+    "origin": "authoritative",
+    "category": "government_admin",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "196.13.105.0/24" ],
+    "ipv6": [ ]
+  }
+}

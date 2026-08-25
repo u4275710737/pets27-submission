@@ -1,0 +1,14 @@
+{
+  "asn": 206936,
+  "metadata": {
+    "handle": "AS206936",
+    "description": "Sopra Financial Technology GmbH",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "asn": 202294,
+  "metadata": {
+    "handle": "NETLOJIK-BT",
+    "description": "Netlojik Bilgi Teknolojileri Sanayi ve Ticaret Limited Sirketi",
+    "countryCode": "TR",
+    "country": "Türkiye",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "access_provider"
+  },
+  "prefixes": {
+    "ipv4": [ "31.58.244.0/24", "38.97.88.0/23", "155.103.248.0/24", "185.227.73.0/24", "192.209.62.0/24" ],
+    "ipv6": [ ]
+  }
+}

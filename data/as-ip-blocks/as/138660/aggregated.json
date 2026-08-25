@@ -1,0 +1,14 @@
+{
+  "asn": 138660,
+  "metadata": {
+    "handle": "HOMTECH-AP",
+    "description": "Homtech",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

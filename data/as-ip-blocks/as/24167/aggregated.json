@@ -1,0 +1,14 @@
+{
+  "asn": 24167,
+  "metadata": {
+    "handle": "ASNET",
+    "description": "Academia Sinica",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

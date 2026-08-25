@@ -1,0 +1,14 @@
+{
+  "asn": 199077,
+  "metadata": {
+    "handle": "AS-SIONDEV",
+    "description": "SIONDEV AG",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

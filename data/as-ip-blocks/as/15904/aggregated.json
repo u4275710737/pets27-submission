@@ -1,0 +1,14 @@
+{
+  "asn": 15904,
+  "metadata": {
+    "handle": "HALLERTAU-DE",
+    "description": "Hallertau.Net e.V.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

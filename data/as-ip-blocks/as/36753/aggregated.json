@@ -1,0 +1,14 @@
+{
+  "asn": 36753,
+  "metadata": {
+    "handle": "SSF-AUTO-PARTS",
+    "description": "SSF Imported Autoparts Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

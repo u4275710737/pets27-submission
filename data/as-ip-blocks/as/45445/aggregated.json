@@ -1,0 +1,16 @@
+{
+  "asn": 45445,
+  "metadata": {
+    "handle": "GM-AP-GMKOREA",
+    "description": "GENERAL MOTORS OVERSEAS DISTRIBUTION LLC",
+    "countryCode": "SG",
+    "country": "Singapore",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "198.208.104.0/23", "198.208.108.0/23", "198.208.111.0/24", "198.208.177.0/24" ],
+    "ipv6": [ ]
+  }
+}

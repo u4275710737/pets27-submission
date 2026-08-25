@@ -1,0 +1,7 @@
+# AS58255 (INRRAS)
+# Institute for Nuclear Research of the Russian Academy of Sciences
+#
+185.207.88.0/22
+192.203.80.0/24
+193.232.24.0/24
+194.85.208.0/24

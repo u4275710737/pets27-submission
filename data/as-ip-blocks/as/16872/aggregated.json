@@ -1,0 +1,16 @@
+{
+  "asn": 16872,
+  "metadata": {
+    "handle": "PIKE-EXTERNAL-BGP-RAL",
+    "description": "Pike Enterprises LLC",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "104.218.26.0/24" ],
+    "ipv6": [ ]
+  }
+}

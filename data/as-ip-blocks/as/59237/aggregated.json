@@ -1,0 +1,14 @@
+{
+  "asn": 59237,
+  "metadata": {
+    "handle": "HKNIS-AS-AP",
+    "description": "Hong Kong Network Information Service",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 31553,
+  "metadata": {
+    "handle": "EDPNETRU",
+    "description": "Talessa SPRL",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

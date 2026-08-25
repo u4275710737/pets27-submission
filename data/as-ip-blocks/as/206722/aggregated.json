@@ -1,0 +1,16 @@
+{
+  "asn": 206722,
+  "metadata": {
+    "handle": "LUXAIR-AS",
+    "description": "LUXAIR Societe Luxembourgeoise de Navigation Aerienne S.A.",
+    "countryCode": "LU",
+    "country": "Luxembourg",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "62.233.40.0/24" ],
+    "ipv6": [ ]
+  }
+}

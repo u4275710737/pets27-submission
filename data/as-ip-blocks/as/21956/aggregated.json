@@ -1,0 +1,14 @@
+{
+  "asn": 21956,
+  "metadata": {
+    "handle": "SOLON-BOARD-OF-EDUCATION",
+    "description": "Solon Board of Education",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "asn": 154628,
+  "metadata": {
+    "handle": "IDNIC-SMUNET-AS-ID",
+    "description": "PT Sinergi Multidata Utama",
+    "countryCode": "ID",
+    "country": "Indonesia",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "103.173.163.0/24", "163.128.183.0/24" ],
+    "ipv6": [ ]
+  }
+}

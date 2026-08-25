@@ -1,0 +1,14 @@
+{
+  "asn": 14077,
+  "metadata": {
+    "handle": "AMBIENT-BROADBAND",
+    "description": "Ambient Broadband",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

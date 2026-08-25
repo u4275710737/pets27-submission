@@ -1,0 +1,14 @@
+{
+  "asn": 24426,
+  "metadata": {
+    "handle": "CNNIC-SINO-I",
+    "description": "Beijing CE Huatong Information Technology Co. Ltd.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 39141,
+  "metadata": {
+    "handle": "DIPUTACION-DE-MALAGA",
+    "description": "Excma. Diputacion Provincial de Malaga",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

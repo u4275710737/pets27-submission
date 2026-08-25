@@ -1,0 +1,16 @@
+{
+  "asn": 215402,
+  "metadata": {
+    "handle": "ASAD-AS",
+    "description": "Asadov Ruslan Rafaelevich",
+    "countryCode": "RU",
+    "country": "Russia",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "84.21.190.0/24" ],
+    "ipv6": [ ]
+  }
+}

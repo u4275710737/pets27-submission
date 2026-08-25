@@ -1,0 +1,16 @@
+{
+  "asn": 154598,
+  "metadata": {
+    "handle": "IRINN-CNSPLD-AS-IN",
+    "description": "COUNTRYNET SOLUTIONS PVT LTD",
+    "countryCode": "IN",
+    "country": "India",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "163.128.178.0/23" ],
+    "ipv6": [ ]
+  }
+}

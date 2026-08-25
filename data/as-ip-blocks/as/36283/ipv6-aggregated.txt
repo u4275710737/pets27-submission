@@ -1,0 +1,5 @@
+# AS36283 (AS-RIVERWAVE)
+# Riverwave LLC
+#
+2001:4850:f000::/36
+2605:24c0::/32

@@ -1,0 +1,14 @@
+{
+  "asn": 139968,
+  "metadata": {
+    "handle": "IDNIC-RISTEKBRIN-ID",
+    "description": "Kementerian Riset dan Teknologi / Badan Riset dan Inovasi Nasional",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

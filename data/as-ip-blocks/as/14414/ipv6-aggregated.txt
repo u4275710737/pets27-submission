@@ -1,0 +1,3 @@
+# AS14414 (CROSSBRDG-ASN01)
+# Telit IoT Platforms LLC
+#

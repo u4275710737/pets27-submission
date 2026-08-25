@@ -1,0 +1,4 @@
+# AS199087 (KASENET)
+# KaseNet Oy
+#
+89.190.0.0/19

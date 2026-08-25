@@ -1,0 +1,14 @@
+{
+  "asn": 11376,
+  "metadata": {
+    "handle": "CHOICE-BGP",
+    "description": "Choice Logistics, Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

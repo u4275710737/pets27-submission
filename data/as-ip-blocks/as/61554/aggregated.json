@@ -1,0 +1,14 @@
+{
+  "asn": 61554,
+  "metadata": {
+    "handle": "CABASE-CAMARA-ARG",
+    "description": "CABASE Camara Arg de Base de Datos y Serv en Linea",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 400413,
+  "metadata": {
+    "handle": "FL745",
+    "description": "Fortyfi LLC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

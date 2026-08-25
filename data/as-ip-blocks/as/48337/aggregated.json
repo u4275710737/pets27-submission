@@ -1,0 +1,14 @@
+{
+  "asn": 48337,
+  "metadata": {
+    "handle": "LINODE",
+    "description": "Linode, LLC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

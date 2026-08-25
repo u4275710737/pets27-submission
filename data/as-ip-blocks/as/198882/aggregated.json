@@ -1,0 +1,14 @@
+{
+  "asn": 198882,
+  "metadata": {
+    "handle": "KVKRAJ",
+    "description": "Karlovarsky Kraj",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

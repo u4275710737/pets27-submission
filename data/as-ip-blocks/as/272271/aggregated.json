@@ -1,0 +1,14 @@
+{
+  "asn": 272271,
+  "metadata": {
+    "handle": "SALVADORTECH-TELECOMUNICACOES",
+    "description": "SALVADORTECH TELECOMUNICACOES",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

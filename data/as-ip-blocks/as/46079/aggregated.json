@@ -1,0 +1,14 @@
+{
+  "asn": 46079,
+  "metadata": {
+    "handle": "SPU-AP",
+    "description": "Sripatum Univeristy",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,4 @@
+# AS134562 (DISCOVERY-INTERNET-AS-AP)
+# Discovery Internet
+#
+2403:5a40::/40

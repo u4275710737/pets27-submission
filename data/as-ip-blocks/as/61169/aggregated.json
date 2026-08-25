@@ -1,0 +1,14 @@
+{
+  "asn": 61169,
+  "metadata": {
+    "handle": "SPORKNET",
+    "description": "Nej.cz s.r.o.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

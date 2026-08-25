@@ -1,0 +1,14 @@
+{
+  "asn": 2646,
+  "metadata": {
+    "handle": "CONEXANT",
+    "description": "Synaptics Incorporated",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

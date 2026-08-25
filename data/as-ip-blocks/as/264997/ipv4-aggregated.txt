@@ -1,0 +1,5 @@
+# AS264997 (DIRECT-TELECOM)
+# Direct Telecom Ltda
+#
+170.84.144.0/22
+177.12.144.0/21

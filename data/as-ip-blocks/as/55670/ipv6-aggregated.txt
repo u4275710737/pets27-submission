@@ -1,0 +1,4 @@
+# AS55670 (UNIVERSALNET-AS-ID)
+# PT. Universal Broadband
+#
+2400:fb00::/32

@@ -1,0 +1,14 @@
+{
+  "asn": 62176,
+  "metadata": {
+    "handle": "EZETRADING",
+    "description": "DWDNEJ a.s.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

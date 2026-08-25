@@ -1,0 +1,5 @@
+# AS45401 (NICEVAN02-AS)
+# NICE Information Telecommunication Inc
+#
+121.133.126.0/24
+211.44.32.0/24

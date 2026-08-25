@@ -1,0 +1,14 @@
+{
+  "asn": 62703,
+  "metadata": {
+    "handle": "HSTDVSYS",
+    "description": "Bespoke Software, Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

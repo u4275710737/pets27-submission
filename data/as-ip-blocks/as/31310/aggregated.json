@@ -1,0 +1,16 @@
+{
+  "asn": 31310,
+  "metadata": {
+    "handle": "PL-AXIT-AS",
+    "description": "Siemens Industry Software Sp. z o.o.",
+    "countryCode": "PL",
+    "country": "Poland",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "193.22.175.0/24" ],
+    "ipv6": [ ]
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 60945,
+  "metadata": {
+    "handle": "VELOXSERV-LEGACY",
+    "description": "VeloxServ Communications Ltd",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

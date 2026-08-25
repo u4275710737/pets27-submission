@@ -1,0 +1,14 @@
+{
+  "asn": 28310,
+  "metadata": {
+    "handle": "ALGAR-TELECOM",
+    "description": "ALGAR TELECOM S/A",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

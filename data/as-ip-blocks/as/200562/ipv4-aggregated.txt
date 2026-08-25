@@ -1,0 +1,5 @@
+# AS200562 (WELLTEL-IE)
+# Welltel (Ireland) Ltd
+#
+146.255.116.0/22
+185.75.144.0/22

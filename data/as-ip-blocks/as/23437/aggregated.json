@@ -1,0 +1,16 @@
+{
+  "asn": 23437,
+  "metadata": {
+    "handle": "INFINITY-FL",
+    "description": "Infinity Broadband",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "23.153.184.0/24", "38.95.21.0/24" ],
+    "ipv6": [ "2607:49c0::/42", "2607:49c0:40::/43" ]
+  }
+}

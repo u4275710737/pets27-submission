@@ -1,0 +1,14 @@
+{
+  "asn": 141598,
+  "metadata": {
+    "handle": "IDNIC-MCTM-ID",
+    "description": "PT Mitra Catv Trijaya Multimedia",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

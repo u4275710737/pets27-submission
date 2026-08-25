@@ -1,0 +1,14 @@
+{
+  "asn": 328992,
+  "metadata": {
+    "handle": "BONUS-1000F",
+    "description": "Bonus 1000F",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

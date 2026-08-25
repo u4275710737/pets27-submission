@@ -1,0 +1,6 @@
+# AS199096 (LOGOS-AS)
+# JSC Digital network Logos
+#
+5.187.40.0/21
+85.172.168.0/23
+185.7.84.0/22

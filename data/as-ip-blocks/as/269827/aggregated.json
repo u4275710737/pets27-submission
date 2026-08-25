@@ -1,0 +1,14 @@
+{
+  "asn": 269827,
+  "metadata": {
+    "handle": "VIGINET-CA",
+    "description": "VIGINET C.A",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

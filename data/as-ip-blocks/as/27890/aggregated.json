@@ -1,0 +1,14 @@
+{
+  "asn": 27890,
+  "metadata": {
+    "handle": "UNIVERSIDAD-ORIENTE",
+    "description": "Universidad de Oriente",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

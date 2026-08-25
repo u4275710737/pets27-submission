@@ -1,0 +1,14 @@
+{
+  "asn": 197665,
+  "metadata": {
+    "handle": "SKPLAST",
+    "description": "LLC CITY STROY",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

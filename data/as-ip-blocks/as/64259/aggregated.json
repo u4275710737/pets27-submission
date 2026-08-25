@@ -1,0 +1,14 @@
+{
+  "asn": 64259,
+  "metadata": {
+    "handle": "STACKPATH",
+    "description": "StackPath, LLC.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

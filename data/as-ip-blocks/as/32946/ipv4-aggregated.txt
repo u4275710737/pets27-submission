@@ -1,0 +1,5 @@
+# AS32946 (RPU-1892)
+# Rochester Public Utilities
+#
+64.61.192.0/24
+155.103.182.0/24

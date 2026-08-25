@@ -1,0 +1,14 @@
+{
+  "asn": 48983,
+  "metadata": {
+    "handle": "LETZI",
+    "description": "Artmotion AG",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

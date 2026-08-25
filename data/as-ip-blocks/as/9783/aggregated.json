@@ -1,0 +1,14 @@
+{
+  "asn": 9783,
+  "metadata": {
+    "handle": "DLA-AS",
+    "description": "KoROAD",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

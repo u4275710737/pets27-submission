@@ -1,0 +1,14 @@
+{
+  "asn": 207834,
+  "metadata": {
+    "handle": "DIRE-NET",
+    "description": "Dino Rezes",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

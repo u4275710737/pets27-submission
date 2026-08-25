@@ -1,0 +1,16 @@
+{
+  "asn": 275675,
+  "metadata": {
+    "handle": "MEGA-INFRA-SOLUCOES",
+    "description": "MEGA INFRA SOLUCOES EM INFRAESTRUTURA LTDA",
+    "countryCode": "BR",
+    "country": "Brazil",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ "2804:9834::/32" ]
+  }
+}

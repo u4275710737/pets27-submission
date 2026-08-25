@@ -1,0 +1,14 @@
+{
+  "asn": 199999,
+  "metadata": {
+    "handle": "BNNIT",
+    "description": "AKVA group ASA",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

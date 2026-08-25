@@ -1,0 +1,4 @@
+# AS4040 (KORNET-PS-AS)
+# Korea Telecom
+#
+14.49.22.0/24

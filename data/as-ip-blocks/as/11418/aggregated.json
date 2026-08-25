@@ -1,0 +1,16 @@
+{
+  "asn": 11418,
+  "metadata": {
+    "handle": "LIGHTEDGE-AS-03",
+    "description": "LightEdge Solutions",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "216.243.213.0/24" ],
+    "ipv6": [ "2607:f190::/36" ]
+  }
+}

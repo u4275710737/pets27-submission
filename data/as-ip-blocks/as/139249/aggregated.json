@@ -1,0 +1,14 @@
+{
+  "asn": 139249,
+  "metadata": {
+    "handle": "ENMOE-CN",
+    "description": "Wuhan LSHIY Network Technology Co., Ltd.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

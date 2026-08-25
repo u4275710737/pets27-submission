@@ -1,0 +1,14 @@
+{
+  "asn": 45306,
+  "metadata": {
+    "handle": "KTP-AS-ID",
+    "description": "KHASANAH TEKNOLOGI PERSADA PT",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

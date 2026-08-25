@@ -1,0 +1,14 @@
+{
+  "asn": 35414,
+  "metadata": {
+    "handle": "EMA",
+    "description": "European Medicines Agency",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

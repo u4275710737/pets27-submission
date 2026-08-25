@@ -1,0 +1,5 @@
+# AS135124 (AS-VPSESNET-RIPE)
+# Green Surma Communications
+#
+103.135.172.0/23
+103.135.175.0/24

@@ -1,0 +1,16 @@
+{
+  "asn": 12455,
+  "metadata": {
+    "handle": "JAMBONET",
+    "description": "Jambonet Autonomous System",
+    "countryCode": "KE",
+    "country": "Kenya",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "access_provider"
+  },
+  "prefixes": {
+    "ipv4": [ "62.24.96.0/19", "102.166.0.0/15", "154.122.0.0/15", "196.202.192.0/19", "197.156.128.0/18", "212.49.64.0/19" ],
+    "ipv6": [ "2c0f:fb60::/32" ]
+  }
+}

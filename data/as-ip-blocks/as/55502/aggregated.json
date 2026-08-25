@@ -1,0 +1,14 @@
+{
+  "asn": 55502,
+  "metadata": {
+    "handle": "NZICA-NET-NZ",
+    "description": "Institute of Chartered Accountants of New Zealand",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

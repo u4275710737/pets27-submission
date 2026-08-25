@@ -1,0 +1,16 @@
+{
+  "asn": 214670,
+  "metadata": {
+    "handle": "NOMETRIC-NET",
+    "description": "No Metric Limited",
+    "countryCode": "GB",
+    "country": "United Kingdom",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "content_network"
+  },
+  "prefixes": {
+    "ipv4": [ "195.5.161.0/24" ],
+    "ipv6": [ "2a06:8184::/31" ]
+  }
+}

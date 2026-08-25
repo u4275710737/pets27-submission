@@ -1,0 +1,16 @@
+{
+  "asn": 36857,
+  "metadata": {
+    "handle": "FREUDE",
+    "description": "Freudenberg-NOK General Parternership",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "access_provider"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ ]
+  }
+}

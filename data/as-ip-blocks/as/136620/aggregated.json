@@ -1,0 +1,14 @@
+{
+  "asn": 136620,
+  "metadata": {
+    "handle": "MYTHIC",
+    "description": "Mythic Beasts Ltd",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

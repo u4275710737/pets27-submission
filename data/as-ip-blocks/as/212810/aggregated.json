@@ -1,0 +1,16 @@
+{
+  "asn": 212810,
+  "metadata": {
+    "handle": "GODLIKE-MNT",
+    "description": "GODLIKE DIGITAL SOLUTIONS S.R.L.",
+    "countryCode": "RO",
+    "country": "Romania",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "85.115.209.0/24" ],
+    "ipv6": [ ]
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 265845,
+  "metadata": {
+    "handle": "GONZALEZ-JORGE-TOMAS",
+    "description": "Gonzalez Jorge Tomas.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

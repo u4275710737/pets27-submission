@@ -1,0 +1,14 @@
+{
+  "asn": 24643,
+  "metadata": {
+    "handle": "NL-LIBERTYGLOBAL",
+    "description": "Liberty Global Europe Holding B.V.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

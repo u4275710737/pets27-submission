@@ -1,0 +1,5 @@
+# AS6871 (PLUSNET)
+# British Telecommunications PLC
+#
+2a02:16c8::/32
+2a06:7200::/29

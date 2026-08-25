@@ -1,0 +1,4 @@
+# AS154494 (IDNIC-SELARAS-AS-ID)
+# PT Selaras Teknologi Utama
+#
+151.158.106.0/23

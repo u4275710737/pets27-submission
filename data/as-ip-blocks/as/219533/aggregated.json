@@ -1,0 +1,16 @@
+{
+  "asn": 219533,
+  "metadata": {
+    "handle": "AETHERON-NETWORK",
+    "description": "FRANCESCO BIONDI",
+    "countryCode": "IT",
+    "country": "Italy",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ "2001:678:3c0::/48" ]
+  }
+}

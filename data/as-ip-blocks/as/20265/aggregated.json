@@ -1,0 +1,14 @@
+{
+  "asn": 20265,
+  "metadata": {
+    "handle": "FEMSS",
+    "description": "Securitas Electronic Security, Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

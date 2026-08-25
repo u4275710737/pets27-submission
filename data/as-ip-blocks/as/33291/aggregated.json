@@ -1,0 +1,14 @@
+{
+  "asn": 33291,
+  "metadata": {
+    "handle": "MANOV-ISP",
+    "description": "Manov Investments, LLC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

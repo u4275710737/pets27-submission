@@ -1,0 +1,14 @@
+{
+  "asn": 210508,
+  "metadata": {
+    "handle": "JUSTIFI",
+    "description": "Justifi Network LLP",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 46726,
+  "metadata": {
+    "handle": "LURIELLP",
+    "description": "Lurie, LLP",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

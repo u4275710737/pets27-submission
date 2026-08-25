@@ -1,0 +1,16 @@
+{
+  "asn": 135723,
+  "metadata": {
+    "handle": "PRIMEFIBERNET-AS",
+    "description": "Prime Fibernet",
+    "countryCode": "IN",
+    "country": "India",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "103.67.16.0/22" ],
+    "ipv6": [ ]
+  }
+}

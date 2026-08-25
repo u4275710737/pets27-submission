@@ -1,0 +1,14 @@
+{
+  "asn": 59973,
+  "metadata": {
+    "handle": "NSHOST",
+    "description": "NetStream Technology Joint-Stock Private Ltd.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

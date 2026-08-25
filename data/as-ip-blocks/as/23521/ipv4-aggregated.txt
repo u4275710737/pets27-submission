@@ -1,0 +1,5 @@
+# AS23521 (BSERV-1-AS-23521)
+# Finastra Merchant Services Inc.
+#
+216.131.4.0/22
+216.131.12.0/22

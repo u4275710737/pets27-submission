@@ -1,0 +1,4 @@
+# AS59519 (APPRIVER-RIPE)
+# Zix International AG
+#
+5.152.184.0/23

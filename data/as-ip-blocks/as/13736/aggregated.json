@@ -1,0 +1,14 @@
+{
+  "asn": 13736,
+  "metadata": {
+    "handle": "FACTUAL-DATA",
+    "description": "Factual Data Corp",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 149496,
+  "metadata": {
+    "handle": "UKHBDLTD-AP",
+    "description": "UKH BD Ltd",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

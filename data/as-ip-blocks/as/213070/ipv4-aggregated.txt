@@ -1,0 +1,4 @@
+# AS213070 (MEDIAM-INT-AS)
+# Mediam Group Oy
+#
+185.33.72.0/22

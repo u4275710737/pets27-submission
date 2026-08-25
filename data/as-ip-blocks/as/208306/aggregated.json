@@ -1,0 +1,14 @@
+{
+  "asn": 208306,
+  "metadata": {
+    "handle": "LARSA",
+    "description": "Larsa Mountain for Information Technology Ltd",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

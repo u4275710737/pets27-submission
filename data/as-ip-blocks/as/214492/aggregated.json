@@ -1,0 +1,14 @@
+{
+  "asn": 214492,
+  "metadata": {
+    "handle": "FOURUPROXY",
+    "description": "Alexis Daveau trading as 4UProxy",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

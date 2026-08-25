@@ -1,0 +1,14 @@
+{
+  "asn": 15183,
+  "metadata": {
+    "handle": "QEPRESOURCES",
+    "description": "QEP Resources, Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 131990,
+  "metadata": {
+    "handle": "HAWKS-GAMING",
+    "description": "Fukuoka SoftBank Hawks",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

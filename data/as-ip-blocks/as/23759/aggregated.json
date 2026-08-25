@@ -1,0 +1,14 @@
+{
+  "asn": 23759,
+  "metadata": {
+    "handle": "PRIMENET-AS",
+    "description": "TechnoMart Information Communication Company",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

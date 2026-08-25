@@ -1,0 +1,14 @@
+{
+  "asn": 2882,
+  "metadata": {
+    "handle": "MERIT-26",
+    "description": "Merit Network Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

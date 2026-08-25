@@ -1,0 +1,14 @@
+{
+  "asn": 19034,
+  "metadata": {
+    "handle": "MLS-PIN",
+    "description": "MLS Property Information Network",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

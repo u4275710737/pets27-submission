@@ -1,0 +1,16 @@
+{
+  "asn": 66500,
+  "metadata": {
+    "handle": "CITIC-TELECOM-INTERNATIONAL",
+    "description": "CITIC Telecom International CPC Limited",
+    "countryCode": "HK",
+    "country": "Hong Kong SAR China",
+    "origin": "inferred",
+    "category": null,
+    "networkRole": null
+  },
+  "prefixes": {
+    "ipv4": [ "202.80.39.0/24" ],
+    "ipv6": [ ]
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 40664,
+  "metadata": {
+    "handle": "PNC",
+    "description": "PNC Bank, National Association",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

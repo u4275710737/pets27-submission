@@ -1,0 +1,14 @@
+{
+  "asn": 210461,
+  "metadata": {
+    "handle": "RUDAKI-IX",
+    "description": "Rudakov Ihor",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

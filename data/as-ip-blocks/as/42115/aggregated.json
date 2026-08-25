@@ -1,0 +1,16 @@
+{
+  "asn": 42115,
+  "metadata": {
+    "handle": "BASHCELL-AS",
+    "description": "MTS PJSC",
+    "countryCode": "RU",
+    "country": "Russia",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ ]
+  }
+}

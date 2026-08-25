@@ -1,0 +1,16 @@
+{
+  "asn": 154505,
+  "metadata": {
+    "handle": "IDNIC-DIGIT-AS-ID",
+    "description": "PT Dwitama Digital Teknologi",
+    "countryCode": "ID",
+    "country": "Indonesia",
+    "origin": "authoritative",
+    "category": null,
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "198.15.23.0/24" ],
+    "ipv6": [ ]
+  }
+}

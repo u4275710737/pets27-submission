@@ -1,0 +1,14 @@
+{
+  "asn": 37377,
+  "metadata": {
+    "handle": "FUTURECOM",
+    "description": "FUTURECOM LIMITED",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 44591,
+  "metadata": {
+    "handle": "TSI-AS-ING-DIRECT",
+    "description": "ING Bank N.V.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

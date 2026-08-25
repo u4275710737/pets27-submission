@@ -1,0 +1,14 @@
+{
+  "asn": 210547,
+  "metadata": {
+    "handle": "PARHAN",
+    "description": "Karno Tejarat Yasin Company PJS",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

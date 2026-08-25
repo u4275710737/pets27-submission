@@ -1,0 +1,5 @@
+# AS209183 (AKHALINET-AS)
+# AkhaliNet LLC
+#
+2a0b:6600::/32
+2a0c:f642::/32

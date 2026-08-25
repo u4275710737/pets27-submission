@@ -1,0 +1,14 @@
+{
+  "asn": 402005,
+  "metadata": {
+    "handle": "CORELOCATED-01",
+    "description": "Core Located Global LLC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

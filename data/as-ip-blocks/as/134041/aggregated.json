@@ -1,0 +1,16 @@
+{
+  "asn": 134041,
+  "metadata": {
+    "handle": "NCORECREATIVETECHNOLOGIES-AS-IN",
+    "description": "Ncore Creative Technologies Pvt.Ltd.",
+    "countryCode": "IN",
+    "country": "India",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "midsize_transit"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ "2402:ccc0::/32" ]
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 25624,
+  "metadata": {
+    "handle": "NIGHTASN",
+    "description": "Night Technologies, LLC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

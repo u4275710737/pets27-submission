@@ -1,0 +1,14 @@
+{
+  "asn": 53430,
+  "metadata": {
+    "handle": "AMERINET-GPO",
+    "description": "Vizient, Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

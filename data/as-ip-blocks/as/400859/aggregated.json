@@ -1,0 +1,14 @@
+{
+  "asn": 400859,
+  "metadata": {
+    "handle": "EXO-BROADBAND",
+    "description": "EXO BROADBAND",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

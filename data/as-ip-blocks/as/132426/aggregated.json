@@ -1,0 +1,14 @@
+{
+  "asn": 132426,
+  "metadata": {
+    "handle": "N21-MY",
+    "description": "Altel Communications Sdn Bhd",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

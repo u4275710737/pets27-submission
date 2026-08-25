@@ -1,0 +1,14 @@
+{
+  "asn": 4318,
+  "metadata": {
+    "handle": "ADC-ASN",
+    "description": "Freeport-McMoRan Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

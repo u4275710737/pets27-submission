@@ -1,0 +1,14 @@
+{
+  "asn": 43429,
+  "metadata": {
+    "handle": "UNITLINE-RST-NET1",
+    "description": "OOO MediaSeti",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

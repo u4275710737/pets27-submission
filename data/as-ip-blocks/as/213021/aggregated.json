@@ -1,0 +1,14 @@
+{
+  "asn": 213021,
+  "metadata": {
+    "handle": "PRIME-AS",
+    "description": "Prime LLC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

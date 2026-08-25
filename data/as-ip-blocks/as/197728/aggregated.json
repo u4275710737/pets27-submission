@@ -1,0 +1,16 @@
+{
+  "asn": 197728,
+  "metadata": {
+    "handle": "MVI61-AS",
+    "description": "Isaev Mikhail Vladimirovich",
+    "countryCode": "RU",
+    "country": "Russia",
+    "origin": "authoritative",
+    "category": null,
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "91.239.172.0/24" ],
+    "ipv6": [ ]
+  }
+}

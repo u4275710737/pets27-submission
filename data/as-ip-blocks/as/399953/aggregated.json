@@ -1,0 +1,16 @@
+{
+  "asn": 399953,
+  "metadata": {
+    "handle": "METHOWNET-01",
+    "description": "Okanogan County Electric Cooperative Inc.",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "government_admin",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "63.142.199.0/24", "63.142.200.0/23" ],
+    "ipv6": [ ]
+  }
+}

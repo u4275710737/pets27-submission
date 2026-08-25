@@ -1,0 +1,14 @@
+{
+  "asn": 48694,
+  "metadata": {
+    "handle": "ITF",
+    "description": "NETCITY GT Sp. z o.o.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

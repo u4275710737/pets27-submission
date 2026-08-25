@@ -1,0 +1,16 @@
+{
+  "asn": 215990,
+  "metadata": {
+    "handle": "JELL",
+    "description": "Jelle Leenaert",
+    "countryCode": "BE",
+    "country": "Belgium",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ ]
+  }
+}

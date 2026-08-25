@@ -1,0 +1,14 @@
+{
+  "asn": 55873,
+  "metadata": {
+    "handle": "SJMAPNIC-JP",
+    "description": "St. Jude Medical",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

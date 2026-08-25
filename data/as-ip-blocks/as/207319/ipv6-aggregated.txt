@@ -1,0 +1,5 @@
+# AS207319 (DIDWW-SG-AS)
+# DIDWW Ireland Limited
+#
+2a01:ad00:6::/48
+2a01:ad00:128::/48

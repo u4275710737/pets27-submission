@@ -1,0 +1,14 @@
+{
+  "asn": 140596,
+  "metadata": {
+    "handle": "STNC-AP",
+    "description": "SHENZHEN TUTENG NETWORK CO.,LTD",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

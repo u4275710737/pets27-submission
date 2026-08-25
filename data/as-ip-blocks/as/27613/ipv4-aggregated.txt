@@ -1,0 +1,5 @@
+# AS27613 (TYLERTECH-CCS1)
+# Tyler Technologies Inc.
+#
+207.245.144.0/22
+207.245.148.0/24

@@ -1,0 +1,14 @@
+{
+  "asn": 141415,
+  "metadata": {
+    "handle": "CMI-IDN-AP",
+    "description": "China Mobile International Limited",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

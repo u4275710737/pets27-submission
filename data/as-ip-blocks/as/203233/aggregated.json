@@ -1,0 +1,16 @@
+{
+  "asn": 203233,
+  "metadata": {
+    "handle": "IT-DONE-RIGHT",
+    "description": "Aleksey ten Cate trading as I.T. Done Right",
+    "countryCode": "NL",
+    "country": "Netherlands",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ "2a06:9801:28a::/48", "2a06:9801:780::/44", "2a0f:85c1:ddc::/48" ]
+  }
+}

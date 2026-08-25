@@ -1,0 +1,16 @@
+{
+  "asn": 401454,
+  "metadata": {
+    "handle": "REDLINEINTERNET",
+    "description": "Red Line Internet Services LLC",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "23.147.116.0/24" ],
+    "ipv6": [ ]
+  }
+}

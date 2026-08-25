@@ -1,0 +1,14 @@
+{
+  "asn": 30380,
+  "metadata": {
+    "handle": "IPOWER-2",
+    "description": "Newfold Digital, Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "asn": 20253,
+  "metadata": {
+    "handle": "QWILTED-PROD-01",
+    "description": "Qwilt Inc.",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "208.89.72.0/24", "217.20.50.0/23", "217.20.52.0/24", "217.20.54.0/23", "217.20.56.0/23", "217.20.62.0/24" ],
+    "ipv6": [ "2607:1640:54::/48" ]
+  }
+}

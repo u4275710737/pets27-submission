@@ -1,0 +1,16 @@
+{
+  "asn": 273051,
+  "metadata": {
+    "handle": "ANDINA-TELECOMUNICACIONES-PERU",
+    "description": "ANDINA TELECOMUNICACIONES DEL PERU S.A.C.",
+    "countryCode": "PE",
+    "country": "Peru",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "38.236.114.0/24" ],
+    "ipv6": [ "2803:7b90::/32" ]
+  }
+}

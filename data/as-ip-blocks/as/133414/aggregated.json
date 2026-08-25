@@ -1,0 +1,14 @@
+{
+  "asn": 133414,
+  "metadata": {
+    "handle": "FOXTEL-AP",
+    "description": "Foxtel Management Pty Ltd",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

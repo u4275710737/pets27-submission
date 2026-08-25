@@ -1,0 +1,4 @@
+# AS52993 (VER-TV-COMUNICACOES)
+# Ver Tv Comunicações LTDA
+#
+2804:1808::/32

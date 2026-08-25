@@ -1,0 +1,16 @@
+{
+  "asn": 202168,
+  "metadata": {
+    "handle": "OMSAG",
+    "description": "Online Marketing Solutions AG",
+    "countryCode": "DE",
+    "country": "Germany",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "77.73.10.0/24" ],
+    "ipv6": [ "2a0f:2340::/32", "2a0f:2345::/32", "2a0f:2346::/31" ]
+  }
+}

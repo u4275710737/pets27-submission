@@ -1,0 +1,4 @@
+# AS153938 (IDNIC-DOTNET-AS-ID)
+# PT Digital Omni Telekomunikasi
+#
+2001:df5:94c0::/48

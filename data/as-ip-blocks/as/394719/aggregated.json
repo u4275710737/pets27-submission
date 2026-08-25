@@ -1,0 +1,14 @@
+{
+  "asn": 394719,
+  "metadata": {
+    "handle": "PINAX",
+    "description": "EOS Nation Inc",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

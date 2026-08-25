@@ -1,0 +1,14 @@
+{
+  "asn": 197381,
+  "metadata": {
+    "handle": "DWTC",
+    "description": "Dubai World Trade Center (L.L.C.)",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

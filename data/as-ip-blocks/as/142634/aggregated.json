@@ -1,0 +1,16 @@
+{
+  "asn": 142634,
+  "metadata": {
+    "handle": "CHANPARAONLINE-AS-AP",
+    "description": "Chanpara Online",
+    "countryCode": "BD",
+    "country": "Bangladesh",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ ]
+  }
+}

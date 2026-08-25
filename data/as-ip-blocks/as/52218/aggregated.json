@@ -1,0 +1,14 @@
+{
+  "asn": 52218,
+  "metadata": {
+    "handle": "CHYUS-NET",
+    "description": "Cherkasov Yuriy Sergiyovuch",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

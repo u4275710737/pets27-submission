@@ -1,0 +1,14 @@
+{
+  "asn": 3273,
+  "metadata": {
+    "handle": "ONO-AS",
+    "description": "VODAFONE ONO S.A.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

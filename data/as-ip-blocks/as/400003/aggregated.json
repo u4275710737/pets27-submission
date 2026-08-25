@@ -1,0 +1,14 @@
+{
+  "asn": 400003,
+  "metadata": {
+    "handle": "OXFORD-GLOBAL-RESOURCES",
+    "description": "Oxford Global Resources",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

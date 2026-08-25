@@ -1,0 +1,14 @@
+{
+  "asn": 1956,
+  "metadata": {
+    "handle": "IBMEVS",
+    "description": "IBM",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "asn": 34521,
+  "metadata": {
+    "handle": "ATOS-SK-AS",
+    "description": "Atos Slovakia s.r.o.",
+    "countryCode": "SK",
+    "country": "Slovakia",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "192.108.125.0/24", "213.215.69.0/24" ],
+    "ipv6": [ ]
+  }
+}

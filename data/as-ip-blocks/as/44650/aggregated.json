@@ -1,0 +1,16 @@
+{
+  "asn": 44650,
+  "metadata": {
+    "handle": "BLUBANK",
+    "description": "BISTALK TELECUMUNICATION SYSTEMS COMPANY (P.J.S.)",
+    "countryCode": "IR",
+    "country": "Iran",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "185.175.240.0/22" ],
+    "ipv6": [ ]
+  }
+}

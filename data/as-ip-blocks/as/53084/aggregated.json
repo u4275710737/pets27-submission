@@ -1,0 +1,14 @@
+{
+  "asn": 53084,
+  "metadata": {
+    "handle": "CM-INFORMATICA",
+    "description": "CM Informatica Ltda",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "asn": 14912,
+  "metadata": {
+    "handle": "KYN-GTS",
+    "description": "Kyndryl",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [
+      "129.41.80.0/22"
+    ],
+    "ipv6": []
+  }
+}

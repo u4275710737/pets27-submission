@@ -1,0 +1,14 @@
+{
+  "asn": 23499,
+  "metadata": {
+    "handle": "ACM-ASN",
+    "description": "Aurelius Capital Management LP",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

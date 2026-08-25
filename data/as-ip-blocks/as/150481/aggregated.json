@@ -1,0 +1,14 @@
+{
+  "asn": 150481,
+  "metadata": {
+    "handle": "IDNIC-HAMENGKU-ID",
+    "description": "PT Hamengku Karya",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

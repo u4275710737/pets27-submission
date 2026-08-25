@@ -1,0 +1,14 @@
+{
+  "asn": 135370,
+  "metadata": {
+    "handle": "TMK-AS-AP",
+    "description": "PT Telematika Mitrakreasi",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

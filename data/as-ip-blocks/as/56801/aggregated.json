@@ -1,0 +1,16 @@
+{
+  "asn": 56801,
+  "metadata": {
+    "handle": "BNETZA",
+    "description": "Bundesnetzagentur fuer Elektrizitaet Gas Telekommunikation Post und Eisenbahnen",
+    "countryCode": "DE",
+    "country": "Germany",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "195.28.186.0/23" ],
+    "ipv6": [ ]
+  }
+}

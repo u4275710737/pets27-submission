@@ -1,0 +1,16 @@
+{
+  "asn": 328144,
+  "metadata": {
+    "handle": "TOUCH-IT",
+    "description": "TOUCH-IT",
+    "countryCode": "SZ",
+    "country": "Eswatini",
+    "origin": "overlaid",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "160.119.208.0/23" ],
+    "ipv6": [ ]
+  }
+}

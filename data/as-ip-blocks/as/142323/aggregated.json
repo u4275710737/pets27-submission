@@ -1,0 +1,14 @@
+{
+  "asn": 142323,
+  "metadata": {
+    "handle": "IDNIC-JARPATINDO-ID",
+    "description": "PT Jaringan Cepat Indonesia",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

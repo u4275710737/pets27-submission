@@ -1,0 +1,14 @@
+{
+  "asn": 208600,
+  "metadata": {
+    "handle": "ASINFOG",
+    "description": "Syselcom Mutuelle Informatique SA",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

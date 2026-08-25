@@ -1,0 +1,16 @@
+{
+  "asn": 197817,
+  "metadata": {
+    "handle": "NYCO-CLOUD-NETWORK",
+    "description": "Yunxiao Bai",
+    "countryCode": "CN",
+    "country": "China",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ "2a0a:d685:200::/48", "2a14:ae00:50::/44" ]
+  }
+}

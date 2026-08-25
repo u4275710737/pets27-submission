@@ -1,0 +1,16 @@
+{
+  "asn": 139327,
+  "metadata": {
+    "handle": "UCLOUD-AS-AP",
+    "description": "UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",
+    "countryCode": "HK",
+    "country": "Hong Kong SAR China",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "midsize_transit"
+  },
+  "prefixes": {
+    "ipv4": [ "42.240.252.0/24", "42.240.255.0/24" ],
+    "ipv6": [ ]
+  }
+}

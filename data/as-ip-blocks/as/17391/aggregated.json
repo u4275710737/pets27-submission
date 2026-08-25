@@ -1,0 +1,16 @@
+{
+  "asn": 17391,
+  "metadata": {
+    "handle": "CPWR-DTW-ASN01",
+    "description": "BMC Software Inc.",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "192.152.96.0/24", "198.147.193.0/24" ],
+    "ipv6": [ ]
+  }
+}

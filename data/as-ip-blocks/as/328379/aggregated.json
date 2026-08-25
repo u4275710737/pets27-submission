@@ -1,0 +1,16 @@
+{
+  "asn": 328379,
+  "metadata": {
+    "handle": "CGIX-POINTENOIRE-AS-MGT",
+    "description": "ARPCE",
+    "countryCode": "CG",
+    "country": "Congo - Brazzaville",
+    "origin": "authoritative",
+    "category": null,
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "196.49.60.0/24" ],
+    "ipv6": [ ]
+  }
+}

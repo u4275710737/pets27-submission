@@ -1,0 +1,16 @@
+{
+  "asn": 150659,
+  "metadata": {
+    "handle": "IRRA-AS-IN",
+    "description": "IRRA INTERNET SERVICE PRIVATE LIMITED",
+    "countryCode": "IN",
+    "country": "India",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "16.217.139.0/24", "181.214.240.0/24" ],
+    "ipv6": [ ]
+  }
+}

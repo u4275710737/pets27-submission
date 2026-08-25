@@ -1,0 +1,16 @@
+{
+  "asn": 37203,
+  "metadata": {
+    "handle": "LIBTELCO",
+    "description": "LBTELCO",
+    "countryCode": "LR",
+    "country": "Liberia",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "41.86.0.0/19" ],
+    "ipv6": [ ]
+  }
+}

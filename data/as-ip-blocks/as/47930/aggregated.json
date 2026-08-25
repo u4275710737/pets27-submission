@@ -1,0 +1,16 @@
+{
+  "asn": 47930,
+  "metadata": {
+    "handle": "BRANDEFENSE",
+    "description": "BRANDEFENSE BILISIM DANISMANLIK SANAYI VE TICARET ANONIM SIRKETI",
+    "countryCode": "TR",
+    "country": "Türkiye",
+    "origin": "authoritative",
+    "category": "government_admin",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "217.11.165.0/24" ],
+    "ipv6": [ "2a01:f900:202::/48" ]
+  }
+}

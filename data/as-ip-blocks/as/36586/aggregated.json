@@ -1,0 +1,14 @@
+{
+  "asn": 36586,
+  "metadata": {
+    "handle": "WHYSYSTEMS",
+    "description": "Why Systems LLC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

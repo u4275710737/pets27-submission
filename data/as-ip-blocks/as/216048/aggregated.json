@@ -1,0 +1,14 @@
+{
+  "asn": 216048,
+  "metadata": {
+    "handle": "NL-EXONET",
+    "description": "Exonet B.V.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

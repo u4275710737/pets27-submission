@@ -1,0 +1,14 @@
+{
+  "asn": 25377,
+  "metadata": {
+    "handle": "BUZA-NL",
+    "description": "Ministerie van Buitenlandse Zaken",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

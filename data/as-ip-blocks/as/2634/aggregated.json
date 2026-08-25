@@ -1,0 +1,14 @@
+{
+  "asn": 2634,
+  "metadata": {
+    "handle": "CELLCO-PART",
+    "description": "Verizon Business",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,3 @@
+# AS150247 (IDNIC-PLJNET-AS-ID)
+# PT Pandawa Lima Java Network
+#

@@ -1,0 +1,16 @@
+{
+  "asn": 214460,
+  "metadata": {
+    "handle": "CANONLINE",
+    "description": "Can Bilgi Teknolojileri ve Telekomunikasyon Ltd.Sti.",
+    "countryCode": "TR",
+    "country": "Türkiye",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "212.47.44.0/24" ],
+    "ipv6": [ ]
+  }
+}

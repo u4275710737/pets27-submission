@@ -1,0 +1,5 @@
+# AS327724 (NITA-UGANDA)
+# National Information Technology Authority Uganda
+#
+102.209.200.0/22
+154.72.192.0/19

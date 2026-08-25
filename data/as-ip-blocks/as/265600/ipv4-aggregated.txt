@@ -1,0 +1,4 @@
+# AS265600 (GRUPO-VELCOM-TELECOMUNICACIONES)
+# Grupo Velcom Telecomunicaciones SA de CV
+#
+45.185.252.0/22

@@ -1,0 +1,14 @@
+{
+  "asn": 40802,
+  "metadata": {
+    "handle": "IJET",
+    "description": "WorldAware, Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

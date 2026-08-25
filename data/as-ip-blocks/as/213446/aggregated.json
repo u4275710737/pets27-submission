@@ -1,0 +1,14 @@
+{
+  "asn": 213446,
+  "metadata": {
+    "handle": "EOS-MATRIX-AS",
+    "description": "EOS Matrix EOOD",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

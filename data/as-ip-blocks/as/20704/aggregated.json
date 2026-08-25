@@ -1,0 +1,14 @@
+{
+  "asn": 20704,
+  "metadata": {
+    "handle": "FUNKNETZ",
+    "description": "www.Funknetz.at LE GmbH",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

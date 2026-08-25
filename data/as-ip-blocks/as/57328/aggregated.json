@@ -1,0 +1,14 @@
+{
+  "asn": 57328,
+  "metadata": {
+    "handle": "DDIX-RS",
+    "description": "BCIX Management GmbH",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

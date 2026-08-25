@@ -1,0 +1,16 @@
+{
+  "asn": 9683,
+  "metadata": {
+    "handle": "SK-TELECOM",
+    "description": "21/F Yuetan Mansion No. 2",
+    "countryCode": "KR",
+    "country": "South Korea",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "103.145.214.0/23", "210.104.21.0/24" ],
+    "ipv6": [ ]
+  }
+}

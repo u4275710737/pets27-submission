@@ -1,0 +1,16 @@
+{
+  "asn": 134307,
+  "metadata": {
+    "handle": "CLASSIC-JOISTER-AS",
+    "description": "Classicnet Broadband Network",
+    "countryCode": "IN",
+    "country": "India",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "43.230.44.0/22", "103.42.192.0/22", "103.157.170.0/23" ],
+    "ipv6": [ ]
+  }
+}

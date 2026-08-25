@@ -1,0 +1,14 @@
+{
+  "asn": 214586,
+  "metadata": {
+    "handle": "ARVIN-SERVER",
+    "description": "Arvin Cloud Computing PJSC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

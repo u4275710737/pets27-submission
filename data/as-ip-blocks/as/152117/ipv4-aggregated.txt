@@ -1,0 +1,5 @@
+# AS152117 (EDGEVANAINC-AS-AP)
+# Edgevana
+#
+36.50.2.0/24
+204.74.126.0/24

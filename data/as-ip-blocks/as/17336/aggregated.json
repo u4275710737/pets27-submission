@@ -1,0 +1,16 @@
+{
+  "asn": 17336,
+  "metadata": {
+    "handle": "SIGLABS",
+    "description": "Signal Laboratories Inc.",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "access_provider"
+  },
+  "prefixes": {
+    "ipv4": [ "192.35.109.0/24", "192.35.110.0/23", "192.35.112.0/22", "192.35.116.0/24" ],
+    "ipv6": [ ]
+  }
+}

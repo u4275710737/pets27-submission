@@ -1,0 +1,16 @@
+{
+  "asn": 49140,
+  "metadata": {
+    "handle": "HALS-AS",
+    "description": "Hals-Development LLC",
+    "countryCode": "RU",
+    "country": "Russia",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "193.200.161.0/24" ],
+    "ipv6": [ ]
+  }
+}

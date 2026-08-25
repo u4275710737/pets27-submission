@@ -1,0 +1,14 @@
+{
+  "asn": 42727,
+  "metadata": {
+    "handle": "DATACOM",
+    "description": "PRIVATE JOINT STOCK COMPANY DATAGROUP",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

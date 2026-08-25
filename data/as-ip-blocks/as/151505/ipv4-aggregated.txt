@@ -1,0 +1,5 @@
+# AS151505 (IDNIC-INNET-AS-ID)
+# PT Iktiar Doa Tawakal
+#
+103.222.255.0/24
+161.248.206.0/24

@@ -1,0 +1,14 @@
+{
+  "asn": 30651,
+  "metadata": {
+    "handle": "NEXTSOURCE",
+    "description": "nextSource, Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

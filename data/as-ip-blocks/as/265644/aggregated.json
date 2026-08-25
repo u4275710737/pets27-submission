@@ -1,0 +1,14 @@
+{
+  "asn": 265644,
+  "metadata": {
+    "handle": "VOIP-ANALYSIS",
+    "description": "VOIP ANALYSIS S.A",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

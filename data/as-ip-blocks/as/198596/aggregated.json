@@ -1,0 +1,16 @@
+{
+  "asn": 198596,
+  "metadata": {
+    "handle": "MOJTABA-IMANI",
+    "description": "Seyed Mojtaba Imani",
+    "countryCode": "NL",
+    "country": "Netherlands",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "5.231.23.0/24" ],
+    "ipv6": [ ]
+  }
+}

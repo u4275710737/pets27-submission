@@ -1,0 +1,4 @@
+# AS15755 (VERITEKNIK)
+# Veriteknik Bilisim Basin Ve Yayin Limited Sirketi
+#
+2a00:7300::/32

@@ -1,0 +1,14 @@
+{
+  "asn": 25186,
+  "metadata": {
+    "handle": "TRANSIT-VPN",
+    "description": "Orange S.A.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

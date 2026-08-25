@@ -1,0 +1,14 @@
+{
+  "asn": 394956,
+  "metadata": {
+    "handle": "CAVIUM",
+    "description": "Cavium, Inc",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 210630,
+  "metadata": {
+    "handle": "INTERNET-SPEECH-AND-PRIVACY",
+    "description": "IncogNET LLC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

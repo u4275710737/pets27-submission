@@ -1,0 +1,14 @@
+{
+  "asn": 32019,
+  "metadata": {
+    "handle": "ADACORE",
+    "description": "Ada Core Technologies, Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "asn": 34881,
+  "metadata": {
+    "handle": "SLAVYANSK-EKO-AS",
+    "description": "Slavyansk EKO Ltd.",
+    "countryCode": "RU",
+    "country": "Russia",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "91.237.146.0/23" ],
+    "ipv6": [ ]
+  }
+}

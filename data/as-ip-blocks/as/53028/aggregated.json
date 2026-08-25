@@ -1,0 +1,14 @@
+{
+  "asn": 53028,
+  "metadata": {
+    "handle": "ATP-TECNOLOGIA-PRODUTOS",
+    "description": "ATP TECNOLOGIA E PRODUTOS S.A.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,4 @@
+# AS142321 (IDNIC-LSN-AS-ID)
+# PT Lintang Samoan Network
+#
+103.168.185.0/24

@@ -1,0 +1,16 @@
+{
+  "asn": 31253,
+  "metadata": {
+    "handle": "KTC-AS",
+    "description": "Sovemennye Telekommunikatsionnye Sistemy LLP",
+    "countryCode": "KZ",
+    "country": "Kazakhstan",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "89.219.26.0/24" ],
+    "ipv6": [ ]
+  }
+}

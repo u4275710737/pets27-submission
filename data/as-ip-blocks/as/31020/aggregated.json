@@ -1,0 +1,14 @@
+{
+  "asn": 31020,
+  "metadata": {
+    "handle": "NEANETT",
+    "description": "NTE TELEKOM AS",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

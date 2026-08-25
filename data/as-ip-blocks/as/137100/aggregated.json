@@ -1,0 +1,16 @@
+{
+  "asn": 137100,
+  "metadata": {
+    "handle": "NBSP-AS",
+    "description": "Netmax Broadband Services",
+    "countryCode": "IN",
+    "country": "India",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "103.105.110.0/24" ],
+    "ipv6": [ ]
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 59050,
+  "metadata": {
+    "handle": "CLOUD-ARK",
+    "description": "Beijing Cloud-Ark Technology Co.,Ltd.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

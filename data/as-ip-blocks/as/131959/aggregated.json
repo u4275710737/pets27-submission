@@ -1,0 +1,14 @@
+{
+  "asn": 131959,
+  "metadata": {
+    "handle": "YOUTV",
+    "description": "YOU Communications Corporation",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

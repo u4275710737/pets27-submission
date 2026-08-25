@@ -1,0 +1,14 @@
+{
+  "asn": 206024,
+  "metadata": {
+    "handle": "RBI-UK-DUALHOMING",
+    "description": "RELX GROUP PLC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

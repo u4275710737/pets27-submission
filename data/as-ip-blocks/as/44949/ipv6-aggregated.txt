@@ -1,0 +1,5 @@
+# AS44949 (GIGACODES-AS)
+# Gigacodes GmbH
+#
+2a07:ec80:210::/47
+2a07:ec80:221::/48

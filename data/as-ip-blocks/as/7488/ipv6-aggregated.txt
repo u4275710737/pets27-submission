@@ -1,0 +1,5 @@
+# AS7488 (CNSERVER-AP-AS)
+# CNServer LLC
+#
+2001:df2:c740::/48
+2602:f873::/40

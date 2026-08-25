@@ -1,0 +1,14 @@
+{
+  "asn": 200996,
+  "metadata": {
+    "handle": "KUNTALIITTO",
+    "description": "Suomen Kuntaliitto ry",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

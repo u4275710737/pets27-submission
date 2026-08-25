@@ -1,0 +1,14 @@
+{
+  "asn": 149288,
+  "metadata": {
+    "handle": "TELSTRA-AP",
+    "description": "Telstra Limited",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

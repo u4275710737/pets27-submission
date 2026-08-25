@@ -1,0 +1,16 @@
+{
+  "asn": 63225,
+  "metadata": {
+    "handle": "CARRIERX-CH-02",
+    "description": "FreeConferenceCall.com",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "162.251.183.0/24" ],
+    "ipv6": [ ]
+  }
+}

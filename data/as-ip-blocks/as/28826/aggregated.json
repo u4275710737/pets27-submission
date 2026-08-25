@@ -1,0 +1,14 @@
+{
+  "asn": 28826,
+  "metadata": {
+    "handle": "IHI-DK",
+    "description": "Bupa Denmark Services A S",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

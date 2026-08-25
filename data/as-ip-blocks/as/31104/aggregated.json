@@ -1,0 +1,14 @@
+{
+  "asn": 31104,
+  "metadata": {
+    "handle": "EVACY",
+    "description": "Evacy technology SAS",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

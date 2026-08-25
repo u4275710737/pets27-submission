@@ -1,0 +1,16 @@
+{
+  "asn": 32929,
+  "metadata": {
+    "handle": "BANTA-CORPORATION-MENASHA-WI",
+    "description": "Banta Corporation",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ ]
+  }
+}

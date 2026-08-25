@@ -1,0 +1,14 @@
+{
+  "asn": 48616,
+  "metadata": {
+    "handle": "DATASOFT-NET",
+    "description": "Datasoft S.R.L.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

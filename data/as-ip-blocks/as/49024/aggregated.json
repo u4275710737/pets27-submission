@@ -1,0 +1,14 @@
+{
+  "asn": 49024,
+  "metadata": {
+    "handle": "TCC",
+    "description": "TechniData TCC Products GmbH",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

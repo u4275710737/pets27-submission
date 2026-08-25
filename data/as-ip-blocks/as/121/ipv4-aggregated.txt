@@ -1,0 +1,6 @@
+# AS121 (DNIC-AS-00121)
+# United States Department of Defense (DoD)
+#
+214.54.192.0/19
+214.54.224.0/22
+214.54.230.0/23

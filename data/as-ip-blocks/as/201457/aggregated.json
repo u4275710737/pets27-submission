@@ -1,0 +1,14 @@
+{
+  "asn": 201457,
+  "metadata": {
+    "handle": "KOOPERATIVA-AS2",
+    "description": "Kooperativa pojistovna, a.s., Vienna Insurance Group",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

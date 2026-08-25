@@ -1,0 +1,14 @@
+{
+  "asn": 198923,
+  "metadata": {
+    "handle": "MH190",
+    "description": "Mitja Herbaj",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 205723,
+  "metadata": {
+    "handle": "AS-MSYS-IX-PAR1",
+    "description": "Bjoern Maenken",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

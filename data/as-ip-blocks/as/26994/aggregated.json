@@ -1,0 +1,14 @@
+{
+  "asn": 26994,
+  "metadata": {
+    "handle": "DATABANK-MSP",
+    "description": "DataBank Holdings, Ltd.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

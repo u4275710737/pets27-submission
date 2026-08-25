@@ -1,0 +1,4 @@
+# AS37668 (DINX)
+# Durban Internet Exchange
+#
+2001:43f8:1f5::/48

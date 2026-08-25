@@ -1,0 +1,14 @@
+{
+  "asn": 35035,
+  "metadata": {
+    "handle": "UTCP",
+    "description": "Vladimir Vladimirovich Daynatovich",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

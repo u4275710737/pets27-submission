@@ -1,0 +1,16 @@
+{
+  "asn": 133966,
+  "metadata": {
+    "handle": "CNERGEE-AS",
+    "description": "Cnergee Cloud Technology Solutions LLP",
+    "countryCode": "IN",
+    "country": "India",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "103.54.180.0/22" ],
+    "ipv6": [ "2001:df7:2e00::/48" ]
+  }
+}

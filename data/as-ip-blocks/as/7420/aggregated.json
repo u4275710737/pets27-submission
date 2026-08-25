@@ -1,0 +1,16 @@
+{
+  "asn": 7420,
+  "metadata": {
+    "handle": "ZAMNET-ZAMBIA",
+    "description": "Zamnet Zambia",
+    "countryCode": "ZM",
+    "country": "Zambia",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "access_provider"
+  },
+  "prefixes": {
+    "ipv4": [ "196.46.192.0/19" ],
+    "ipv6": [ ]
+  }
+}

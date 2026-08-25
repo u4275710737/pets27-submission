@@ -1,0 +1,16 @@
+{
+  "asn": 211356,
+  "metadata": {
+    "handle": "MYTVALB",
+    "description": "MyTv-Alb SH.P.K.",
+    "countryCode": "AL",
+    "country": "Albania",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "130.12.209.0/24", "193.163.187.0/24" ],
+    "ipv6": [ ]
+  }
+}

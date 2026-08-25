@@ -1,0 +1,14 @@
+{
+  "asn": 150110,
+  "metadata": {
+    "handle": "FJ-AS-AP",
+    "description": "FJ Networking Pty Limited",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

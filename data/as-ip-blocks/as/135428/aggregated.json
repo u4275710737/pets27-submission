@@ -1,0 +1,16 @@
+{
+  "asn": 135428,
+  "metadata": {
+    "handle": "FENZ-AS-AP",
+    "description": "Fire and Emergency New Zealand",
+    "countryCode": "NZ",
+    "country": "New Zealand",
+    "origin": "authoritative",
+    "category": "government_admin",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "103.138.184.0/24" ],
+    "ipv6": [ ]
+  }
+}

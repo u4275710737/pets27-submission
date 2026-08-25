@@ -1,0 +1,16 @@
+{
+  "asn": 215310,
+  "metadata": {
+    "handle": "USERCLOUD",
+    "description": "Pfcloud UG (haftungsbeschrankt)",
+    "countryCode": "DE",
+    "country": "Germany",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ "2a05:f680::/32" ]
+  }
+}

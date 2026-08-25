@@ -1,0 +1,16 @@
+{
+  "asn": 273672,
+  "metadata": {
+    "handle": "ROCKET-INTERNET",
+    "description": "Rocket Internet",
+    "countryCode": "BR",
+    "country": "Brazil",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "access_provider"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ "2804:8a7c::/32" ]
+  }
+}

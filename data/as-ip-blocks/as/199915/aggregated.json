@@ -1,0 +1,16 @@
+{
+  "asn": 199915,
+  "metadata": {
+    "handle": "CAKEHOME-AS",
+    "description": "Iryna Maksymiv trading as Cake Home",
+    "countryCode": "PL",
+    "country": "Poland",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "116.204.164.0/24", "147.90.26.0/24", "222.167.202.0/24" ],
+    "ipv6": [ ]
+  }
+}

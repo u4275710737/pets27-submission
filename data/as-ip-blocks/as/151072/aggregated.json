@@ -1,0 +1,14 @@
+{
+  "asn": 151072,
+  "metadata": {
+    "handle": "VMW-SIN",
+    "description": "VMWare Incorporation",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

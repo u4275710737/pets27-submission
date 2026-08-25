@@ -1,0 +1,4 @@
+# AS400212 (VERGETEL-GROUP-LLC)
+# VergeTel Group LLC
+#
+63.133.216.0/22

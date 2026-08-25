@@ -1,0 +1,4 @@
+# AS37532 (ZAMREN)
+# ZAMREN
+#
+2c0f:f670::/32

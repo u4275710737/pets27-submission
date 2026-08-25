@@ -1,0 +1,16 @@
+{
+  "asn": 204894,
+  "metadata": {
+    "handle": "STYLENET",
+    "description": "Ezmir Kraja trading as StyleNet",
+    "countryCode": "AL",
+    "country": "Albania",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "91.239.240.0/24" ],
+    "ipv6": [ "2a12:fc40::/29" ]
+  }
+}

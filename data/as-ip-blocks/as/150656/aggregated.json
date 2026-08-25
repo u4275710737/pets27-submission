@@ -1,0 +1,14 @@
+{
+  "asn": 150656,
+  "metadata": {
+    "handle": "PCIS-IN",
+    "description": "PRACHI COCHING INST",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

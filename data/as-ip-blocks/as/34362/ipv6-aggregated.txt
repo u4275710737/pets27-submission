@@ -1,0 +1,4 @@
+# AS34362 (TERRAKOM-AS)
+# Terrakom d.o.o.
+#
+2a00:7880::/32

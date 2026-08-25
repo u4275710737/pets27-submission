@@ -1,0 +1,16 @@
+{
+  "asn": 271126,
+  "metadata": {
+    "handle": "ONDANET-PE",
+    "description": "ONDANET PE",
+    "countryCode": "BR",
+    "country": "Brazil",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "midsize_transit"
+  },
+  "prefixes": {
+    "ipv4": [ "179.42.36.0/22" ],
+    "ipv6": [ "2804:76a8::/32" ]
+  }
+}

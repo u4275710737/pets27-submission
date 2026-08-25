@@ -1,0 +1,14 @@
+{
+  "asn": 397698,
+  "metadata": {
+    "handle": "CUBEDHOST",
+    "description": "CubedHost, LLC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

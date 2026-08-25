@@ -1,0 +1,4 @@
+# AS328203 (PLATINUM-INDEX-AS)
+# Platinum Index Data Communications Ltd
+#
+2c0f:ebb8::/32

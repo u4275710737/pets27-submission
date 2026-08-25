@@ -1,0 +1,14 @@
+{
+  "asn": 197323,
+  "metadata": {
+    "handle": "B-AND-P-FUND-SERVICE-AB",
+    "description": "B & P Fund Services AB",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

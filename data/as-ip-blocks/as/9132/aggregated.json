@@ -1,0 +1,14 @@
+{
+  "asn": 9132,
+  "metadata": {
+    "handle": "BROADNET",
+    "description": "Plusnet GmbH",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

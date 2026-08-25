@@ -1,0 +1,14 @@
+{
+  "asn": 400378,
+  "metadata": {
+    "handle": "BEAUMONT-CITY01",
+    "description": "City of Beaumont TX",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,4 @@
+# AS27247 (MIDWEST-WIRELESS-HOLDINGS-LLC)
+# Midwest Wireless Holdings LLC
+#
+65.248.229.0/24

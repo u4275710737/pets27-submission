@@ -1,0 +1,16 @@
+{
+  "asn": 275614,
+  "metadata": {
+    "handle": "ALTA-AMERICA-LATINA",
+    "description": "ALTA - América Latina Telecomunicações Avançadas",
+    "countryCode": "BR",
+    "country": "Brazil",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "45.176.212.0/22" ],
+    "ipv6": [ "2804:974c::/32" ]
+  }
+}

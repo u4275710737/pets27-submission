@@ -1,0 +1,4 @@
+# AS37610 (NFTCONSULT-ASN)
+# New Frontiers Technology Consult Limited Autonomous System Number
+#
+196.10.119.0/24

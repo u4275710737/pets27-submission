@@ -1,0 +1,14 @@
+{
+  "asn": 395058,
+  "metadata": {
+    "handle": "FEISYSTEMS",
+    "description": "FEi Systems",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

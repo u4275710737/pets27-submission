@@ -1,0 +1,14 @@
+{
+  "asn": 54395,
+  "metadata": {
+    "handle": "APPARATUS-1401",
+    "description": "Apparatus, Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

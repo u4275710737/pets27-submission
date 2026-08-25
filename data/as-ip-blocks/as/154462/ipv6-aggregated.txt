@@ -1,0 +1,5 @@
+# AS154462 (YOURNET-AS-AP)
+# Yournet Communications
+#
+2402:4320:1::/48
+2402:4320:2::/48

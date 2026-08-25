@@ -1,0 +1,14 @@
+{
+  "asn": 30092,
+  "metadata": {
+    "handle": "AS-30092",
+    "description": "ASSERTIVENET",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

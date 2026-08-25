@@ -1,0 +1,14 @@
+{
+  "asn": 205159,
+  "metadata": {
+    "handle": "SAP-DC-DMM",
+    "description": "SAP SE",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

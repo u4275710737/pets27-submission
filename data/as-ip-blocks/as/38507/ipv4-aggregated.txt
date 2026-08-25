@@ -1,0 +1,4 @@
+# AS38507 (MITRATECHNET-AS-ID)
+# PT. Mitra Internet Tech
+#
+117.102.164.0/22

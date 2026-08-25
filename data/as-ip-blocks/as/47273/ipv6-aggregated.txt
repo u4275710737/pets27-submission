@@ -1,0 +1,5 @@
+# AS47273 (KSI-KR-AS)
+# Krzysztof Andrzej Kozak trading as P.P.H.U. ARTUS
+#
+2a05:9680::/29
+2a09:f280::/29

@@ -1,0 +1,5 @@
+# AS23763 (FTID-MELB-AS-AP)
+# Interactive Data (Australia) Pty Ltd
+#
+145.246.68.0/24
+156.48.8.0/23

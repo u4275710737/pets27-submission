@@ -1,0 +1,14 @@
+{
+  "asn": 22550,
+  "metadata": {
+    "handle": "EXP-TOR2007A",
+    "description": "Experian",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "asn": 328089,
+  "metadata": {
+    "handle": "KRA1-AFRINIC",
+    "description": "Kenya Revenue Authority",
+    "countryCode": "KE",
+    "country": "Kenya",
+    "origin": "authoritative",
+    "category": "government_admin",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "196.61.52.0/23" ],
+    "ipv6": [ ]
+  }
+}

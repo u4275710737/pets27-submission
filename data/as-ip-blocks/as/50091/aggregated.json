@@ -1,0 +1,16 @@
+{
+  "asn": 50091,
+  "metadata": {
+    "handle": "NEGENET",
+    "description": "Negenet shpk",
+    "countryCode": "AL",
+    "country": "Albania",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "93.115.6.0/24", "93.115.108.0/24" ],
+    "ipv6": [ ]
+  }
+}

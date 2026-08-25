@@ -1,0 +1,14 @@
+{
+  "asn": 132246,
+  "metadata": {
+    "handle": "ST-AS-AP",
+    "description": "St. Luke's Medical Center",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

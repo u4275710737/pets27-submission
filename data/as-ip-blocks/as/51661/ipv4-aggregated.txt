@@ -1,0 +1,4 @@
+# AS51661 (ALLSTARNET)
+# UVT Internet s.r.o.
+#
+185.160.20.0/22

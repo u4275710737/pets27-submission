@@ -1,0 +1,5 @@
+# AS51889 (GPDN-AS)
+# Gostaresh Pardazesh Dana Negar Co.(PJSC)
+#
+45.147.76.0/22
+91.226.246.0/24

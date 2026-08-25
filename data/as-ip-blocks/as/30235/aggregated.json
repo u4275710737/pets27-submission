@@ -1,0 +1,14 @@
+{
+  "asn": 30235,
+  "metadata": {
+    "handle": "TWINSERVERS",
+    "description": "Twinservers Hosting Solutions Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

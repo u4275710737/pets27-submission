@@ -1,0 +1,14 @@
+{
+  "asn": 209680,
+  "metadata": {
+    "handle": "JETBRAINS",
+    "description": "JetBrains, s. r. o.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

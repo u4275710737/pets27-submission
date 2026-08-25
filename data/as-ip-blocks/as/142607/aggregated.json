@@ -1,0 +1,16 @@
+{
+  "asn": 142607,
+  "metadata": {
+    "handle": "SIZAF-AS-AP",
+    "description": "Sizaf InfoComm SDN. BHD.",
+    "countryCode": "MY",
+    "country": "Malaysia",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "103.170.171.0/24" ],
+    "ipv6": [ ]
+  }
+}

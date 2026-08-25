@@ -1,0 +1,5 @@
+# AS197131 (ASCATNET)
+# Ketnet Telecom Ltd
+#
+31.40.16.0/21
+195.54.52.0/24

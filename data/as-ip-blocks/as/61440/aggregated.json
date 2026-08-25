@@ -1,0 +1,14 @@
+{
+  "asn": 61440,
+  "metadata": {
+    "handle": "SENTRIGLOBAL-LTD",
+    "description": "SENTRIGLOBAL LTD",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

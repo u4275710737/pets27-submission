@@ -1,0 +1,14 @@
+{
+  "asn": 263202,
+  "metadata": {
+    "handle": "BANSAT",
+    "description": "BANSAT SAS",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

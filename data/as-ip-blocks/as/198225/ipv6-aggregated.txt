@@ -1,0 +1,5 @@
+# AS198225 (MDDSL-AS)
+# MDDSL - Mitteldeutsche Gesellschaft fuer Kommunikation mbH
+#
+2a03:32a0:2000::/41
+2a03:32a0:ac00::/42

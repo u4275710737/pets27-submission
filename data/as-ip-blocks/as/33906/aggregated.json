@@ -1,0 +1,14 @@
+{
+  "asn": 33906,
+  "metadata": {
+    "handle": "EUROANSWER-RO",
+    "description": "SC EuroAnswer SRL",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

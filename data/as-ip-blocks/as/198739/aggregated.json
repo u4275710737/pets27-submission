@@ -1,0 +1,16 @@
+{
+  "asn": 198739,
+  "metadata": {
+    "handle": "GARDIO-CUST-GBG",
+    "description": "Gardio AB",
+    "countryCode": "SE",
+    "country": "Sweden",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "94.142.229.0/24" ],
+    "ipv6": [ ]
+  }
+}

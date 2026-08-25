@@ -1,0 +1,14 @@
+{
+  "asn": 55107,
+  "metadata": {
+    "handle": "US-NYC-HWW",
+    "description": "Havas Worldwide LLC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,4 @@
+# AS213148 (WINTERSHALLDEANORGE)
+# Harbour Energy Norge AS
+#
+88.135.71.0/24

@@ -1,0 +1,14 @@
+{
+  "asn": 57557,
+  "metadata": {
+    "handle": "JSC-EIRC-SPB",
+    "description": "JSC EIRC SPB",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "asn": 3130,
+  "metadata": {
+    "handle": "RGNET-SEA",
+    "description": "RGnet OU",
+    "countryCode": "EE",
+    "country": "Estonia",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "access_provider"
+  },
+  "prefixes": {
+    "ipv4": [ "147.28.0.0/23", "192.83.230.0/24", "198.180.153.0/24" ],
+    "ipv6": [ "2001:418:1::/48" ]
+  }
+}

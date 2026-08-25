@@ -1,0 +1,14 @@
+{
+  "asn": 50149,
+  "metadata": {
+    "handle": "SERVERCORE",
+    "description": "Servercore B.V.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

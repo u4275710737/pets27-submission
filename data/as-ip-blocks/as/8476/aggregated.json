@@ -1,0 +1,14 @@
+{
+  "asn": 8476,
+  "metadata": {
+    "handle": "BVDEP-AS",
+    "description": "Moody's Corporation",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

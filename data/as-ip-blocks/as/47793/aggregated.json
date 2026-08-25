@@ -1,0 +1,14 @@
+{
+  "asn": 47793,
+  "metadata": {
+    "handle": "CES",
+    "description": "Continental Exchange Solutions Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

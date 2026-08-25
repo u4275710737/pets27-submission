@@ -1,0 +1,14 @@
+{
+  "asn": 1476,
+  "metadata": {
+    "handle": "DNIC-ASBLK-0-01477",
+    "description": "Headquarters, USAISC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

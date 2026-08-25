@@ -1,0 +1,16 @@
+{
+  "asn": 46548,
+  "metadata": {
+    "handle": "ASN1",
+    "description": "New york City Housing Development Corporation",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "government_admin",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "31.169.68.0/24", "194.1.208.0/24" ],
+    "ipv6": [ ]
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 204225,
+  "metadata": {
+    "handle": "ONVOX",
+    "description": "ONVOX",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

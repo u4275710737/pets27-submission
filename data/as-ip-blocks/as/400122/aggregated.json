@@ -1,0 +1,14 @@
+{
+  "asn": 400122,
+  "metadata": {
+    "handle": "LIBERTY-LINK-WINDSOR",
+    "description": "Liberty Link LLC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

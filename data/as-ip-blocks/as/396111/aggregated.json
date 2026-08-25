@@ -1,0 +1,14 @@
+{
+  "asn": 396111,
+  "metadata": {
+    "handle": "BOSCH-IOT-CLOUD-US1",
+    "description": "Robert Bosch LLC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,4 @@
+# AS6796 (SERVIER-AS)
+# Servier Pharma SRL
+#
+86.105.16.0/24

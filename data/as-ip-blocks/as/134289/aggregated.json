@@ -1,0 +1,14 @@
+{
+  "asn": 134289,
+  "metadata": {
+    "handle": "GCNBROADBANDPRIVATELIMITED",
+    "description": "GCN BROADBAND PVT LTD",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

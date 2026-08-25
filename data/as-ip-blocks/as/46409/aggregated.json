@@ -1,0 +1,14 @@
+{
+  "asn": 46409,
+  "metadata": {
+    "handle": "VALUE-ADDED",
+    "description": "Global Tellink Corporation",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

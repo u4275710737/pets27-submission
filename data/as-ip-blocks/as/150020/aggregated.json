@@ -1,0 +1,14 @@
+{
+  "asn": 150020,
+  "metadata": {
+    "handle": "AGFNPL-IN",
+    "description": "AIRGIGAFIBER NET SERVICE PRIVATE LIMITED",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

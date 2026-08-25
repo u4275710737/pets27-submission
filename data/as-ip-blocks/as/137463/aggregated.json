@@ -1,0 +1,14 @@
+{
+  "asn": 137463,
+  "metadata": {
+    "handle": "SPRINTNETWORKS-AP",
+    "description": "Sprint Networks",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

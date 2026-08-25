@@ -1,0 +1,14 @@
+{
+  "asn": 21205,
+  "metadata": {
+    "handle": "INGBANK",
+    "description": "ING Bank N.V.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

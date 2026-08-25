@@ -1,0 +1,4 @@
+# AS23634 (E-DNS-JP)
+# One of JP DNS Servers
+#
+192.50.43.0/24

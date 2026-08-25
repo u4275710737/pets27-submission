@@ -1,0 +1,14 @@
+{
+  "asn": 214964,
+  "metadata": {
+    "handle": "AREG-ZARATSYAN",
+    "description": "Areg Zaratsyan",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

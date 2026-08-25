@@ -1,0 +1,16 @@
+{
+  "asn": 15791,
+  "metadata": {
+    "handle": "YELLOWGROUP-AS",
+    "description": "Ram Mobile Data (Netherlands) B.V.",
+    "countryCode": "NL",
+    "country": "Netherlands",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "185.109.232.0/22" ],
+    "ipv6": [ ]
+  }
+}

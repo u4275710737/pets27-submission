@@ -1,0 +1,14 @@
+{
+  "asn": 50327,
+  "metadata": {
+    "handle": "IP-MAX-SWM",
+    "description": "IP-Max SA",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

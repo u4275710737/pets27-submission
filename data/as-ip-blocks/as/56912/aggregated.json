@@ -1,0 +1,14 @@
+{
+  "asn": 56912,
+  "metadata": {
+    "handle": "ORNG-SUED",
+    "description": "GoeTel GmbH",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

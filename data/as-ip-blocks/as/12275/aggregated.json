@@ -1,0 +1,14 @@
+{
+  "asn": 12275,
+  "metadata": {
+    "handle": "NETWORKCAR-XO",
+    "description": "Networkfleet Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

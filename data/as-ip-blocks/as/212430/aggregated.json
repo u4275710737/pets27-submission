@@ -1,0 +1,14 @@
+{
+  "asn": 212430,
+  "metadata": {
+    "handle": "CITEXAR",
+    "description": "CITEXAR SA",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

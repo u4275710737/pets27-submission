@@ -1,0 +1,14 @@
+{
+  "asn": 33514,
+  "metadata": {
+    "handle": "EXCS",
+    "description": "Executive Corporate, Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

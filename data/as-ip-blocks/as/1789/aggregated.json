@@ -1,0 +1,14 @@
+{
+  "asn": 1789,
+  "metadata": {
+    "handle": "SPRINTLINK1",
+    "description": "Sprint",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

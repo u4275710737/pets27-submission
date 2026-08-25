@@ -1,0 +1,16 @@
+{
+  "asn": 37123,
+  "metadata": {
+    "handle": "TELECONTRACT-ZIMBABWE",
+    "description": "Telecontract Zim ASN from AFRINIC",
+    "countryCode": "ZW",
+    "country": "Zimbabwe",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "41.191.232.0/21", "154.119.80.0/20" ],
+    "ipv6": [ ]
+  }
+}

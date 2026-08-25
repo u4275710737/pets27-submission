@@ -1,0 +1,14 @@
+{
+  "asn": 26281,
+  "metadata": {
+    "handle": "RIML-CORP-1",
+    "description": "BlackBerry Limited",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

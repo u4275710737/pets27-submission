@@ -1,0 +1,14 @@
+{
+  "asn": 134261,
+  "metadata": {
+    "handle": "BEPL-IN",
+    "description": "Bigtree Entertainment Private Limited",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

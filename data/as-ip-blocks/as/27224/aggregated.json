@@ -1,0 +1,16 @@
+{
+  "asn": 27224,
+  "metadata": {
+    "handle": "DIGINETITCC-AS",
+    "description": "Web Africa",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "access_provider"
+  },
+  "prefixes": {
+    "ipv4": [ "142.215.110.0/24", "198.32.108.0/24" ],
+    "ipv6": [ "2607:f6f0:202::/48" ]
+  }
+}

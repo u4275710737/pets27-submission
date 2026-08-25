@@ -1,0 +1,14 @@
+{
+  "asn": 201894,
+  "metadata": {
+    "handle": "FLEXIMUS-AS",
+    "description": "FLEXIMUS BVBA",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

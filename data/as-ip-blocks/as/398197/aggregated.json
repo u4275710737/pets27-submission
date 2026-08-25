@@ -1,0 +1,14 @@
+{
+  "asn": 398197,
+  "metadata": {
+    "handle": "REMOTE-SUB-SERVICES-01",
+    "description": "EpicUp Holdings Inc",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

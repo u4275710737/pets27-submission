@@ -1,0 +1,14 @@
+{
+  "asn": 270125,
+  "metadata": {
+    "handle": "NGX-NETWORKS",
+    "description": "NGX NETWORKS, S. DE R.L. DE C.V.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 36561,
+  "metadata": {
+    "handle": "YOUTUBE",
+    "description": "Google LLC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

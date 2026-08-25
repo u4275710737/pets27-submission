@@ -1,0 +1,14 @@
+{
+  "asn": 152420,
+  "metadata": {
+    "handle": "IDNIC-BTS-AS-ID",
+    "description": "PT Bintang Timur Snet",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 44766,
+  "metadata": {
+    "handle": "AGAOGLU-AS",
+    "description": "Akdeniz Insaat ve Egitim Hizmetleri A.S",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

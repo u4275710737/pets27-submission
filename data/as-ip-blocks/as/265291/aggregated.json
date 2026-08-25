@@ -1,0 +1,16 @@
+{
+  "asn": 265291,
+  "metadata": {
+    "handle": "MP-NET",
+    "description": "MP NET",
+    "countryCode": "BR",
+    "country": "Brazil",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "access_provider"
+  },
+  "prefixes": {
+    "ipv4": [ "45.166.32.0/22" ],
+    "ipv6": [ "2804:5560::/32" ]
+  }
+}

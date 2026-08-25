@@ -1,0 +1,14 @@
+{
+  "asn": 214307,
+  "metadata": {
+    "handle": "IVX",
+    "description": "Ivx Group Limited",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

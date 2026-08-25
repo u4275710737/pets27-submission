@@ -1,0 +1,14 @@
+{
+  "asn": 1060,
+  "metadata": {
+    "handle": "SUNWEST-BANK",
+    "description": "Sunwest Bank",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

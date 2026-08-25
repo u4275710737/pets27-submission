@@ -1,0 +1,4 @@
+# AS154452 (IDNIC-BST-ID)
+# PT Berkah Solution Tatawafaqu
+#
+144.79.122.0/24

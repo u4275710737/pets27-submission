@@ -1,0 +1,16 @@
+{
+  "asn": 197401,
+  "metadata": {
+    "handle": "VOLNAAPP-AS",
+    "description": "VolnaApp LLP",
+    "countryCode": "KZ",
+    "country": "Kazakhstan",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "45.93.83.0/24" ],
+    "ipv6": [ ]
+  }
+}

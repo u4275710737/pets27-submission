@@ -1,0 +1,14 @@
+{
+  "asn": 59337,
+  "metadata": {
+    "handle": "I4HK-AS-AP",
+    "description": "i4HK Internet Solutions Company",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

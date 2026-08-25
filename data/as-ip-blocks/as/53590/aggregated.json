@@ -1,0 +1,14 @@
+{
+  "asn": 53590,
+  "metadata": {
+    "handle": "ROSETTASTONE",
+    "description": "Rosetta Stone LTD.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

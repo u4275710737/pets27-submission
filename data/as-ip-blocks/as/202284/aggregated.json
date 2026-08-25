@@ -1,0 +1,14 @@
+{
+  "asn": 202284,
+  "metadata": {
+    "handle": "QWIST",
+    "description": "Qwist GmbH",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

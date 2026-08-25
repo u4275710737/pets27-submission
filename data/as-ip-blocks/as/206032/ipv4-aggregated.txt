@@ -1,0 +1,4 @@
+# AS206032 (COOP-PRONTO)
+# Coop Pronto AG
+#
+193.5.123.0/24

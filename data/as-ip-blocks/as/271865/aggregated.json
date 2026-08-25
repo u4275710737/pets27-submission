@@ -1,0 +1,14 @@
+{
+  "asn": 271865,
+  "metadata": {
+    "handle": "ATLANTIC-WIRELESS-NETWORK",
+    "description": "Atlantic Wireless Network Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

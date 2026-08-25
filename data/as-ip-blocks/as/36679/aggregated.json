@@ -1,0 +1,16 @@
+{
+  "asn": 36679,
+  "metadata": {
+    "handle": "BORGATA-HOTEL-CASINO",
+    "description": "Borgata Hotel Casino & Spa",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "overlaid",
+    "category": null,
+    "networkRole": null
+  },
+  "prefixes": {
+    "ipv4": [ "50.204.159.0/24" ],
+    "ipv6": [ ]
+  }
+}

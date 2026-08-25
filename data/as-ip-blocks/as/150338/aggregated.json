@@ -1,0 +1,14 @@
+{
+  "asn": 150338,
+  "metadata": {
+    "handle": "FAT-AS-AP",
+    "description": "FAT FAT LA COMPANY",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

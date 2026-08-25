@@ -1,0 +1,14 @@
+{
+  "asn": 33733,
+  "metadata": {
+    "handle": "CASTRO-TELECOM",
+    "description": "CASTRO TELECOM LLC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,4 @@
+# AS204224 (HEIMNETT-AS)
+# Heimnett AS
+#
+2a10:b80::/29

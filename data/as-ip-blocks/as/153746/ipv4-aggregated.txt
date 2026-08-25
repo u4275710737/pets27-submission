@@ -1,0 +1,5 @@
+# AS153746 (TNNCL-AS-AP)
+# T Net Network Company Limited
+#
+44.31.115.0/24
+163.223.214.0/23

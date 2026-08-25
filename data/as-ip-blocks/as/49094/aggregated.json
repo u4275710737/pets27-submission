@@ -1,0 +1,14 @@
+{
+  "asn": 49094,
+  "metadata": {
+    "handle": "CHRONOS",
+    "description": "Omer GOLGELI",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

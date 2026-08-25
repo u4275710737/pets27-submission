@@ -1,0 +1,14 @@
+{
+  "asn": 196821,
+  "metadata": {
+    "handle": "MHM-AS",
+    "description": "AzInTelecom LLC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 204047,
+  "metadata": {
+    "handle": "BT-PSN-DNSP-AS",
+    "description": "British Telecommunications PLC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

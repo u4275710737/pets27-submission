@@ -1,0 +1,14 @@
+{
+  "asn": 133959,
+  "metadata": {
+    "handle": "OWENTIS-AS-AP",
+    "description": "OWENTIS",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

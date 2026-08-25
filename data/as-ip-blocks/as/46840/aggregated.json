@@ -1,0 +1,14 @@
+{
+  "asn": 46840,
+  "metadata": {
+    "handle": "GSC-WATER",
+    "description": "GSC Logistics Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

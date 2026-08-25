@@ -1,0 +1,16 @@
+{
+  "asn": 214409,
+  "metadata": {
+    "handle": "ROBOTIC-AS",
+    "description": "Robotic Node LTD",
+    "countryCode": "GB",
+    "country": "United Kingdom",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "185.196.25.0/24" ],
+    "ipv6": [ "2a0f:85c1:84d::/48" ]
+  }
+}

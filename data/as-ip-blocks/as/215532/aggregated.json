@@ -1,0 +1,14 @@
+{
+  "asn": 215532,
+  "metadata": {
+    "handle": "NICOCO",
+    "description": "Nicolas BRIGITTE-ALPHONSINE",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 265567,
+  "metadata": {
+    "handle": "KROLIK-SOLUTIONS",
+    "description": "Krolik Solutions S.A de C.V.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

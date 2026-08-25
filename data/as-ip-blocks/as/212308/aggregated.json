@@ -1,0 +1,14 @@
+{
+  "asn": 212308,
+  "metadata": {
+    "handle": "LSP",
+    "description": "LLC Lifestyle Platform",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

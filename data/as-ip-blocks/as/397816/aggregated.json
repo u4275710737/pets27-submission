@@ -1,0 +1,14 @@
+{
+  "asn": 397816,
+  "metadata": {
+    "handle": "MISIGNAL",
+    "description": "MiSignal",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

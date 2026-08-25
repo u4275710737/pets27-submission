@@ -1,0 +1,14 @@
+{
+  "asn": 203211,
+  "metadata": {
+    "handle": "HEWLETT-PACKARD-ENTERPRISE",
+    "description": "Hewlett Packard France S.A.S.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

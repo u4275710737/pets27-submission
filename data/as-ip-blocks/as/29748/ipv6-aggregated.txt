@@ -1,0 +1,5 @@
+# AS29748 (CARPATHIA-ASN)
+# Carpathia Hosting
+#
+2001:4838::/32
+2610:60::/32

@@ -1,0 +1,14 @@
+{
+  "asn": 48006,
+  "metadata": {
+    "handle": "LANGATE-NET",
+    "description": "PE Dmytro Golubnichiy Volodomirovich",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

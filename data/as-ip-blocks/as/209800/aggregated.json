@@ -1,0 +1,16 @@
+{
+  "asn": 209800,
+  "metadata": {
+    "handle": "ZEMAGG",
+    "description": "Philippe Simon Pflug trading as Niesmann-Pflug ZEMA GbR",
+    "countryCode": "DE",
+    "country": "Germany",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "2.27.166.0/24" ],
+    "ipv6": [ "2a0e:97c0:c10::/44" ]
+  }
+}

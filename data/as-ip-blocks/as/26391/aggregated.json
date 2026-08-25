@@ -1,0 +1,14 @@
+{
+  "asn": 26391,
+  "metadata": {
+    "handle": "REDGEAR",
+    "description": "RedGear LLC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

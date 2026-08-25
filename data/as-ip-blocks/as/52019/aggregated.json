@@ -1,0 +1,14 @@
+{
+  "asn": 52019,
+  "metadata": {
+    "handle": "ORCL-EMEA",
+    "description": "Oracle Svenska AB",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

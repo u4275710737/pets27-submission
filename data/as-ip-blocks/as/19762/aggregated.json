@@ -1,0 +1,14 @@
+{
+  "asn": 19762,
+  "metadata": {
+    "handle": "PHYSGUN",
+    "description": "Physgun LLC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

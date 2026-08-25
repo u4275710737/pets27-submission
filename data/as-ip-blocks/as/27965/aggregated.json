@@ -1,0 +1,14 @@
+{
+  "asn": 27965,
+  "metadata": {
+    "handle": "INTCOMEX-CHILE",
+    "description": "Intcomex Chile S.A.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

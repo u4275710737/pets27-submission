@@ -1,0 +1,16 @@
+{
+  "asn": 20915,
+  "metadata": {
+    "handle": "HUNDRED-PERCENT-IT",
+    "description": "CYBERHIVE LTD",
+    "countryCode": "GB",
+    "country": "United Kingdom",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "217.25.9.0/24" ],
+    "ipv6": [ ]
+  }
+}

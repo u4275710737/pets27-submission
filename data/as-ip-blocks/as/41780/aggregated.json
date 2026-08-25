@@ -1,0 +1,14 @@
+{
+  "asn": 41780,
+  "metadata": {
+    "handle": "GENSOKYO",
+    "description": "Bin Wang",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

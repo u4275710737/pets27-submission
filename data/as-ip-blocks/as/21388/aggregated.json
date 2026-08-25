@@ -1,0 +1,14 @@
+{
+  "asn": 21388,
+  "metadata": {
+    "handle": "CM",
+    "description": "CM.com N.V.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

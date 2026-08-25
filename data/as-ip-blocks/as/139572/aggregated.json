@@ -1,0 +1,14 @@
+{
+  "asn": 139572,
+  "metadata": {
+    "handle": "BIGDATA",
+    "description": "Big Data Broadband Pvt. Ltd.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

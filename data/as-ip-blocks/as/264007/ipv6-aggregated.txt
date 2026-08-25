@@ -1,0 +1,4 @@
+# AS264007 (ELETRIC-TELECOMUNICACOES-INFORMATICA)
+# Elétric Telecomunicações e Informática LTDA ME
+#
+2804:2944::/32

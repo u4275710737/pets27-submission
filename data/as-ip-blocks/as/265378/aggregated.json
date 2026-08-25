@@ -1,0 +1,14 @@
+{
+  "asn": 265378,
+  "metadata": {
+    "handle": "E-SERV-COMUNICAO",
+    "description": "E-SERV COMUNICAO LTDA.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

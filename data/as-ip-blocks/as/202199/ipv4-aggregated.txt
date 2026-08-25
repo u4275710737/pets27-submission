@@ -1,0 +1,4 @@
+# AS202199 (TRAWARE-TECHNOLOGIES)
+# Sochetra Than
+#
+143.14.226.0/24

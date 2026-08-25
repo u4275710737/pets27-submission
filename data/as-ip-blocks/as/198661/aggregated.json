@@ -1,0 +1,16 @@
+{
+  "asn": 198661,
+  "metadata": {
+    "handle": "MAVNETWORKS-AS",
+    "description": "Ksenia Becker",
+    "countryCode": "DE",
+    "country": "Germany",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "31.76.95.0/24", "31.76.255.0/24" ],
+    "ipv6": [ ]
+  }
+}

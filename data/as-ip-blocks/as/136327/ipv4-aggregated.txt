@@ -1,0 +1,5 @@
+# AS136327 (SPDBROAD-AS-IN)
+# Spd Broadband Pvt Ltd
+#
+103.132.240.0/23
+103.133.196.0/23

@@ -1,0 +1,16 @@
+{
+  "asn": 264899,
+  "metadata": {
+    "handle": "R-L-COMERCIO",
+    "description": "R L COMERCIO MANUTENCAO REPRESENTACAO DE ELETRO-E",
+    "countryCode": "BR",
+    "country": "Brazil",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "access_provider"
+  },
+  "prefixes": {
+    "ipv4": [ "168.228.4.0/22" ],
+    "ipv6": [ "2804:2f90::/32" ]
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 52435,
+  "metadata": {
+    "handle": "PLUG-AND-PLAY-NET",
+    "description": "Plug and play Net S.A.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

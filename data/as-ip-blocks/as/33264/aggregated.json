@@ -1,0 +1,14 @@
+{
+  "asn": 33264,
+  "metadata": {
+    "handle": "YIPTEL",
+    "description": "SYNDEO LLC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

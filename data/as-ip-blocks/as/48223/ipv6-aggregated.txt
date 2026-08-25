@@ -1,0 +1,4 @@
+# AS48223 (SENATOR-AS)
+# Senator Telecom Ltd.
+#
+2a01:7b60::/32

@@ -1,0 +1,14 @@
+{
+  "asn": 39369,
+  "metadata": {
+    "handle": "PORT80",
+    "description": "Availo Networks AB",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

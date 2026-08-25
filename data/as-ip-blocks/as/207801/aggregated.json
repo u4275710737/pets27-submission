@@ -1,0 +1,14 @@
+{
+  "asn": 207801,
+  "metadata": {
+    "handle": "ALEXANDRE-DUPOUY",
+    "description": "Alexandre DUPOUY",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 207005,
+  "metadata": {
+    "handle": "NEO-CLOUD-AS",
+    "description": "LLC NeoCloud",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

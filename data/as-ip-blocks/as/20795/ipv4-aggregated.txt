@@ -1,0 +1,4 @@
+# AS20795 (ITM-AS)
+# AOE FinTech GmbH
+#
+193.109.96.0/22

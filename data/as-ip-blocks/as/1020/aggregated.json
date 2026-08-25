@@ -1,0 +1,14 @@
+{
+  "asn": 1020,
+  "metadata": {
+    "handle": "MWC-CHI-UUN",
+    "description": "Midwest Cable",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

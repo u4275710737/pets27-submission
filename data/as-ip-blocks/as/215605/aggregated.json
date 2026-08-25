@@ -1,0 +1,16 @@
+{
+  "asn": 215605,
+  "metadata": {
+    "handle": "INFORMATIQ",
+    "description": "Shams Hanna trading as InformatiQ",
+    "countryCode": "FI",
+    "country": "Finland",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "access_provider"
+  },
+  "prefixes": {
+    "ipv4": [ "103.204.195.0/24", "199.58.91.0/24" ],
+    "ipv6": [ ]
+  }
+}

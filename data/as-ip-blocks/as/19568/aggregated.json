@@ -1,0 +1,14 @@
+{
+  "asn": 19568,
+  "metadata": {
+    "handle": "AFFINITYTS",
+    "description": "Affinity Technology Solutions LLC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

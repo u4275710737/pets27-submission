@@ -1,0 +1,4 @@
+# AS152415 (IDNIC-UNIB-AS-ID)
+# Universitas Bengkulu
+#
+157.20.212.0/23

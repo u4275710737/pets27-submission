@@ -1,0 +1,14 @@
+{
+  "asn": 34890,
+  "metadata": {
+    "handle": "ASOS",
+    "description": "ASOS.COM Limited",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

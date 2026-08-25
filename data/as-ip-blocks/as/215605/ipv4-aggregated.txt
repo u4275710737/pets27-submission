@@ -1,0 +1,5 @@
+# AS215605 (INFORMATIQ)
+# Shams Hanna trading as InformatiQ
+#
+103.204.195.0/24
+199.58.91.0/24

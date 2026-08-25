@@ -1,0 +1,14 @@
+{
+  "asn": 202579,
+  "metadata": {
+    "handle": "AFFINITAS",
+    "description": "Spark Networks Services GmbH",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

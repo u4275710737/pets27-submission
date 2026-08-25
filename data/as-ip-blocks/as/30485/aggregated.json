@@ -1,0 +1,16 @@
+{
+  "asn": 30485,
+  "metadata": {
+    "handle": "NASCAR-CLT-PROD",
+    "description": "NASCAR Holdings LLC",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "199.48.200.0/22" ],
+    "ipv6": [ ]
+  }
+}

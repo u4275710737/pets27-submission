@@ -1,0 +1,5 @@
+# AS14014 (CNRAIL-AS)
+# Canadian National Railway
+#
+165.115.0.0/16
+208.67.168.0/22

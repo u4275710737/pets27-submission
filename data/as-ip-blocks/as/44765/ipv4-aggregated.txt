@@ -1,0 +1,5 @@
+# AS44765 (MAKENEWMEDIA-AS)
+# MakeNewMedia Communications GmbH
+#
+92.61.60.0/22
+209.92.64.0/22

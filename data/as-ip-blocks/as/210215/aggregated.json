@@ -1,0 +1,16 @@
+{
+  "asn": 210215,
+  "metadata": {
+    "handle": "CRIMSON-PACIFIC-NETWORKS",
+    "description": "William Conway",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "education_research",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ ]
+  }
+}

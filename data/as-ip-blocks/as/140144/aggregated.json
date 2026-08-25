@@ -1,0 +1,14 @@
+{
+  "asn": 140144,
+  "metadata": {
+    "handle": "VCITYNET",
+    "description": "Vcitynet Opc Pvt Ltd",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

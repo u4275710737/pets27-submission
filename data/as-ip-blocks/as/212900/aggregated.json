@@ -1,0 +1,16 @@
+{
+  "asn": 212900,
+  "metadata": {
+    "handle": "AS212900",
+    "description": "NETHERMIR LABS S.L.",
+    "countryCode": "ES",
+    "country": "Spain",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ "2001:67c:abc::/48", "2a06:a005:ba9::/48" ]
+  }
+}

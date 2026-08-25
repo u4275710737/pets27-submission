@@ -1,0 +1,14 @@
+{
+  "asn": 47739,
+  "metadata": {
+    "handle": "THEABYSS-AS",
+    "description": "Aphrodite Limited",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

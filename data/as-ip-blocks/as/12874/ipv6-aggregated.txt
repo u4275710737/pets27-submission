@@ -1,0 +1,4 @@
+# AS12874 (FASTWEB)
+# Fastweb SpA
+#
+2001:b00::/29

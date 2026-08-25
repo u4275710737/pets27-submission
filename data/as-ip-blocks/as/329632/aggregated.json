@@ -1,0 +1,16 @@
+{
+  "asn": 329632,
+  "metadata": {
+    "handle": "TELECOMMUNICATION-DU-CONGO",
+    "description": "TELECOMMUNICATION DU CONGO",
+    "countryCode": "CG",
+    "country": "Congo - Brazzaville",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "102.204.124.0/24" ],
+    "ipv6": [ ]
+  }
+}

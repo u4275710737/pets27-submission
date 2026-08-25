@@ -1,0 +1,4 @@
+# AS52760 (NOVA-FIBRA-TELECOM)
+# Nova Fibra Telecom S.A.
+#
+177.21.232.0/21

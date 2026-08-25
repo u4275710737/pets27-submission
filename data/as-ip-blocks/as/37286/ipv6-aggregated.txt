@@ -1,0 +1,4 @@
+# AS37286 (NICT-AS)
+# AS Nigeria ICT Forum
+#
+2c0f:ff20::/32

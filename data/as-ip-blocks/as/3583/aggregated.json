@@ -1,0 +1,14 @@
+{
+  "asn": 3583,
+  "metadata": {
+    "handle": "ERX-IPTEK",
+    "description": "BPP Teknologi Networks Manager",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

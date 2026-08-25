@@ -1,0 +1,14 @@
+{
+  "asn": 1672,
+  "metadata": {
+    "handle": "ANS-CHICAGO",
+    "description": "ANS Communications",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 6465,
+  "metadata": {
+    "handle": "PAXIO",
+    "description": "Paxio Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 151597,
+  "metadata": {
+    "handle": "IDNIC-VALMICH-ID",
+    "description": "PT Valmich Hosting Indonesia",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

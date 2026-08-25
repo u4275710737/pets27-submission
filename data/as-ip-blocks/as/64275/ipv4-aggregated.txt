@@ -1,0 +1,4 @@
+# AS64275 (EQUINIX-EC-DE)
+# Equinix Inc.
+#
+192.133.2.0/24

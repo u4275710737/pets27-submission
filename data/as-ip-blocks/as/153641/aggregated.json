@@ -1,0 +1,14 @@
+{
+  "asn": 153641,
+  "metadata": {
+    "handle": "NNL-AS-AP",
+    "description": "NETCOMM NETWORKS PRIVATE LIMITED",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

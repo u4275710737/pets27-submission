@@ -1,0 +1,5 @@
+# AS262630 (ARRAIA-SERVICOS-TECNOLOGIA)
+# Arraia Serviços de Tecnologia Ltda
+#
+131.100.192.0/22
+177.86.128.0/22

@@ -1,0 +1,14 @@
+{
+  "asn": 40265,
+  "metadata": {
+    "handle": "CB-MAIN-INTERNET",
+    "description": "City Bank",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 6583,
+  "metadata": {
+    "handle": "MONGO-6583",
+    "description": "MongoDB Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

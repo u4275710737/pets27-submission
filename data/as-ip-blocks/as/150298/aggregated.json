@@ -1,0 +1,14 @@
+{
+  "asn": 150298,
+  "metadata": {
+    "handle": "MORE-WAIFU-BACKBONE",
+    "description": "More Waifu Backbone",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 14094,
+  "metadata": {
+    "handle": "BIGLOTS-HQ",
+    "description": "Big Lots Stores Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

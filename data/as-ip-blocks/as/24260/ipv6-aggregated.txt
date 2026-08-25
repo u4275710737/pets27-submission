@@ -1,0 +1,3 @@
+# AS24260 (KINJO-AS)
+# Board of trusty: Kinjo-Gakuen
+#

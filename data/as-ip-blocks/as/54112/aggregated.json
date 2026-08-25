@@ -1,0 +1,14 @@
+{
+  "asn": 54112,
+  "metadata": {
+    "handle": "MACST-SV4",
+    "description": "MacStadium, Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

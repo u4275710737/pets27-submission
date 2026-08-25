@@ -1,0 +1,4 @@
+# AS10818 (FULLNETOK)
+# Fullnet Communications
+#
+216.226.16.0/20

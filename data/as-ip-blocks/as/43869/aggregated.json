@@ -1,0 +1,14 @@
+{
+  "asn": 43869,
+  "metadata": {
+    "handle": "DK-UM",
+    "description": "Udenrigsministeriet",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

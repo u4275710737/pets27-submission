@@ -1,0 +1,14 @@
+{
+  "asn": 134434,
+  "metadata": {
+    "handle": "WP-AS",
+    "description": "WildPark Co",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

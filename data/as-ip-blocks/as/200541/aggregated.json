@@ -1,0 +1,14 @@
+{
+  "asn": 200541,
+  "metadata": {
+    "handle": "FVD-AS1",
+    "description": "Chess ICT Ltd",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

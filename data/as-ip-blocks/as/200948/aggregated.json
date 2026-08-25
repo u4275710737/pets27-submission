@@ -1,0 +1,14 @@
+{
+  "asn": 200948,
+  "metadata": {
+    "handle": "LINESIGHT-PUBLIC",
+    "description": "Rolbay ULC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

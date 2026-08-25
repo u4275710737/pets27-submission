@@ -1,0 +1,16 @@
+{
+  "asn": 10952,
+  "metadata": {
+    "handle": "ECU-AS",
+    "description": "East Carolina University",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "education_research",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "150.216.0.0/16", "204.84.66.0/24" ],
+    "ipv6": [ ]
+  }
+}

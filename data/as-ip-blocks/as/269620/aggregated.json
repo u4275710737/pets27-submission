@@ -1,0 +1,16 @@
+{
+  "asn": 269620,
+  "metadata": {
+    "handle": "TIAGO-CAMPOS-SANTOS",
+    "description": "TS NET TELECOMUNICACOES E MULTIMIDIA LTDA",
+    "countryCode": "BR",
+    "country": "Brazil",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "45.190.60.0/22" ],
+    "ipv6": [ "2804:6754::/32" ]
+  }
+}

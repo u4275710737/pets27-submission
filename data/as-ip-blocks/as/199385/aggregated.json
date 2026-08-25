@@ -1,0 +1,16 @@
+{
+  "asn": 199385,
+  "metadata": {
+    "handle": "GNOME",
+    "description": "Midland Press Ltd",
+    "countryCode": "GB",
+    "country": "United Kingdom",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "193.39.8.0/24" ],
+    "ipv6": [ ]
+  }
+}

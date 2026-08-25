@@ -1,0 +1,14 @@
+{
+  "asn": 395938,
+  "metadata": {
+    "handle": "GDBL",
+    "description": "Generic dot Business Ltd.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

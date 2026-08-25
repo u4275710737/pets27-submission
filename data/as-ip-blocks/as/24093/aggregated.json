@@ -1,0 +1,14 @@
+{
+  "asn": 24093,
+  "metadata": {
+    "handle": "SUPERLOOP-AP",
+    "description": "SUPERLOOP (AUSTRALIA) PTY LTD",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

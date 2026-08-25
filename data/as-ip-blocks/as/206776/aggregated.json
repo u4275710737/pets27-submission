@@ -1,0 +1,14 @@
+{
+  "asn": 206776,
+  "metadata": {
+    "handle": "OPHIDIAN",
+    "description": "Ophidian Network Limited",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

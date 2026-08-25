@@ -1,0 +1,16 @@
+{
+  "asn": 275684,
+  "metadata": {
+    "handle": "PONTUAL-NET-MG",
+    "description": "Pontual Net Mg Telecomunicaçoes LTDA",
+    "countryCode": "BR",
+    "country": "Brazil",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ ]
+  }
+}

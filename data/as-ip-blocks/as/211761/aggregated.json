@@ -1,0 +1,16 @@
+{
+  "asn": 211761,
+  "metadata": {
+    "handle": "HELLASSATGR-ASN",
+    "description": "HELLAS SAT SINGLE MEMBER SOCIETE ANONYME SATELLITE SYSTEMS AND COMMUNICATIONS SERVICES",
+    "countryCode": "GR",
+    "country": "Greece",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "185.98.134.0/24" ],
+    "ipv6": [ ]
+  }
+}

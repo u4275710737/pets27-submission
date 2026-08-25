@@ -1,0 +1,16 @@
+{
+  "asn": 219526,
+  "metadata": {
+    "handle": "JAKENET",
+    "description": "Jake Turner",
+    "countryCode": "GB",
+    "country": "United Kingdom",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ "2a14:7583:effc::/48" ]
+  }
+}

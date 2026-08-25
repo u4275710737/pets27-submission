@@ -1,0 +1,16 @@
+{
+  "asn": 210970,
+  "metadata": {
+    "handle": "MOSENTO",
+    "description": "mosento LTD",
+    "countryCode": "GB",
+    "country": "United Kingdom",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "45.152.11.0/24", "46.161.208.0/23", "46.161.212.0/22", "195.60.176.0/24" ],
+    "ipv6": [ ]
+  }
+}

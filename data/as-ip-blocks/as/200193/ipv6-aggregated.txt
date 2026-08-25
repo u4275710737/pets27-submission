@@ -1,0 +1,4 @@
+# AS200193 (ITMNET)
+# ITM Yazilim Bilgisayar Sistemleri ve Danismanlik Tic. Ltd. Sti
+#
+2a01:f900:203::/48

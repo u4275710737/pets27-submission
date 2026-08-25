@@ -1,0 +1,16 @@
+{
+  "asn": 202348,
+  "metadata": {
+    "handle": "YLEM1-AS-AP",
+    "description": "Ylem",
+    "countryCode": "KR",
+    "country": "South Korea",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "91.240.89.0/24" ],
+    "ipv6": [ ]
+  }
+}

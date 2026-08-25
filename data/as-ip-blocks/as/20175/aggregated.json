@@ -1,0 +1,14 @@
+{
+  "asn": 20175,
+  "metadata": {
+    "handle": "SETELAS",
+    "description": "Fusion Cloud Services, LLC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

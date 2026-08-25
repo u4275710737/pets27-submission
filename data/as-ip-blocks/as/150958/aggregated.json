@@ -1,0 +1,16 @@
+{
+  "asn": 150958,
+  "metadata": {
+    "handle": "IDNIC-FDN-AS-ID",
+    "description": "PT Fiber Data Nusantara",
+    "countryCode": "ID",
+    "country": "Indonesia",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "103.81.110.0/23" ],
+    "ipv6": [ "2001:df2:b2c0::/48" ]
+  }
+}

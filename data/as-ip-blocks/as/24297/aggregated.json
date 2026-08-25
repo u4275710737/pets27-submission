@@ -1,0 +1,14 @@
+{
+  "asn": 24297,
+  "metadata": {
+    "handle": "FCN",
+    "description": "Osaka Prefecture University",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

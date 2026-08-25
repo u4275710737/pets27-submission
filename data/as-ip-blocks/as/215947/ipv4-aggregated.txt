@@ -1,0 +1,4 @@
+# AS215947 (GRAZHDANIN-AS)
+# Qosyl.kz LLP
+#
+31.130.136.0/24

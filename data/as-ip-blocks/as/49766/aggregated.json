@@ -1,0 +1,14 @@
+{
+  "asn": 49766,
+  "metadata": {
+    "handle": "BITBUZZ",
+    "description": "Virgin Media Ireland Limited",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

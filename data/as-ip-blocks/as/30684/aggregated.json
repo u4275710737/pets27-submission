@@ -1,0 +1,14 @@
+{
+  "asn": 30684,
+  "metadata": {
+    "handle": "ESOLUTIONS-DATAFORTRESS",
+    "description": "eSolutionsGroup Ltd.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

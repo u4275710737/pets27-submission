@@ -1,0 +1,14 @@
+{
+  "asn": 196958,
+  "metadata": {
+    "handle": "MVM-NET-UTDIJ",
+    "description": "MVM NET Zrt.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

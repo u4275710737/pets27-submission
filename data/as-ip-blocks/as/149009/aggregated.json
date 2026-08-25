@@ -1,0 +1,16 @@
+{
+  "asn": 149009,
+  "metadata": {
+    "handle": "DSIPL-AS-AP",
+    "description": "Dubai Sky Internet",
+    "countryCode": "PK",
+    "country": "Pakistan",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "103.176.5.0/24", "110.38.181.0/24", "210.79.166.0/23" ],
+    "ipv6": [ ]
+  }
+}

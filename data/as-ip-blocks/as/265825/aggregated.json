@@ -1,0 +1,16 @@
+{
+  "asn": 265825,
+  "metadata": {
+    "handle": "WORLDSTREAM-LATAM-BV",
+    "description": "WORLDSTREAM LATAM B.V",
+    "countryCode": "CW",
+    "country": "Curaçao",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "190.185.0.0/18" ],
+    "ipv6": [ ]
+  }
+}

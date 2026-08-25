@@ -1,0 +1,14 @@
+{
+  "asn": 27536,
+  "metadata": {
+    "handle": "GLENVIEW-CAPITAL",
+    "description": "Glenview Capital Management LLC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

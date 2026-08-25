@@ -1,0 +1,14 @@
+{
+  "asn": 131776,
+  "metadata": {
+    "handle": "IDNIC-LAPAN-ID",
+    "description": "Lembaga Penerbangan dan Antariksa Nasional (LAPAN)",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

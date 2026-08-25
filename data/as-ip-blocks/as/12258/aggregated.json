@@ -1,0 +1,14 @@
+{
+  "asn": 12258,
+  "metadata": {
+    "handle": "NTT-DATA-INC",
+    "description": "Dimension Data",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

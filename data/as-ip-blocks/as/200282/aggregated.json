@@ -1,0 +1,16 @@
+{
+  "asn": 200282,
+  "metadata": {
+    "handle": "CIMAX-LLC",
+    "description": "CIMAX Technologies LLC",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "89.46.1.0/24" ],
+    "ipv6": [ "2a06:9801:5f::/48", "2a13:9500:14b::/48" ]
+  }
+}

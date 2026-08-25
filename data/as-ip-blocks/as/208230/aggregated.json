@@ -1,0 +1,14 @@
+{
+  "asn": 208230,
+  "metadata": {
+    "handle": "ANNINET",
+    "description": "Annika Hannig",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

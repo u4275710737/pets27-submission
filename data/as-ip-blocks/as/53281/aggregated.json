@@ -1,0 +1,14 @@
+{
+  "asn": 53281,
+  "metadata": {
+    "handle": "AHEAD",
+    "description": "Computer Design & Integration LLC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

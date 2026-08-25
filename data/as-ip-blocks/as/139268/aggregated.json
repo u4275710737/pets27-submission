@@ -1,0 +1,14 @@
+{
+  "asn": 139268,
+  "metadata": {
+    "handle": "GLINK-AP",
+    "description": "Global Link Internet Limited",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

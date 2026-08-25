@@ -1,0 +1,14 @@
+{
+  "asn": 30424,
+  "metadata": {
+    "handle": "WEST-JEFFERSON-MEDICAL-CENTER-LOUISIANA",
+    "description": "West Jefferson Medical Center",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

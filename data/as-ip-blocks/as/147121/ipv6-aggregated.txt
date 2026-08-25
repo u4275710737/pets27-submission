@@ -1,0 +1,4 @@
+# AS147121 (IDNIC-MARVATEL-AS-ID)
+# PT Marva Global Telekomunikasi
+#
+2001:df1:17c0::/48

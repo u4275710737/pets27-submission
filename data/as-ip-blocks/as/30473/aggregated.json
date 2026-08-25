@@ -1,0 +1,14 @@
+{
+  "asn": 30473,
+  "metadata": {
+    "handle": "ETHANALLEN",
+    "description": "Ethan Allen Global, Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

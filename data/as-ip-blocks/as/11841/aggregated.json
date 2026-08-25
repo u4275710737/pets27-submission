@@ -1,0 +1,14 @@
+{
+  "asn": 11841,
+  "metadata": {
+    "handle": "UIA11841",
+    "description": "Ultimate Internet Access Inc",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "asn": 36944,
+  "metadata": {
+    "handle": "UBUNTUNET-36944",
+    "description": "UbuntuNet Alliance",
+    "countryCode": "MW",
+    "country": "Malawi",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "midsize_transit"
+  },
+  "prefixes": {
+    "ipv4": [ "196.32.208.0/21" ],
+    "ipv6": [ "2001:43f8:20::/48" ]
+  }
+}

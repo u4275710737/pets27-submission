@@ -1,0 +1,4 @@
+# AS12928 (BCV)
+# Banque Cantonale Vaudoise
+#
+194.163.64.0/22

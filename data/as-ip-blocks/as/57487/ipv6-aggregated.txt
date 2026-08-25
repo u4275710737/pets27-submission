@@ -1,0 +1,8 @@
+# AS57487 (MIXTELECOM-AS)
+# Advanced Solutions LLC
+#
+2a04:3600::/29
+2a11:6505::/32
+2a11:8445::/32
+2a11:cd05::/32
+2a12:1243::/32

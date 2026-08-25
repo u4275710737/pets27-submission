@@ -1,0 +1,14 @@
+{
+  "asn": 203317,
+  "metadata": {
+    "handle": "CC-ASN-001",
+    "description": "THE COMMUNICATOR CORPORATION LIMITED",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

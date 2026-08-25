@@ -1,0 +1,16 @@
+{
+  "asn": 209355,
+  "metadata": {
+    "handle": "BLADEMIND",
+    "description": "Danny Snel Trading As Blademind",
+    "countryCode": "NL",
+    "country": "Netherlands",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ ]
+  }
+}

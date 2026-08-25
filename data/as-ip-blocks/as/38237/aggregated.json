@@ -1,0 +1,14 @@
+{
+  "asn": 38237,
+  "metadata": {
+    "handle": "LOADEDGE",
+    "description": "LoadEdge Limited",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

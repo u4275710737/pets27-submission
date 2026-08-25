@@ -1,0 +1,16 @@
+{
+  "asn": 146992,
+  "metadata": {
+    "handle": "IRINN-SASCOM25-AS-IN",
+    "description": "SAS COMMUNICATIONS",
+    "countryCode": "IN",
+    "country": "India",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "163.128.14.0/24" ],
+    "ipv6": [ ]
+  }
+}

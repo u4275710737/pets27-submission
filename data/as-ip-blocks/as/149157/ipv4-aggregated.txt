@@ -1,0 +1,4 @@
+# AS149157 (DXAG-VN)
+# Digital Transformation Center - An Giang Department of Science and Technology
+#
+103.51.104.0/23

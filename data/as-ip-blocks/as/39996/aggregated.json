@@ -1,0 +1,14 @@
+{
+  "asn": 39996,
+  "metadata": {
+    "handle": "PANAVCA",
+    "description": "Panasonic Avionics Corporation",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

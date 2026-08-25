@@ -1,0 +1,16 @@
+{
+  "asn": 402159,
+  "metadata": {
+    "handle": "VALLEY-FIBERCOM",
+    "description": "Valley FiberCom",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "170.101.32.0/19", "216.249.213.0/24", "216.249.226.0/24" ],
+    "ipv6": [ ]
+  }
+}

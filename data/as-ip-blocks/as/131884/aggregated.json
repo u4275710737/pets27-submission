@@ -1,0 +1,14 @@
+{
+  "asn": 131884,
+  "metadata": {
+    "handle": "GDX10-KR",
+    "description": "Korea Internet Security Agency",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

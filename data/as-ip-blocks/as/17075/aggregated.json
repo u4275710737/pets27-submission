@@ -1,0 +1,14 @@
+{
+  "asn": 17075,
+  "metadata": {
+    "handle": "PARA-1",
+    "description": "Parago Inc",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

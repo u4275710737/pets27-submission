@@ -1,0 +1,14 @@
+{
+  "asn": 11127,
+  "metadata": {
+    "handle": "NETSAT",
+    "description": "Globecomm Network Services Corporation",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

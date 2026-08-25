@@ -1,0 +1,16 @@
+{
+  "asn": 31924,
+  "metadata": {
+    "handle": "AS-1",
+    "description": "Lyicore Tech LLC",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "16.216.54.0/24", "16.216.183.0/24", "16.217.122.0/24", "16.217.131.0/24", "199.235.229.0/24" ],
+    "ipv6": [ ]
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 271915,
+  "metadata": {
+    "handle": "TECNOLOGICA-SIMEON-COMPANY",
+    "description": "TECNOLOGICA SIMEON COMPANY CHILE SPA",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

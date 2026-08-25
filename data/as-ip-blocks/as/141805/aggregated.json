@@ -1,0 +1,16 @@
+{
+  "asn": 141805,
+  "metadata": {
+    "handle": "HUBCOM-AS-IN",
+    "description": "Hubcom Techno System Llp",
+    "countryCode": "IN",
+    "country": "India",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "103.109.136.0/22", "103.165.170.0/23" ],
+    "ipv6": [ "2001:df6:6b80::/48" ]
+  }
+}

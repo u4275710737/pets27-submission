@@ -1,0 +1,16 @@
+{
+  "asn": 37373,
+  "metadata": {
+    "handle": "AUC-AS",
+    "description": "AUC AS Number",
+    "countryCode": "GH",
+    "country": "Ghana",
+    "origin": "authoritative",
+    "category": "education_research",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "41.79.96.0/22", "196.13.192.0/21" ],
+    "ipv6": [ ]
+  }
+}

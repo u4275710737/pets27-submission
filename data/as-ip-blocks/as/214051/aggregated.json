@@ -1,0 +1,14 @@
+{
+  "asn": 214051,
+  "metadata": {
+    "handle": "PMI-IZHORA-AS",
+    "description": "PHILIP MORRIS SALES AND MARKETING LLC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

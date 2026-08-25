@@ -1,0 +1,14 @@
+{
+  "asn": 20155,
+  "metadata": {
+    "handle": "OCO-1",
+    "description": "ORANGE COUNTY ONLINE",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "asn": 395693,
+  "metadata": {
+    "handle": "TEGNA-QTS-EAST",
+    "description": "TEGNA Inc.",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "167.8.21.0/24", "167.8.22.0/23", "167.8.24.0/24", "167.8.131.0/24", "167.8.140.0/23", "167.8.142.0/24", "167.8.144.0/22" ],
+    "ipv6": [ ]
+  }
+}

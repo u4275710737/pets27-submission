@@ -1,0 +1,14 @@
+{
+  "asn": 50931,
+  "metadata": {
+    "handle": "HAMET",
+    "description": "Stadtgemeinde WEIZ",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

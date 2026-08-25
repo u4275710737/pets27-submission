@@ -1,0 +1,14 @@
+{
+  "asn": 53979,
+  "metadata": {
+    "handle": "BREVARD-COMMUNITY-COLLEGE",
+    "description": "Eastern Florida State College",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

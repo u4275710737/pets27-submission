@@ -1,0 +1,4 @@
+# AS211089 (NCFM-AS)
+# Republican Unitary Enterprise National Export Promotion Centre
+#
+95.130.86.0/24

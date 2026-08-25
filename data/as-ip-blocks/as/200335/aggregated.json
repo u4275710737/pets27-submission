@@ -1,0 +1,14 @@
+{
+  "asn": 200335,
+  "metadata": {
+    "handle": "ANGULO",
+    "description": "Esteban de Jesus Hernandez Angulo",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 18650,
+  "metadata": {
+    "handle": "KORAX",
+    "description": "HostPapa",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

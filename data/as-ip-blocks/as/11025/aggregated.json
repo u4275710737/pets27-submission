@@ -1,0 +1,14 @@
+{
+  "asn": 11025,
+  "metadata": {
+    "handle": "COMCAST-HOUSTON",
+    "description": "Comcast Cable Communications, LLC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

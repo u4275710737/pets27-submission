@@ -1,0 +1,4 @@
+# AS402153 (QUICK-TECH-RESULTS-01)
+# Quick Tech Results LLC
+#
+23.148.184.0/24

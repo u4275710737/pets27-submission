@@ -1,0 +1,14 @@
+{
+  "asn": 329380,
+  "metadata": {
+    "handle": "CAMPOST",
+    "description": "Cameroon Postal Services (CAMPOST)",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

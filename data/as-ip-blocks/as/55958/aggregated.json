@@ -1,0 +1,14 @@
+{
+  "asn": 55958,
+  "metadata": {
+    "handle": "INTEL-CHINA",
+    "description": "Intel China Ltd",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

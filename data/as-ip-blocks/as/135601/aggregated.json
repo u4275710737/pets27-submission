@@ -1,0 +1,14 @@
+{
+  "asn": 135601,
+  "metadata": {
+    "handle": "TOURISMAUSTRALIA-AP",
+    "description": "Tourism Australia",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

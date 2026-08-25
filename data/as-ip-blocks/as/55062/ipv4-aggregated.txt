@@ -1,0 +1,5 @@
+# AS55062 (GSC-MINNEAPOLISMN)
+# Gannett Supply Corp. - Minneapolis MN
+#
+167.8.6.0/24
+167.8.46.0/24

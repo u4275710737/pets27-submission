@@ -1,0 +1,14 @@
+{
+  "asn": 399567,
+  "metadata": {
+    "handle": "HOMETIME-ASN1",
+    "description": "Hometime",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

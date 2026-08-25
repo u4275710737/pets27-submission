@@ -1,0 +1,4 @@
+# AS328043 (CLICKATELL)
+# Clickatell
+#
+196.13.0.0/24

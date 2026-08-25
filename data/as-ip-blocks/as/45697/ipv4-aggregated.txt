@@ -1,0 +1,4 @@
+# AS45697 (UBAYA-AS-ID)
+# Universitas Surabaya
+#
+203.114.224.0/23

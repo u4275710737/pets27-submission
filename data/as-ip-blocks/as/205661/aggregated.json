@@ -1,0 +1,14 @@
+{
+  "asn": 205661,
+  "metadata": {
+    "handle": "NTTSECURITY",
+    "description": "NTT Security GmbH",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

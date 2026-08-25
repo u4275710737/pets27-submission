@@ -1,0 +1,14 @@
+{
+  "asn": 39579,
+  "metadata": {
+    "handle": "CHICAGO-METALLIC",
+    "description": "Rockwool Belgium NV",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

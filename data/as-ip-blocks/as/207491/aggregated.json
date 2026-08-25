@@ -1,0 +1,16 @@
+{
+  "asn": 207491,
+  "metadata": {
+    "handle": "PUESCHEL-AS",
+    "description": "Max Pueschel",
+    "countryCode": "DE",
+    "country": "Germany",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "185.121.163.0/24" ],
+    "ipv6": [ "2001:678:c08::/48" ]
+  }
+}

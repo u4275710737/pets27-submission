@@ -1,0 +1,14 @@
+{
+  "asn": 213750,
+  "metadata": {
+    "handle": "KUXUEYUN-AS",
+    "description": "KUXUEYUN LTD",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

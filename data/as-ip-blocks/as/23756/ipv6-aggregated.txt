@@ -1,0 +1,4 @@
+# AS23756 (PADINET-AS-ID)
+# PADINET - Padi Internet
+#
+2406:6200::/32

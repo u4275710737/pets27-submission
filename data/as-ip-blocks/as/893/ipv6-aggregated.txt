@@ -1,0 +1,5 @@
+# AS893 (NINJA-IX-FOUNDATION-ASN)
+# Ninja-IX Foundation
+#
+2001:470:3b6::/48
+2602:fb61::/40

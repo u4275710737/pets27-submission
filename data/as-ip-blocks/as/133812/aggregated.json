@@ -1,0 +1,14 @@
+{
+  "asn": 133812,
+  "metadata": {
+    "handle": "IDNIC-LCMNETWORKS-ID",
+    "description": "LCM NETWORKS",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

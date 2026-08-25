@@ -1,0 +1,6 @@
+# AS60873 (UTEKTV-AS)
+# Alliance Communications Ltd
+#
+46.8.38.0/24
+188.130.148.0/24
+188.130.163.0/24

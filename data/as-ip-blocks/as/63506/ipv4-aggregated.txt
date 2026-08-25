@@ -1,0 +1,5 @@
+# AS63506 (IDNIC-BASARNAS-AS-ID)
+# Badan SAR Nasional
+#
+103.40.94.0/24
+157.20.24.0/24

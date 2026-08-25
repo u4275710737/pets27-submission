@@ -1,0 +1,16 @@
+{
+  "asn": 140972,
+  "metadata": {
+    "handle": "IRINN-ALIVENET-AS-IN",
+    "description": "ALIVE QUICKNET PRIVATE LIMITED",
+    "countryCode": "IN",
+    "country": "India",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "151.158.248.0/23" ],
+    "ipv6": [ ]
+  }
+}

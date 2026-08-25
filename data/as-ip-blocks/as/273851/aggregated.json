@@ -1,0 +1,14 @@
+{
+  "asn": 273851,
+  "metadata": {
+    "handle": "CABLE-HOGAR-CA",
+    "description": "CABLE HOGAR C.A.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 400434,
+  "metadata": {
+    "handle": "MICROAUTONOMICS",
+    "description": "MicroAutonomics",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

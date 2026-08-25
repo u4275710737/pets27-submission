@@ -1,0 +1,14 @@
+{
+  "asn": 42304,
+  "metadata": {
+    "handle": "AXIOMA",
+    "description": "Nemerov Evgeniy Vladimirovish PE",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

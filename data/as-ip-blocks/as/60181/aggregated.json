@@ -1,0 +1,14 @@
+{
+  "asn": 60181,
+  "metadata": {
+    "handle": "SAP-ARIBA",
+    "description": "SAP SE",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

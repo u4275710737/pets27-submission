@@ -1,0 +1,14 @@
+{
+  "asn": 136345,
+  "metadata": {
+    "handle": "ZKINFO",
+    "description": "Z. K. Infonet",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

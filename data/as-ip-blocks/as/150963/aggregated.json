@@ -1,0 +1,14 @@
+{
+  "asn": 150963,
+  "metadata": {
+    "handle": "IDNIC-EXELNET-ID",
+    "description": "PT Exklesia Netmedia Solusindo",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

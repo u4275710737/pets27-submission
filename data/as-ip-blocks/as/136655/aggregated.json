@@ -1,0 +1,14 @@
+{
+  "asn": 136655,
+  "metadata": {
+    "handle": "IPCONIPL-IN",
+    "description": "IPCON INTERNATIONAL PRIVATE LIMITED",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

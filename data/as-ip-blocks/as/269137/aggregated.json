@@ -1,0 +1,16 @@
+{
+  "asn": 269137,
+  "metadata": {
+    "handle": "PNTI-PONTO-NET",
+    "description": "PNTI - Ponto Net Tecnologia em internet",
+    "countryCode": "BR",
+    "country": "Brazil",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "45.180.144.0/22" ],
+    "ipv6": [ ]
+  }
+}

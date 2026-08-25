@@ -1,0 +1,14 @@
+{
+  "asn": 140136,
+  "metadata": {
+    "handle": "SAMLCN",
+    "description": "Samleswari Cable Network",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 147299,
+  "metadata": {
+    "handle": "SSDU-AS-AP",
+    "description": "SSDU",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

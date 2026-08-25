@@ -1,0 +1,14 @@
+{
+  "asn": 328104,
+  "metadata": {
+    "handle": "ADETIC-AS",
+    "description": "Agence de Developpement de Technologies de l'Information et de la Communication",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

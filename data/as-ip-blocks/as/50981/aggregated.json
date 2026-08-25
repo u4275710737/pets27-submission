@@ -1,0 +1,14 @@
+{
+  "asn": 50981,
+  "metadata": {
+    "handle": "KMSINET-AS",
+    "description": "Andilahai Aleksandr Anatolievich",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

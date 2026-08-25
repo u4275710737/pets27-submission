@@ -1,0 +1,14 @@
+{
+  "asn": 215526,
+  "metadata": {
+    "handle": "SHAHEWAY-NET",
+    "description": "Zhongdi Luo",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

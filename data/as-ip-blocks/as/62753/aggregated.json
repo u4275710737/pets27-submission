@@ -1,0 +1,14 @@
+{
+  "asn": 62753,
+  "metadata": {
+    "handle": "SCA-SD",
+    "description": "Sony Pictures Technologies Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 215019,
+  "metadata": {
+    "handle": "YIRAN-QU",
+    "description": "Yiran Qu",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

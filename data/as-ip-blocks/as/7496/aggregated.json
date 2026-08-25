@@ -1,0 +1,14 @@
+{
+  "asn": 7496,
+  "metadata": {
+    "handle": "ARQ-AU",
+    "description": "Arq Group Enterprise Pty Ltd",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

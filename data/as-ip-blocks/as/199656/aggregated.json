@@ -1,0 +1,16 @@
+{
+  "asn": 199656,
+  "metadata": {
+    "handle": "ZYNER",
+    "description": "Zyner",
+    "countryCode": "SE",
+    "country": "Sweden",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "192.71.171.0/24" ],
+    "ipv6": [ "2a03:1b21:100::/48", "2a03:1b21:120::/48" ]
+  }
+}

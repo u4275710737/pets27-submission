@@ -1,0 +1,4 @@
+# AS203052 (TELETEK-ASN)
+# Centcom Sverige AB
+#
+185.146.140.0/22

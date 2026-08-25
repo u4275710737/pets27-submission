@@ -1,0 +1,14 @@
+{
+  "asn": 54504,
+  "metadata": {
+    "handle": "HEITAS",
+    "description": "Heitman LLC.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

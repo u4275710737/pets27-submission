@@ -1,0 +1,14 @@
+{
+  "asn": 7001,
+  "metadata": {
+    "handle": "METACLOUD-PUBLIC-1",
+    "description": "Metacloud LLC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

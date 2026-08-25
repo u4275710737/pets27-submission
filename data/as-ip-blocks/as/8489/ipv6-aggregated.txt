@@ -1,0 +1,5 @@
+# AS8489 (PORTAL-TO-WEB)
+# Martin Mersberger EDV Beratung
+#
+2001:678:1000::/48
+2001:678:10c4::/48

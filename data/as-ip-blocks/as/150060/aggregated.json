@@ -1,0 +1,14 @@
+{
+  "asn": 150060,
+  "metadata": {
+    "handle": "FIBERP-AS-IN",
+    "description": "FIBER POWER CONNECTS PVT LTD",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

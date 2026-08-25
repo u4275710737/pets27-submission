@@ -1,0 +1,14 @@
+{
+  "asn": 34658,
+  "metadata": {
+    "handle": "TSI-AS34658",
+    "description": "Pasquale Troccoli",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

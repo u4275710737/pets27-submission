@@ -1,0 +1,16 @@
+{
+  "asn": 29811,
+  "metadata": {
+    "handle": "SCHOLASTIC-INC",
+    "description": "Scholastic Inc.",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "199.19.140.0/23" ],
+    "ipv6": [ ]
+  }
+}

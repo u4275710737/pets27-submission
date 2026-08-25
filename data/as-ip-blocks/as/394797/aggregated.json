@@ -1,0 +1,14 @@
+{
+  "asn": 394797,
+  "metadata": {
+    "handle": "MILLIK-ASN1",
+    "description": "Millikin University",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

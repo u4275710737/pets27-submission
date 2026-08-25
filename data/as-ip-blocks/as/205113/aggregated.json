@@ -1,0 +1,16 @@
+{
+  "asn": 205113,
+  "metadata": {
+    "handle": "OBS",
+    "description": "OLYMPIC BROADCASTING SERVICES SL",
+    "countryCode": "ES",
+    "country": "Spain",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "185.248.204.0/24" ],
+    "ipv6": [ ]
+  }
+}

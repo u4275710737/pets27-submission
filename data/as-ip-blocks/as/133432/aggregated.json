@@ -1,0 +1,14 @@
+{
+  "asn": 133432,
+  "metadata": {
+    "handle": "ICONCERTOINC-AS-AP",
+    "description": "iConcerto Inc",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

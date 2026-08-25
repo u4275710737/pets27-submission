@@ -1,0 +1,16 @@
+{
+  "asn": 204317,
+  "metadata": {
+    "handle": "ADENNET",
+    "description": "Aden net",
+    "countryCode": "YE",
+    "country": "Yemen",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "185.240.64.0/22" ],
+    "ipv6": [ ]
+  }
+}

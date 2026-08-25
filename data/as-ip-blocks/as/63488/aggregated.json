@@ -1,0 +1,14 @@
+{
+  "asn": 63488,
+  "metadata": {
+    "handle": "IDNIC-TOTALTEKNO-ID",
+    "description": "PT Total Trimitra Teknologi",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "asn": 59593,
+  "metadata": {
+    "handle": "SQUID",
+    "description": "Kyrychenko Vadym Hryhoriyovych",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [
+      "91.244.69.0/24"
+    ],
+    "ipv6": []
+  }
+}

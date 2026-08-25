@@ -1,0 +1,5 @@
+# AS150478 (IDNIC-STG-AS-ID)
+# PT Solusi Teknologi Gemilang
+#
+103.117.10.0/24
+180.131.131.0/24

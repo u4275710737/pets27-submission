@@ -1,0 +1,16 @@
+{
+  "asn": 35522,
+  "metadata": {
+    "handle": "STADIONSPARTAK-AS",
+    "description": "SZ Stadion Spartak LLC",
+    "countryCode": "RU",
+    "country": "Russia",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "194.88.200.0/23" ],
+    "ipv6": [ ]
+  }
+}

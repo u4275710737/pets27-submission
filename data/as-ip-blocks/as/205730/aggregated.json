@@ -1,0 +1,14 @@
+{
+  "asn": 205730,
+  "metadata": {
+    "handle": "NETFLEX",
+    "description": "Netflex B.V.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "asn": 32980,
+  "metadata": {
+    "handle": "NEUSTAR-AS5",
+    "description": "NETWO336-ARIN",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "156.154.89.0/24", "156.154.90.0/23" ],
+    "ipv6": [ ]
+  }
+}

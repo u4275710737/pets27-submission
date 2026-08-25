@@ -1,0 +1,14 @@
+{
+  "asn": 208647,
+  "metadata": {
+    "handle": "BORNHACK",
+    "description": "BornHack ApS",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

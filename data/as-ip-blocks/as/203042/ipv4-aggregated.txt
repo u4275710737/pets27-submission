@@ -1,0 +1,4 @@
+# AS203042 (SKELDUZ)
+# Skelduz ApS
+#
+195.242.192.0/23

@@ -1,0 +1,14 @@
+{
+  "asn": 207546,
+  "metadata": {
+    "handle": "EUROCOM",
+    "description": "Eurocom Innovazione srl",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

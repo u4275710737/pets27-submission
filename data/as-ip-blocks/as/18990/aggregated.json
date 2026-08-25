@@ -1,0 +1,14 @@
+{
+  "asn": 18990,
+  "metadata": {
+    "handle": "AIRBAND-DALLAS",
+    "description": "Airband Communications, Inc",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

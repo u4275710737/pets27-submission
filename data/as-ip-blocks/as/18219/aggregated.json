@@ -1,0 +1,14 @@
+{
+  "asn": 18219,
+  "metadata": {
+    "handle": "SAP-DC-SIN",
+    "description": "SAP Asia Pte Ltd",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

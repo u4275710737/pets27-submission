@@ -1,0 +1,16 @@
+{
+  "asn": 401335,
+  "metadata": {
+    "handle": "AI-DUDE-RI",
+    "description": "Minerdude LLC",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "123.108.90.0/23", "203.57.40.0/23" ],
+    "ipv6": [ ]
+  }
+}

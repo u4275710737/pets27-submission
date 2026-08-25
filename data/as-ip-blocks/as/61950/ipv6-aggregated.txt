@@ -1,0 +1,5 @@
+# AS61950 (NOSSA-TELECOM-TELECOMUNICACOES)
+# Nossa Telecom Telecomunicações Ltda
+#
+2804:18bc:4000::/34
+2804:18bc:c000::/34

@@ -1,0 +1,16 @@
+{
+  "asn": 263468,
+  "metadata": {
+    "handle": "RAPNET-COMUNICACAO-MULTIMIDIA",
+    "description": "RAPNET COMUNICACAO MULTIMIDIA LTDA",
+    "countryCode": "BR",
+    "country": "Brazil",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "access_provider"
+  },
+  "prefixes": {
+    "ipv4": [ "131.255.96.0/23", "131.255.99.0/24", "177.73.60.0/22" ],
+    "ipv6": [ "2804:124c::/32" ]
+  }
+}

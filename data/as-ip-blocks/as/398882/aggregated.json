@@ -1,0 +1,14 @@
+{
+  "asn": 398882,
+  "metadata": {
+    "handle": "MIDSTATE-NETWORKS",
+    "description": "Midstate Networks LLC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

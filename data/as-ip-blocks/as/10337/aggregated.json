@@ -1,0 +1,14 @@
+{
+  "asn": 10337,
+  "metadata": {
+    "handle": "IBMAS400DIV",
+    "description": "IBM AS/400 Division",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

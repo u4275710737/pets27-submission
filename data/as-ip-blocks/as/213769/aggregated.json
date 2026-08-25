@@ -1,0 +1,14 @@
+{
+  "asn": 213769,
+  "metadata": {
+    "handle": "WEB-WANG",
+    "description": "wang guanwei",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "asn": 215158,
+  "metadata": {
+    "handle": "SIXNET-OP2",
+    "description": "Sixnet Operation Ltd",
+    "countryCode": "GB",
+    "country": "United Kingdom",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ "2a05:f687::/32" ]
+  }
+}

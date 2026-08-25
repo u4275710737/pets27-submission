@@ -1,0 +1,16 @@
+{
+  "asn": 198942,
+  "metadata": {
+    "handle": "MTURS-AS",
+    "description": "Mykola Turskyi",
+    "countryCode": "UA",
+    "country": "Ukraine",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ "2a05:dfc1:2c10::/48", "2a05:dfc1:2c34::/48" ]
+  }
+}

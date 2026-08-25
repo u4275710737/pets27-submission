@@ -1,0 +1,14 @@
+{
+  "asn": 27714,
+  "metadata": {
+    "handle": "UNETE-TELECOMUNICACIONES",
+    "description": "Unete Telecomunicaciones Ltda.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

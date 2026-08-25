@@ -1,0 +1,14 @@
+{
+  "asn": 6078,
+  "metadata": {
+    "handle": "JERSEY",
+    "description": "InterActive Network Services",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 22211,
+  "metadata": {
+    "handle": "INTERNAP-FCP",
+    "description": "Internap Holding LLC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

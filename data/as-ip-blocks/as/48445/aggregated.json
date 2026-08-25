@@ -1,0 +1,14 @@
+{
+  "asn": 48445,
+  "metadata": {
+    "handle": "EVRY-MPLS",
+    "description": "Tietoevry Tech Services AB",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

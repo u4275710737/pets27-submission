@@ -1,0 +1,14 @@
+{
+  "asn": 21893,
+  "metadata": {
+    "handle": "XOOM",
+    "description": "PayPal, Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

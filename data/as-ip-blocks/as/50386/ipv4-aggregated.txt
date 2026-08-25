@@ -1,0 +1,4 @@
+# AS50386 (CIC-NETWORK-AS)
+# Kombinat Svyazi TOO
+#
+77.73.130.0/24

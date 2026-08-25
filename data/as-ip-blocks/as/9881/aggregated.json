@@ -1,0 +1,14 @@
+{
+  "asn": 9881,
+  "metadata": {
+    "handle": "SYMBIO-NZ",
+    "description": "My Net Fone Limited",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

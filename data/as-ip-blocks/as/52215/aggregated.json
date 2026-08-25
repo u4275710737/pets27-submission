@@ -1,0 +1,16 @@
+{
+  "asn": 52215,
+  "metadata": {
+    "handle": "EXEPLAY-DOO",
+    "description": "Exeplay d.o.o.",
+    "countryCode": "RS",
+    "country": "Serbia",
+    "origin": "inferred",
+    "category": null,
+    "networkRole": null
+  },
+  "prefixes": {
+    "ipv4": [ "91.223.46.0/24", "91.224.26.0/23" ],
+    "ipv6": [ ]
+  }
+}

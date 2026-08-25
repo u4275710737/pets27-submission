@@ -1,0 +1,14 @@
+{
+  "asn": 134018,
+  "metadata": {
+    "handle": "CLOUDISP-IN",
+    "description": "ONBLUECLOUD INFOTECH PVT LTD",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

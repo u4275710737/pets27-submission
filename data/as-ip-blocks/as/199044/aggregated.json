@@ -1,0 +1,16 @@
+{
+  "asn": 199044,
+  "metadata": {
+    "handle": "VIENNALIFE-EMEKLILIK-VE-HAYAT-AS",
+    "description": "Viennalife Emeklilik ve Hayat Anonim Sirketi",
+    "countryCode": "TR",
+    "country": "Türkiye",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "131.222.254.0/24" ],
+    "ipv6": [ ]
+  }
+}

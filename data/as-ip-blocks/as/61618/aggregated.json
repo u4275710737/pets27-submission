@@ -1,0 +1,16 @@
+{
+  "asn": 61618,
+  "metadata": {
+    "handle": "VIVA-TECNOLOGIA-TELECOM",
+    "description": "VIVA TECNOLOGIA TELECOMUNICACOES LTDA",
+    "countryCode": "BR",
+    "country": "Brazil",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "midsize_transit"
+  },
+  "prefixes": {
+    "ipv4": [ "45.231.172.0/22", "170.81.100.0/22" ],
+    "ipv6": [ "2804:376c::/32" ]
+  }
+}

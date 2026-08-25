@@ -1,0 +1,7 @@
+# AS146788 (CHINA-BROADNET)
+# China Broadcasting Network Co. Ltd
+#
+240a:40c0:8200::/48
+240a:40c0:8240::/48
+240a:40c3:c200::/48
+240a:40c3:c240::/48

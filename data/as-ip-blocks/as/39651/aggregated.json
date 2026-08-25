@@ -1,0 +1,14 @@
+{
+  "asn": 39651,
+  "metadata": {
+    "handle": "TELE2-FIXED-SWEDEN",
+    "description": "Tele2 Sverige AB",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

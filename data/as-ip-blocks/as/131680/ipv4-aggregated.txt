@@ -1,0 +1,4 @@
+# AS131680 (COMPAL-AS-TW)
+# Compal Electronics
+#
+103.122.216.0/22

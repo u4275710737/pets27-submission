@@ -1,0 +1,4 @@
+# AS211367 (ILP-ASN)
+# Israel Police
+#
+64.239.23.0/24

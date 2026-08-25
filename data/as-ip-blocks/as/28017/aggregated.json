@@ -1,0 +1,16 @@
+{
+  "asn": 28017,
+  "metadata": {
+    "handle": "CAR-IX1",
+    "description": "Carribean Internet Exchange (CAR-IX) Peering AS",
+    "countryCode": "CW",
+    "country": "Curaçao",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "200.0.21.0/24" ],
+    "ipv6": [ ]
+  }
+}

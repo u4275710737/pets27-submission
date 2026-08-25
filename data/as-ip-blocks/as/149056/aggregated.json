@@ -1,0 +1,14 @@
+{
+  "asn": 149056,
+  "metadata": {
+    "handle": "LIANGYUE-AP",
+    "description": "Harbin Liangyue Network Technology Co., Ltd.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

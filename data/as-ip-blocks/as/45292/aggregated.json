@@ -1,0 +1,14 @@
+{
+  "asn": 45292,
+  "metadata": {
+    "handle": "LIPI-ID",
+    "description": "Lembaga Ilmu Pengetahuan Indonesia - LIPI",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

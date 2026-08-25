@@ -1,0 +1,14 @@
+{
+  "asn": 265235,
+  "metadata": {
+    "handle": "NEOGRID-INFORMATICA",
+    "description": "NeoGrid Informatica LTDA",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

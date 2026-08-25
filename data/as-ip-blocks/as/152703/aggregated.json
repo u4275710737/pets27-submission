@@ -1,0 +1,14 @@
+{
+  "asn": 152703,
+  "metadata": {
+    "handle": "BAINZ-AS-AP",
+    "description": "BAINZ",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

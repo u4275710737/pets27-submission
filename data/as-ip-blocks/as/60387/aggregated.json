@@ -1,0 +1,16 @@
+{
+  "asn": 60387,
+  "metadata": {
+    "handle": "FATCAT-AS",
+    "description": "FATCAT NETWORK S.A.",
+    "countryCode": "BZ",
+    "country": "Belize",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "45.87.220.0/22" ],
+    "ipv6": [ ]
+  }
+}

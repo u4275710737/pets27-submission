@@ -1,0 +1,14 @@
+{
+  "asn": 54134,
+  "metadata": {
+    "handle": "LUCINET-ARIN",
+    "description": "Luci Digital",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

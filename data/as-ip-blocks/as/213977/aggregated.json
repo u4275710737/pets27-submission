@@ -1,0 +1,14 @@
+{
+  "asn": 213977,
+  "metadata": {
+    "handle": "SEUNGHOON",
+    "description": "SeungHoon Baek",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

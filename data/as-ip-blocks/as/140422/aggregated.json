@@ -1,0 +1,14 @@
+{
+  "asn": 140422,
+  "metadata": {
+    "handle": "IDNIC-SKYNETWORK-ID",
+    "description": "PT. Sintesa Kreasi Yudha",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

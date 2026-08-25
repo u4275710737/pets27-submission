@@ -1,0 +1,14 @@
+{
+  "asn": 207425,
+  "metadata": {
+    "handle": "INNOCODE",
+    "description": "Innocode Oy",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

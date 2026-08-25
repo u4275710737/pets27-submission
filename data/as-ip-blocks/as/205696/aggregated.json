@@ -1,0 +1,14 @@
+{
+  "asn": 205696,
+  "metadata": {
+    "handle": "EE-APOLLOTV",
+    "description": "OMG TV OU",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

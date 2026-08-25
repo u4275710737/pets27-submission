@@ -1,0 +1,14 @@
+{
+  "asn": 44441,
+  "metadata": {
+    "handle": "POSTMT",
+    "description": "SIA PostMet",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

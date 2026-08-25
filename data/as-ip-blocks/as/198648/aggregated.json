@@ -1,0 +1,16 @@
+{
+  "asn": 198648,
+  "metadata": {
+    "handle": "MURASBANK-AS",
+    "description": "Muras Bank CJSC",
+    "countryCode": "KG",
+    "country": "Kyrgyzstan",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "194.26.221.0/24" ],
+    "ipv6": [ ]
+  }
+}

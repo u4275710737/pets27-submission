@@ -1,0 +1,14 @@
+{
+  "asn": 137626,
+  "metadata": {
+    "handle": "BRANMARK",
+    "description": "Branmark Infomedia Pvt. Ltd.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

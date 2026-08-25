@@ -1,0 +1,14 @@
+{
+  "asn": 209609,
+  "metadata": {
+    "handle": "THE-CENT-RE-GROUP-LIMITED",
+    "description": "The Cent.re Group Limited",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

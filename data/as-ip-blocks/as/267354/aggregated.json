@@ -1,0 +1,16 @@
+{
+  "asn": 267354,
+  "metadata": {
+    "handle": "FOREST-TELECOM",
+    "description": "FOREST TELECOM",
+    "countryCode": "BR",
+    "country": "Brazil",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ ]
+  }
+}

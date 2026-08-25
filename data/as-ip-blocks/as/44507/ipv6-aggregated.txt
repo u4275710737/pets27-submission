@@ -1,0 +1,3 @@
+# AS44507 (KMTN-AS)
+# OJSC Kostroma Municipal Telephone Network
+#

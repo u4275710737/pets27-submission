@@ -1,0 +1,14 @@
+{
+  "asn": 30535,
+  "metadata": {
+    "handle": "10XCOM",
+    "description": "10xServers, LLC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

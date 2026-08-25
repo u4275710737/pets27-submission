@@ -1,0 +1,14 @@
+{
+  "asn": 33681,
+  "metadata": {
+    "handle": "COMPTRK",
+    "description": "Competitrack Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "asn": 201238,
+  "metadata": {
+    "handle": "KARBUST",
+    "description": "Antonio Carlos Correia da Silva",
+    "countryCode": "PT",
+    "country": "Portugal",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ "2a06:9801:2c::/48" ]
+  }
+}

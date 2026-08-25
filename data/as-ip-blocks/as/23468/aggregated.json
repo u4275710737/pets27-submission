@@ -1,0 +1,14 @@
+{
+  "asn": 23468,
+  "metadata": {
+    "handle": "MICROSOFT-CORP-XBOX-ONLINE",
+    "description": "Microsoft Corporation",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

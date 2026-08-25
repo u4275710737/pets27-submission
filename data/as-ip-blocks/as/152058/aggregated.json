@@ -1,0 +1,14 @@
+{
+  "asn": 152058,
+  "metadata": {
+    "handle": "IDNIC-JSNMALANG-AS-ID",
+    "description": "PT Jaringanku Sarana Nusantara Malang",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

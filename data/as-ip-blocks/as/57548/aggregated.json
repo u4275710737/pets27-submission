@@ -1,0 +1,14 @@
+{
+  "asn": 57548,
+  "metadata": {
+    "handle": "PARZELLER-AS",
+    "description": "Parzeller S + S GmbH & Co. KG",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

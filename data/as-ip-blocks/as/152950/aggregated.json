@@ -1,0 +1,14 @@
+{
+  "asn": 152950,
+  "metadata": {
+    "handle": "INTERSERVER-VN",
+    "description": "Interserver LLC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

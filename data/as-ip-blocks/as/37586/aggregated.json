@@ -1,0 +1,16 @@
+{
+  "asn": 37586,
+  "metadata": {
+    "handle": "ONATEL",
+    "description": "ONATEL",
+    "countryCode": "BI",
+    "country": "Burundi",
+    "origin": "overlaid",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "197.231.248.0/22" ],
+    "ipv6": [ ]
+  }
+}

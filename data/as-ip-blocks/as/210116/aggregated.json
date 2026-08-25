@@ -1,0 +1,14 @@
+{
+  "asn": 210116,
+  "metadata": {
+    "handle": "PS-QUINTIEZ",
+    "description": "Quintiez Alfa General Trading Co.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

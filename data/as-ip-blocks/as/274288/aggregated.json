@@ -1,0 +1,16 @@
+{
+  "asn": 274288,
+  "metadata": {
+    "handle": "SERVIWI-22-CA",
+    "description": "SERVIWI 22 C.A",
+    "countryCode": "VE",
+    "country": "Venezuela",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "38.236.112.0/24" ],
+    "ipv6": [ ]
+  }
+}

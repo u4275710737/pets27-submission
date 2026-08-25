@@ -1,0 +1,14 @@
+{
+  "asn": 31209,
+  "metadata": {
+    "handle": "AS12CONNECT",
+    "description": "Digihero B.V.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

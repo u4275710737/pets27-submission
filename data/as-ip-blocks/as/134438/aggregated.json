@@ -1,0 +1,14 @@
+{
+  "asn": 134438,
+  "metadata": {
+    "handle": "AIRAAIFUL-AP",
+    "description": "Aira & Aiful Public Company Limited",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

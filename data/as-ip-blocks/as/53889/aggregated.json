@@ -1,0 +1,16 @@
+{
+  "asn": 53889,
+  "metadata": {
+    "handle": "WJY",
+    "description": "WJY LLC",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "23.176.56.0/24" ],
+    "ipv6": [ "2602:f984::/40" ]
+  }
+}

@@ -1,0 +1,4 @@
+# AS10419 (GBUS-ASN)
+# Globius Systems LLC
+#
+142.202.137.0/24

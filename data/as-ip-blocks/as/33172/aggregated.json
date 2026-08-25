@@ -1,0 +1,14 @@
+{
+  "asn": 33172,
+  "metadata": {
+    "handle": "MERIDIAN-LEASING-CORPORATION",
+    "description": "Meridian Leasing Corporation",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 264735,
+  "metadata": {
+    "handle": "BBVA-SEGUROS-VIDA",
+    "description": "BBVA SEGUROS DE VIDA S.A",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

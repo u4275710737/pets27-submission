@@ -1,0 +1,14 @@
+{
+  "asn": 203373,
+  "metadata": {
+    "handle": "ELTEL-GROUP-AS",
+    "description": "Eltel Group Oy",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

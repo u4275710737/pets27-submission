@@ -1,0 +1,10 @@
+# AS4538 (ERX-CERNET-BKB)
+# China Education and Research Network Center
+#
+2001:da8:257::/48
+2001:da8:ff00::/40
+2001:daa:1::/48
+2001:daa:2::/47
+2001:daa:4::/47
+2001:daa:6::/48
+2400:a980:ee::/48

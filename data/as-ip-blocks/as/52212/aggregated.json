@@ -1,0 +1,14 @@
+{
+  "asn": 52212,
+  "metadata": {
+    "handle": "INETINVEST",
+    "description": "DV CLOUD LLC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

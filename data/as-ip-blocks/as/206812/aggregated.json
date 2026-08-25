@@ -1,0 +1,14 @@
+{
+  "asn": 206812,
+  "metadata": {
+    "handle": "REDDOCK",
+    "description": "Domain names registrar REG.RU Ltd",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

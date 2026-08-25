@@ -1,0 +1,14 @@
+{
+  "asn": 40900,
+  "metadata": {
+    "handle": "NTHL",
+    "description": "NETWORK TRANSIT HOLDINGS LLC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

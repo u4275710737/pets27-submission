@@ -1,0 +1,14 @@
+{
+  "asn": 399467,
+  "metadata": {
+    "handle": "SUMOFIBER-STGEORGE",
+    "description": "Sumofiber",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

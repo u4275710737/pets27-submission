@@ -1,0 +1,16 @@
+{
+  "asn": 140151,
+  "metadata": {
+    "handle": "ETHER-AS-IN",
+    "description": "Ethereal Business Solutions Private Limited",
+    "countryCode": "IN",
+    "country": "India",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "103.155.194.0/23" ],
+    "ipv6": [ "2407:f0c0::/32" ]
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 33366,
+  "metadata": {
+    "handle": "STONE-HARBOR-INVESTMENT-PARTNERS",
+    "description": "Stone Harbor Investment Partners LP",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

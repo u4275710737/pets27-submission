@@ -1,0 +1,14 @@
+{
+  "asn": 272069,
+  "metadata": {
+    "handle": "KONEX-TELECOM",
+    "description": "KONEX TELECOM S.R.L",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

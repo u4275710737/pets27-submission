@@ -1,0 +1,16 @@
+{
+  "asn": 266541,
+  "metadata": {
+    "handle": "ITAFIBRA-PROVEDOR-INTERNET",
+    "description": "ItaFibra - Provedor de Internet",
+    "countryCode": "BR",
+    "country": "Brazil",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ ]
+  }
+}

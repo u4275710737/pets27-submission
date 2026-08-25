@@ -1,0 +1,14 @@
+{
+  "asn": 15767,
+  "metadata": {
+    "handle": "NKBM",
+    "description": "Nova Kreditna Banka Maribor d.d.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

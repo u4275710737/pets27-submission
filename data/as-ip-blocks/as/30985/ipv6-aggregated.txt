@@ -1,0 +1,4 @@
+# AS30985 (IKATELNET)
+# IKATEL SA. Service Provider in Mali
+#
+2001:42c0::/32

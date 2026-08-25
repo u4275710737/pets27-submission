@@ -1,0 +1,14 @@
+{
+  "asn": 136875,
+  "metadata": {
+    "handle": "IDNIC-SI-PRIMA-AS-ID",
+    "description": "PT Solusi Inforindo Prima",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

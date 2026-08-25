@@ -1,0 +1,14 @@
+{
+  "asn": 12386,
+  "metadata": {
+    "handle": "ASALPI",
+    "description": "Orange Espagne SA",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

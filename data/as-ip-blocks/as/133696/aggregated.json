@@ -1,0 +1,14 @@
+{
+  "asn": 133696,
+  "metadata": {
+    "handle": "FASTWAY-AS",
+    "description": "Fastway Transmission Private Limited",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,4 @@
+# AS18381 (RSL-AS-AP)
+# RedSwitches Pty LTD.
+#
+2406:4fc0:2000::/36

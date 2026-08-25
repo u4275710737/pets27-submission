@@ -1,0 +1,14 @@
+{
+  "asn": 46656,
+  "metadata": {
+    "handle": "MEETME-1",
+    "description": "MeetMe Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

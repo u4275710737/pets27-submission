@@ -1,0 +1,4 @@
+# AS393292 (SKIZNET)
+# SkizNet
+#
+2602:fc47::/36

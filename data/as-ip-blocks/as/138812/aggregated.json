@@ -1,0 +1,14 @@
+{
+  "asn": 138812,
+  "metadata": {
+    "handle": "IDNIC-GKS-ID",
+    "description": "PT Global Kassa Sejahtera",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

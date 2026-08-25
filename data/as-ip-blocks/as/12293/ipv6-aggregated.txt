@@ -1,0 +1,4 @@
+# AS12293 (XVID)
+# Xvid Services OU
+#
+2a0c:1180::/40

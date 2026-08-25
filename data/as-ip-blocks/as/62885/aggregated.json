@@ -1,0 +1,14 @@
+{
+  "asn": 62885,
+  "metadata": {
+    "handle": "LJSILVERS-NET",
+    "description": "Long John Silvers",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

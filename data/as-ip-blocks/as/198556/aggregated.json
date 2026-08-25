@@ -1,0 +1,16 @@
+{
+  "asn": 198556,
+  "metadata": {
+    "handle": "AITCHSYSTEMS",
+    "description": "Marcel Hanisch",
+    "countryCode": "DE",
+    "country": "Germany",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "77.90.30.0/24" ],
+    "ipv6": [ "2a09:3f00:1002::/48" ]
+  }
+}

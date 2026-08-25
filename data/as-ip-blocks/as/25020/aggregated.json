@@ -1,0 +1,14 @@
+{
+  "asn": 25020,
+  "metadata": {
+    "handle": "SDH-DD-SI",
+    "description": "Slovenski drzavni holding, d.d. (SDH, d.d.)",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

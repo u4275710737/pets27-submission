@@ -1,0 +1,7 @@
+# AS7726 (FITC-AS)
+# FedEx Internet Technologies Corporation
+#
+2602:f53a:14::/47
+2620:119:4000::/36
+2620:1bc::/32
+2804:1f56::/32

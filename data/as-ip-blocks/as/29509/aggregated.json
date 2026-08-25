@@ -1,0 +1,14 @@
+{
+  "asn": 29509,
+  "metadata": {
+    "handle": "OST-AS",
+    "description": "Teal fox LLC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

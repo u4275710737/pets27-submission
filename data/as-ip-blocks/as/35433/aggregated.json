@@ -1,0 +1,14 @@
+{
+  "asn": 35433,
+  "metadata": {
+    "handle": "ZZOOMM",
+    "description": "Zzoomm plc",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 54574,
+  "metadata": {
+    "handle": "DMIT-EYEBALL",
+    "description": "DMIT Cloud Services",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

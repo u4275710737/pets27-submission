@@ -1,0 +1,14 @@
+{
+  "asn": 41622,
+  "metadata": {
+    "handle": "DATABAAR",
+    "description": "WWZ Telekom AG",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

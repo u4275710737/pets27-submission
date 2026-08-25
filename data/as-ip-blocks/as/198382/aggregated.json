@@ -1,0 +1,14 @@
+{
+  "asn": 198382,
+  "metadata": {
+    "handle": "FIRSTEASY-AS",
+    "description": "Teledata UK Limited",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

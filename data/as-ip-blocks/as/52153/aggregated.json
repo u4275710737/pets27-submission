@@ -1,0 +1,16 @@
+{
+  "asn": 52153,
+  "metadata": {
+    "handle": "BGCOM",
+    "description": "Pawel Kowalski BGCOM",
+    "countryCode": "PL",
+    "country": "Poland",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "midsize_transit"
+  },
+  "prefixes": {
+    "ipv4": [ "91.222.192.0/22" ],
+    "ipv6": [ ]
+  }
+}

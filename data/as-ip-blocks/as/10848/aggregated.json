@@ -1,0 +1,16 @@
+{
+  "asn": 10848,
+  "metadata": {
+    "handle": "NTTDATA",
+    "description": "NTT DATA Services LLC",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ ]
+  }
+}

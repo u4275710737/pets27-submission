@@ -1,0 +1,14 @@
+{
+  "asn": 56266,
+  "metadata": {
+    "handle": "NETNOD-AP",
+    "description": "Netnod Internet Exchange",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

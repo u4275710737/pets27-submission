@@ -1,0 +1,14 @@
+{
+  "asn": 11963,
+  "metadata": {
+    "handle": "PENNWELL",
+    "description": "PennWell Corporation",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

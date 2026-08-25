@@ -1,0 +1,14 @@
+{
+  "asn": 55188,
+  "metadata": {
+    "handle": "METRONAVIATION",
+    "description": "Metron Aviation Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 44848,
+  "metadata": {
+    "handle": "E2CORP",
+    "description": "E2 OAO",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

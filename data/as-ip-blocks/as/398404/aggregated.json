@@ -1,0 +1,14 @@
+{
+  "asn": 398404,
+  "metadata": {
+    "handle": "CKM-00",
+    "description": "CastleKnight Management LP",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

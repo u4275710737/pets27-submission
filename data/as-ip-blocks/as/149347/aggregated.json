@@ -1,0 +1,14 @@
+{
+  "asn": 149347,
+  "metadata": {
+    "handle": "IDNIC-WIMATE-ID",
+    "description": "CV Wistel IT Solution",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

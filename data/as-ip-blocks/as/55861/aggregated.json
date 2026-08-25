@@ -1,0 +1,14 @@
+{
+  "asn": 55861,
+  "metadata": {
+    "handle": "CATHOLIC-SYD-AP",
+    "description": "Catholic Archdiocese of Sydney",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

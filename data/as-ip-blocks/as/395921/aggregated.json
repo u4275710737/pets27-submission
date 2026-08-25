@@ -1,0 +1,14 @@
+{
+  "asn": 395921,
+  "metadata": {
+    "handle": "TRANSAT-TELECOM-INC",
+    "description": "transat telecom",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

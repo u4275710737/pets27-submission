@@ -1,0 +1,14 @@
+{
+  "asn": 3643,
+  "metadata": {
+    "handle": "COGENT-3643",
+    "description": "Cogent Communications LLC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

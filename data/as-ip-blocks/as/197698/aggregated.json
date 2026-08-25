@@ -1,0 +1,16 @@
+{
+  "asn": 197698,
+  "metadata": {
+    "handle": "CONCORDE-AS",
+    "description": "Concorde Securities Ltd.",
+    "countryCode": "HU",
+    "country": "Hungary",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "195.228.5.0/24" ],
+    "ipv6": [ ]
+  }
+}

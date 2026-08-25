@@ -1,0 +1,4 @@
+# AS30992 (ORG-GNC2-RIPE-AS)
+# MTN Network Solutions (Cameroon)
+#
+2c0f:f660::/32

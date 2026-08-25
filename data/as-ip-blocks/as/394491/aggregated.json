@@ -1,0 +1,14 @@
+{
+  "asn": 394491,
+  "metadata": {
+    "handle": "KORZO",
+    "description": "korzo Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "asn": 12076,
+  "metadata": {
+    "handle": "MICROSOFT",
+    "description": "Microsoft Corporation",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "151.207.40.0/21" ],
+    "ipv6": [ "2608:1c1:6::/47", "2608:1c1:8::/48" ]
+  }
+}

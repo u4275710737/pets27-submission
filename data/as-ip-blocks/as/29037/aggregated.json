@@ -1,0 +1,14 @@
+{
+  "asn": 29037,
+  "metadata": {
+    "handle": "TELIKO-AS",
+    "description": "KEVAG Telekom GmbH",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

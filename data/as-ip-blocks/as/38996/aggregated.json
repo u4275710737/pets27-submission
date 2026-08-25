@@ -1,0 +1,14 @@
+{
+  "asn": 38996,
+  "metadata": {
+    "handle": "MTSNET-SYKTYVKAR-AS",
+    "description": "MTS PJSC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

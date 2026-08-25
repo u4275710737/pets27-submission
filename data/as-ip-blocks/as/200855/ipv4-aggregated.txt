@@ -1,0 +1,4 @@
+# AS200855 (AIKBANKAASN)
+# AikBank ad Beograd
+#
+185.93.100.0/22

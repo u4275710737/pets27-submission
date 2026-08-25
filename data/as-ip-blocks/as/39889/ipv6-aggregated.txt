@@ -1,0 +1,4 @@
+# AS39889 (DCS-NETWORKS-AS)
+# Fredrik Holmqvist
+#
+2a00:1c20::/32

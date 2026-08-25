@@ -1,0 +1,4 @@
+# AS39066 (KREDOBANKUA-AS)
+# OJSC Kredobank
+#
+195.78.252.0/22

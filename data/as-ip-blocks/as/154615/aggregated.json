@@ -1,0 +1,16 @@
+{
+  "asn": 154615,
+  "metadata": {
+    "handle": "UBITECHASIALIMITED-AS-HK",
+    "description": "UBITECH ASIA LIMITED",
+    "countryCode": "HK",
+    "country": "Hong Kong SAR China",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "216.195.193.0/24" ],
+    "ipv6": [ ]
+  }
+}

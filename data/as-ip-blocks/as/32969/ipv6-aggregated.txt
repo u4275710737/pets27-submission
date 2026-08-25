@@ -1,0 +1,3 @@
+# AS32969 (GLOBAL-CASH-ACCESS)
+# Everi Payments Inc.
+#

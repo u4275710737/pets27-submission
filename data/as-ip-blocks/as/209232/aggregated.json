@@ -1,0 +1,14 @@
+{
+  "asn": 209232,
+  "metadata": {
+    "handle": "FGNWSMUCGX",
+    "description": "Sebastian Fohler",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

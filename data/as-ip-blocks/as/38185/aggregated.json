@@ -1,0 +1,16 @@
+{
+  "asn": 38185,
+  "metadata": {
+    "handle": "CDACNOIDA-AS-IN",
+    "description": "CDAC Noida India",
+    "countryCode": "IN",
+    "country": "India",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "220.156.184.0/24", "220.156.188.0/22" ],
+    "ipv6": [ "2404:4100::/48" ]
+  }
+}

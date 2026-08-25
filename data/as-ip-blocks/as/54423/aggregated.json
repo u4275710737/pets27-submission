@@ -1,0 +1,14 @@
+{
+  "asn": 54423,
+  "metadata": {
+    "handle": "XANDEX-INTERNET1",
+    "description": "Xandex Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

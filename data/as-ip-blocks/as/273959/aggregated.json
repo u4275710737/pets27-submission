@@ -1,0 +1,16 @@
+{
+  "asn": 273959,
+  "metadata": {
+    "handle": "GUECAM-TECNOLOGIA-SERVICIOS",
+    "description": "GUECAM TECNOLOGIA Y SERVICIOS E.I.R.L.",
+    "countryCode": "PE",
+    "country": "Peru",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ ]
+  }
+}

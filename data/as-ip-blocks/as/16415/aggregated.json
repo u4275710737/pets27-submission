@@ -1,0 +1,14 @@
+{
+  "asn": 16415,
+  "metadata": {
+    "handle": "ALORICA",
+    "description": "ALORICA INC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

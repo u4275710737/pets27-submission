@@ -1,0 +1,14 @@
+{
+  "asn": 58233,
+  "metadata": {
+    "handle": "MASBYTES",
+    "description": "ASPA CLOUD SL",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

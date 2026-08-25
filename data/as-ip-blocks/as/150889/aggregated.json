@@ -1,0 +1,16 @@
+{
+  "asn": 150889,
+  "metadata": {
+    "handle": "MONA-HOST-VN",
+    "description": "MONA HOST LIMITED",
+    "countryCode": "VN",
+    "country": "Vietnam",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "103.70.116.0/23" ],
+    "ipv6": [ ]
+  }
+}

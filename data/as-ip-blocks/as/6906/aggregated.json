@@ -1,0 +1,14 @@
+{
+  "asn": 6906,
+  "metadata": {
+    "handle": "GEANT-APOLLO",
+    "description": "SIA Tet",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

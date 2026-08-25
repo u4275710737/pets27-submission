@@ -1,0 +1,16 @@
+{
+  "asn": 21577,
+  "metadata": {
+    "handle": "TOLEDOTELNET",
+    "description": "TOLEDO TELEPHONE CO INC",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "173.250.240.0/20", "199.15.216.0/21", "199.79.193.0/24", "208.70.48.0/21" ],
+    "ipv6": [ "2604:d580::/32" ]
+  }
+}

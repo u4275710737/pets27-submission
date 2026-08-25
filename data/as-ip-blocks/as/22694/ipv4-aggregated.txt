@@ -1,0 +1,5 @@
+# AS22694 (VERSANT-MEDIA)
+# Versant Media Group Inc.
+#
+50.151.51.0/24
+50.152.225.0/24

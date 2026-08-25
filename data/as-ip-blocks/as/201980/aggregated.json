@@ -1,0 +1,14 @@
+{
+  "asn": 201980,
+  "metadata": {
+    "handle": "UNION",
+    "description": "Claranet Limited",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

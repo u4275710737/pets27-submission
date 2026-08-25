@@ -1,0 +1,14 @@
+{
+  "asn": 395811,
+  "metadata": {
+    "handle": "UPMC-SOMERSET",
+    "description": "UPMC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

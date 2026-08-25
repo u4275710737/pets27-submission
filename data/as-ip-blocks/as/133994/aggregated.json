@@ -1,0 +1,14 @@
+{
+  "asn": 133994,
+  "metadata": {
+    "handle": "RMHOSPITALITY-IN",
+    "description": "RM HOSPITALITY",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

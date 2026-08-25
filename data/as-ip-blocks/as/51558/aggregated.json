@@ -1,0 +1,16 @@
+{
+  "asn": 51558,
+  "metadata": {
+    "handle": "SMTLB-AS",
+    "description": "StormWall s.r.o.",
+    "countryCode": "SK",
+    "country": "Slovakia",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "access_provider"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ ]
+  }
+}

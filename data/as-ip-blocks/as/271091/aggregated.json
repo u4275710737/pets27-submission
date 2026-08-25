@@ -1,0 +1,16 @@
+{
+  "asn": 271091,
+  "metadata": {
+    "handle": "BEN-TELECOM",
+    "description": "BEN TELECOM",
+    "countryCode": "BR",
+    "country": "Brazil",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "179.48.160.0/22" ],
+    "ipv6": [ "2804:7620::/32" ]
+  }
+}

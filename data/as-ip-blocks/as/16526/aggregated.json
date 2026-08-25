@@ -1,0 +1,14 @@
+{
+  "asn": 16526,
+  "metadata": {
+    "handle": "BIRCH-TELECOM",
+    "description": "Fusion Telecom, LLC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

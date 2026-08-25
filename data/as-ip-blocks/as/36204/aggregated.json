@@ -1,0 +1,14 @@
+{
+  "asn": 36204,
+  "metadata": {
+    "handle": "MOBILE-IRON",
+    "description": "Ivanti, Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

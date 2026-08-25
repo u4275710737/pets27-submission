@@ -1,0 +1,16 @@
+{
+  "asn": 216150,
+  "metadata": {
+    "handle": "KZ-NURMUKANZHAN-20260508",
+    "description": "Nurmukan Zhantorin",
+    "countryCode": "KZ",
+    "country": "Kazakhstan",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "217.60.24.0/24" ],
+    "ipv6": [ ]
+  }
+}

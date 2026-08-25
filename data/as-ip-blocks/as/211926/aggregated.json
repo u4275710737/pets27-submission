@@ -1,0 +1,14 @@
+{
+  "asn": 211926,
+  "metadata": {
+    "handle": "HDL",
+    "description": "Capgemini Nederland B.V.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

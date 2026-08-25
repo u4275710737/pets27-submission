@@ -1,0 +1,14 @@
+{
+  "asn": 136925,
+  "metadata": {
+    "handle": "AUSTRALIAN3-AP",
+    "description": "SCS Super Pty. Limited",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

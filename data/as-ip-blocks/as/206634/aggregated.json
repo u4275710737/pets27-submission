@@ -1,0 +1,14 @@
+{
+  "asn": 206634,
+  "metadata": {
+    "handle": "VATORA",
+    "description": "Vatora Technologies Limited",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

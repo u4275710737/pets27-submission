@@ -1,0 +1,14 @@
+{
+  "asn": 274019,
+  "metadata": {
+    "handle": "TECNOA",
+    "description": "TECNOA S.R.L.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

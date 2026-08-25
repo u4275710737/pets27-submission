@@ -1,0 +1,14 @@
+{
+  "asn": 33770,
+  "metadata": {
+    "handle": "KDN",
+    "description": "Liquid Telecommunications Kenya Limited",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,4 @@
+# AS25108 (IOMART-APAC-AS)
+# Iomart Managed Services Limited
+#
+2a00:42a0::/32

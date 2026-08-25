@@ -1,0 +1,4 @@
+# AS394401 (HEARST-DC4)
+# Hearst Corporation
+#
+167.173.56.0/22

@@ -1,0 +1,14 @@
+{
+  "asn": 139250,
+  "metadata": {
+    "handle": "MESINIAGA1-AP",
+    "description": "Mesiniaga Berhad",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

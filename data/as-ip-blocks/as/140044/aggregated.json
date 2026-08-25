@@ -1,0 +1,16 @@
+{
+  "asn": 140044,
+  "metadata": {
+    "handle": "BASEIT-AP",
+    "description": "Base IT",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [
+      "103.179.154.0/23"
+    ],
+    "ipv6": []
+  }
+}

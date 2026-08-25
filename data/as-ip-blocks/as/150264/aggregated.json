@@ -1,0 +1,14 @@
+{
+  "asn": 150264,
+  "metadata": {
+    "handle": "IDNIC-PGMNET-AS-ID",
+    "description": "PT Pelita Global Media",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

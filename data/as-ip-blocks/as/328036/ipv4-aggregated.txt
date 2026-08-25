@@ -1,0 +1,4 @@
+# AS328036 (WIFI-TECHNOLOGIES-AS)
+# Wifi-Resources (Pty) Ltd
+#
+41.242.80.0/22

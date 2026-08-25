@@ -1,0 +1,4 @@
+# AS17948 (EDITNET)
+# EditNet Incorporated
+#
+2402:d600::/32

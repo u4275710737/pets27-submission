@@ -1,0 +1,14 @@
+{
+  "asn": 9535,
+  "metadata": {
+    "handle": "ONE-NET-HK",
+    "description": "Beijing CNISP Technology Co., Ltd.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

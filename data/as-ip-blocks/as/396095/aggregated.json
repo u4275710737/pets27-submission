@@ -1,0 +1,14 @@
+{
+  "asn": 396095,
+  "metadata": {
+    "handle": "PLEXXIS-SOFTWARE-INC",
+    "description": "Plexxis Software Inc",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

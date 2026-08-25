@@ -1,0 +1,14 @@
+{
+  "asn": 19335,
+  "metadata": {
+    "handle": "APRIA-HEALTHCARE",
+    "description": "Apria Healthcare Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

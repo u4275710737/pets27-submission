@@ -1,0 +1,16 @@
+{
+  "asn": 136700,
+  "metadata": {
+    "handle": "SEFARO-AS",
+    "description": "Sefaro Networks Private Limited",
+    "countryCode": "IN",
+    "country": "India",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "103.102.96.0/22" ],
+    "ipv6": [ "2405:6240::/32" ]
+  }
+}

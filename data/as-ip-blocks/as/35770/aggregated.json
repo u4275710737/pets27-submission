@@ -1,0 +1,14 @@
+{
+  "asn": 35770,
+  "metadata": {
+    "handle": "NCTRADE",
+    "description": "New-Com Trade Ltd.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

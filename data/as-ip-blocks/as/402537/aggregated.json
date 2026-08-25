@@ -1,0 +1,16 @@
+{
+  "asn": 402537,
+  "metadata": {
+    "handle": "YMISO-NETWORK-LLC",
+    "description": "YMISO NETWORK LLC",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ "2602:f3b5:10::/44", "2602:f3b5:30::/44" ]
+  }
+}

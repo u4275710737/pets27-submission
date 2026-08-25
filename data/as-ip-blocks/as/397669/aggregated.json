@@ -1,0 +1,14 @@
+{
+  "asn": 397669,
+  "metadata": {
+    "handle": "NSI-ASN",
+    "description": "Northern Safety Co. Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

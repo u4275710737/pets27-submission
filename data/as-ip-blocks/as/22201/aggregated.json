@@ -1,0 +1,14 @@
+{
+  "asn": 22201,
+  "metadata": {
+    "handle": "PERFORCE",
+    "description": "Perforce Software, Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

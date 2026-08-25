@@ -1,0 +1,4 @@
+# AS199044 (VIENNALIFE-EMEKLILIK-VE-HAYAT-AS)
+# Viennalife Emeklilik ve Hayat Anonim Sirketi
+#
+131.222.254.0/24

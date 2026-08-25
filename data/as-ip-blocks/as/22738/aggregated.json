@@ -1,0 +1,14 @@
+{
+  "asn": 22738,
+  "metadata": {
+    "handle": "LANLOGIC",
+    "description": "LanLogic Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 56578,
+  "metadata": {
+    "handle": "ALCOM-AS",
+    "description": "M2 CONNECT LLC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

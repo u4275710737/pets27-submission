@@ -1,0 +1,16 @@
+{
+  "asn": 37663,
+  "metadata": {
+    "handle": "CINX",
+    "description": "Cape Town Internet Exchange",
+    "countryCode": "ZA",
+    "country": "South Africa",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "196.10.54.0/24" ],
+    "ipv6": [ "2001:43f8:1f4::/48" ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "asn": 400240,
+  "metadata": {
+    "handle": "NEEBUNET",
+    "description": "NEEBU Networks",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "23.189.112.0/24" ],
+    "ipv6": [ "2620:9e:e000::/48" ]
+  }
+}

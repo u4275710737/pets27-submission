@@ -1,0 +1,14 @@
+{
+  "asn": 33789,
+  "metadata": {
+    "handle": "INTERNET2",
+    "description": "Ministry of Communications and Information Technology",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

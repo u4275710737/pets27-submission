@@ -1,0 +1,14 @@
+{
+  "asn": 205391,
+  "metadata": {
+    "handle": "MAP-AS",
+    "description": "Merzlyakov Alexandr Borisovich",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 53936,
+  "metadata": {
+    "handle": "EDENRED-USA",
+    "description": "WiredCommute LLC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

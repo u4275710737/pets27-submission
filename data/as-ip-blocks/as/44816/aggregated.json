@@ -1,0 +1,14 @@
+{
+  "asn": 44816,
+  "metadata": {
+    "handle": "DELFINTELECOM-AS",
+    "description": "Delfin Telecom OOO",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

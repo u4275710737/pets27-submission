@@ -1,0 +1,14 @@
+{
+  "asn": 16613,
+  "metadata": {
+    "handle": "SYNERGYBROADBAND-IL-01",
+    "description": "SYNERGY BROADBAND",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 137087,
+  "metadata": {
+    "handle": "SBNETWORKS-IN",
+    "description": "Sb Networks",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

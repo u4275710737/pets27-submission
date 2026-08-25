@@ -1,0 +1,16 @@
+{
+  "asn": 274011,
+  "metadata": {
+    "handle": "JUAN-ALFREDO-KNOLL",
+    "description": "JUAN ALFREDO KNOLL",
+    "countryCode": "AR",
+    "country": "Argentina",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "200.50.160.0/24", "200.50.168.0/24" ],
+    "ipv6": [ ]
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 36104,
+  "metadata": {
+    "handle": "EFCU",
+    "description": "ENT FEDERAL CREDIT UNION",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

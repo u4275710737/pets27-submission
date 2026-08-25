@@ -1,0 +1,14 @@
+{
+  "asn": 207130,
+  "metadata": {
+    "handle": "RKTCLOUD",
+    "description": "rktcloud General Trading EST",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

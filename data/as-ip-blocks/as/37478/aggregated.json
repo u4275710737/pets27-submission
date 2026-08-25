@@ -1,0 +1,14 @@
+{
+  "asn": 37478,
+  "metadata": {
+    "handle": "MANTRAC-GH",
+    "description": "Mantrac Ghana ltd",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

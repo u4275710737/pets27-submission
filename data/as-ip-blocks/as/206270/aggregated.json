@@ -1,0 +1,14 @@
+{
+  "asn": 206270,
+  "metadata": {
+    "handle": "TNETCZ",
+    "description": "ISP Alliance a.s.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

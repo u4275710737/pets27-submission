@@ -1,0 +1,14 @@
+{
+  "asn": 13346,
+  "metadata": {
+    "handle": "CENTURION-MEDICAL-PRODUCTS",
+    "description": "Centurion Medical Products Corporation",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

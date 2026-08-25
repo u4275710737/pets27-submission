@@ -1,0 +1,14 @@
+{
+  "asn": 40565,
+  "metadata": {
+    "handle": "ATPCO-ASN01",
+    "description": "AIRLINE TARIFF PUBLISHING CO",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

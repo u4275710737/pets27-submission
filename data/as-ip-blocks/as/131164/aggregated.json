@@ -1,0 +1,16 @@
+{
+  "asn": 131164,
+  "metadata": {
+    "handle": "SINOTECH-TW-AP",
+    "description": "Sinotech Int",
+    "countryCode": "TW",
+    "country": "Taiwan",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ ]
+  }
+}

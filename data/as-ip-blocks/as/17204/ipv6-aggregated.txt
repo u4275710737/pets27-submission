@@ -1,0 +1,4 @@
+# AS17204 (AKAMAI-NOMINUM-ASN)
+# Nominum Global NameServer network
+#
+2620:0:b60::/48

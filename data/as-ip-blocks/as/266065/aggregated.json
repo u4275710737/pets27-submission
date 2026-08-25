@@ -1,0 +1,16 @@
+{
+  "asn": 266065,
+  "metadata": {
+    "handle": "VANGUARDA-TELECOMUNICACOES",
+    "description": "VANGUARDA TELECOMUNICAÇÕES LTDA ME",
+    "countryCode": "BR",
+    "country": "Brazil",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "38.224.180.0/23", "38.236.96.0/24", "45.4.244.0/22" ],
+    "ipv6": [ "2804:3a04:110::/44", "2804:3a04:120::/44" ]
+  }
+}

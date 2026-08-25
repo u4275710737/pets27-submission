@@ -1,0 +1,14 @@
+{
+  "asn": 40500,
+  "metadata": {
+    "handle": "BIGBANG-US",
+    "description": "Oxun Networks",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

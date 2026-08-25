@@ -1,0 +1,14 @@
+{
+  "asn": 9111,
+  "metadata": {
+    "handle": "RH",
+    "description": "Relcom HOST LLC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

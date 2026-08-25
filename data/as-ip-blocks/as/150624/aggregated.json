@@ -1,0 +1,14 @@
+{
+  "asn": 150624,
+  "metadata": {
+    "handle": "KHATOREIT-AS-IN",
+    "description": "Khatore It Solutions Private Limited",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

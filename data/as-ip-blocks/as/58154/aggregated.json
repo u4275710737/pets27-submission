@@ -1,0 +1,14 @@
+{
+  "asn": 58154,
+  "metadata": {
+    "handle": "MPAE-AS",
+    "description": "MPAE Srl",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

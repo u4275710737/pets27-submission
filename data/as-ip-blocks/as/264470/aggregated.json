@@ -1,0 +1,16 @@
+{
+  "asn": 264470,
+  "metadata": {
+    "handle": "LOGIC-PRO-TECNOLOGIA",
+    "description": "Logic Pro Tecnologia",
+    "countryCode": "BR",
+    "country": "Brazil",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "access_provider"
+  },
+  "prefixes": {
+    "ipv4": [ "131.255.80.0/22", "138.185.152.0/23" ],
+    "ipv6": [ "2804:2020::/32" ]
+  }
+}

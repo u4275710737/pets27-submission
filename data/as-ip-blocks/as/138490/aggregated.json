@@ -1,0 +1,14 @@
+{
+  "asn": 138490,
+  "metadata": {
+    "handle": "ALLTEL-AP",
+    "description": "Alltel Pty Ltd",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

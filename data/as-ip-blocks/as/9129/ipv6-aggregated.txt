@@ -1,0 +1,4 @@
+# AS9129 (KE-MTN-B)
+# MTN Business Kenya
+#
+2001:4368::/32

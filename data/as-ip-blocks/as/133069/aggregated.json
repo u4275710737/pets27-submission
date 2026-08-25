@@ -1,0 +1,14 @@
+{
+  "asn": 133069,
+  "metadata": {
+    "handle": "THOMSON-REUTERS-AS-AP",
+    "description": "Thomson Reuters International Services Pvt Ltd",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

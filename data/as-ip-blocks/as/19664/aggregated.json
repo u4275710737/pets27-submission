@@ -1,0 +1,14 @@
+{
+  "asn": 19664,
+  "metadata": {
+    "handle": "VITALCHEK",
+    "description": "LexisNexis VitalChek Network Inc",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

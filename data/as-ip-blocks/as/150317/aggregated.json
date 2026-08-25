@@ -1,0 +1,14 @@
+{
+  "asn": 150317,
+  "metadata": {
+    "handle": "NPTPL-AP",
+    "description": "Northern Point Technology Private Limited",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

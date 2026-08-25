@@ -1,0 +1,14 @@
+{
+  "asn": 32770,
+  "metadata": {
+    "handle": "CITYOF-294",
+    "description": "CITY OF PLEASANTON",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

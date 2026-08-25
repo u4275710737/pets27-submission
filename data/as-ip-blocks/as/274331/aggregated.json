@@ -1,0 +1,16 @@
+{
+  "asn": 274331,
+  "metadata": {
+    "handle": "EDUARNET-TELECOM-CA",
+    "description": "EDUARNET TELECOM C.A",
+    "countryCode": "VE",
+    "country": "Venezuela",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "38.64.172.0/23" ],
+    "ipv6": [ ]
+  }
+}

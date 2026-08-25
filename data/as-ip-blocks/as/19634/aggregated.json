@@ -1,0 +1,14 @@
+{
+  "asn": 19634,
+  "metadata": {
+    "handle": "AVITUSGROUP",
+    "description": "AVITUS GROUP",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 393911,
+  "metadata": {
+    "handle": "SAVECOM",
+    "description": "Savecom Telecom, Inc",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 59653,
+  "metadata": {
+    "handle": "ATEL",
+    "description": "Alpha Online Ltd",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

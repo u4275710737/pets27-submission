@@ -1,0 +1,14 @@
+{
+  "asn": 398759,
+  "metadata": {
+    "handle": "BOOSTCHICKEN",
+    "description": "Boostchicken.dev",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

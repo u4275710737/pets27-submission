@@ -1,0 +1,4 @@
+# AS140994 (GIGAWAVE-AS-AP)
+# Gigawave Communications
+#
+2401:4320::/32

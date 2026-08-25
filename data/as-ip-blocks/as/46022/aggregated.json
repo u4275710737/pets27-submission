@@ -1,0 +1,14 @@
+{
+  "asn": 46022,
+  "metadata": {
+    "handle": "IDNIC-ALIANSISAKTI-ID",
+    "description": "PT ALIANSI SAKTI",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

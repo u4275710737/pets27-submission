@@ -1,0 +1,4 @@
+# AS198231 (SIXNET)
+# Sixnet Operation Ltd
+#
+62.204.37.0/24

@@ -1,0 +1,14 @@
+{
+  "asn": 394519,
+  "metadata": {
+    "handle": "GRUVE-AI",
+    "description": "Gruve",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

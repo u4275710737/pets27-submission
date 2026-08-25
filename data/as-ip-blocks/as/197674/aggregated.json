@@ -1,0 +1,14 @@
+{
+  "asn": 197674,
+  "metadata": {
+    "handle": "C-BEYOND",
+    "description": "C BEYOND s.a.l",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

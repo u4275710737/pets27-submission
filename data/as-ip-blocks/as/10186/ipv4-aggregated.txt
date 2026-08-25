@@ -1,0 +1,5 @@
+# AS10186 (REDCROSSNET-AS)
+# Korean Red Cross
+#
+103.127.212.0/24
+103.127.214.0/23

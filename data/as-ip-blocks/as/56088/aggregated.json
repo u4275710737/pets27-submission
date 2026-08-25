@@ -1,0 +1,14 @@
+{
+  "asn": 56088,
+  "metadata": {
+    "handle": "PANDI-ID",
+    "description": "PANDI",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

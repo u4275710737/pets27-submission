@@ -1,0 +1,14 @@
+{
+  "asn": 150239,
+  "metadata": {
+    "handle": "IDNIC-ICTEL-ID",
+    "description": "PT Infrastruktur Cakrawala Telekomunikasi",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

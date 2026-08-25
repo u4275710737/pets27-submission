@@ -1,0 +1,14 @@
+{
+  "asn": 205246,
+  "metadata": {
+    "handle": "RU-SOCHITEL",
+    "description": "LLC SochiTelecom",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

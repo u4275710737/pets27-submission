@@ -1,0 +1,4 @@
+# AS24422 (CNNIC-HTXX-RIPE)
+# Huatong information network
+#
+122.0.64.0/18

@@ -1,0 +1,14 @@
+{
+  "asn": 55174,
+  "metadata": {
+    "handle": "BPTECHSERVICES",
+    "description": "Bay Pointe Tech Services, LLC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

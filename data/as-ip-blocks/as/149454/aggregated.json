@@ -1,0 +1,14 @@
+{
+  "asn": 149454,
+  "metadata": {
+    "handle": "SISL-AP",
+    "description": "Superuser IT Solutions (Pvt) Ltd",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

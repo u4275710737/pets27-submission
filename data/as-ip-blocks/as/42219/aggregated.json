@@ -1,0 +1,16 @@
+{
+  "asn": 42219,
+  "metadata": {
+    "handle": "CITYCALL-AS",
+    "description": "KC City Call Ltd.",
+    "countryCode": "RU",
+    "country": "Russia",
+    "origin": "authoritative",
+    "category": "government_admin",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ ]
+  }
+}

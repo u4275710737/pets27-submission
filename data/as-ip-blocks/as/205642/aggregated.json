@@ -1,0 +1,16 @@
+{
+  "asn": 205642,
+  "metadata": {
+    "handle": "H-R-AS",
+    "description": "H-R JSC",
+    "countryCode": "RU",
+    "country": "Russia",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "153.80.187.0/24", "153.80.188.0/22", "155.212.252.0/22" ],
+    "ipv6": [ "2001:67c:4e0::/48" ]
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 37569,
+  "metadata": {
+    "handle": "ROKE-ZAMBIA-ASN",
+    "description": "Roke Telkom Zambia",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

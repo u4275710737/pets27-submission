@@ -1,0 +1,14 @@
+{
+  "asn": 33169,
+  "metadata": {
+    "handle": "UDINET",
+    "description": "Utherverse Digital Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

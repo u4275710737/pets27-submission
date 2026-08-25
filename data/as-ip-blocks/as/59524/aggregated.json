@@ -1,0 +1,14 @@
+{
+  "asn": 59524,
+  "metadata": {
+    "handle": "KPN-IAAS",
+    "description": "KPN B.V.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

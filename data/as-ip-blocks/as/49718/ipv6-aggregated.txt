@@ -1,0 +1,4 @@
+# AS49718 (NTS-REAL-AS)
+# Nizhnevolzhskie Telecommunication Networks Real LLC
+#
+2a12:b780::/29

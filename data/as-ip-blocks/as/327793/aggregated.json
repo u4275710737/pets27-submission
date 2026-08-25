@@ -1,0 +1,14 @@
+{
+  "asn": 327793,
+  "metadata": {
+    "handle": "WORLD-VISION",
+    "description": "World Vision Kenya",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

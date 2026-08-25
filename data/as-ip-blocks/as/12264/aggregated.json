@@ -1,0 +1,16 @@
+{
+  "asn": 12264,
+  "metadata": {
+    "handle": "TELECOM-ARGENTINA",
+    "description": "Telecom Argentina S.A.",
+    "countryCode": "AR",
+    "country": "Argentina",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ ]
+  }
+}

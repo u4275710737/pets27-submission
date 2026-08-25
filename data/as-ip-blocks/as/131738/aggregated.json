@@ -1,0 +1,14 @@
+{
+  "asn": 131738,
+  "metadata": {
+    "handle": "IDNIC-GOLDENIT-AS-ID",
+    "description": "Golden IT",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

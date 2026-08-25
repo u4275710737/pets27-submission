@@ -1,0 +1,5 @@
+# AS56237 (UNILA-AS-ID)
+# Universitas Lampung
+#
+103.3.46.0/24
+121.50.32.0/24

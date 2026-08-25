@@ -1,0 +1,16 @@
+{
+  "asn": 24013,
+  "metadata": {
+    "handle": "SB",
+    "description": "SB Professional Services",
+    "countryCode": "SB",
+    "country": "Solomon Islands",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "45.11.45.0/24", "185.222.222.0/24" ],
+    "ipv6": [ "2a09::/48", "2a11::/48" ]
+  }
+}

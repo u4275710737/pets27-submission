@@ -1,0 +1,14 @@
+{
+  "asn": 152792,
+  "metadata": {
+    "handle": "IDNIC-PKR-AS-ID",
+    "description": "Politeknik Kesehatan Riau",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

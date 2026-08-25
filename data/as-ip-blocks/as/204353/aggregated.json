@@ -1,0 +1,14 @@
+{
+  "asn": 204353,
+  "metadata": {
+    "handle": "GLOBALOFFSHORE",
+    "description": "Global Offshore Host Limited",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

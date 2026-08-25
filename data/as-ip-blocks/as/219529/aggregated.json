@@ -1,0 +1,16 @@
+{
+  "asn": 219529,
+  "metadata": {
+    "handle": "PODRIL1AK2-AS",
+    "description": "Yulia Kurganova",
+    "countryCode": "RU",
+    "country": "Russia",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ "2a0d:d940:60::/44", "2a0d:d940:9014::/48" ]
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 206096,
+  "metadata": {
+    "handle": "KINGCORP",
+    "description": "Midasplayer AB",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

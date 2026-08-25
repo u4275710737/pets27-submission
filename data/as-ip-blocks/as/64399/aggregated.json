@@ -1,0 +1,16 @@
+{
+  "asn": 64399,
+  "metadata": {
+    "handle": "AZMA-IDC",
+    "description": "Farhang Azma Communications Company LTD",
+    "countryCode": "IR",
+    "country": "Iran",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "access_provider"
+  },
+  "prefixes": {
+    "ipv4": [ "212.16.70.0/24", "212.16.73.0/24" ],
+    "ipv6": [ ]
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 394436,
+  "metadata": {
+    "handle": "ICEBRG",
+    "description": "Icebrg",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

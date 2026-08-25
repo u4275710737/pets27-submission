@@ -1,0 +1,14 @@
+{
+  "asn": 25595,
+  "metadata": {
+    "handle": "ME",
+    "description": "Slashme BV",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

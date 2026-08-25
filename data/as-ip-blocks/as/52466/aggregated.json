@@ -1,0 +1,14 @@
+{
+  "asn": 52466,
+  "metadata": {
+    "handle": "UNIVISA-SA",
+    "description": "Univisa S.A.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

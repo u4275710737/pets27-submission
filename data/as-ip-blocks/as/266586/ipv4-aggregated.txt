@@ -1,0 +1,4 @@
+# AS266586 (NETBIG-TELECOMUNICACOES)
+# NetBig Telecomunicaçoes Ltda
+#
+45.7.148.0/22

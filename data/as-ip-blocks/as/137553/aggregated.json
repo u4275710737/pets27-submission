@@ -1,0 +1,16 @@
+{
+  "asn": 137553,
+  "metadata": {
+    "handle": "GLOBALCOM-AS-AP",
+    "description": "Global Communication",
+    "countryCode": "BD",
+    "country": "Bangladesh",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "103.113.16.0/22" ],
+    "ipv6": [ "2402:b5c0::/32" ]
+  }
+}

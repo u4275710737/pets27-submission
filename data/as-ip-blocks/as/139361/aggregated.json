@@ -1,0 +1,14 @@
+{
+  "asn": 139361,
+  "metadata": {
+    "handle": "AGNETINDO-ID",
+    "description": "PT Anugerah General Netindo",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

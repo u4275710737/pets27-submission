@@ -1,0 +1,5 @@
+# AS257 (DNIC-AS-00257)
+# Navy Network Information Center (NNIC)
+#
+204.102.229.0/24
+205.155.65.0/24

@@ -1,0 +1,4 @@
+# AS153910 (IDNIC-RDN-AS-ID)
+# PT Ryza Data Nusantara
+#
+2001:df5:93c0::/48

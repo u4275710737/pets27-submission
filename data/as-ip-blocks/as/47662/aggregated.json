@@ -1,0 +1,14 @@
+{
+  "asn": 47662,
+  "metadata": {
+    "handle": "IMRO",
+    "description": "Inspectia Muncii",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

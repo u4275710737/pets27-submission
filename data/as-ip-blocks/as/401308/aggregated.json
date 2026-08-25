@@ -1,0 +1,14 @@
+{
+  "asn": 401308,
+  "metadata": {
+    "handle": "NOMAD-AIR",
+    "description": "Nomad Air, LLC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

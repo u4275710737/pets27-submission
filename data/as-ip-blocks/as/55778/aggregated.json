@@ -1,0 +1,14 @@
+{
+  "asn": 55778,
+  "metadata": {
+    "handle": "WEBWEB-HK",
+    "description": "Ez Hosting (Hong Kong) Limited",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

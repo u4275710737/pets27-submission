@@ -1,0 +1,14 @@
+{
+  "asn": 197932,
+  "metadata": {
+    "handle": "TRADINGPOINT",
+    "description": "MARCANT AG",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 141336,
+  "metadata": {
+    "handle": "RIDAINFO-IN",
+    "description": "Rida Infotech",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

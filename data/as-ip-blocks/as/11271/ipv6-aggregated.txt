@@ -1,0 +1,4 @@
+# AS11271 (BT-LATAM-BRASIL-LTDA)
+# BT Latam Brasil Ltda
+#
+2800:23::/32

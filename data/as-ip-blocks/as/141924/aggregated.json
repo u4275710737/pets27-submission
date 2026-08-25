@@ -1,0 +1,14 @@
+{
+  "asn": 141924,
+  "metadata": {
+    "handle": "IDNIC-EMSNET-ID",
+    "description": "PT Enggar Media Sentana",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 394308,
+  "metadata": {
+    "handle": "TF-178-SJL",
+    "description": "Ting Fiber Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

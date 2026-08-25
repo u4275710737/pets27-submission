@@ -1,0 +1,16 @@
+{
+  "asn": 22830,
+  "metadata": {
+    "handle": "UNIV-DC",
+    "description": "University of the District of Columbia",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "overlaid",
+    "category": null,
+    "networkRole": null
+  },
+  "prefixes": {
+    "ipv4": [ "38.105.72.0/22", "38.118.3.0/24" ],
+    "ipv6": [ ]
+  }
+}

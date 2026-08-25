@@ -1,0 +1,16 @@
+{
+  "asn": 51858,
+  "metadata": {
+    "handle": "AYV-AS",
+    "description": "Antoshchuk Yuriy Vasylyovych",
+    "countryCode": "UA",
+    "country": "Ukraine",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "91.224.85.0/24" ],
+    "ipv6": [ ]
+  }
+}

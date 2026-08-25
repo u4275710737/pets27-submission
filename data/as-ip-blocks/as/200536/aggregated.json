@@ -1,0 +1,16 @@
+{
+  "asn": 200536,
+  "metadata": {
+    "handle": "SNL-127-200536",
+    "description": "Sunoaki Network LLC",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ "2a06:a005:28f3::/48", "2a06:a005:2980::/44" ]
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 395282,
+  "metadata": {
+    "handle": "SHWANKY",
+    "description": "Shwanky LLC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

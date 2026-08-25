@@ -1,0 +1,14 @@
+{
+  "asn": 14442,
+  "metadata": {
+    "handle": "MEDIA-HOSTS",
+    "description": "Media-Hosts Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

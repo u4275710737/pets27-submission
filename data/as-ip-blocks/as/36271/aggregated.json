@@ -1,0 +1,14 @@
+{
+  "asn": 36271,
+  "metadata": {
+    "handle": "SYNACOR-CLUSTER",
+    "description": "Synacor, Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

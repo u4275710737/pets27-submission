@@ -1,0 +1,4 @@
+# AS152446 (FLYNET-AS-AP)
+# Flynet Networking System
+#
+2001:df3:66c0::/48

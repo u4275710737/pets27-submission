@@ -1,0 +1,4 @@
+# AS139498 (SPEEDO-AS-IN)
+# Speedostar Telco Private Limited
+#
+2407:7140::/32

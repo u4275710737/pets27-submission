@@ -1,0 +1,16 @@
+{
+  "asn": 263206,
+  "metadata": {
+    "handle": "COFARMEN",
+    "description": "COFARMEN (COOPERATIVA FARMACEUTICA MENDOZA)",
+    "countryCode": "AR",
+    "country": "Argentina",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ ]
+  }
+}

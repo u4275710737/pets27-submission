@@ -1,0 +1,5 @@
+# AS393542 (PLATEAU-GROUP)
+# The Plateau Group Inc.
+#
+50.120.170.0/24
+71.85.142.0/24

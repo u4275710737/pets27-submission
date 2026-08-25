@@ -1,0 +1,16 @@
+{
+  "asn": 204120,
+  "metadata": {
+    "handle": "COLIBRI-CONSULTING-AS",
+    "description": "Colibri Consulting B.V.B.A.",
+    "countryCode": "BE",
+    "country": "Belgium",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "185.114.50.0/23" ],
+    "ipv6": [ "2a06:6e40::/29" ]
+  }
+}

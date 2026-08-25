@@ -1,0 +1,16 @@
+{
+  "asn": 210242,
+  "metadata": {
+    "handle": "YRA-NN",
+    "description": "Game Insight UAB",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [
+      "185.253.150.0/24"
+    ],
+    "ipv6": []
+  }
+}

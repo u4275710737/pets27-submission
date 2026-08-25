@@ -1,0 +1,4 @@
+# AS402427 (NXST-AS402427)
+# Nexstar Media Inc.
+#
+163.193.70.0/24

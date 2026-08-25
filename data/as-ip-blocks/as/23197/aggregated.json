@@ -1,0 +1,16 @@
+{
+  "asn": 23197,
+  "metadata": {
+    "handle": "GENESYS-SAAS",
+    "description": "UK",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "74.117.78.0/23", "74.118.255.0/24", "135.39.140.0/22", "135.39.148.0/22", "135.39.152.0/21", "198.181.120.0/22" ],
+    "ipv6": [ ]
+  }
+}

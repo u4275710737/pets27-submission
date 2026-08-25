@@ -1,0 +1,16 @@
+{
+  "asn": 15220,
+  "metadata": {
+    "handle": "PF-IPV4-BORROWER-LLC",
+    "description": "PF IPV4 Borrower LLC",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "inferred",
+    "category": null,
+    "networkRole": null
+  },
+  "prefixes": {
+    "ipv4": [ "66.150.110.0/24", "69.25.242.0/24", "162.217.254.0/24" ],
+    "ipv6": [ ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "asn": 401470,
+  "metadata": {
+    "handle": "UC-AGRICULTURE-AND-NATURAL-RESOURCES",
+    "description": "The Regents of the University of California Agriculture and Natural Resources",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "education_research",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "198.202.17.0/24" ],
+    "ipv6": [ ]
+  }
+}

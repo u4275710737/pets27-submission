@@ -1,0 +1,4 @@
+# AS58631 (VISTA-AS-AP)
+# Vista Group (NZ) Limited
+#
+2001:df0:247::/48

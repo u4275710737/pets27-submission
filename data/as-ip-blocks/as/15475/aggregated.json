@@ -1,0 +1,14 @@
+{
+  "asn": 15475,
+  "metadata": {
+    "handle": "NOL",
+    "description": "Nile Online",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 207125,
+  "metadata": {
+    "handle": "DGPCO",
+    "description": "Dadeh Gostar Parmis PJS Company",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

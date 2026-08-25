@@ -1,0 +1,14 @@
+{
+  "asn": 327903,
+  "metadata": {
+    "handle": "MICG",
+    "description": "Ministry of Information and Communications, Government of Sierra Leone",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "asn": 29786,
+  "metadata": {
+    "handle": "AS29786",
+    "description": "Abrams Capital Management LLC",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "38.97.91.0/24" ],
+    "ipv6": [ ]
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 401110,
+  "metadata": {
+    "handle": "AS-SOVYCLOUD",
+    "description": "Sovy Cloud Services",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

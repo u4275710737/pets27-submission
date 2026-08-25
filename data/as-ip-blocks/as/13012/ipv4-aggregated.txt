@@ -1,0 +1,4 @@
+# AS13012 (GENIAS-AS)
+# Stefan Englhardt
+#
+213.185.128.0/19

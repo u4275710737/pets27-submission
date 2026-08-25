@@ -1,0 +1,16 @@
+{
+  "asn": 327742,
+  "metadata": {
+    "handle": "AS-SOMALIAWIRELESS",
+    "description": "AS N FOR SOMALIA WIRELESS",
+    "countryCode": "SO",
+    "country": "Somalia",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "154.72.24.0/22" ],
+    "ipv6": [ ]
+  }
+}

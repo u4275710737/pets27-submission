@@ -1,0 +1,4 @@
+# AS52927 (IBIPAR)
+# IBIPAR S/A
+#
+2804:adc::/32

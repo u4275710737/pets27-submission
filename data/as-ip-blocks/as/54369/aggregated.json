@@ -1,0 +1,14 @@
+{
+  "asn": 54369,
+  "metadata": {
+    "handle": "VSD-KET",
+    "description": "Victoria's Secret",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "asn": 45663,
+  "metadata": {
+    "handle": "GLOBAL-VALUELABS-AS-IN",
+    "description": "ValueLabs",
+    "countryCode": "IN",
+    "country": "India",
+    "origin": "authoritative",
+    "category": "education_research",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "202.89.104.0/22" ],
+    "ipv6": [ ]
+  }
+}

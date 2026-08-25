@@ -1,0 +1,16 @@
+{
+  "asn": 209227,
+  "metadata": {
+    "handle": "TAMIN",
+    "description": "Green Web Samaneh Novin PJSC",
+    "countryCode": "IR",
+    "country": "Iran",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "193.141.126.0/24" ],
+    "ipv6": [ ]
+  }
+}

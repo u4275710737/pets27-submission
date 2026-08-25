@@ -1,0 +1,14 @@
+{
+  "asn": 38051,
+  "metadata": {
+    "handle": "OPENWAVEX-AS-AP",
+    "description": "OpenWaveX LLC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

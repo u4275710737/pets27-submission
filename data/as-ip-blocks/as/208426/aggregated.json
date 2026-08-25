@@ -1,0 +1,14 @@
+{
+  "asn": 208426,
+  "metadata": {
+    "handle": "BRUSS",
+    "description": "ALAB Laboratoria Sp. z o.o.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

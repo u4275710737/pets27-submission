@@ -1,0 +1,16 @@
+{
+  "asn": 27687,
+  "metadata": {
+    "handle": "BANCO-GENERAL",
+    "description": "Banco General S.A.",
+    "countryCode": "PA",
+    "country": "Panama",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "31.15.4.0/24", "45.65.254.0/23" ],
+    "ipv6": [ ]
+  }
+}

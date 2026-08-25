@@ -1,0 +1,16 @@
+{
+  "asn": 203753,
+  "metadata": {
+    "handle": "VOLGADC-AS",
+    "description": "Individual Entrepreneur Lopushenko Vladislav Olegovich",
+    "countryCode": "RU",
+    "country": "Russia",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ ]
+  }
+}

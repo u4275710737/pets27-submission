@@ -1,0 +1,5 @@
+# AS328360 (HUGECONNECT-AS)
+# Huge Connect (Pty) Ltd
+#
+169.239.228.0/24
+169.239.231.0/24

@@ -1,0 +1,14 @@
+{
+  "asn": 208021,
+  "metadata": {
+    "handle": "CHRIS-ALLEN",
+    "description": "Chris Allen",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

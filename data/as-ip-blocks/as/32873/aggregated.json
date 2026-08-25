@@ -1,0 +1,14 @@
+{
+  "asn": 32873,
+  "metadata": {
+    "handle": "COG-ASN",
+    "description": "Children's Oncology Group",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

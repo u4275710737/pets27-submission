@@ -1,0 +1,14 @@
+{
+  "asn": 62675,
+  "metadata": {
+    "handle": "KN-PLANO",
+    "description": "KODIAK NETWORKS",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

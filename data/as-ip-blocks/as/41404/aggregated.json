@@ -1,0 +1,14 @@
+{
+  "asn": 41404,
+  "metadata": {
+    "handle": "EURONET-CSBG",
+    "description": "Euronet services d.o.o.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 25116,
+  "metadata": {
+    "handle": "GAZDUIRE-WEB",
+    "description": "H88 WEB HOSTING S.R.L.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

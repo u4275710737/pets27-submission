@@ -1,0 +1,16 @@
+{
+  "asn": 132402,
+  "metadata": {
+    "handle": "IDNIC-PTSCI-ID",
+    "description": "PT Sahabat Corp Indonesia",
+    "countryCode": "ID",
+    "country": "Indonesia",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "163.128.235.0/24" ],
+    "ipv6": [ ]
+  }
+}

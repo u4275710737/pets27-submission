@@ -1,0 +1,5 @@
+# AS200123 (KGILC-AS)
+# Kola Geological Information Laboratory Centre OJSC
+#
+62.89.214.0/24
+93.170.9.0/24

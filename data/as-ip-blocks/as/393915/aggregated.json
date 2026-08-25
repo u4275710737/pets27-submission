@@ -1,0 +1,14 @@
+{
+  "asn": 393915,
+  "metadata": {
+    "handle": "GRAND-AMERICA-PUBLIC",
+    "description": "Grand America",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "asn": 328214,
+  "metadata": {
+    "handle": "BIONIQ-LTD-AS",
+    "description": "Bioniq (Pty) Ltd",
+    "countryCode": "ZA",
+    "country": "South Africa",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "160.119.152.0/22" ],
+    "ipv6": [ ]
+  }
+}

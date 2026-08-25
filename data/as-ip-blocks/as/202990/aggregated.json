@@ -1,0 +1,14 @@
+{
+  "asn": 202990,
+  "metadata": {
+    "handle": "WEB42",
+    "description": "Web42 Solutions Ltd",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 37044,
+  "metadata": {
+    "handle": "TANGERINE-AS",
+    "description": "Tangerine Limited",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

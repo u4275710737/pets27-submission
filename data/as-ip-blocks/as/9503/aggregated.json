@@ -1,0 +1,14 @@
+{
+  "asn": 9503,
+  "metadata": {
+    "handle": "FX-PRIMARY",
+    "description": "CallPlus Services Limited",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

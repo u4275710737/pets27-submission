@@ -1,0 +1,16 @@
+{
+  "asn": 264929,
+  "metadata": {
+    "handle": "TECNET-TELECOM",
+    "description": "TECNET TELECOM LTDA",
+    "countryCode": "BR",
+    "country": "Brazil",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "168.228.216.0/22" ],
+    "ipv6": [ "2804:3014::/32" ]
+  }
+}

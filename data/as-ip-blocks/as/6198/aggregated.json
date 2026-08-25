@@ -1,0 +1,14 @@
+{
+  "asn": 6198,
+  "metadata": {
+    "handle": "BATI-MIA",
+    "description": "BellSouth Network Solutions Inc",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

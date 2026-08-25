@@ -1,0 +1,14 @@
+{
+  "asn": 55745,
+  "metadata": {
+    "handle": "NEDA-AS-AP",
+    "description": "Neda Telecommunications",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

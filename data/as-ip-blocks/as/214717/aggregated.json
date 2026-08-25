@@ -1,0 +1,14 @@
+{
+  "asn": 214717,
+  "metadata": {
+    "handle": "DOLPHINHOST-AS",
+    "description": "DolphinHost Limited",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

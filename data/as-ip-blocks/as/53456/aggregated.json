@@ -1,0 +1,14 @@
+{
+  "asn": 53456,
+  "metadata": {
+    "handle": "WESTRUX",
+    "description": "Westrux International, Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

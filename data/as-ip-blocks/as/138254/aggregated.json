@@ -1,0 +1,14 @@
+{
+  "asn": 138254,
+  "metadata": {
+    "handle": "OZONE123-IN",
+    "description": "OZONE BROADBAND SERVICE",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

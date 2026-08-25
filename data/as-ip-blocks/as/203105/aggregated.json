@@ -1,0 +1,16 @@
+{
+  "asn": 203105,
+  "metadata": {
+    "handle": "BLAHAJINTERNET",
+    "description": "Blahaj Internet Ltd",
+    "countryCode": "GB",
+    "country": "United Kingdom",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "45.92.42.0/24" ],
+    "ipv6": [ "2a0c:6500:4::/48" ]
+  }
+}

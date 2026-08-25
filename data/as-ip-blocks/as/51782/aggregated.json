@@ -1,0 +1,14 @@
+{
+  "asn": 51782,
+  "metadata": {
+    "handle": "VONEUS",
+    "description": "Voneus Ltd",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

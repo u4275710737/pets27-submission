@@ -1,0 +1,14 @@
+{
+  "asn": 32566,
+  "metadata": {
+    "handle": "DUNAVANT",
+    "description": "Dunavant Enterprises, Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

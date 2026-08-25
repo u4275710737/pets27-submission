@@ -1,0 +1,16 @@
+{
+  "asn": 24029,
+  "metadata": {
+    "handle": "NIXI-IN-AS",
+    "description": "NIXI is an IXP in India",
+    "countryCode": "IN",
+    "country": "India",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "103.218.247.0/24" ],
+    "ipv6": [ ]
+  }
+}

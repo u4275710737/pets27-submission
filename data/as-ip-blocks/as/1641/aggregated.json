@@ -1,0 +1,14 @@
+{
+  "asn": 1641,
+  "metadata": {
+    "handle": "STAPLES-SPP",
+    "description": "Staples Contract & Commercial, Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

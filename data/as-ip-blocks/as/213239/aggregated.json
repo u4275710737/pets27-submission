@@ -1,0 +1,14 @@
+{
+  "asn": 213239,
+  "metadata": {
+    "handle": "NORTHLAYER-AS2",
+    "description": "Northlayer ehf",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

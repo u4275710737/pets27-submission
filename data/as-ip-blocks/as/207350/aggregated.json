@@ -1,0 +1,16 @@
+{
+  "asn": 207350,
+  "metadata": {
+    "handle": "FARATECHNOLOGY",
+    "description": "Arshia Asadi",
+    "countryCode": "IR",
+    "country": "Iran",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "195.24.237.0/24" ],
+    "ipv6": [ ]
+  }
+}

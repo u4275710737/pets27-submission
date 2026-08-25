@@ -1,0 +1,14 @@
+{
+  "asn": 33907,
+  "metadata": {
+    "handle": "ORNUS",
+    "description": "Ornus AB",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

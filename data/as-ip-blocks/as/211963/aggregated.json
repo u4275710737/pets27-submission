@@ -1,0 +1,14 @@
+{
+  "asn": 211963,
+  "metadata": {
+    "handle": "MAILRU-IS",
+    "description": "LLC VK",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

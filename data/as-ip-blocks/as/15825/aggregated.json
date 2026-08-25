@@ -1,0 +1,16 @@
+{
+  "asn": 15825,
+  "metadata": {
+    "handle": "GDC-ASN",
+    "description": "Network Computer Systems Automomous System",
+    "countryCode": "GH",
+    "country": "Ghana",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "193.194.162.0/23" ],
+    "ipv6": [ ]
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 208085,
+  "metadata": {
+    "handle": "V10NETWORKS",
+    "description": "Timm Gasteier trading as v10networks - Gasteier und Kessler GbR",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

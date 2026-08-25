@@ -1,0 +1,16 @@
+{
+  "asn": 37525,
+  "metadata": {
+    "handle": "BYTESNET-AS",
+    "description": "BYTESNET Autonomous System",
+    "countryCode": "ZA",
+    "country": "South Africa",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "41.76.56.0/21", "41.85.128.0/19", "41.87.224.0/19", "105.235.160.0/20", "197.156.0.0/18" ],
+    "ipv6": [ "2c0f:fda0::/32" ]
+  }
+}

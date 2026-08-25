@@ -1,0 +1,14 @@
+{
+  "asn": 208055,
+  "metadata": {
+    "handle": "SONA-AS2",
+    "description": "Sona Business B.V.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

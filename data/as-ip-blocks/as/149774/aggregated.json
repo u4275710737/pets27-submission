@@ -1,0 +1,14 @@
+{
+  "asn": 149774,
+  "metadata": {
+    "handle": "VIATECH-AP",
+    "description": "ViaTech",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

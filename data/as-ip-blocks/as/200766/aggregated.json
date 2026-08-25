@@ -1,0 +1,16 @@
+{
+  "asn": 200766,
+  "metadata": {
+    "handle": "BROWN-AS",
+    "description": "Kerry Lynn brown jr",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ "2a06:a005:116b::/48", "2a0a:6040:c100::/40", "2a0f:9400:6147::/48" ]
+  }
+}

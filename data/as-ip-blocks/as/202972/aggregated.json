@@ -1,0 +1,16 @@
+{
+  "asn": 202972,
+  "metadata": {
+    "handle": "ROKUNET",
+    "description": "ROKUNET BILISIM HIZMETLERI ANONIM SIRKETI",
+    "countryCode": "TR",
+    "country": "Türkiye",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "45.194.120.0/24" ],
+    "ipv6": [ ]
+  }
+}

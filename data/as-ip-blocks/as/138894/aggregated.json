@@ -1,0 +1,16 @@
+{
+  "asn": 138894,
+  "metadata": {
+    "handle": "IDNIC-ASLIRI-AS-ID",
+    "description": "PT ASLI Rancangan Indonesia",
+    "countryCode": "ID",
+    "country": "Indonesia",
+    "origin": "authoritative",
+    "category": null,
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "103.141.40.0/23" ],
+    "ipv6": [ ]
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 33886,
+  "metadata": {
+    "handle": "STOCKHOLMIX",
+    "description": "Stockholm Internet eXchange AB",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

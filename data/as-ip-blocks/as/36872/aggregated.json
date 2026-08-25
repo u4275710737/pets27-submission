@@ -1,0 +1,16 @@
+{
+  "asn": 36872,
+  "metadata": {
+    "handle": "IDN",
+    "description": "intercom data network",
+    "countryCode": "NG",
+    "country": "Nigeria",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "41.223.44.0/24", "41.223.47.0/24" ],
+    "ipv6": [ ]
+  }
+}

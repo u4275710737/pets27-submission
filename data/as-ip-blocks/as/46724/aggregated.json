@@ -1,0 +1,14 @@
+{
+  "asn": 46724,
+  "metadata": {
+    "handle": "KSC",
+    "description": "Kelsey-Seybold Clinic",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

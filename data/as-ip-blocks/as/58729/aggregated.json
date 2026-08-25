@@ -1,0 +1,14 @@
+{
+  "asn": 58729,
+  "metadata": {
+    "handle": "SHOWGROUP-AU",
+    "description": "Show Group Pty Ltd",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

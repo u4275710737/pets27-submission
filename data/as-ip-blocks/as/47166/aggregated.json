@@ -1,0 +1,14 @@
+{
+  "asn": 47166,
+  "metadata": {
+    "handle": "BELRTS-AS-3",
+    "description": "Regional TeleSystem Ltd",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 132539,
+  "metadata": {
+    "handle": "VCMSL-AP",
+    "description": "Viteos Capital Market Services Limited",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 396845,
+  "metadata": {
+    "handle": "DV-PRIMARY-ASN1",
+    "description": "Delivra, Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

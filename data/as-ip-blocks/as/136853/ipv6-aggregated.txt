@@ -1,0 +1,4 @@
+# AS136853 (IDNIC-UMMGL-AS-ID)
+# Universitas Muhammadiyah Magelang
+#
+2001:df2:dd00::/48

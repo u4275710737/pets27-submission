@@ -1,0 +1,14 @@
+{
+  "asn": 393933,
+  "metadata": {
+    "handle": "TPR-ASN1",
+    "description": "The Princeton Review",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

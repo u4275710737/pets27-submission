@@ -1,0 +1,16 @@
+{
+  "asn": 198478,
+  "metadata": {
+    "handle": "MOORKO-NETWORKS",
+    "description": "Alireza Mirzaei Fard",
+    "countryCode": "NL",
+    "country": "Netherlands",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ "2a14:7581:ff9::/48" ]
+  }
+}

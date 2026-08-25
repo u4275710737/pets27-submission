@@ -1,0 +1,16 @@
+{
+  "asn": 53873,
+  "metadata": {
+    "handle": "SCL-550-53873",
+    "description": "Bexar Datacenter",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "64.132.4.0/22", "74.203.171.0/24", "74.203.251.0/24", "97.77.87.0/24" ],
+    "ipv6": [ "2604:520::/32" ]
+  }
+}

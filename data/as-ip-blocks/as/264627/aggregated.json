@@ -1,0 +1,14 @@
+{
+  "asn": 264627,
+  "metadata": {
+    "handle": "COMUNICACIONES-Y-CONSUMOS-SA",
+    "description": "COMUNICACIONES Y CONSUMOS S.A.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

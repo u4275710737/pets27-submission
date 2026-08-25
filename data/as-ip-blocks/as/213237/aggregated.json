@@ -1,0 +1,14 @@
+{
+  "asn": 213237,
+  "metadata": {
+    "handle": "KOST",
+    "description": "Joerg Kost",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 137307,
+  "metadata": {
+    "handle": "IDNIC-NAM-ID",
+    "description": "PT Nielsen Audience Measurment",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

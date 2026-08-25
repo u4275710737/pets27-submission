@@ -1,0 +1,14 @@
+{
+  "asn": 54948,
+  "metadata": {
+    "handle": "SDSA",
+    "description": "Samsung SDS America, Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

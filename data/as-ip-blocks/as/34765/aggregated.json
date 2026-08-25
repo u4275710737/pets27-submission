@@ -1,0 +1,14 @@
+{
+  "asn": 34765,
+  "metadata": {
+    "handle": "AIRCLUB",
+    "description": "BCD Travel Poland Spolka z Ograniczona Odpowiedzialnoscia",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

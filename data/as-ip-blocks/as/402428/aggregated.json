@@ -1,0 +1,16 @@
+{
+  "asn": 402428,
+  "metadata": {
+    "handle": "ITSUMIKU-AS-INTL1",
+    "description": "Itsumiku LLC",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "157.254.131.0/24" ],
+    "ipv6": [ "2602:f3eb:100::/44" ]
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 394281,
+  "metadata": {
+    "handle": "XHOSTSERVER",
+    "description": "Xhostserver, LLC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,3 @@
+# AS43680 (FINCA-BANK-AS)
+# CJSC Finca Bank
+#

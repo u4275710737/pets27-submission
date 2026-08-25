@@ -1,0 +1,14 @@
+{
+  "asn": 55101,
+  "metadata": {
+    "handle": "DAEMON-DEFENSE-SYSTEMS",
+    "description": "Daemon Defense Systems Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

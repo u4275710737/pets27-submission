@@ -1,0 +1,16 @@
+{
+  "asn": 271277,
+  "metadata": {
+    "handle": "GIGAMAIS-TELECOM",
+    "description": "JS CERQUEIRA",
+    "countryCode": "BR",
+    "country": "Brazil",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "201.222.32.0/22" ],
+    "ipv6": [ "2804:78f8::/32" ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "asn": 199874,
+  "metadata": {
+    "handle": "BEPROIT",
+    "description": "Pedro Antonio Collado Fernandez",
+    "countryCode": "ES",
+    "country": "Spain",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ "2a06:9801:225::/48" ]
+  }
+}

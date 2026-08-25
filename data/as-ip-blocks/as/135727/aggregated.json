@@ -1,0 +1,14 @@
+{
+  "asn": 135727,
+  "metadata": {
+    "handle": "AIPL2023-AS-IN",
+    "description": "ANGEL INTERWEBS PRIVATE LIMITED",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

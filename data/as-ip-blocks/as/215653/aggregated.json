@@ -1,0 +1,14 @@
+{
+  "asn": 215653,
+  "metadata": {
+    "handle": "ALICEIT",
+    "description": "nexserv GmbH",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

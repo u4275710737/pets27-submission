@@ -1,0 +1,14 @@
+{
+  "asn": 209426,
+  "metadata": {
+    "handle": "ASSURONE",
+    "description": "Assurone Group SASU",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

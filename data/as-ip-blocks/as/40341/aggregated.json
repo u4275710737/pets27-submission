@@ -1,0 +1,14 @@
+{
+  "asn": 40341,
+  "metadata": {
+    "handle": "Q9-CAL2",
+    "description": "Equinix, Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

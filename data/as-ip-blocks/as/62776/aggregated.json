@@ -1,0 +1,14 @@
+{
+  "asn": 62776,
+  "metadata": {
+    "handle": "HEALTH-DIALOG",
+    "description": "Health Dialog Services Corporation",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

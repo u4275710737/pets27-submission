@@ -1,0 +1,14 @@
+{
+  "asn": 23667,
+  "metadata": {
+    "handle": "BOM-AS-AP",
+    "description": "Bureau of Meteorology",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

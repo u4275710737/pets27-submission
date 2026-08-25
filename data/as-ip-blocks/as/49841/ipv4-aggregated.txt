@@ -1,0 +1,4 @@
+# AS49841 (EXPO-AS)
+# JSC Expobank
+#
+194.242.8.0/23

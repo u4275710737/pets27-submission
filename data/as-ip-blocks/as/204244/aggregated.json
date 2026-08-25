@@ -1,0 +1,14 @@
+{
+  "asn": 204244,
+  "metadata": {
+    "handle": "GLNET",
+    "description": "KORPOWER Sp.z.o.o.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

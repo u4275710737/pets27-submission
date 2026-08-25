@@ -1,0 +1,14 @@
+{
+  "asn": 401769,
+  "metadata": {
+    "handle": "TPM",
+    "description": "TRINITY PETROLEUM MANAGEMENT LLC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

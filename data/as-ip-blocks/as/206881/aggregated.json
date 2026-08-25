@@ -1,0 +1,14 @@
+{
+  "asn": 206881,
+  "metadata": {
+    "handle": "ENACONSULTING-AS",
+    "description": "Amt Services srl",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

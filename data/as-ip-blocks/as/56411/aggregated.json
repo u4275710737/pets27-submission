@@ -1,0 +1,14 @@
+{
+  "asn": 56411,
+  "metadata": {
+    "handle": "FIELMANN-HH01",
+    "description": "Fielmann AG",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

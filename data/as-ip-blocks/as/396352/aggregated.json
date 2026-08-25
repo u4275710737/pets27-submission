@@ -1,0 +1,14 @@
+{
+  "asn": 396352,
+  "metadata": {
+    "handle": "NJ-DC",
+    "description": "ENGINE International, Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

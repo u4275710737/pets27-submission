@@ -1,0 +1,4 @@
+# AS263710 (CORPORACION-UNIVERSITARIA-MINUTO)
+# Corporación Universitaria Minuto de Dios
+#
+2801:0:210::/48

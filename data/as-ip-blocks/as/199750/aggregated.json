@@ -1,0 +1,16 @@
+{
+  "asn": 199750,
+  "metadata": {
+    "handle": "SHENMING-AS",
+    "description": "Ch'ng Shen Ming",
+    "countryCode": "MY",
+    "country": "Malaysia",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ "2a0f:1cc5:3100::/46" ]
+  }
+}

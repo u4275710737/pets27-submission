@@ -1,0 +1,14 @@
+{
+  "asn": 29462,
+  "metadata": {
+    "handle": "DSD",
+    "description": "Destiny N.V",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 56291,
+  "metadata": {
+    "handle": "ACE-AS-AP",
+    "description": "Ace Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

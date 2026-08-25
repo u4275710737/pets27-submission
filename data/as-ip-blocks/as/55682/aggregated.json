@@ -1,0 +1,14 @@
+{
+  "asn": 55682,
+  "metadata": {
+    "handle": "FIBERMEDIA-AS-ID",
+    "description": "PT. Fiber Media Indonesia",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

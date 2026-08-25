@@ -1,0 +1,14 @@
+{
+  "asn": 57960,
+  "metadata": {
+    "handle": "ASBITNET",
+    "description": "Snitcar Olexandr Antonovich",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

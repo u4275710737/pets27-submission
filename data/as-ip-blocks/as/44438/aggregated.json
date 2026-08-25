@@ -1,0 +1,14 @@
+{
+  "asn": 44438,
+  "metadata": {
+    "handle": "MT-AS",
+    "description": "Muenchen Ticket GmbH",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

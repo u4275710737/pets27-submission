@@ -1,0 +1,16 @@
+{
+  "asn": 266890,
+  "metadata": {
+    "handle": "HERNANDEZ-RUBEN",
+    "description": "HERNANDEZ RUBEN (GOLDERNET)",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [
+      "45.160.158.0/23"
+    ],
+    "ipv6": []
+  }
+}

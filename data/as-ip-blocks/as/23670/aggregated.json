@@ -1,0 +1,14 @@
+{
+  "asn": 23670,
+  "metadata": {
+    "handle": "HOSTDC-AU",
+    "description": "Oz Servers Pty Ltd",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

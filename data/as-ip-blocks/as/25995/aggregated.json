@@ -1,0 +1,14 @@
+{
+  "asn": 25995,
+  "metadata": {
+    "handle": "CALTELEHEALTHNET",
+    "description": "California Telehealth Network",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

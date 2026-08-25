@@ -1,0 +1,14 @@
+{
+  "asn": 21657,
+  "metadata": {
+    "handle": "FRTCC-LOUISANET",
+    "description": "Foothills Rural Telephone Cooperative Corporation, Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

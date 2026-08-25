@@ -1,0 +1,14 @@
+{
+  "asn": 398910,
+  "metadata": {
+    "handle": "WELLO-NET",
+    "description": "Wello Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

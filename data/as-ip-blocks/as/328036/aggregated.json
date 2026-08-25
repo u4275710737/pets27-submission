@@ -1,0 +1,16 @@
+{
+  "asn": 328036,
+  "metadata": {
+    "handle": "WIFI-TECHNOLOGIES-AS",
+    "description": "Wifi-Resources (Pty) Ltd",
+    "countryCode": "ZA",
+    "country": "South Africa",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "41.242.80.0/22" ],
+    "ipv6": [ ]
+  }
+}

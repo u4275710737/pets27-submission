@@ -1,0 +1,16 @@
+{
+  "asn": 262414,
+  "metadata": {
+    "handle": "UPKONECT-CELULAR-TELECOMUNICACOES",
+    "description": "UPKONECT CELULAR E TELECOMUNICAÇÕES EIRE",
+    "countryCode": "BR",
+    "country": "Brazil",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ ]
+  }
+}

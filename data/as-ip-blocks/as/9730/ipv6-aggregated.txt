@@ -1,0 +1,6 @@
+# AS9730 (BHARTITELESONIC-AS-IN-AP)
+# Bharti Airtel Limited
+#
+2401:4900:9810::/48
+2401:4900:beff::/48
+2404:a800:4001::/48

@@ -1,0 +1,4 @@
+# AS30983 (MARWAN-AS)
+# Moroccan Academic Network - MARWAN
+#
+2001:4310::/32

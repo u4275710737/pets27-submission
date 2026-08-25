@@ -1,0 +1,14 @@
+{
+  "asn": 36421,
+  "metadata": {
+    "handle": "AS-TRENDMICRO-COM",
+    "description": "TREND MICRO INCORPORATED",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

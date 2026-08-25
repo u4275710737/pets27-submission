@@ -1,0 +1,14 @@
+{
+  "asn": 202992,
+  "metadata": {
+    "handle": "SERVERIUX",
+    "description": "SERVERIUX DATACENTER LIMITED",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "asn": 24216,
+  "metadata": {
+    "handle": "VIRTELA-NET-VXIMUM1",
+    "description": "Virtela Communications",
+    "countryCode": "IN",
+    "country": "India",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "119.31.171.0/24" ],
+    "ipv6": [ ]
+  }
+}

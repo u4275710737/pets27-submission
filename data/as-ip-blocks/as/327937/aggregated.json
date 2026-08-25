@@ -1,0 +1,14 @@
+{
+  "asn": 327937,
+  "metadata": {
+    "handle": "SMILE-COMMUNICATION-DRC",
+    "description": "Smile Communication DRC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

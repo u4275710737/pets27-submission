@@ -1,0 +1,14 @@
+{
+  "asn": 141287,
+  "metadata": {
+    "handle": "BICTPL-AS-IN",
+    "description": "Bic Trade Private Limited",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

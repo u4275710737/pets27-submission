@@ -1,0 +1,3 @@
+# AS39516 (RAROM-AS)
+# Registrul Auto Roman RA
+#

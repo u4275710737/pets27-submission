@@ -1,0 +1,5 @@
+# AS40534 (AM-AVK-MINDEN)
+# American AVK Company
+#
+50.124.93.0/24
+216.40.83.0/24

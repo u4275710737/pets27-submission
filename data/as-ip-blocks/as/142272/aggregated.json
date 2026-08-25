@@ -1,0 +1,14 @@
+{
+  "asn": 142272,
+  "metadata": {
+    "handle": "MEGA-AP",
+    "description": "Mega Cable",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

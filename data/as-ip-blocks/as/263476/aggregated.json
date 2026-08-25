@@ -1,0 +1,16 @@
+{
+  "asn": 263476,
+  "metadata": {
+    "handle": "V-W-INTERNET",
+    "description": "V W INTERNET",
+    "countryCode": "BR",
+    "country": "Brazil",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "191.242.110.0/23" ],
+    "ipv6": [ ]
+  }
+}

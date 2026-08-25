@@ -1,0 +1,4 @@
+# AS8382 (IRTEL-AS)
+# PJSC Rostelecom
+#
+213.228.120.0/21

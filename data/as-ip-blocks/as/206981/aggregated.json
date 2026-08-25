@@ -1,0 +1,14 @@
+{
+  "asn": 206981,
+  "metadata": {
+    "handle": "TERITUMDEVELOPMENT",
+    "description": "Christopher Mountford",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

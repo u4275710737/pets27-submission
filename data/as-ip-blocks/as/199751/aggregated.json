@@ -1,0 +1,14 @@
+{
+  "asn": 199751,
+  "metadata": {
+    "handle": "HOSTIT-AS",
+    "description": "GRUPO HOSTIT SAS",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "asn": 202817,
+  "metadata": {
+    "handle": "MOONYHOST-NET",
+    "description": "Gabriel Engvall",
+    "countryCode": "SE",
+    "country": "Sweden",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "192.71.198.0/24" ],
+    "ipv6": [ "2a14:1ec7:8300::/40" ]
+  }
+}

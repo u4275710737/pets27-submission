@@ -1,0 +1,4 @@
+# AS207989 (AS-GOLDENDATA)
+# Golden - Data S.R.L.
+#
+2a12:eec0::/32

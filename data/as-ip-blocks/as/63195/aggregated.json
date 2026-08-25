@@ -1,0 +1,14 @@
+{
+  "asn": 63195,
+  "metadata": {
+    "handle": "GUNTHER-ASNUMBER-01",
+    "description": "Mike Gunther Industries, Inc",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

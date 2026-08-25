@@ -1,0 +1,6 @@
+# AS54690 (CLU)
+# California Lutheran University
+#
+173.198.49.0/24
+192.153.159.0/24
+207.145.102.0/24

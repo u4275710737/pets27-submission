@@ -1,0 +1,5 @@
+# AS400383 (HUMBLE-BRIDGER-1)
+# Denson Technologies
+#
+64.20.220.0/24
+64.20.222.0/23

@@ -1,0 +1,16 @@
+{
+  "asn": 141124,
+  "metadata": {
+    "handle": "IDNIC-MAKASSARKOTA-AS-ID",
+    "description": "Dinas Komunikasi dan Informatika Kota Makassar",
+    "countryCode": "ID",
+    "country": "Indonesia",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "103.151.20.0/23" ],
+    "ipv6": [ ]
+  }
+}

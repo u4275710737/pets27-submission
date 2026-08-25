@@ -1,0 +1,14 @@
+{
+  "asn": 198751,
+  "metadata": {
+    "handle": "MPT-TABO",
+    "description": "MPT Tabo Spolka z o.o.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 25092,
+  "metadata": {
+    "handle": "OPATELECOM",
+    "description": "PE Tetyana Mysyk",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

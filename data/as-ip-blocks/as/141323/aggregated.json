@@ -1,0 +1,14 @@
+{
+  "asn": 141323,
+  "metadata": {
+    "handle": "COMPLAIA",
+    "description": "Compliance Broadband Private Limited",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 53909,
+  "metadata": {
+    "handle": "KIPANYAS",
+    "description": "Kipany Productions, LTD.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

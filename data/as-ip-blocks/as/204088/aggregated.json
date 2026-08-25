@@ -1,0 +1,14 @@
+{
+  "asn": 204088,
+  "metadata": {
+    "handle": "LGNO",
+    "description": "Lago Networks Oy",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

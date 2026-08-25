@@ -1,0 +1,5 @@
+# AS31708 (COREIX-UK-AS)
+# Coreix Ltd
+#
+2a01:c0::/32
+2a05:8440::/29

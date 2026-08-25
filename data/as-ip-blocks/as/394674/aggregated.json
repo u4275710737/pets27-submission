@@ -1,0 +1,14 @@
+{
+  "asn": 394674,
+  "metadata": {
+    "handle": "WHASN",
+    "description": "Warrior Hosting LLC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

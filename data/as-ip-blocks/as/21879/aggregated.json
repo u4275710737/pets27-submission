@@ -1,0 +1,14 @@
+{
+  "asn": 21879,
+  "metadata": {
+    "handle": "TWRS-SF",
+    "description": "Towerstream I Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

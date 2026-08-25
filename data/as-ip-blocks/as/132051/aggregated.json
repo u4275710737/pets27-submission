@@ -1,0 +1,14 @@
+{
+  "asn": 132051,
+  "metadata": {
+    "handle": "AIRITINDIA-IN",
+    "description": "Esto Internet private limited",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 37106,
+  "metadata": {
+    "handle": "ODUA-AS",
+    "description": "ODUA TELECOMS LTD",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

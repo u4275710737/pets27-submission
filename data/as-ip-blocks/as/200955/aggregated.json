@@ -1,0 +1,14 @@
+{
+  "asn": 200955,
+  "metadata": {
+    "handle": "NAUKA-SVAYZ",
+    "description": "LLC Nauka-Svyaz",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

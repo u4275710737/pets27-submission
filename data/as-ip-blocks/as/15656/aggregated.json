@@ -1,0 +1,14 @@
+{
+  "asn": 15656,
+  "metadata": {
+    "handle": "NANO",
+    "description": "Nano Iletisim Bilisim Hizmetleri Teknoloji Sistemleri Sanayi ve Ticaret Ltd Sirketi",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 137606,
+  "metadata": {
+    "handle": "BIDHATRI-IN",
+    "description": "BIDHATRI INFOCOMM OPC PRIVATE LIMITED",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

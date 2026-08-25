@@ -1,0 +1,14 @@
+{
+  "asn": 44437,
+  "metadata": {
+    "handle": "FORHOSTING",
+    "description": "Angelo Kreikamp trading as Forhosting",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

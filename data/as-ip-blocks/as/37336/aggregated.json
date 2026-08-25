@@ -1,0 +1,16 @@
+{
+  "asn": 37336,
+  "metadata": {
+    "handle": "UCOM-WIC",
+    "description": "UCOM Burundi",
+    "countryCode": "BI",
+    "country": "Burundi",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "access_provider"
+  },
+  "prefixes": {
+    "ipv4": [ "41.79.44.0/22" ],
+    "ipv6": [ ]
+  }
+}

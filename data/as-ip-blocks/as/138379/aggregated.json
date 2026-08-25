@@ -1,0 +1,14 @@
+{
+  "asn": 138379,
+  "metadata": {
+    "handle": "SCNBROADBAND-AP",
+    "description": "Satellite Cable Network, Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

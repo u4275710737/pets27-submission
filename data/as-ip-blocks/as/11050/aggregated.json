@@ -1,0 +1,16 @@
+{
+  "asn": 11050,
+  "metadata": {
+    "handle": "KENT-STATE",
+    "description": "Kent State University",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "education_research",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "131.123.64.0/18", "131.123.128.0/17" ],
+    "ipv6": [ ]
+  }
+}

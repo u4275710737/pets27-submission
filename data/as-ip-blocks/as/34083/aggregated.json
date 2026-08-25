@@ -1,0 +1,16 @@
+{
+  "asn": 34083,
+  "metadata": {
+    "handle": "ORG-AL161-RIPE",
+    "description": "Arpinet LLC",
+    "countryCode": "AM",
+    "country": "Armenia",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "178.219.48.0/21" ],
+    "ipv6": [ ]
+  }
+}

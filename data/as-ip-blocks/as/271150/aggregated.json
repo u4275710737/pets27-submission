@@ -1,0 +1,16 @@
+{
+  "asn": 271150,
+  "metadata": {
+    "handle": "FOX-LINK-TELECOM",
+    "description": "FOX LINK TELECOM LTDA",
+    "countryCode": "BR",
+    "country": "Brazil",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "179.42.108.0/23", "179.42.110.0/24" ],
+    "ipv6": [ "2804:7708::/33", "2804:7708:e000::/35" ]
+  }
+}

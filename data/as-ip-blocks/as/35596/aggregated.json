@@ -1,0 +1,14 @@
+{
+  "asn": 35596,
+  "metadata": {
+    "handle": "PGE",
+    "description": "PGE Dystrybucja S.A. Odzial Rzeszow",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

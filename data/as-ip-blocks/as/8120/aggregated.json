@@ -1,0 +1,14 @@
+{
+  "asn": 8120,
+  "metadata": {
+    "handle": "BESTWEB",
+    "description": "FirstLight Fiber, Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

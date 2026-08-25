@@ -1,0 +1,14 @@
+{
+  "asn": 204699,
+  "metadata": {
+    "handle": "RAWLPLUG",
+    "description": "Koelner Rawlplug IP Sp. z o.o.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

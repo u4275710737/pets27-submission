@@ -1,0 +1,14 @@
+{
+  "asn": 45729,
+  "metadata": {
+    "handle": "INDONET-AS-AP",
+    "description": "INDO Internet PT",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

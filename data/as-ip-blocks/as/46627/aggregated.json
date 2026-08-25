@@ -1,0 +1,14 @@
+{
+  "asn": 46627,
+  "metadata": {
+    "handle": "AUREON",
+    "description": "Aureon Network Services",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

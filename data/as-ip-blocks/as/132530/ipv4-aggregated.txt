@@ -1,0 +1,4 @@
+# AS132530 (INFONALSDNBHD-AS-AP)
+# Infonal Sdn Bhd
+#
+103.24.192.0/23

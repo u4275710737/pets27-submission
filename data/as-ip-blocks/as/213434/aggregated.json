@@ -1,0 +1,16 @@
+{
+  "asn": 213434,
+  "metadata": {
+    "handle": "GALACTIX",
+    "description": "Rhys Woolcott",
+    "countryCode": "GB",
+    "country": "United Kingdom",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ ]
+  }
+}

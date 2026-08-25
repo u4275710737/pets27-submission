@@ -1,0 +1,14 @@
+{
+  "asn": 20560,
+  "metadata": {
+    "handle": "ASN-TANNER",
+    "description": "Iway AG",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

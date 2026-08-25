@@ -1,0 +1,16 @@
+{
+  "asn": 199776,
+  "metadata": {
+    "handle": "NOAHPROJECTS",
+    "description": "Noah Steiniger trading as Noahprojects",
+    "countryCode": "DE",
+    "country": "Germany",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ "2a0e:97c0:bf0::/47", "2a0e:97c0:bf2::/48" ]
+  }
+}

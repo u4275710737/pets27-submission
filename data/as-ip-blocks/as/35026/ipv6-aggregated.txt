@@ -1,0 +1,4 @@
+# AS35026 (GELICON-AS)
+# Gelicon-Apple Limited liability company
+#
+2a03:cf40::/32

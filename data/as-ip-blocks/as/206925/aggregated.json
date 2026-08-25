@@ -1,0 +1,14 @@
+{
+  "asn": 206925,
+  "metadata": {
+    "handle": "CENTRALNIC-WHOIS-A",
+    "description": "CentralNic Ltd",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

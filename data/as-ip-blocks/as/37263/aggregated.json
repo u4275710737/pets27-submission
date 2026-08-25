@@ -1,0 +1,16 @@
+{
+  "asn": 37263,
+  "metadata": {
+    "handle": "UEW-AS",
+    "description": "University of Education Winneba - AS",
+    "countryCode": "GH",
+    "country": "Ghana",
+    "origin": "authoritative",
+    "category": "education_research",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "41.74.80.0/20" ],
+    "ipv6": [ ]
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 58722,
+  "metadata": {
+    "handle": "CINL-58722",
+    "description": "SoundStack Technologies LLC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 59489,
+  "metadata": {
+    "handle": "ABH2",
+    "description": "Anadolu Bilisim Hizmetleri A.S.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

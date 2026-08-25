@@ -1,0 +1,14 @@
+{
+  "asn": 55119,
+  "metadata": {
+    "handle": "DG-ASN1",
+    "description": "Digital Guardian Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

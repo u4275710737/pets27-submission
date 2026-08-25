@@ -1,0 +1,14 @@
+{
+  "asn": 37407,
+  "metadata": {
+    "handle": "LEVANT-NG",
+    "description": "Levant Pro Limited",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

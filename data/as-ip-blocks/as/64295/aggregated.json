@@ -1,0 +1,14 @@
+{
+  "asn": 64295,
+  "metadata": {
+    "handle": "LMU-AS",
+    "description": "Lincoln Memorial University",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

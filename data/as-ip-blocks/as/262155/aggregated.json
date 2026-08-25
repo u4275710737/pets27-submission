@@ -1,0 +1,14 @@
+{
+  "asn": 262155,
+  "metadata": {
+    "handle": "GOLDER-ASSOCIATES",
+    "description": "Golder Associates S.A.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

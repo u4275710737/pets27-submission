@@ -1,0 +1,4 @@
+# AS265497 (ALTAVISTA-TELECOMUNICACOES)
+# AltaVista Telecomunicações LTDA
+#
+2804:350c::/32

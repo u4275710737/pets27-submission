@@ -1,0 +1,5 @@
+# AS56874 (ELECTROSVYAZ-AS)
+# Electrosvyazstroy OOO
+#
+91.228.118.0/24
+185.62.229.0/24

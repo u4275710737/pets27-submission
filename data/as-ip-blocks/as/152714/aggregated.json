@@ -1,0 +1,14 @@
+{
+  "asn": 152714,
+  "metadata": {
+    "handle": "MYNETSYSTEMBD-AS-AP",
+    "description": "My Net System BD",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

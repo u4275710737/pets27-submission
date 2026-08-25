@@ -1,0 +1,14 @@
+{
+  "asn": 19659,
+  "metadata": {
+    "handle": "BUILDERHOMESITE-AS1",
+    "description": "Builder Homesite, Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

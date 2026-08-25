@@ -1,0 +1,16 @@
+{
+  "asn": 207471,
+  "metadata": {
+    "handle": "SOKOLHOSTING",
+    "description": "Sokol Media LTD",
+    "countryCode": "BA",
+    "country": "Bosnia & Herzegovina",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "93.115.60.0/23", "150.40.100.0/24", "185.140.55.0/24" ],
+    "ipv6": [ ]
+  }
+}

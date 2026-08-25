@@ -1,0 +1,14 @@
+{
+  "asn": 36552,
+  "metadata": {
+    "handle": "HBSI-IAD",
+    "description": "Hotel Booking Solutions Incorporated",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

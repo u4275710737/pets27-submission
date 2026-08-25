@@ -1,0 +1,16 @@
+{
+  "asn": 152283,
+  "metadata": {
+    "handle": "KOELSA-AS",
+    "description": "Korea Elevator Safety Agency",
+    "countryCode": "KR",
+    "country": "South Korea",
+    "origin": "authoritative",
+    "category": "government_admin",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "61.76.89.0/24", "61.79.37.0/24" ],
+    "ipv6": [ ]
+  }
+}

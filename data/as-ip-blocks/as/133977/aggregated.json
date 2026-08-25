@@ -1,0 +1,14 @@
+{
+  "asn": 133977,
+  "metadata": {
+    "handle": "INPL-AS-IN",
+    "description": "Ishan Netsol Pvt Ltd",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

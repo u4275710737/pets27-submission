@@ -1,0 +1,14 @@
+{
+  "asn": 150511,
+  "metadata": {
+    "handle": "IDNIC-SJBI-ID",
+    "description": "PT Sinar Jambi Baru Intermedia",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

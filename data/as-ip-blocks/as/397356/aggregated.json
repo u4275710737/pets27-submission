@@ -1,0 +1,14 @@
+{
+  "asn": 397356,
+  "metadata": {
+    "handle": "EARLHAM-COLLEGE",
+    "description": "Earlham College",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

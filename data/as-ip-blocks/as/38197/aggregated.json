@@ -1,0 +1,14 @@
+{
+  "asn": 38197,
+  "metadata": {
+    "handle": "SUNHK-DATA-AP",
+    "description": "Sun Network (Hong Kong) Limited",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

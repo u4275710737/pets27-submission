@@ -1,0 +1,14 @@
+{
+  "asn": 153484,
+  "metadata": {
+    "handle": "IDNIC-SK-INFORMATIKA-AS-ID",
+    "description": "Indonesia Network Information Center",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

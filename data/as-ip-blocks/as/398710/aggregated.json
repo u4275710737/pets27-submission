@@ -1,0 +1,14 @@
+{
+  "asn": 398710,
+  "metadata": {
+    "handle": "SHELLS",
+    "description": "E SHELLS INC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

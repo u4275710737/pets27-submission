@@ -1,0 +1,14 @@
+{
+  "asn": 213714,
+  "metadata": {
+    "handle": "UPLAYER",
+    "description": "Mert Dikmen",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

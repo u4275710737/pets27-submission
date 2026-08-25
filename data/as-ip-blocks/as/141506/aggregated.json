@@ -1,0 +1,14 @@
+{
+  "asn": 141506,
+  "metadata": {
+    "handle": "METINET-IN",
+    "description": "Meticulous Networks Private Limited",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 215387,
+  "metadata": {
+    "handle": "A2ES-AS",
+    "description": "Adrian Fretwell",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

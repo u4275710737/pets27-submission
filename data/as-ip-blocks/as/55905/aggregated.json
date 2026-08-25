@@ -1,0 +1,16 @@
+{
+  "asn": 55905,
+  "metadata": {
+    "handle": "COMZNET2",
+    "description": "TOP CLOUD Inc.",
+    "countryCode": "JP",
+    "country": "Japan",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ ]
+  }
+}

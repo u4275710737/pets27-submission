@@ -1,0 +1,14 @@
+{
+  "asn": 207918,
+  "metadata": {
+    "handle": "OS",
+    "description": "Marcel Edler trading as Optimate-Server",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,4 @@
+# AS271416 (CUIABA-TELECOM)
+# Cuiabá Telecom
+#
+181.189.40.0/22

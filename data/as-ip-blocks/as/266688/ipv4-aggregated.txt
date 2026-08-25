@@ -1,0 +1,4 @@
+# AS266688 (CG-INVESTMENT-SOCIEDAD-ANONIMA)
+# CG Investment Sociedad Anonima
+#
+45.229.128.0/22

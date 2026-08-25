@@ -1,0 +1,16 @@
+{
+  "asn": 209034,
+  "metadata": {
+    "handle": "HAPPYWARE",
+    "description": "Happyware Server Europe GmbH",
+    "countryCode": "DE",
+    "country": "Germany",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ "2a0d:2146:8770::/48" ]
+  }
+}

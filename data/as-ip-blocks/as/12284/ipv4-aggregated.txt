@@ -1,0 +1,5 @@
+# AS12284 (IPNS-AS)
+# Computer Solutions / CSolutions
+#
+208.110.128.0/19
+216.162.202.0/23

@@ -1,0 +1,14 @@
+{
+  "asn": 215615,
+  "metadata": {
+    "handle": "DAVID-SVANLUND",
+    "description": "David Svanlund",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

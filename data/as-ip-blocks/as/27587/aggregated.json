@@ -1,0 +1,14 @@
+{
+  "asn": 27587,
+  "metadata": {
+    "handle": "HEALTHTRONICS-01",
+    "description": "HealthTronics",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

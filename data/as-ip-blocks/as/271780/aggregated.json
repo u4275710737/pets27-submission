@@ -1,0 +1,14 @@
+{
+  "asn": 271780,
+  "metadata": {
+    "handle": "RADIO-TELEVISION-NACIONAL",
+    "description": "RADIO TELEVISI\u00d3N NACIONAL DE COLOMBIA RTVC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

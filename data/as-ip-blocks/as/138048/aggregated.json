@@ -1,0 +1,14 @@
+{
+  "asn": 138048,
+  "metadata": {
+    "handle": "IDNIC-ID",
+    "description": "Indonesia Network Information Cente",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 202926,
+  "metadata": {
+    "handle": "SAP-DC-AMS",
+    "description": "SAP SE",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

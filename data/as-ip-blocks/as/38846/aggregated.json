@@ -1,0 +1,14 @@
+{
+  "asn": 38846,
+  "metadata": {
+    "handle": "WOLF-NET",
+    "description": "Wolf Feather Culture Information Co., Ltd.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

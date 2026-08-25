@@ -1,0 +1,16 @@
+{
+  "asn": 18180,
+  "metadata": {
+    "handle": "TWNIC-AS",
+    "description": "Taiwan Network Information Center",
+    "countryCode": "TW",
+    "country": "Taiwan",
+    "origin": "authoritative",
+    "category": "government_admin",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "221.128.128.0/22", "221.128.195.0/24", "221.128.236.0/23", "221.128.240.0/22", "221.128.248.0/21" ],
+    "ipv6": [ ]
+  }
+}

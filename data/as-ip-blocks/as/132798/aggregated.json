@@ -1,0 +1,14 @@
+{
+  "asn": 132798,
+  "metadata": {
+    "handle": "CLOUDITPTYLTD-AP",
+    "description": "Cloud IT Pty Ltd",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

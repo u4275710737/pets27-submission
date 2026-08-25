@@ -1,0 +1,14 @@
+{
+  "asn": 51963,
+  "metadata": {
+    "handle": "YNICOM-NET",
+    "description": "Evseev Alexandr Alexandrovich",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 141381,
+  "metadata": {
+    "handle": "NPLTN-AP",
+    "description": "Nexware",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

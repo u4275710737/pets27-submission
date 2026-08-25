@@ -1,0 +1,14 @@
+{
+  "asn": 33701,
+  "metadata": {
+    "handle": "HT-OLD-NEXUS",
+    "description": "Uniti Fiber Holdings Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

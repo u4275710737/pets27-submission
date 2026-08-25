@@ -1,0 +1,14 @@
+{
+  "asn": 205853,
+  "metadata": {
+    "handle": "VS",
+    "description": "virtual solution srl",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

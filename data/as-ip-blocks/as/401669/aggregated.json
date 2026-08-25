@@ -1,0 +1,16 @@
+{
+  "asn": 401669,
+  "metadata": {
+    "handle": "CLOUDCENTRX",
+    "description": "cloudCENTRX",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "38.72.123.0/24", "38.190.128.0/22" ],
+    "ipv6": [ ]
+  }
+}

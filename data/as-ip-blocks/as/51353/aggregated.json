@@ -1,0 +1,16 @@
+{
+  "asn": 51353,
+  "metadata": {
+    "handle": "INTRINO-AS",
+    "description": "Toya sp.z.o.o",
+    "countryCode": "PL",
+    "country": "Poland",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ ]
+  }
+}

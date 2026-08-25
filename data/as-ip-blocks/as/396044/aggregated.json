@@ -1,0 +1,14 @@
+{
+  "asn": 396044,
+  "metadata": {
+    "handle": "SAP-NS2-CORP",
+    "description": "SAPNS2",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

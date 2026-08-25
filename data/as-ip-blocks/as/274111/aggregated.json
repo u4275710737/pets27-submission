@@ -1,0 +1,16 @@
+{
+  "asn": 274111,
+  "metadata": {
+    "handle": "SERVICIOS-INFORMATICOS-ALEJANDRO",
+    "description": "INFRONET MAULE SPA",
+    "countryCode": "CL",
+    "country": "Chile",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "38.225.196.0/24" ],
+    "ipv6": [ ]
+  }
+}

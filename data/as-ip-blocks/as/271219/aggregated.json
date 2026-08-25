@@ -1,0 +1,16 @@
+{
+  "asn": 271219,
+  "metadata": {
+    "handle": "T-T-CONNECT-TELECOMUNICACOES",
+    "description": "T & T connect Telecomunicações",
+    "countryCode": "BR",
+    "country": "Brazil",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ ]
+  }
+}

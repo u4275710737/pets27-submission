@@ -1,0 +1,16 @@
+{
+  "asn": 201604,
+  "metadata": {
+    "handle": "DIGITALRIVER-SE-ASN01",
+    "description": "Worldline Sweden AB",
+    "countryCode": "SE",
+    "country": "Sweden",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ ]
+  }
+}

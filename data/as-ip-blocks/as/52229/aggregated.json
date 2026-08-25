@@ -1,0 +1,14 @@
+{
+  "asn": 52229,
+  "metadata": {
+    "handle": "TELECEL-SA",
+    "description": "Telecel S.A.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

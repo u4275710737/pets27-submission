@@ -1,0 +1,14 @@
+{
+  "asn": 47224,
+  "metadata": {
+    "handle": "NOVERCA",
+    "description": "Telecom Italia S.p.A.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

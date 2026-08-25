@@ -1,0 +1,14 @@
+{
+  "asn": 39126,
+  "metadata": {
+    "handle": "LNKSYSTEMS",
+    "description": "LNK SYSTEMS MUNTENIA SRL",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

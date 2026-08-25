@@ -1,0 +1,14 @@
+{
+  "asn": 197633,
+  "metadata": {
+    "handle": "METRONET",
+    "description": "Superonline Iletisim Hizmetleri A.S.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

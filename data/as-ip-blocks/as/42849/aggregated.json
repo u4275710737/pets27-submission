@@ -1,0 +1,14 @@
+{
+  "asn": 42849,
+  "metadata": {
+    "handle": "DATALAT",
+    "description": "SIA BITE Latvija",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

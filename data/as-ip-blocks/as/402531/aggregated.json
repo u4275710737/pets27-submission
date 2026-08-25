@@ -1,0 +1,16 @@
+{
+  "asn": 402531,
+  "metadata": {
+    "handle": "SMC-915",
+    "description": "UNIVERSAL HEALTH SERVICES",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "12.133.171.0/24" ],
+    "ipv6": [ ]
+  }
+}

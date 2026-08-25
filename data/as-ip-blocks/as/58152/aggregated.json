@@ -1,0 +1,14 @@
+{
+  "asn": 58152,
+  "metadata": {
+    "handle": "MAROONHOST",
+    "description": "Woshka Niknam",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

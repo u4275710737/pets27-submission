@@ -1,0 +1,14 @@
+{
+  "asn": 210351,
+  "metadata": {
+    "handle": "BAIONITY",
+    "description": "BAIONITY GmbH",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

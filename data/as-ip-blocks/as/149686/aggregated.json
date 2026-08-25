@@ -1,0 +1,14 @@
+{
+  "asn": 149686,
+  "metadata": {
+    "handle": "IDNIC-SMK-ADISANGGORO-ID",
+    "description": "SMK Adi Sanggoro",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

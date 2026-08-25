@@ -1,0 +1,14 @@
+{
+  "asn": 263249,
+  "metadata": {
+    "handle": "MASTER-BASE-SA",
+    "description": "Master Base SA",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

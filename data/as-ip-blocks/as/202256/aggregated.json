@@ -1,0 +1,16 @@
+{
+  "asn": 202256,
+  "metadata": {
+    "handle": "LAWLIETNET",
+    "description": "Dongyu Zhang",
+    "countryCode": "CN",
+    "country": "China",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ "2a06:de02:40f::/48", "2a06:de02:41f::/48", "2a06:de02:47c::/48", "2a06:de02:4b7::/48", "2a06:de02:4cb::/48", "2a06:de02:4e5::/48", "2a06:de02:50c::/48", "2a06:de02:540::/48", "2a06:de02:54b::/48", "2a06:de02:55a::/48", "2a06:de02:584::/48", "2a06:de02:594::/48", "2a06:de02:5a6::/48", "2a06:de02:5c7::/48", "2a06:de02:600::/48", "2a06:de02:66e::/48", "2a06:de02:712::/48", "2a06:de02:73b::/48", "2a06:de02:78b::/48", "2a06:de02:7b8::/48", "2a06:de02:7eb::/48" ]
+  }
+}

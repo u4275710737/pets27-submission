@@ -1,0 +1,14 @@
+{
+  "asn": 22673,
+  "metadata": {
+    "handle": "TURBINE",
+    "description": "Turbine Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

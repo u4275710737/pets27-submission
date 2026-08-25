@@ -1,0 +1,14 @@
+{
+  "asn": 213266,
+  "metadata": {
+    "handle": "SIGNA-AT",
+    "description": "SIGNA Informationstechnologie GmbH",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

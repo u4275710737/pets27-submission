@@ -1,0 +1,16 @@
+{
+  "asn": 16642,
+  "metadata": {
+    "handle": "OGILVY-MATHER-EU",
+    "description": "AS for Ogilvy & Mather Europe",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "199.229.40.0/23" ],
+    "ipv6": [ ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "asn": 55185,
+  "metadata": {
+    "handle": "GWLT-ORL01",
+    "description": "Gainwell Technologies LLC",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "192.56.1.0/24", "192.85.127.0/24", "192.85.128.0/24", "192.85.189.0/24", "204.105.65.0/24" ],
+    "ipv6": [ ]
+  }
+}

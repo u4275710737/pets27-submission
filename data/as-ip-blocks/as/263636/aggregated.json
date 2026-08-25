@@ -1,0 +1,16 @@
+{
+  "asn": 263636,
+  "metadata": {
+    "handle": "CALLNET-TELECOM",
+    "description": "CALLNET TELECOM",
+    "countryCode": "BR",
+    "country": "Brazil",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "177.200.112.0/20" ],
+    "ipv6": [ ]
+  }
+}

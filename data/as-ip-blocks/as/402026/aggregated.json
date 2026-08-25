@@ -1,0 +1,16 @@
+{
+  "asn": 402026,
+  "metadata": {
+    "handle": "ASI-BROADBAND",
+    "description": "ASI North America Inc.",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "23.156.20.0/24" ],
+    "ipv6": [ "2602:f549:151::/48" ]
+  }
+}

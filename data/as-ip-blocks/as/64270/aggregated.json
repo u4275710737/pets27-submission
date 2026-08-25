@@ -1,0 +1,14 @@
+{
+  "asn": 64270,
+  "metadata": {
+    "handle": "PACIFICRACK",
+    "description": "QuadraNet Enterprises LLC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

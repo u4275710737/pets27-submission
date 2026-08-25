@@ -1,0 +1,16 @@
+{
+  "asn": 37327,
+  "metadata": {
+    "handle": "NIC-MG-NET",
+    "description": "NIC MG AS Number",
+    "countryCode": "MG",
+    "country": "Madagascar",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "196.43.214.0/24" ],
+    "ipv6": [ ]
+  }
+}

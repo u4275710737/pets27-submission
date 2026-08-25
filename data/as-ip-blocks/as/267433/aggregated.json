@@ -1,0 +1,16 @@
+{
+  "asn": 267433,
+  "metadata": {
+    "handle": "KNET-INTERNET",
+    "description": "Knet Internet",
+    "countryCode": "BR",
+    "country": "Brazil",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "164.163.64.0/22" ],
+    "ipv6": [ "2804:4170::/39" ]
+  }
+}

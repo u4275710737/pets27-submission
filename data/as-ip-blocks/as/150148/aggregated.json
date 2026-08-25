@@ -1,0 +1,14 @@
+{
+  "asn": 150148,
+  "metadata": {
+    "handle": "AWN-RSU-AP",
+    "description": "Rangsit University",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

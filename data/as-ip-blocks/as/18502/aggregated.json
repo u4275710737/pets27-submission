@@ -1,0 +1,14 @@
+{
+  "asn": 18502,
+  "metadata": {
+    "handle": "TELEVERGENCE-NYC1",
+    "description": "Televergence Solutions Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

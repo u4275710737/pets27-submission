@@ -1,0 +1,16 @@
+{
+  "asn": 16190,
+  "metadata": {
+    "handle": "AS16190",
+    "description": "LIR LLC",
+    "countryCode": "AM",
+    "country": "Armenia",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "access_provider"
+  },
+  "prefixes": {
+    "ipv4": [ "217.113.0.0/21" ],
+    "ipv6": [ ]
+  }
+}

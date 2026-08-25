@@ -1,0 +1,14 @@
+{
+  "asn": 215151,
+  "metadata": {
+    "handle": "WIKIHOST-NET",
+    "description": "WIKIHOST Limited",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

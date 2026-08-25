@@ -1,0 +1,16 @@
+{
+  "asn": 18685,
+  "metadata": {
+    "handle": "PLANNET-OC-01",
+    "description": "PlanNet LLC",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "208.69.150.0/24" ],
+    "ipv6": [ "2620:df:e000::/48" ]
+  }
+}

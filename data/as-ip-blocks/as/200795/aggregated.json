@@ -1,0 +1,16 @@
+{
+  "asn": 200795,
+  "metadata": {
+    "handle": "HELCON",
+    "description": "HellsingeControl AB",
+    "countryCode": "SE",
+    "country": "Sweden",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "195.149.123.0/24" ],
+    "ipv6": [ "2001:67c:d2c::/48", "2001:67c:d9c::/48", "2001:67c:dc4::/48" ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "asn": 146895,
+  "metadata": {
+    "handle": "AS-WSI",
+    "description": "WORLDSHORE INFOCOM PVT LTD",
+    "countryCode": "IN",
+    "country": "India",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "103.173.44.0/24" ],
+    "ipv6": [ ]
+  }
+}

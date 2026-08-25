@@ -1,0 +1,14 @@
+{
+  "asn": 32807,
+  "metadata": {
+    "handle": "INTERFACE-INC",
+    "description": "INTERFACE INCORPORATED",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

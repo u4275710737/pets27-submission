@@ -1,0 +1,14 @@
+{
+  "asn": 135678,
+  "metadata": {
+    "handle": "AIRNET-IN",
+    "description": "Airnet Broadband",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

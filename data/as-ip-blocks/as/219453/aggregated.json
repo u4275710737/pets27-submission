@@ -1,0 +1,16 @@
+{
+  "asn": 219453,
+  "metadata": {
+    "handle": "PVAMERONGEN",
+    "description": "Petrus van Amerongen",
+    "countryCode": "NL",
+    "country": "Netherlands",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ "2a0e:97c0:d00::/44" ]
+  }
+}

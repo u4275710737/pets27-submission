@@ -1,0 +1,14 @@
+{
+  "asn": 214713,
+  "metadata": {
+    "handle": "AURORC",
+    "description": "AURORC NETWORKS LTD",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

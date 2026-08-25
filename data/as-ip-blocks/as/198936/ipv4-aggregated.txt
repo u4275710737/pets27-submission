@@ -1,0 +1,4 @@
+# AS198936 (TIETOTUNKKI-OY)
+# Tietotunkki oy
+#
+91.105.248.0/21

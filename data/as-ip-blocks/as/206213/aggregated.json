@@ -1,0 +1,16 @@
+{
+  "asn": 206213,
+  "metadata": {
+    "handle": "ASZHUCKOV",
+    "description": "Zhuchkov Mikhail",
+    "countryCode": "RU",
+    "country": "Russia",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "185.43.144.0/24" ],
+    "ipv6": [ ]
+  }
+}

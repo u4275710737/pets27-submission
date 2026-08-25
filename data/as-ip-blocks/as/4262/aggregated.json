@@ -1,0 +1,14 @@
+{
+  "asn": 4262,
+  "metadata": {
+    "handle": "CERNET-ASN-BLOCK",
+    "description": "California Education and Research Federation Network",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

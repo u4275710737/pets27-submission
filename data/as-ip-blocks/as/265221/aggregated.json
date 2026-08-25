@@ -1,0 +1,16 @@
+{
+  "asn": 265221,
+  "metadata": {
+    "handle": "INFINITNET-COMUNICACAO-MULTIMIDIA",
+    "description": "Infinitnet Comunicacao Multimidia Ltda",
+    "countryCode": "BR",
+    "country": "Brazil",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "168.0.28.0/22" ],
+    "ipv6": [ "2804:2c78::/32" ]
+  }
+}

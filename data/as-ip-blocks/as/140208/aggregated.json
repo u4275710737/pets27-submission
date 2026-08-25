@@ -1,0 +1,14 @@
+{
+  "asn": 140208,
+  "metadata": {
+    "handle": "OBHOST-AP",
+    "description": "OBHost",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

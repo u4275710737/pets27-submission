@@ -1,0 +1,14 @@
+{
+  "asn": 28912,
+  "metadata": {
+    "handle": "OLMA",
+    "description": "AO Investment Firm Olma",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "asn": 61500,
+  "metadata": {
+    "handle": "PARKNET",
+    "description": "ParkNet SRL",
+    "countryCode": "AR",
+    "country": "Argentina",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "access_provider"
+  },
+  "prefixes": {
+    "ipv4": [ "138.121.80.0/22" ],
+    "ipv6": [ ]
+  }
+}

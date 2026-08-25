@@ -1,0 +1,16 @@
+{
+  "asn": 209866,
+  "metadata": {
+    "handle": "VORT",
+    "description": "Piotr Macha",
+    "countryCode": "PL",
+    "country": "Poland",
+    "origin": "authoritative",
+    "category": "education_research",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "5.231.240.0/24" ],
+    "ipv6": [ ]
+  }
+}

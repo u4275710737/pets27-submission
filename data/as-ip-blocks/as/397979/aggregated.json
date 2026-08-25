@@ -1,0 +1,16 @@
+{
+  "asn": 397979,
+  "metadata": {
+    "handle": "AIRMAX-INTERNET",
+    "description": "Airmax Internet LLC",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "178.83.137.0/24" ],
+    "ipv6": [ ]
+  }
+}

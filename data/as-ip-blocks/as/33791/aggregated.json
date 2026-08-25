@@ -1,0 +1,14 @@
+{
+  "asn": 33791,
+  "metadata": {
+    "handle": "TIX",
+    "description": "TISPA - Tanzania Internet Service Providers Association",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

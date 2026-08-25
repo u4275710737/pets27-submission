@@ -1,0 +1,7 @@
+# AS36858 (NMSTN)
+# Office of Broadband Access and Expansion
+#
+23.172.184.0/24
+192.188.135.0/24
+192.188.137.0/24
+192.188.142.0/24

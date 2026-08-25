@@ -1,0 +1,16 @@
+{
+  "asn": 213293,
+  "metadata": {
+    "handle": "ARIF-AS-ID",
+    "description": "Arif Setiawan",
+    "countryCode": "ID",
+    "country": "Indonesia",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ "2a14:7580:e700::/41" ]
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 59023,
+  "metadata": {
+    "handle": "FOREST-ETERNAL",
+    "description": "Forest Eternal Communication Tech. co.ltd",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

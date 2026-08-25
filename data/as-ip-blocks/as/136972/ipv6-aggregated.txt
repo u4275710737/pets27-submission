@@ -1,0 +1,4 @@
+# AS136972 (GIGAFY-AS-AP)
+# Gigafy
+#
+2401:c3c0::/32

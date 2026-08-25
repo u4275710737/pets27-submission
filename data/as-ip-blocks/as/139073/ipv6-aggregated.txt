@@ -1,0 +1,4 @@
+# AS139073 (FSIX-AS-AP)
+# Fantasy Sky Internet eXchange
+#
+2402:e380:100::/40

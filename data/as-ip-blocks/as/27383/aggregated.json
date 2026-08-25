@@ -1,0 +1,14 @@
+{
+  "asn": 27383,
+  "metadata": {
+    "handle": "VERADIGM-LLC",
+    "description": "Veradigm Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

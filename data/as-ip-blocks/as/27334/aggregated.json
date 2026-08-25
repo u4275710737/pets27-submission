@@ -1,0 +1,14 @@
+{
+  "asn": 27334,
+  "metadata": {
+    "handle": "TELEPAK-NETWORKS",
+    "description": "C Spire Fiber",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

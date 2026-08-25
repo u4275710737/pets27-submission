@@ -1,0 +1,14 @@
+{
+  "asn": 26312,
+  "metadata": {
+    "handle": "AXIA-TECHNOLOGY-PARTNERS-LLC",
+    "description": "Axia Technology Partners, LLC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

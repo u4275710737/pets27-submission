@@ -1,0 +1,14 @@
+{
+  "asn": 12530,
+  "metadata": {
+    "handle": "GOLDENTELECOM-UKRAINE",
+    "description": "Kyivstar PJSC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

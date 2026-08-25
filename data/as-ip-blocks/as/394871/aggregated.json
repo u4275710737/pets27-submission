@@ -1,0 +1,14 @@
+{
+  "asn": 394871,
+  "metadata": {
+    "handle": "TELI",
+    "description": "teli Communications, LLC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 59197,
+  "metadata": {
+    "handle": "BRBNMPL",
+    "description": "Bharatiya Reserve Bank Note Mudran Pvt. Ltd.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

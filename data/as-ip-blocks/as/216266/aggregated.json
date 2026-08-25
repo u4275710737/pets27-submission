@@ -1,0 +1,14 @@
+{
+  "asn": 216266,
+  "metadata": {
+    "handle": "HCSRA-SET",
+    "description": "Hachshara Insurance Company LTD",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

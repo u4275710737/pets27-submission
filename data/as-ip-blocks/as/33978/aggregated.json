@@ -1,0 +1,14 @@
+{
+  "asn": 33978,
+  "metadata": {
+    "handle": "YAPIC",
+    "description": "Collective Production Enterprise Yapic.Net",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

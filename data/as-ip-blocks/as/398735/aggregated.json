@@ -1,0 +1,16 @@
+{
+  "asn": 398735,
+  "metadata": {
+    "handle": "NORTH-TELECOM",
+    "description": "North Telecom",
+    "countryCode": "CA",
+    "country": "Canada",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "206.66.96.0/21" ],
+    "ipv6": [ ]
+  }
+}

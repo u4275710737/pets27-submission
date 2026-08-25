@@ -1,0 +1,14 @@
+{
+  "asn": 62109,
+  "metadata": {
+    "handle": "ILYAZ-GMBH",
+    "description": "ILYAZ GmbH",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

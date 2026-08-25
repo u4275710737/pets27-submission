@@ -1,0 +1,14 @@
+{
+  "asn": 22625,
+  "metadata": {
+    "handle": "IMDC",
+    "description": "Iron Mountain Data Center",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

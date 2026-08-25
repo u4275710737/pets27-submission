@@ -1,0 +1,14 @@
+{
+  "asn": 11810,
+  "metadata": {
+    "handle": "AWEBER-SYSTEMS",
+    "description": "AWeber Systems, Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 393324,
+  "metadata": {
+    "handle": "COMPTIA-1",
+    "description": "CompTIA, Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

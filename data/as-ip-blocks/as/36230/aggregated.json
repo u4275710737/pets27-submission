@@ -1,0 +1,14 @@
+{
+  "asn": 36230,
+  "metadata": {
+    "handle": "ALERTLOGIC",
+    "description": "Alert Logic, Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

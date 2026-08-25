@@ -1,0 +1,16 @@
+{
+  "asn": 137566,
+  "metadata": {
+    "handle": "DATAZONE-AS-AP",
+    "description": "Data Zone Company Limited",
+    "countryCode": "TH",
+    "country": "Thailand",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "103.113.176.0/22" ],
+    "ipv6": [ "2402:cec0::/32" ]
+  }
+}

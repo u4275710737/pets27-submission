@@ -1,0 +1,16 @@
+{
+  "asn": 215825,
+  "metadata": {
+    "handle": "ALTERA-NETWORK",
+    "description": "Baptiste A. Ferrando",
+    "countryCode": "CH",
+    "country": "Switzerland",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "82.115.209.0/24" ],
+    "ipv6": [ ]
+  }
+}

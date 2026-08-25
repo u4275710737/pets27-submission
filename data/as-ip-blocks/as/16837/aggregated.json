@@ -1,0 +1,16 @@
+{
+  "asn": 16837,
+  "metadata": {
+    "handle": "VABB",
+    "description": "Virginia Broadband LLC",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ ]
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 3901,
+  "metadata": {
+    "handle": "ARRAKIS",
+    "description": "M & A Properties, LLC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

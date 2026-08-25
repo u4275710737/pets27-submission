@@ -1,0 +1,16 @@
+{
+  "asn": 265745,
+  "metadata": {
+    "handle": "AS265745-SPLANG",
+    "description": "Societe pour L'Amenagement Numerique de la Guyane",
+    "countryCode": "GF",
+    "country": "French Guiana",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "128.201.88.0/22" ],
+    "ipv6": [ ]
+  }
+}

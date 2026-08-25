@@ -1,0 +1,16 @@
+{
+  "asn": 397665,
+  "metadata": {
+    "handle": "AASKI-ASN1",
+    "description": "MAG Aerospace",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ ]
+  }
+}

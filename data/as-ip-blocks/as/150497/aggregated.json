@@ -1,0 +1,14 @@
+{
+  "asn": 150497,
+  "metadata": {
+    "handle": "IDNIC-KHARISMANET-ID",
+    "description": "PT Media Kharisma Nusantara",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

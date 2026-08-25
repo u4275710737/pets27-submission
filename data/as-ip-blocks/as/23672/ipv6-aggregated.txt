@@ -1,0 +1,4 @@
+# AS23672 (IBSYS-AS-AP)
+# IBSS Nepal
+#
+2402:3020::/32

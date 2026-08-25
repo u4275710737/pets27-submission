@@ -1,0 +1,14 @@
+{
+  "asn": 19495,
+  "metadata": {
+    "handle": "SBCASI-AKRON-OH-COVLIL",
+    "description": "Wireless Maritime Services, LLC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

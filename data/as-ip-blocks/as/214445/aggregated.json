@@ -1,0 +1,16 @@
+{
+  "asn": 214445,
+  "metadata": {
+    "handle": "N-RESEARCH",
+    "description": "The North Atlantic Treaty Organization",
+    "countryCode": "BE",
+    "country": "Belgium",
+    "origin": "authoritative",
+    "category": "education_research",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "152.152.0.0/16" ],
+    "ipv6": [ ]
+  }
+}

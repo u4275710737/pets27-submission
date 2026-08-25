@@ -1,0 +1,14 @@
+{
+  "asn": 396887,
+  "metadata": {
+    "handle": "ALLIED-GLOBAL-MARKETING-EAST",
+    "description": "AALP, INC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

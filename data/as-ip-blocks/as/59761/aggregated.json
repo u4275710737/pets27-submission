@@ -1,0 +1,14 @@
+{
+  "asn": 59761,
+  "metadata": {
+    "handle": "EIGHTROUTE",
+    "description": "8route SRL",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

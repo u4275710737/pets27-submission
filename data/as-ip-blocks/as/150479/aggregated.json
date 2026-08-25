@@ -1,0 +1,14 @@
+{
+  "asn": 150479,
+  "metadata": {
+    "handle": "SOLNET-ID",
+    "description": "PT Solnet Indonesia",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

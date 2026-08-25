@@ -1,0 +1,16 @@
+{
+  "asn": 393288,
+  "metadata": {
+    "handle": "ZULUINTERNET1",
+    "description": "Zulu Internet Inc.",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "23.236.80.0/20" ],
+    "ipv6": [ ]
+  }
+}

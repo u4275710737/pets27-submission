@@ -1,0 +1,4 @@
+# AS210255 (SATE)
+# Strong Blue Conseil & Telecom SASU
+#
+193.22.224.0/24

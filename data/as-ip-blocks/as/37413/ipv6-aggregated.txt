@@ -1,0 +1,3 @@
+# AS37413 (HYMAX)
+# AfricaINX created aut-num for AS37413
+#

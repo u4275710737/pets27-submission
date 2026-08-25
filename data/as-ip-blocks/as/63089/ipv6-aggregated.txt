@@ -1,0 +1,4 @@
+# AS63089 (SST)
+# Salina Spavinaw Telephone Company Inc
+#
+2604:2de0::/32

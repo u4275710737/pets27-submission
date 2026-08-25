@@ -1,0 +1,14 @@
+{
+  "asn": 199827,
+  "metadata": {
+    "handle": "KOMTEL",
+    "description": "GYN DNR KOMTEL",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "asn": 197884,
+  "metadata": {
+    "handle": "ADIOS",
+    "description": "Adios Global LLC",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "206.206.80.0/24" ],
+    "ipv6": [ ]
+  }
+}

@@ -1,0 +1,4 @@
+# AS151823 (CT-CENTRALSOUTH-CHINA-IIP)
+# China Telecom
+#
+175.12.0.0/17

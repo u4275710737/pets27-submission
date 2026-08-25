@@ -1,0 +1,14 @@
+{
+  "asn": 141619,
+  "metadata": {
+    "handle": "IDNIC-TVRI-ID",
+    "description": "Lembaga Penyiaran Publik TVRI",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

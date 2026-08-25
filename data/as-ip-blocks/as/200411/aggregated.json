@@ -1,0 +1,14 @@
+{
+  "asn": 200411,
+  "metadata": {
+    "handle": "OT-PULSATION-2",
+    "description": "Oceanet Technology SAS",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

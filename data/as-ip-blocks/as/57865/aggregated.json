@@ -1,0 +1,14 @@
+{
+  "asn": 57865,
+  "metadata": {
+    "handle": "KRD",
+    "description": "JSC Ufanet",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

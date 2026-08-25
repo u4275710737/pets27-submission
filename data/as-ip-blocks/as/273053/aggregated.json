@@ -1,0 +1,16 @@
+{
+  "asn": 273053,
+  "metadata": {
+    "handle": "WIRELESS-COMMUNICATIONS",
+    "description": "WIRELESS COMMUNICATIONS S.A.C.",
+    "countryCode": "PE",
+    "country": "Peru",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ "2803:fb90::/32" ]
+  }
+}

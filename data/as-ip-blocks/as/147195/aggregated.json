@@ -1,0 +1,16 @@
+{
+  "asn": 147195,
+  "metadata": {
+    "handle": "VAIDIK-AS-IN",
+    "description": "VAIDIK NETSOL OPC PVT LTD",
+    "countryCode": "IN",
+    "country": "India",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "access_provider"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ ]
+  }
+}

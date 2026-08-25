@@ -1,0 +1,4 @@
+# AS134585 (DDNCOMMUNICATION-AS-AP)
+# DDN Communication
+#
+138.252.30.0/24

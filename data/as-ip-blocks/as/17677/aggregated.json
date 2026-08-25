@@ -1,0 +1,14 @@
+{
+  "asn": 17677,
+  "metadata": {
+    "handle": "MIINET",
+    "description": "ARTERIA Networks Corporation",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

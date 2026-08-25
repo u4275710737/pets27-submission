@@ -1,0 +1,14 @@
+{
+  "asn": 400600,
+  "metadata": {
+    "handle": "ISIT-ISP",
+    "description": "ISIT Group",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

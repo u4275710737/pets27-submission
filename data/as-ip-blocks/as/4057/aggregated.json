@@ -1,0 +1,16 @@
+{
+  "asn": 4057,
+  "metadata": {
+    "handle": "DCS-ASN",
+    "description": "Paysafe Merchant Services Inc",
+    "countryCode": "CA",
+    "country": "Canada",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "12.131.147.0/24", "170.76.193.0/24" ],
+    "ipv6": [ ]
+  }
+}

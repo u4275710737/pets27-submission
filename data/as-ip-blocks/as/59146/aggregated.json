@@ -1,0 +1,14 @@
+{
+  "asn": 59146,
+  "metadata": {
+    "handle": "IDNIC-BPB-ID",
+    "description": "BP Berau Indonesia",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

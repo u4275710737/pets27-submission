@@ -1,0 +1,4 @@
+# AS42236 (DTUSCIENCEPARK)
+# DTU Science Park a/s
+#
+2a05:f700:fffe::/48

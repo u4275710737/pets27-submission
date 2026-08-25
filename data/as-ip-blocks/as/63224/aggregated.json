@@ -1,0 +1,14 @@
+{
+  "asn": 63224,
+  "metadata": {
+    "handle": "MARKWEST-ENERGY",
+    "description": "MarkWest Energy Partners LP",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

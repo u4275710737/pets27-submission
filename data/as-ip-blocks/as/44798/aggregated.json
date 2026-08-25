@@ -1,0 +1,14 @@
+{
+  "asn": 44798,
+  "metadata": {
+    "handle": "PERVOMAYSK",
+    "description": "PP SKS-Pervomaysk",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

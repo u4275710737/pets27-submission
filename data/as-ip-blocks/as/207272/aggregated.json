@@ -1,0 +1,16 @@
+{
+  "asn": 207272,
+  "metadata": {
+    "handle": "VOJTECH-LINHART-DEPARTMENT-OF-TELECOM",
+    "description": "Vojtech Linhart",
+    "countryCode": "CZ",
+    "country": "Czechia",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ "2a0f:85c1:ce2::/48", "2a0f:b240:d::/48" ]
+  }
+}

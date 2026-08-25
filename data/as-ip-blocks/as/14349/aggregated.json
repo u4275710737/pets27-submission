@@ -1,0 +1,14 @@
+{
+  "asn": 14349,
+  "metadata": {
+    "handle": "EVERGY-METRO-ASN-1",
+    "description": "Evergy Services Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

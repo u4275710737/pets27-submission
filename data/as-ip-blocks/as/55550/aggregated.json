@@ -1,0 +1,14 @@
+{
+  "asn": 55550,
+  "metadata": {
+    "handle": "APCL-AP",
+    "description": "Asia Pacific Communication Limited",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

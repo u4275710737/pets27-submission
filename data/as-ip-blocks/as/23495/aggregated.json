@@ -1,0 +1,14 @@
+{
+  "asn": 23495,
+  "metadata": {
+    "handle": "HEWLETT-PACKARD-MEXICO",
+    "description": "Hewlett-Packard Mexico, S. de R.L. de C.V.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

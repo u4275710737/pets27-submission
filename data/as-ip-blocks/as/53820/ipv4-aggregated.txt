@@ -1,0 +1,5 @@
+# AS53820 (CSUR)
+# Coop de solidarite du Suroit-CSUR
+#
+74.114.16.0/21
+165.140.172.0/22

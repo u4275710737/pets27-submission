@@ -1,0 +1,14 @@
+{
+  "asn": 26771,
+  "metadata": {
+    "handle": "WANTEL-C1-1",
+    "description": "Comspan Communications Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 213829,
+  "metadata": {
+    "handle": "SOYUZSNAB-AS",
+    "description": "SOYUZSNAB JSC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

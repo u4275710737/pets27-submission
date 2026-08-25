@@ -1,0 +1,14 @@
+{
+  "asn": 11041,
+  "metadata": {
+    "handle": "ATLANTIC-NET-2",
+    "description": "Atlantic.net, Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

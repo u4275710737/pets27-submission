@@ -1,0 +1,14 @@
+{
+  "asn": 136845,
+  "metadata": {
+    "handle": "IDNIC-PTAMI-ID",
+    "description": "PT Apik Media Inovasi",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

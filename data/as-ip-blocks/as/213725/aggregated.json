@@ -1,0 +1,16 @@
+{
+  "asn": 213725,
+  "metadata": {
+    "handle": "UK-03AI",
+    "description": "03AI LTD",
+    "countryCode": "GB",
+    "country": "United Kingdom",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ ]
+  }
+}

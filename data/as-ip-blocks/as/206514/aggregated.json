@@ -1,0 +1,14 @@
+{
+  "asn": 206514,
+  "metadata": {
+    "handle": "FREEMESH-IE",
+    "description": "Freemesh",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

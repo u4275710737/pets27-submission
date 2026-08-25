@@ -1,0 +1,4 @@
+# AS215910 (EDMA-NET)
+# Edma Net SHPK
+#
+45.90.80.0/24

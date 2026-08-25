@@ -1,0 +1,14 @@
+{
+  "asn": 60812,
+  "metadata": {
+    "handle": "IXP-1-IX-UA",
+    "description": "1-IX LLC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

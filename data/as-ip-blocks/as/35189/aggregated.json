@@ -1,0 +1,14 @@
+{
+  "asn": 35189,
+  "metadata": {
+    "handle": "DIPM-ANTEOR",
+    "description": "Xavier Beaudouin",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

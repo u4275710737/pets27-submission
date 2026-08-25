@@ -1,0 +1,4 @@
+# AS9340 (INDONET-AS-AP)
+# INDO Internet PT
+#
+2404:170::/32

@@ -1,0 +1,4 @@
+# AS138888 (IDNIC-FAAZ-AS-ID)
+# PT Faaz Awan Digital
+#
+2001:df4:bec0::/48

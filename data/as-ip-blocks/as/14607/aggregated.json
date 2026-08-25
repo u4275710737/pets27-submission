@@ -1,0 +1,14 @@
+{
+  "asn": 14607,
+  "metadata": {
+    "handle": "OTA",
+    "description": "OTA Management LLC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

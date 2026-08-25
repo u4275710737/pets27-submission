@@ -1,0 +1,16 @@
+{
+  "asn": 273793,
+  "metadata": {
+    "handle": "INFOPOINT-TELECOM",
+    "description": "INFOPOINT TELECOM LTDA",
+    "countryCode": "BR",
+    "country": "Brazil",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "access_provider"
+  },
+  "prefixes": {
+    "ipv4": [ "131.72.144.0/23" ],
+    "ipv6": [ "2804:8c48::/32" ]
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 49962,
+  "metadata": {
+    "handle": "UK-SUREFIBRE",
+    "description": "SUREFIBRE LIMITED",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

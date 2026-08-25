@@ -1,0 +1,14 @@
+{
+  "asn": 54827,
+  "metadata": {
+    "handle": "HNB-2ND",
+    "description": "Huntington Bancshares Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

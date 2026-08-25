@@ -1,0 +1,14 @@
+{
+  "asn": 136561,
+  "metadata": {
+    "handle": "SUNC-AP",
+    "description": "Sun Cybercafe",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

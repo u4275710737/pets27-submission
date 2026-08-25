@@ -1,0 +1,14 @@
+{
+  "asn": 40977,
+  "metadata": {
+    "handle": "SVYAZ-AS",
+    "description": "Invest-pro Ltd",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 34617,
+  "metadata": {
+    "handle": "SOFTWAREONE",
+    "description": "SoftwareONE AG",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

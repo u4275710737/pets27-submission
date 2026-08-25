@@ -1,0 +1,14 @@
+{
+  "asn": 27531,
+  "metadata": {
+    "handle": "PETV",
+    "description": "Boss TV",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

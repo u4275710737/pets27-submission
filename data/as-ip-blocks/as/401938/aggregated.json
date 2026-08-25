@@ -1,0 +1,16 @@
+{
+  "asn": 401938,
+  "metadata": {
+    "handle": "NAVCAN",
+    "description": "NAV CANADA",
+    "countryCode": "CA",
+    "country": "Canada",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "216.176.42.0/23" ],
+    "ipv6": [ ]
+  }
+}

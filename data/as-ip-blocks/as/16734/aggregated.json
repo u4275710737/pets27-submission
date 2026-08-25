@@ -1,0 +1,14 @@
+{
+  "asn": 16734,
+  "metadata": {
+    "handle": "KYNDR-RTP",
+    "description": "Kyndryl",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

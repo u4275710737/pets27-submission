@@ -1,0 +1,5 @@
+# AS45855 (ASIATECH-NET-AS-AP)
+# AsiaTech Telecom Limited
+#
+110.76.188.0/22
+202.14.116.0/24

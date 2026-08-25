@@ -1,0 +1,16 @@
+{
+  "asn": 36975,
+  "metadata": {
+    "handle": "CBA-KENYA",
+    "description": "Commercial Bank of Africa",
+    "countryCode": "KE",
+    "country": "Kenya",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "196.28.11.0/24", "196.223.254.0/23" ],
+    "ipv6": [ ]
+  }
+}

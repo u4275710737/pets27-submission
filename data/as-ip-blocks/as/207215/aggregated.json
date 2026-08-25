@@ -1,0 +1,14 @@
+{
+  "asn": 207215,
+  "metadata": {
+    "handle": "JOGCORP",
+    "description": "JOGCORP SAS",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

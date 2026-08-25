@@ -1,0 +1,14 @@
+{
+  "asn": 149000,
+  "metadata": {
+    "handle": "ANWARENTERPRISE-AP",
+    "description": "Anwar enterprise",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

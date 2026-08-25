@@ -1,0 +1,14 @@
+{
+  "asn": 198666,
+  "metadata": {
+    "handle": "INFO-ZONE-ISP",
+    "description": "Information Zone Company For Internet & Computer Services - Ltd. Co.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

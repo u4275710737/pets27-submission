@@ -1,0 +1,14 @@
+{
+  "asn": 9834,
+  "metadata": {
+    "handle": "TRADEME-NZ",
+    "description": "Trade Me Limited",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

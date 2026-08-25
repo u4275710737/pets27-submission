@@ -1,0 +1,14 @@
+{
+  "asn": 22913,
+  "metadata": {
+    "handle": "CSSTRIPARISH",
+    "description": "Computer Sales & Services Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

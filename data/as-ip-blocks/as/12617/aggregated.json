@@ -1,0 +1,14 @@
+{
+  "asn": 12617,
+  "metadata": {
+    "handle": "SOLIDO-NET",
+    "description": "Sentia Denmark A/S",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

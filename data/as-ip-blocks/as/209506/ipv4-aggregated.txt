@@ -1,0 +1,4 @@
+# AS209506 (CUSHNET)
+# Stephen Cushen
+#
+44.30.83.0/24

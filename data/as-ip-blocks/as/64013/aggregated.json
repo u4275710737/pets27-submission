@@ -1,0 +1,16 @@
+{
+  "asn": 64013,
+  "metadata": {
+    "handle": "YANCYLIMITED-AS-HK",
+    "description": "YANCY LIMITED",
+    "countryCode": "HK",
+    "country": "Hong Kong SAR China",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "156.234.168.0/24", "156.234.170.0/24", "156.247.32.0/19" ],
+    "ipv6": [ ]
+  }
+}

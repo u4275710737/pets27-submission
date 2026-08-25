@@ -1,0 +1,5 @@
+# AS198071 (BERCHSOLUTIONS-AS)
+# Berch Solutions Limited
+#
+82.47.48.0/24
+194.87.141.0/24

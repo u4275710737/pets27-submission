@@ -1,0 +1,14 @@
+{
+  "asn": 153005,
+  "metadata": {
+    "handle": "PTCLOUD-VN",
+    "description": "PHU THANH CLOUD COMPANY LIMITED",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

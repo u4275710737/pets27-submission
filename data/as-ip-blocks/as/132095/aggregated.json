@@ -1,0 +1,16 @@
+{
+  "asn": 132095,
+  "metadata": {
+    "handle": "DTAPL-AS-AP",
+    "description": "DXC Technology Australia Pty Limited",
+    "countryCode": "AU",
+    "country": "Australia",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ ]
+  }
+}

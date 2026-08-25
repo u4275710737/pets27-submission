@@ -1,0 +1,14 @@
+{
+  "asn": 63462,
+  "metadata": {
+    "handle": "SWINERTONINC",
+    "description": "Swinerton Incorporated",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

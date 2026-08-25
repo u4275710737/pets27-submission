@@ -1,0 +1,6 @@
+# AS62261 (MSK-IX-AS)
+# Join-stock company Internet ExchangeMSK-IX
+#
+2a09:bd00:10::/44
+2a09:bd00:20::/43
+2a09:bd00:40::/44

@@ -1,0 +1,14 @@
+{
+  "asn": 50393,
+  "metadata": {
+    "handle": "DE",
+    "description": "4b42 UG",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

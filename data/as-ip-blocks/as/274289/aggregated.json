@@ -1,0 +1,16 @@
+{
+  "asn": 274289,
+  "metadata": {
+    "handle": "LAS-ROSAS-CABLEVISION",
+    "description": "LAS ROSAS CABLEVISION SRL",
+    "countryCode": "AR",
+    "country": "Argentina",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "45.224.124.0/22", "131.72.240.0/24", "131.72.242.0/24", "181.177.209.0/24", "181.177.210.0/23", "190.52.62.0/24" ],
+    "ipv6": [ ]
+  }
+}

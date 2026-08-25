@@ -1,0 +1,14 @@
+{
+  "asn": 27372,
+  "metadata": {
+    "handle": "EMERALD-DOMAIN",
+    "description": "Uncommon Technology Incorporated",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "asn": 27784,
+  "metadata": {
+    "handle": "VIRTELA-CUST-VMABOS1-SENSATA",
+    "description": "Virtela Communications",
+    "countryCode": "EC",
+    "country": "Ecuador",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "200.115.42.0/23" ],
+    "ipv6": [ ]
+  }
+}

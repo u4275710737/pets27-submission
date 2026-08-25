@@ -1,0 +1,14 @@
+{
+  "asn": 59335,
+  "metadata": {
+    "handle": "TRIJITNET-DC",
+    "description": "TRIJIT TECHNOLOGIES PVT. LTD.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

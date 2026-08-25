@@ -1,0 +1,16 @@
+{
+  "asn": 13525,
+  "metadata": {
+    "handle": "RS1306",
+    "description": "Right Servers Inc.",
+    "countryCode": "CA",
+    "country": "Canada",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "170.205.17.0/24" ],
+    "ipv6": [ ]
+  }
+}

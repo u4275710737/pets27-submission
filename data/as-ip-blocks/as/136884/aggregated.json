@@ -1,0 +1,14 @@
+{
+  "asn": 136884,
+  "metadata": {
+    "handle": "IDNIC-JATIM-ID",
+    "description": "Dinas Komunikasi dan Informatika Provinsi jawa timur",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

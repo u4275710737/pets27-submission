@@ -1,0 +1,14 @@
+{
+  "asn": 19505,
+  "metadata": {
+    "handle": "STARWOODVO-OOC",
+    "description": "Starwood Vacation Ownership",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

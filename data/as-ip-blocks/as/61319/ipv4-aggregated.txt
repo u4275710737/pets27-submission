@@ -1,0 +1,4 @@
+# AS61319 (POMORSKIE)
+# Wojewodztwo Pomorskie
+#
+171.25.183.0/24

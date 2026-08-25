@@ -1,0 +1,16 @@
+{
+  "asn": 48140,
+  "metadata": {
+    "handle": "CIRTILNET",
+    "description": "Agence Centrale Des Organismes De Securite Sociale",
+    "countryCode": "FR",
+    "country": "France",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "91.209.25.0/24", "193.178.136.0/24", "194.0.166.0/24" ],
+    "ipv6": [ ]
+  }
+}

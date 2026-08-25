@@ -1,0 +1,14 @@
+{
+  "asn": 10855,
+  "metadata": {
+    "handle": "AUTO-BY-TEL",
+    "description": "AUTO BY TEL",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

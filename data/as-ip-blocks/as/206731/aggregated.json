@@ -1,0 +1,14 @@
+{
+  "asn": 206731,
+  "metadata": {
+    "handle": "LIZZIENET",
+    "description": "Lizzienet",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

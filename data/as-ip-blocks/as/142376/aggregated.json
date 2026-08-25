@@ -1,0 +1,14 @@
+{
+  "asn": 142376,
+  "metadata": {
+    "handle": "IDNIC-BUKUKU-ID",
+    "description": "PT Bukuku Solusi Kreatif",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

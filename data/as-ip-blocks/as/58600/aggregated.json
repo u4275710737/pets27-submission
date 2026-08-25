@@ -1,0 +1,14 @@
+{
+  "asn": 58600,
+  "metadata": {
+    "handle": "TWO-DEGREES-AP",
+    "description": "Two Degrees Mobile Limited",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

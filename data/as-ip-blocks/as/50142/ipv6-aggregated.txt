@@ -1,0 +1,5 @@
+# AS50142 (BIGBOX)
+# BigBox Softwares LLC
+#
+2a06:e000::/48
+2a0b:b040::/48

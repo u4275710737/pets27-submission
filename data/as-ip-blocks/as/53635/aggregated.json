@@ -1,0 +1,14 @@
+{
+  "asn": 53635,
+  "metadata": {
+    "handle": "EVERNOTE-US",
+    "description": "Evernote Corporation.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 16979,
+  "metadata": {
+    "handle": "RTU-3",
+    "description": "RCM Technologies (USA), Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 138918,
+  "metadata": {
+    "handle": "NTC-SYD",
+    "description": "NORTHERN TRUST CORPORATION",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

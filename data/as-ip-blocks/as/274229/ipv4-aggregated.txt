@@ -1,0 +1,4 @@
+# AS274229 (EMPRESA-ELECTRICA-GUATEMALA)
+# Empresa Electrica de Guatemala S.A.
+#
+190.98.150.0/24

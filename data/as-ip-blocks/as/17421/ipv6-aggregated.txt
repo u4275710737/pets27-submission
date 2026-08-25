@@ -1,0 +1,4 @@
+# AS17421 (EMOME-NET)
+# Mobile Business Group
+#
+2001:b400::/23

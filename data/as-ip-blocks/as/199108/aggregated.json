@@ -1,0 +1,14 @@
+{
+  "asn": 199108,
+  "metadata": {
+    "handle": "TAMUKAI-NETWORK-R",
+    "description": "Kaito Tamura",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

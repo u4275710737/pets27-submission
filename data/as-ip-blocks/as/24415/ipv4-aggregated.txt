@@ -1,0 +1,4 @@
+# AS24415 (CNNIC-JXBTIN-AP)
+# Jiangxi Broadcasting and TV information Network
+#
+60.200.0.0/24

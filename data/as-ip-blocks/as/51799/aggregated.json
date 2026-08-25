@@ -1,0 +1,16 @@
+{
+  "asn": 51799,
+  "metadata": {
+    "handle": "FIDELNET-AS",
+    "description": "FIDELNET SRL",
+    "countryCode": "RO",
+    "country": "Romania",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "193.23.4.0/22" ],
+    "ipv6": [ ]
+  }
+}

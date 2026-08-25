@@ -1,0 +1,14 @@
+{
+  "asn": 13675,
+  "metadata": {
+    "handle": "FAIRPO-3",
+    "description": "Consolidated Communications, Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

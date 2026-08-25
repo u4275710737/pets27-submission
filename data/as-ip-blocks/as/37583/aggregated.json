@@ -1,0 +1,16 @@
+{
+  "asn": 37583,
+  "metadata": {
+    "handle": "CREDITAGRICLEEGYPT",
+    "description": "Credit Agricle Egypt",
+    "countryCode": "EG",
+    "country": "Egypt",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "196.6.185.0/24", "196.13.253.0/24" ],
+    "ipv6": [ ]
+  }
+}

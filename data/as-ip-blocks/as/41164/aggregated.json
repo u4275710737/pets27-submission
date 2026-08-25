@@ -1,0 +1,16 @@
+{
+  "asn": 41164,
+  "metadata": {
+    "handle": "GET-NO",
+    "description": "Telia Norge AS",
+    "countryCode": "NO",
+    "country": "Norway",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ ]
+  }
+}

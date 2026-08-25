@@ -1,0 +1,16 @@
+{
+  "asn": 215353,
+  "metadata": {
+    "handle": "INPACKETNETWORK",
+    "description": "Josef Hrabe",
+    "countryCode": "CZ",
+    "country": "Czechia",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "82.41.51.0/24", "181.215.60.0/24" ],
+    "ipv6": [ ]
+  }
+}

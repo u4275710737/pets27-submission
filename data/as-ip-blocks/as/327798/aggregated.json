@@ -1,0 +1,16 @@
+{
+  "asn": 327798,
+  "metadata": {
+    "handle": "SETIC-BERNET",
+    "description": "SETIC-BERNET",
+    "countryCode": "BI",
+    "country": "Burundi",
+    "origin": "authoritative",
+    "category": "education_research",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "154.119.7.0/24", "154.119.8.0/23", "154.119.31.0/24" ],
+    "ipv6": [ "2c0f:f788::/32" ]
+  }
+}

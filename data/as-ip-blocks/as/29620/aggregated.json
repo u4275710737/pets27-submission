@@ -1,0 +1,16 @@
+{
+  "asn": 29620,
+  "metadata": {
+    "handle": "TAMI-AS",
+    "description": "P.H.U. TAMI - Wojciech Sterna",
+    "countryCode": "PL",
+    "country": "Poland",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "access_provider"
+  },
+  "prefixes": {
+    "ipv4": [ "193.17.214.0/24", "195.149.118.0/24", "195.245.94.0/23" ],
+    "ipv6": [ ]
+  }
+}

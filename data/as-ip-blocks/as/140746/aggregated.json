@@ -1,0 +1,14 @@
+{
+  "asn": 140746,
+  "metadata": {
+    "handle": "MCT-VN",
+    "description": "MCT Technology Solution Joint Stock Company",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

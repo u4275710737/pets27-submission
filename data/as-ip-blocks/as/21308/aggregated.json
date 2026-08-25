@@ -1,0 +1,16 @@
+{
+  "asn": 21308,
+  "metadata": {
+    "handle": "ITMUA-AS",
+    "description": "Synapse Ukraine LLC",
+    "countryCode": "UA",
+    "country": "Ukraine",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "193.239.142.0/23" ],
+    "ipv6": [ "2001:67c:e00::/48" ]
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 44523,
+  "metadata": {
+    "handle": "AEGON-PL",
+    "description": "AEGON Towarzystwo Ubezpieczen na Zycie S.A.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

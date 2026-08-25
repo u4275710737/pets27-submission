@@ -1,0 +1,14 @@
+{
+  "asn": 19300,
+  "metadata": {
+    "handle": "KUBRA-USA",
+    "description": "Kubra",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

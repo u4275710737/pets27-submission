@@ -1,0 +1,14 @@
+{
+  "asn": 42051,
+  "metadata": {
+    "handle": "WELAN",
+    "description": "Private Enterprise Movchan Alexey Alexandrovich",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

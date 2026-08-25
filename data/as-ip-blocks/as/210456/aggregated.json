@@ -1,0 +1,16 @@
+{
+  "asn": 210456,
+  "metadata": {
+    "handle": "EASTCOSTHOSTING",
+    "description": "EastCoastHost Ltd",
+    "countryCode": "GB",
+    "country": "United Kingdom",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "access_provider"
+  },
+  "prefixes": {
+    "ipv4": [ "103.102.231.0/24" ],
+    "ipv6": [ "2604:be0:ffe1::/48" ]
+  }
+}

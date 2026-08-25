@@ -1,0 +1,14 @@
+{
+  "asn": 64217,
+  "metadata": {
+    "handle": "LTD-BROADBAND",
+    "description": "LTD Broadband LLC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 397469,
+  "metadata": {
+    "handle": "SPECTEROPS-01",
+    "description": "SpecterOps",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

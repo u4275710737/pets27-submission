@@ -1,0 +1,16 @@
+{
+  "asn": 152446,
+  "metadata": {
+    "handle": "FLYNET-AS-AP",
+    "description": "Flynet Networking System",
+    "countryCode": "BD",
+    "country": "Bangladesh",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "access_provider"
+  },
+  "prefixes": {
+    "ipv4": [ "157.15.36.0/23" ],
+    "ipv6": [ "2001:df3:66c0::/48" ]
+  }
+}

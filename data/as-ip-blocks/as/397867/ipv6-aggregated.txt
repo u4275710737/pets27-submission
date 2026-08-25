@@ -1,0 +1,6 @@
+# AS397867 (DT-QC)
+# Dissident Technologies integrateur en telecom incorporee
+#
+2605:8840::/40
+2605:8840:1000::/40
+2605:8840:a101::/48

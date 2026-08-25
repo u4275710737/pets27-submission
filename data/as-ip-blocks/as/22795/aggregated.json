@@ -1,0 +1,14 @@
+{
+  "asn": 22795,
+  "metadata": {
+    "handle": "ABOUT-COM",
+    "description": "ABOUT, INC.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

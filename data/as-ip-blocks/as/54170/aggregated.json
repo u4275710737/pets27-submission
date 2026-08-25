@@ -1,0 +1,16 @@
+{
+  "asn": 54170,
+  "metadata": {
+    "handle": "NETACTUATE",
+    "description": "NetActuate Inc",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "45.54.49.0/24" ],
+    "ipv6": [ ]
+  }
+}

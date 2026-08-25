@@ -1,0 +1,16 @@
+{
+  "asn": 13116,
+  "metadata": {
+    "handle": "TELE2RU",
+    "description": "Tele2 Sverige AB",
+    "countryCode": "SE",
+    "country": "Sweden",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "193.138.148.0/23", "194.176.96.0/24" ],
+    "ipv6": [ ]
+  }
+}

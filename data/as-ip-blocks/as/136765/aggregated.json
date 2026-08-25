@@ -1,0 +1,16 @@
+{
+  "asn": 136765,
+  "metadata": {
+    "handle": "VANOV-AS-AP",
+    "description": "Vanov Technology Unipessoal Lda",
+    "countryCode": "TL",
+    "country": "Timor-Leste",
+    "origin": "authoritative",
+    "category": null,
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "138.252.62.0/24" ],
+    "ipv6": [ "2001:df6:39c0::/48" ]
+  }
+}

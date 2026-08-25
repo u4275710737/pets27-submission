@@ -1,0 +1,14 @@
+{
+  "asn": 1506,
+  "metadata": {
+    "handle": "WOOD",
+    "description": "Headquarters, USAISC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

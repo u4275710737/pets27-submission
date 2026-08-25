@@ -1,0 +1,5 @@
+# AS140227 (HKCICL-AS-AP)
+# Hong Kong Communications International Co. Limited
+#
+2001:df2:f080::/48
+2400:9e20:1112::/47

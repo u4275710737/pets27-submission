@@ -1,0 +1,16 @@
+{
+  "asn": 197194,
+  "metadata": {
+    "handle": "KAYAN-IT",
+    "description": "Rakan Alsulaiman trading as Kayan Establishment For Information Technology",
+    "countryCode": "SA",
+    "country": "Saudi Arabia",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "82.47.101.0/24", "82.47.102.0/24" ],
+    "ipv6": [ "2a06:9801:74f::/48" ]
+  }
+}

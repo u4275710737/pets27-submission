@@ -1,0 +1,14 @@
+{
+  "asn": 152047,
+  "metadata": {
+    "handle": "IDNIC-SAMUDRATIMUR-AS-ID",
+    "description": "PT Samudra Timur Mandiri",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

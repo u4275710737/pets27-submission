@@ -1,0 +1,16 @@
+{
+  "asn": 9822,
+  "metadata": {
+    "handle": "AMNET-AU-AP",
+    "description": "VOCUS PTY LTD",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": [
+      "2404:b000::/36"
+    ]
+  }
+}

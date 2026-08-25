@@ -1,0 +1,14 @@
+{
+  "asn": 53416,
+  "metadata": {
+    "handle": "RMSOURCE-INC-DURHAM-DATACENTER-NC",
+    "description": "RMSource Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

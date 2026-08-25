@@ -1,0 +1,16 @@
+{
+  "asn": 327922,
+  "metadata": {
+    "handle": "ISPOT-ZA",
+    "description": "iSpot WISP",
+    "countryCode": "ZA",
+    "country": "South Africa",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "169.239.44.0/22" ],
+    "ipv6": [ ]
+  }
+}

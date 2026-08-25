@@ -1,0 +1,14 @@
+{
+  "asn": 401512,
+  "metadata": {
+    "handle": "OMEG-ECN",
+    "description": "OMEGAI",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

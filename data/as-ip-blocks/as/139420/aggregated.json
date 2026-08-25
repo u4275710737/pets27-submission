@@ -1,0 +1,14 @@
+{
+  "asn": 139420,
+  "metadata": {
+    "handle": "IDNIC-ATS-ID",
+    "description": "PT. Alif Teknologi Sinergi",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

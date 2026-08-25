@@ -1,0 +1,16 @@
+{
+  "asn": 397050,
+  "metadata": {
+    "handle": "VELOCITY-01",
+    "description": "IdeaTek Telcom LLC",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "137.118.129.0/24", "168.149.192.0/19", "199.45.168.0/21", "204.144.152.0/21" ],
+    "ipv6": [ ]
+  }
+}

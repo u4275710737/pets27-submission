@@ -1,0 +1,14 @@
+{
+  "asn": 132396,
+  "metadata": {
+    "handle": "FEDEX-AS",
+    "description": "Federal Express Corporation Hong Kong Branch",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

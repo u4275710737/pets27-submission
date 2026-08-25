@@ -1,0 +1,14 @@
+{
+  "asn": 262596,
+  "metadata": {
+    "handle": "JUNTO-TELECOM-SERVIOS",
+    "description": "JUNTO TELECOM SERVIOS DE TELECOMUNICAES LTDA",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

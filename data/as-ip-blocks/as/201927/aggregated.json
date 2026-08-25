@@ -1,0 +1,14 @@
+{
+  "asn": 201927,
+  "metadata": {
+    "handle": "SA-NADEC",
+    "description": "National Agricultural Development Co. (JSC)",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 27519,
+  "metadata": {
+    "handle": "CASIOI",
+    "description": "Casio America Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

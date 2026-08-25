@@ -1,0 +1,16 @@
+{
+  "asn": 275730,
+  "metadata": {
+    "handle": "KING-FIBRA",
+    "description": "king fibra",
+    "countryCode": "BR",
+    "country": "Brazil",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "45.234.207.0/24" ],
+    "ipv6": [ "2804:98b0::/32" ]
+  }
+}

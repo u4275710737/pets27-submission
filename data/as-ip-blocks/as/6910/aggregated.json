@@ -1,0 +1,16 @@
+{
+  "asn": 6910,
+  "metadata": {
+    "handle": "DIGI-BORDER",
+    "description": "DIGI ROMANIA S.A.",
+    "countryCode": "RO",
+    "country": "Romania",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "194.176.162.0/24" ],
+    "ipv6": [ "2a01:4700:1::/48" ]
+  }
+}

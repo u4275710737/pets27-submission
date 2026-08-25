@@ -1,0 +1,14 @@
+{
+  "asn": 30636,
+  "metadata": {
+    "handle": "INTERNAP-BLK6",
+    "description": "Unitas Global",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 23319,
+  "metadata": {
+    "handle": "CHROME-DATA-SOLUTIONS",
+    "description": "Chrome Data Solutions, LP",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,4 @@
+# AS197450 (SUNUCUN)
+# Sunucun Bilgi Iletisim Teknolojileri ve Ticaret Ltd. Sti.
+#
+2a12:e681::/32

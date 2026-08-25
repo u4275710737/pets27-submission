@@ -1,0 +1,5 @@
+# AS206091 (PLANET-DIGITAL)
+# Planet Digital Lichtwellenleiternetz Errichtungs- und Betrieb GmbH & Co KG
+#
+2a0a:70c0::/29
+2a0c:b000::/29

@@ -1,0 +1,14 @@
+{
+  "asn": 396248,
+  "metadata": {
+    "handle": "E470",
+    "description": "E-470 Public Highway Authority",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

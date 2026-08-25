@@ -1,0 +1,14 @@
+{
+  "asn": 149436,
+  "metadata": {
+    "handle": "RANONLINE-AP",
+    "description": "RAN Online",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

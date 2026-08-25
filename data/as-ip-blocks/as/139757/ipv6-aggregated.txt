@@ -1,0 +1,4 @@
+# AS139757 (TALUKDERNET-AS-AP)
+# Talukder net
+#
+2001:df1:d980::/48

@@ -1,0 +1,16 @@
+{
+  "asn": 133095,
+  "metadata": {
+    "handle": "IDNIC-PFI-ID",
+    "description": "PT Pusat Fiber Indonesia",
+    "countryCode": "ID",
+    "country": "Indonesia",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "103.61.226.0/23" ],
+    "ipv6": [ ]
+  }
+}

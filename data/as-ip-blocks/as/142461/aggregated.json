@@ -1,0 +1,16 @@
+{
+  "asn": 142461,
+  "metadata": {
+    "handle": "ATCINFO-AS-IN",
+    "description": "ATC INFOCOM SOLUTIONS PVT LTD",
+    "countryCode": "IN",
+    "country": "India",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "103.168.210.0/23", "160.19.41.0/24" ],
+    "ipv6": [ "2001:df2:2940::/48" ]
+  }
+}

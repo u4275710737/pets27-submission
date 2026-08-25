@@ -1,0 +1,14 @@
+{
+  "asn": 206056,
+  "metadata": {
+    "handle": "NEWAY-ASN",
+    "description": "ABRA Cloud Solutions Ltd",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

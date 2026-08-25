@@ -1,0 +1,4 @@
+# AS135025 (NEXLOGIC-AS-AP)
+# Nexlogic Telecommunications Network Inc.
+#
+2404:2380::/32

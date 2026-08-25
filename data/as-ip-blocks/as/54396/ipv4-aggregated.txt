@@ -1,0 +1,4 @@
+# AS54396 (NUANCE-MOBILITY)
+# Microsoft Corporation
+#
+8.39.192.0/21

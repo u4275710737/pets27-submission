@@ -1,0 +1,5 @@
+# AS264845 (LACNIC-32BITAS-TEST1)
+# LACNIC - Latin American and Caribbean IP address
+#
+190.112.52.0/22
+201.219.252.0/23

@@ -1,0 +1,14 @@
+{
+  "asn": 210990,
+  "metadata": {
+    "handle": "SP-HOSTING",
+    "description": "SpeedClick for Information Technology and Communication Ltd",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

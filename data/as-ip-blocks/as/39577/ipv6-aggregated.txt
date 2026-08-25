@@ -1,0 +1,4 @@
+# AS39577 (GOODNET-AS)
+# Goodnet LLC
+#
+2001:678:6a8::/48

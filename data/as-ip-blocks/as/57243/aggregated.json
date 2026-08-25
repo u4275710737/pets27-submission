@@ -1,0 +1,14 @@
+{
+  "asn": 57243,
+  "metadata": {
+    "handle": "BBONE-AS",
+    "description": "BB-ONE.net GmbH",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

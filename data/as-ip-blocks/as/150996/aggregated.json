@@ -1,0 +1,14 @@
+{
+  "asn": 150996,
+  "metadata": {
+    "handle": "IDNIC-NTD-ID",
+    "description": "PT Nusantara Transfer Dana",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

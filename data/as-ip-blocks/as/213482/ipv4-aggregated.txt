@@ -1,0 +1,6 @@
+# AS213482 (WATERFALL)
+# Waterfall Technologies Ltd
+#
+82.22.119.0/24
+82.23.170.0/24
+153.76.113.0/24

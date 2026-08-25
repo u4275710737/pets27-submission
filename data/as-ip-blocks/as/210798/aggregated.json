@@ -1,0 +1,14 @@
+{
+  "asn": 210798,
+  "metadata": {
+    "handle": "TAKEAWAY-ADS",
+    "description": "Takeaway.com Central Core B.V.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

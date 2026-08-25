@@ -1,0 +1,14 @@
+{
+  "asn": 56558,
+  "metadata": {
+    "handle": "AGROTM",
+    "description": "TOV AGRO TM",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

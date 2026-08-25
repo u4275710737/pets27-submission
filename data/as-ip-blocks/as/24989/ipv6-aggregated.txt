@@ -1,0 +1,4 @@
+# AS24989 (EQUINIX-CONNECT-GERMANY)
+# Equinix (Germany) GmbH
+#
+2a05:c700::/32

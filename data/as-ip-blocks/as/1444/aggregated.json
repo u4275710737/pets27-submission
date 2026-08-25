@@ -1,0 +1,14 @@
+{
+  "asn": 1444,
+  "metadata": {
+    "handle": "VCPI-ASN-1",
+    "description": "Virtual Care Provider, Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

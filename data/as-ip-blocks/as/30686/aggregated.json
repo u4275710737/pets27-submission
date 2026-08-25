@@ -1,0 +1,14 @@
+{
+  "asn": 30686,
+  "metadata": {
+    "handle": "LVLT",
+    "description": "Level 3 Parent, LLC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

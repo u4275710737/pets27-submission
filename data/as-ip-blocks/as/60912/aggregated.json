@@ -1,0 +1,14 @@
+{
+  "asn": 60912,
+  "metadata": {
+    "handle": "VPLAB",
+    "description": "VPLAB LTD",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

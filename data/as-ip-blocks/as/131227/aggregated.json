@@ -1,0 +1,14 @@
+{
+  "asn": 131227,
+  "metadata": {
+    "handle": "YRLESSLTD-AP",
+    "description": "Yrless Ltd",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

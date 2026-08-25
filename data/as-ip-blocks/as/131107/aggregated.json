@@ -1,0 +1,14 @@
+{
+  "asn": 131107,
+  "metadata": {
+    "handle": "APNICTRAINING-DC",
+    "description": "APNIC TRAINING UNIT",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

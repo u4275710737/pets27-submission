@@ -1,0 +1,14 @@
+{
+  "asn": 11261,
+  "metadata": {
+    "handle": "EHI-PROD-SJ",
+    "description": "eHealthInsurance Services Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

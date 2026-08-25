@@ -1,0 +1,16 @@
+{
+  "asn": 51211,
+  "metadata": {
+    "handle": "OPENNET",
+    "description": "CRELCOM LLC",
+    "countryCode": "RU",
+    "country": "Russia",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "91.198.175.0/24" ],
+    "ipv6": [ ]
+  }
+}

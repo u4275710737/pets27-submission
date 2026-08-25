@@ -1,0 +1,14 @@
+{
+  "asn": 216410,
+  "metadata": {
+    "handle": "DOUBLE-C-SRL",
+    "description": "DOUBLE-C-SRL",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

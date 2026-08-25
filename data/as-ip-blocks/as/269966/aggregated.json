@@ -1,0 +1,14 @@
+{
+  "asn": 269966,
+  "metadata": {
+    "handle": "COMISIN-REGULACIN-COMUNICACIONES",
+    "description": "COMISIN DE REGULACIN DE COMUNICACIONES",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

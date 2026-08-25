@@ -1,0 +1,14 @@
+{
+  "asn": 207428,
+  "metadata": {
+    "handle": "FALSTAFF",
+    "description": "Falstaff Verlags-GmbH",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

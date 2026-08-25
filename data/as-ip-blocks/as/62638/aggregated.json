@@ -1,0 +1,14 @@
+{
+  "asn": 62638,
+  "metadata": {
+    "handle": "MARRIOTT-HDQ-01",
+    "description": "Marriott International, Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

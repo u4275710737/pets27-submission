@@ -1,0 +1,14 @@
+{
+  "asn": 201507,
+  "metadata": {
+    "handle": "SARDINA01",
+    "description": "Sardina Systems Sarl",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

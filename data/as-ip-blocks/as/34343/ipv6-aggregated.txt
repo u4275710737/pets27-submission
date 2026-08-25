@@ -1,0 +1,8 @@
+# AS34343 (BIP-AS)
+# Eweka Internet Services B.V.
+#
+2001:4de0::/46
+2001:4de0:1004::/47
+2001:4de0:aaa0::/44
+2a01:788:aaaa::/47
+2a01:788:aaac::/48

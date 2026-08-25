@@ -1,0 +1,16 @@
+{
+  "asn": 199746,
+  "metadata": {
+    "handle": "V6DIRECT",
+    "description": "NextServ LLC",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ "2a06:1283:8912::/48" ]
+  }
+}

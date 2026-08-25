@@ -1,0 +1,14 @@
+{
+  "asn": 45848,
+  "metadata": {
+    "handle": "AUIX1-AP",
+    "description": "AU IX Pty Limited",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

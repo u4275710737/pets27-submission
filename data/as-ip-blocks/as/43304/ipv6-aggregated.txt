@@ -1,0 +1,8 @@
+# AS43304 (TEAMVIEWER-AS)
+# TeamViewer Germany GmbH
+#
+2a0b:b580::/48
+2a0b:b580:ffff::/48
+2a0b:b581::/48
+2a0b:b582::/48
+2a0b:b583::/48

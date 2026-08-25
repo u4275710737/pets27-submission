@@ -1,0 +1,14 @@
+{
+  "asn": 51252,
+  "metadata": {
+    "handle": "DSSGROUP",
+    "description": "Ltd. DSS Group",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

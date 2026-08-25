@@ -1,0 +1,4 @@
+# AS270111 (COMUNICACION-POR-FIBRA)
+# Comunicación por Fibra SA de CV
+#
+189.51.168.0/22

@@ -1,0 +1,14 @@
+{
+  "asn": 211977,
+  "metadata": {
+    "handle": "GEUMPILKO",
+    "description": "ko geumpil",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

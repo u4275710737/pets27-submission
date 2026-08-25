@@ -1,0 +1,16 @@
+{
+  "asn": 198783,
+  "metadata": {
+    "handle": "HALIL-ADEM",
+    "description": "ET HALIL ADEM",
+    "countryCode": "BG",
+    "country": "Bulgaria",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "82.118.242.0/24", "213.149.145.0/24" ],
+    "ipv6": [ ]
+  }
+}

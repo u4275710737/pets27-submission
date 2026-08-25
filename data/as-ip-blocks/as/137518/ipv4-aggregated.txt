@@ -1,0 +1,4 @@
+# AS137518 (IDNIC-RSP-PERSAHABATAN-AS-ID)
+# Rumah Sakit Umum Persahabatan
+#
+103.111.124.0/24

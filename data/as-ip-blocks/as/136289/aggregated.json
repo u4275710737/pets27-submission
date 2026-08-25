@@ -1,0 +1,16 @@
+{
+  "asn": 136289,
+  "metadata": {
+    "handle": "BBRGCOM-AS-IN",
+    "description": "Bbrg Communiction And Internet Pvt Ltd",
+    "countryCode": "IN",
+    "country": "India",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "103.155.234.0/23" ],
+    "ipv6": [ ]
+  }
+}

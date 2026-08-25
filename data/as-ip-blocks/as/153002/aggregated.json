@@ -1,0 +1,14 @@
+{
+  "asn": 153002,
+  "metadata": {
+    "handle": "FASTVM-VN",
+    "description": "Fastvm Company Limited",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

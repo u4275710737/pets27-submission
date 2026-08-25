@@ -1,0 +1,16 @@
+{
+  "asn": 197359,
+  "metadata": {
+    "handle": "HONGKONGMELODIOUS",
+    "description": "HongKong Melodious Limited",
+    "countryCode": "HK",
+    "country": "Hong Kong SAR China",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "40.27.231.0/24", "51.146.116.0/22", "51.146.120.0/22", "95.134.142.0/24", "95.134.157.0/24", "178.93.164.0/24", "188.220.103.0/24" ],
+    "ipv6": [ ]
+  }
+}

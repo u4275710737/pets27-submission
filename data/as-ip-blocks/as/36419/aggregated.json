@@ -1,0 +1,14 @@
+{
+  "asn": 36419,
+  "metadata": {
+    "handle": "ZNL-15-36419",
+    "description": "GIGAPATH LLC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

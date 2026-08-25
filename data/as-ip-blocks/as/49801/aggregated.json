@@ -1,0 +1,16 @@
+{
+  "asn": 49801,
+  "metadata": {
+    "handle": "SOTOON-CLOUD-INFRASTRUCTURE",
+    "description": "Hezardastan Unit Cloud Computing PJSC",
+    "countryCode": "IR",
+    "country": "Iran",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "access_provider"
+  },
+  "prefixes": {
+    "ipv4": [ "46.245.48.0/21", "185.166.107.0/24" ],
+    "ipv6": [ ]
+  }
+}

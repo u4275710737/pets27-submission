@@ -1,0 +1,16 @@
+{
+  "asn": 199582,
+  "metadata": {
+    "handle": "A101",
+    "description": "LLC Specialized Developer A101",
+    "countryCode": "RU",
+    "country": "Russia",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "212.192.144.0/21" ],
+    "ipv6": [ ]
+  }
+}

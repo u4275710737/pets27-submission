@@ -1,0 +1,4 @@
+# AS263962 (GLOBAL-INFORMATICA)
+# Global Informática LTDA-ME
+#
+2804:2874::/32

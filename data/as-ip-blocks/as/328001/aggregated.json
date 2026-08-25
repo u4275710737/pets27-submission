@@ -1,0 +1,16 @@
+{
+  "asn": 328001,
+  "metadata": {
+    "handle": "AS-SATSOFT",
+    "description": "Satellite Software",
+    "countryCode": "ZA",
+    "country": "South Africa",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "196.192.88.0/21" ],
+    "ipv6": [ "2c0f::/32" ]
+  }
+}

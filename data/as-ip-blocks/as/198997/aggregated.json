@@ -1,0 +1,16 @@
+{
+  "asn": 198997,
+  "metadata": {
+    "handle": "NOAHAS",
+    "description": "Noah Pohlmann",
+    "countryCode": "DE",
+    "country": "Germany",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "5.175.246.0/24" ],
+    "ipv6": [ ]
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 16523,
+  "metadata": {
+    "handle": "TRUTEL",
+    "description": "Trutel Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

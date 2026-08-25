@@ -1,0 +1,14 @@
+{
+  "asn": 22918,
+  "metadata": {
+    "handle": "VMW-PA-USERS",
+    "description": "VMWare, Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

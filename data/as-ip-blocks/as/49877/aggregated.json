@@ -1,0 +1,14 @@
+{
+  "asn": 49877,
+  "metadata": {
+    "handle": "-ASTORE",
+    "description": "ASTOR TRADING LLC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

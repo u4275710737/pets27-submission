@@ -1,0 +1,14 @@
+{
+  "asn": 141689,
+  "metadata": {
+    "handle": "LIPL-AP",
+    "description": "LNT Infotech Pvt Ltd",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

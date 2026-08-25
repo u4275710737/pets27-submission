@@ -1,0 +1,14 @@
+{
+  "asn": 18007,
+  "metadata": {
+    "handle": "INHERENT-AS-ID-AP",
+    "description": "Institute of Technology Bandung",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

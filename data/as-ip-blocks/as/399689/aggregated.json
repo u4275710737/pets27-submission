@@ -1,0 +1,14 @@
+{
+  "asn": 399689,
+  "metadata": {
+    "handle": "MINGAN-001",
+    "description": "MINGAN INC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

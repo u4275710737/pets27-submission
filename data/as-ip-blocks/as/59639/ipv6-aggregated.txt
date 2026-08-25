@@ -1,0 +1,4 @@
+# AS59639 (LUREIT-AS)
+# LLC LURE IT
+#
+2a0c:e887::/32

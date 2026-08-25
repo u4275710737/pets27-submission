@@ -1,0 +1,16 @@
+{
+  "asn": 14485,
+  "metadata": {
+    "handle": "RURAL-CONNECTION-MANITOBA",
+    "description": "Rural Connections Manitoba Ltd",
+    "countryCode": "CA",
+    "country": "Canada",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "104.224.56.0/22" ],
+    "ipv6": [ ]
+  }
+}

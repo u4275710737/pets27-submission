@@ -1,0 +1,4 @@
+# AS31861 (WTAMU)
+# West Texas A&M University
+#
+192.195.76.0/24

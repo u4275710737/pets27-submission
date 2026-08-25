@@ -1,0 +1,16 @@
+{
+  "asn": 24118,
+  "metadata": {
+    "handle": "VIRTELA-NET-VAUSYD1",
+    "description": "Virtela Communications",
+    "countryCode": "IN",
+    "country": "India",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "69.26.60.0/24", "119.31.169.0/24" ],
+    "ipv6": [ ]
+  }
+}

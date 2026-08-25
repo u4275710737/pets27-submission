@@ -1,0 +1,16 @@
+{
+  "asn": 16657,
+  "metadata": {
+    "handle": "ZAYO-CCF-AS16657",
+    "description": "Zayo Bandwidth",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "151.181.32.0/24", "151.181.36.0/24", "208.69.87.0/24" ],
+    "ipv6": [ ]
+  }
+}

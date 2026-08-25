@@ -1,0 +1,14 @@
+{
+  "asn": 202334,
+  "metadata": {
+    "handle": "REDHELIO",
+    "description": "Free Technologies Excom S.L.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 149730,
+  "metadata": {
+    "handle": "IDNIC-MEDIAPOLEWALIV-ID",
+    "description": "PT Media Polewali Vision",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 204079,
+  "metadata": {
+    "handle": "SAHRA",
+    "description": "Rahpoyan Pardazesh Gostar SAHRA (P.J.S)",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

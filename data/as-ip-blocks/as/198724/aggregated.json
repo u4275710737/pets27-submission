@@ -1,0 +1,16 @@
+{
+  "asn": 198724,
+  "metadata": {
+    "handle": "QUARTERMASTER",
+    "description": "Quarter Master SAS",
+    "countryCode": "FR",
+    "country": "France",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "185.69.2.0/24" ],
+    "ipv6": [ ]
+  }
+}

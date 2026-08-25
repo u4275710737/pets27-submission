@@ -1,0 +1,14 @@
+{
+  "asn": 199875,
+  "metadata": {
+    "handle": "EA-ES-MAD",
+    "description": "Electronic Arts Limited",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

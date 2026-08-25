@@ -1,0 +1,16 @@
+{
+  "asn": 274757,
+  "metadata": {
+    "handle": "GRUPO-TELECOM-JALLA",
+    "description": "GRUPO TELECOM - JALLA",
+    "countryCode": "BR",
+    "country": "Brazil",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "access_provider"
+  },
+  "prefixes": {
+    "ipv4": [ "64.204.60.0/24" ],
+    "ipv6": [ "2804:931c::/32" ]
+  }
+}

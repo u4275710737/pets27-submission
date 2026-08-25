@@ -1,0 +1,16 @@
+{
+  "asn": 199007,
+  "metadata": {
+    "handle": "ROLIS-AS",
+    "description": "DeloTech LLC",
+    "countryCode": "RU",
+    "country": "Russia",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "91.241.43.0/24" ],
+    "ipv6": [ ]
+  }
+}

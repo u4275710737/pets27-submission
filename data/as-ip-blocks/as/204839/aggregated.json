@@ -1,0 +1,14 @@
+{
+  "asn": 204839,
+  "metadata": {
+    "handle": "KONICAMINOLTA-EU-CLOUD",
+    "description": "KONICA MINOLTA BUSINESS SOLUTIONS DENMARK A/S",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

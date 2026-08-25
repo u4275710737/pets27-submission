@@ -1,0 +1,14 @@
+{
+  "asn": 45418,
+  "metadata": {
+    "handle": "ORROPTYLTD-AP",
+    "description": "Orro Pty Ltd",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "asn": 270941,
+  "metadata": {
+    "handle": "QUEIROZ-CAVALCANTE-TELECOMUNICACOES",
+    "description": "QUEIROZ & CAVALCANTE TELECOMUNICACOES LTDA",
+    "countryCode": "BR",
+    "country": "Brazil",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "168.196.228.0/22" ],
+    "ipv6": [ "2804:73d8::/32" ]
+  }
+}

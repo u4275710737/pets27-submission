@@ -1,0 +1,14 @@
+{
+  "asn": 32786,
+  "metadata": {
+    "handle": "RAVNALASKA",
+    "description": "New Pacific Airlines Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

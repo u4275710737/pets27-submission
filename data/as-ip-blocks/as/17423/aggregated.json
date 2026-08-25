@@ -1,0 +1,14 @@
+{
+  "asn": 17423,
+  "metadata": {
+    "handle": "SUREPREP-AP",
+    "description": "Blazenet Pvt Ltd",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

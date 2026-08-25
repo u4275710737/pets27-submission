@@ -1,0 +1,4 @@
+# AS13465 (SAMHOUSTONEC)
+# Sam Houston Electric Cooperative Inc.
+#
+68.67.117.0/24

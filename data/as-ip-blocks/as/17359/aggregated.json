@@ -1,0 +1,14 @@
+{
+  "asn": 17359,
+  "metadata": {
+    "handle": "TELOV-FL-TPA",
+    "description": "Charter Communications Inc",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

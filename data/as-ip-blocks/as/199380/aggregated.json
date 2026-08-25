@@ -1,0 +1,16 @@
+{
+  "asn": 199380,
+  "metadata": {
+    "handle": "BTLNET",
+    "description": "BTL NET LLC",
+    "countryCode": "UA",
+    "country": "Ukraine",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "193.34.62.0/23" ],
+    "ipv6": [ ]
+  }
+}

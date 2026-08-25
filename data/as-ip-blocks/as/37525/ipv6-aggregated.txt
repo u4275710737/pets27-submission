@@ -1,0 +1,4 @@
+# AS37525 (BYTESNET-AS)
+# BYTESNET Autonomous System
+#
+2c0f:fda0::/32

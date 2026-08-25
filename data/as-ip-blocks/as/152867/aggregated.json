@@ -1,0 +1,16 @@
+{
+  "asn": 152867,
+  "metadata": {
+    "handle": "TCNET",
+    "description": "Takaoka cable network",
+    "countryCode": "JP",
+    "country": "Japan",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "103.211.74.0/24" ],
+    "ipv6": [ "2406:2800:6000::/36" ]
+  }
+}

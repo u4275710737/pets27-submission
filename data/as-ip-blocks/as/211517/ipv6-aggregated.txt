@@ -1,0 +1,5 @@
+# AS211517 (AS-WILDBERRIES-GE)
+# LLC Wildberries
+#
+2a03:720:70::/48
+2a03:720:1070::/48

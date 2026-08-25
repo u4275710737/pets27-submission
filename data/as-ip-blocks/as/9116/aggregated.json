@@ -1,0 +1,14 @@
+{
+  "asn": 9116,
+  "metadata": {
+    "handle": "GOLDENLINES",
+    "description": "Partner Communications Ltd.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

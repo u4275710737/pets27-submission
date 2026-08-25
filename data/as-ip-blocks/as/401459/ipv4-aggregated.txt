@@ -1,0 +1,5 @@
+# AS401459 (AS-UADA)
+# Division of Agriculture of the University of Arkansas
+#
+23.130.108.0/24
+142.248.188.0/24

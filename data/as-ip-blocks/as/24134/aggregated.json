@@ -1,0 +1,14 @@
+{
+  "asn": 24134,
+  "metadata": {
+    "handle": "CNNIC-CNLINKNET-AP",
+    "description": "CNLink Networks Ltd.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

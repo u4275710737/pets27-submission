@@ -1,0 +1,14 @@
+{
+  "asn": 152357,
+  "metadata": {
+    "handle": "IDNIC-5GLOBAL-AS-ID",
+    "description": "PT Lima Global Networkindo",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

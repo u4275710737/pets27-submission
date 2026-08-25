@@ -1,0 +1,14 @@
+{
+  "asn": 26726,
+  "metadata": {
+    "handle": "THERE47",
+    "description": "The Reinvestment Fund",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

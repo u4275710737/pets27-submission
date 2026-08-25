@@ -1,0 +1,16 @@
+{
+  "asn": 12507,
+  "metadata": {
+    "handle": "SWIFT-TRACE-AS",
+    "description": "Swift Trace ltd.",
+    "countryCode": "RU",
+    "country": "Russia",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "195.49.200.0/21" ],
+    "ipv6": [ ]
+  }
+}

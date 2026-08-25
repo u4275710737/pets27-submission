@@ -1,0 +1,14 @@
+{
+  "asn": 134192,
+  "metadata": {
+    "handle": "CLOUDSQUARED-AS-AP",
+    "description": "CloudSquared",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,4 @@
+# AS152089 (IDNIC-SINGKINET-AS-ID)
+# PT Singki Media Telekomunikasi
+#
+2a13:9500:168::/48

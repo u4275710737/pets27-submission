@@ -1,0 +1,14 @@
+{
+  "asn": 13639,
+  "metadata": {
+    "handle": "ING-AMERICAS-WHOLESALE",
+    "description": "ING Financial Services, LLC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

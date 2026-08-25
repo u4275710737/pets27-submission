@@ -1,0 +1,14 @@
+{
+  "asn": 215101,
+  "metadata": {
+    "handle": "HOSTLOCAL",
+    "description": "HOSTLOCAL NETWORKS LTD",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

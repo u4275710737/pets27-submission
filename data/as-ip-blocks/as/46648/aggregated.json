@@ -1,0 +1,14 @@
+{
+  "asn": 46648,
+  "metadata": {
+    "handle": "SUTTERHEALTH",
+    "description": "Sutter Health",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 46894,
+  "metadata": {
+    "handle": "GABBIT-WEST-LV",
+    "description": "Gabbit, LLC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

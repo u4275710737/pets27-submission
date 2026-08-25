@@ -1,0 +1,4 @@
+# AS4589 (EASYNET)
+# Easynet Global Services
+#
+217.206.222.0/24

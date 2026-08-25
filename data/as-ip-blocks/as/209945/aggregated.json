@@ -1,0 +1,14 @@
+{
+  "asn": 209945,
+  "metadata": {
+    "handle": "MDIX",
+    "description": "SC ITNS.NET SRL",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 149200,
+  "metadata": {
+    "handle": "HELLONSPL-IN",
+    "description": "Hello Network Service Private Limited",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

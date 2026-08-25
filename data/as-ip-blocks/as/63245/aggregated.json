@@ -1,0 +1,14 @@
+{
+  "asn": 63245,
+  "metadata": {
+    "handle": "TRAFBIZ-01",
+    "description": "Microsoft Corporation",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

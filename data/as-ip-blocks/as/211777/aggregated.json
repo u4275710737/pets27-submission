@@ -1,0 +1,14 @@
+{
+  "asn": 211777,
+  "metadata": {
+    "handle": "REBECCA-PRUIM",
+    "description": "Rebecca Pruim",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

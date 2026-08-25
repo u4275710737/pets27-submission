@@ -1,0 +1,14 @@
+{
+  "asn": 267822,
+  "metadata": {
+    "handle": "ISP-FIBER",
+    "description": "ISP FIBER S.R.L",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

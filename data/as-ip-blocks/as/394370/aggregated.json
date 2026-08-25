@@ -1,0 +1,14 @@
+{
+  "asn": 394370,
+  "metadata": {
+    "handle": "CCM-NET1",
+    "description": "Collectivei",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

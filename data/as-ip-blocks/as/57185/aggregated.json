@@ -1,0 +1,14 @@
+{
+  "asn": 57185,
+  "metadata": {
+    "handle": "LA-LORRAINE",
+    "description": "LA LORRAINE SRL",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

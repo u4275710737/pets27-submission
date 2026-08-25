@@ -1,0 +1,16 @@
+{
+  "asn": 20909,
+  "metadata": {
+    "handle": "CONTIUM-AS",
+    "description": "UNIVIO Sp. z o.o.",
+    "countryCode": "PL",
+    "country": "Poland",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "91.217.171.0/24" ],
+    "ipv6": [ ]
+  }
+}

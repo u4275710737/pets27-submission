@@ -1,0 +1,14 @@
+{
+  "asn": 215433,
+  "metadata": {
+    "handle": "SOLEEXNODES",
+    "description": "Soleex BV",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 23485,
+  "metadata": {
+    "handle": "SEI-LLC-NUM",
+    "description": "SEI LLC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

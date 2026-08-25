@@ -1,0 +1,14 @@
+{
+  "asn": 139853,
+  "metadata": {
+    "handle": "NOMINET-AS-AP",
+    "description": "NOMINET UK",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

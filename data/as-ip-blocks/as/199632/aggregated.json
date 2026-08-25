@@ -1,0 +1,16 @@
+{
+  "asn": 199632,
+  "metadata": {
+    "handle": "TILDENINJA",
+    "description": "Nikolai Stensen",
+    "countryCode": "NO",
+    "country": "Norway",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ "2a06:9801:265::/48", "2a06:9801:278::/48" ]
+  }
+}

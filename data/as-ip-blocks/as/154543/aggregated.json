@@ -1,0 +1,16 @@
+{
+  "asn": 154543,
+  "metadata": {
+    "handle": "IRINN-BROAD-AS-IN",
+    "description": "BROADNET FIBERLINK PRIVATE LIMITED",
+    "countryCode": "IN",
+    "country": "India",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "163.128.46.0/23" ],
+    "ipv6": [ ]
+  }
+}

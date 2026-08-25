@@ -1,0 +1,14 @@
+{
+  "asn": 63503,
+  "metadata": {
+    "handle": "IDNIC-NADYNE-ID",
+    "description": "PT. Nadyne Media Tama",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

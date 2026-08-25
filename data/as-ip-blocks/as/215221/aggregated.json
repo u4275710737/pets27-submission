@@ -1,0 +1,16 @@
+{
+  "asn": 215221,
+  "metadata": {
+    "handle": "OSAP-AS",
+    "description": "OUR SPACE APPLIANCES d.o.o.",
+    "countryCode": "SI",
+    "country": "Slovenia",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "195.20.142.0/24" ],
+    "ipv6": [ ]
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 24442,
+  "metadata": {
+    "handle": "BMW-AP",
+    "description": "BMW Asia Technology Center Sdn Bhd",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

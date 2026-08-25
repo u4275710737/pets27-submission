@@ -1,0 +1,14 @@
+{
+  "asn": 202086,
+  "metadata": {
+    "handle": "TA496-AS",
+    "description": "Zaklad Instalacji Anten Jacek Krasnodebski",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "asn": 208985,
+  "metadata": {
+    "handle": "NPSERVER-AS",
+    "description": "Niklas Polte",
+    "countryCode": "DE",
+    "country": "Germany",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "193.46.36.0/23" ],
+    "ipv6": [ ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "asn": 151302,
+  "metadata": {
+    "handle": "HJ-HIDDOS",
+    "description": "Hebei Sea Whale Technology Co. Ltd.",
+    "countryCode": "CN",
+    "country": "China",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "43.248.101.0/24", "43.248.134.0/23", "43.248.136.0/24", "43.249.168.0/22" ],
+    "ipv6": [ ]
+  }
+}

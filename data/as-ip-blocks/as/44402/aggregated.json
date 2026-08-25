@@ -1,0 +1,14 @@
+{
+  "asn": 44402,
+  "metadata": {
+    "handle": "GFINET",
+    "description": "GFI Holdings Limited",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 11236,
+  "metadata": {
+    "handle": "FUSEMAIL",
+    "description": "MailAnyone.net",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

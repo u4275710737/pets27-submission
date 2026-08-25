@@ -1,0 +1,5 @@
+# AS40226 (GLOBALFCU)
+# Global Credit Union
+#
+208.69.196.0/23
+208.69.198.0/24

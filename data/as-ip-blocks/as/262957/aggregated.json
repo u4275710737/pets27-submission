@@ -1,0 +1,16 @@
+{
+  "asn": 262957,
+  "metadata": {
+    "handle": "8-BIT-INFORMATICA",
+    "description": "8-Bit Informatica e Provedor LTDA",
+    "countryCode": "BR",
+    "country": "Brazil",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "access_provider"
+  },
+  "prefixes": {
+    "ipv4": [ "186.226.218.0/24" ],
+    "ipv6": [ "2804:8eb4:8000::/40" ]
+  }
+}

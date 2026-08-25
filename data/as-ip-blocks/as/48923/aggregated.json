@@ -1,0 +1,14 @@
+{
+  "asn": 48923,
+  "metadata": {
+    "handle": "ISP-LECOS",
+    "description": "Lecos Online Ltd.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

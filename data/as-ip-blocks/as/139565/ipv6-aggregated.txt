@@ -1,0 +1,4 @@
+# AS139565 (KORDBSPL-AS)
+# Kord Broadband Services Pvt Ltd
+#
+2001:df6:f240::/48

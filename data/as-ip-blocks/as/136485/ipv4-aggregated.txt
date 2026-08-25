@@ -1,0 +1,4 @@
+# AS136485 (CHT-AS-AP)
+# Chunghwa Telecom (Thailand) Co. Ltd.
+#
+103.90.40.0/22

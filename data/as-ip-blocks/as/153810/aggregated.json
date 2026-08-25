@@ -1,0 +1,16 @@
+{
+  "asn": 153810,
+  "metadata": {
+    "handle": "MDNTECHNOLOGYLTD-AS-AP",
+    "description": "MDN TECHNOLOGY LTD",
+    "countryCode": "BD",
+    "country": "Bangladesh",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ ]
+  }
+}

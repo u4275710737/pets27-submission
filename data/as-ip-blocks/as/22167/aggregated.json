@@ -1,0 +1,14 @@
+{
+  "asn": 22167,
+  "metadata": {
+    "handle": "FINTECH-INTERNET",
+    "description": "Fintech",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

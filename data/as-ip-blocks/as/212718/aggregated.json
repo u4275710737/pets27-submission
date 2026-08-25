@@ -1,0 +1,14 @@
+{
+  "asn": 212718,
+  "metadata": {
+    "handle": "FIKA-STUDIO",
+    "description": "Fika Studio Limited",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

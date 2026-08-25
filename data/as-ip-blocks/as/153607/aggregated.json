@@ -1,0 +1,14 @@
+{
+  "asn": 153607,
+  "metadata": {
+    "handle": "BOYSASUKE-AS-ID",
+    "description": "BOY SASUKE",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

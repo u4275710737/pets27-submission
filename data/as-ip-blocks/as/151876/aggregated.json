@@ -1,0 +1,16 @@
+{
+  "asn": 151876,
+  "metadata": {
+    "handle": "BNIX-VN",
+    "description": "BLUE SKY NETWORK INFRASTRUCTURE SOLUTIONS CO. LTD",
+    "countryCode": "VN",
+    "country": "Vietnam",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ "2401:53a0::/48" ]
+  }
+}

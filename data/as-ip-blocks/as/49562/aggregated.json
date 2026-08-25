@@ -1,0 +1,14 @@
+{
+  "asn": 49562,
+  "metadata": {
+    "handle": "XMS",
+    "description": "KPN B.V.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

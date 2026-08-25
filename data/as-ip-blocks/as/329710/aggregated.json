@@ -1,0 +1,16 @@
+{
+  "asn": 329710,
+  "metadata": {
+    "handle": "MICRO-IT-SOLUTIONS",
+    "description": "Micro IT Solutions (Proprietary) Limited",
+    "countryCode": "SZ",
+    "country": "Eswatini",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ ]
+  }
+}

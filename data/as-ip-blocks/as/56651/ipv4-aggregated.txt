@@ -1,0 +1,4 @@
+# AS56651 (SI-URADNI-LIST-RS)
+# Uradni list d.o.o.
+#
+193.26.220.0/24

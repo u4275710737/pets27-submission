@@ -1,0 +1,14 @@
+{
+  "asn": 214648,
+  "metadata": {
+    "handle": "WIRELINK",
+    "description": "Wirelink LLC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

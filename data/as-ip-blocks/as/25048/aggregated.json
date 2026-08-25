@@ -1,0 +1,16 @@
+{
+  "asn": 25048,
+  "metadata": {
+    "handle": "DSNET",
+    "description": "DSNET Ltd",
+    "countryCode": "GB",
+    "country": "United Kingdom",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "81.90.132.0/23", "81.90.135.0/24", "81.90.139.0/24", "81.90.143.0/24" ],
+    "ipv6": [ "2a00:e20::/31", "2a00:e26::/32" ]
+  }
+}

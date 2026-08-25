@@ -1,0 +1,14 @@
+{
+  "asn": 54557,
+  "metadata": {
+    "handle": "VMW-BOSTON",
+    "description": "VMWare, Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

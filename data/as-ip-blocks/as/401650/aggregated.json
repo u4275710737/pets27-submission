@@ -1,0 +1,16 @@
+{
+  "asn": 401650,
+  "metadata": {
+    "handle": "VL",
+    "description": "888 Ventures LLC",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ ]
+  }
+}

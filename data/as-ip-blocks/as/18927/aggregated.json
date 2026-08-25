@@ -1,0 +1,14 @@
+{
+  "asn": 18927,
+  "metadata": {
+    "handle": "DIGITALREP",
+    "description": "Digitalrep, LLC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

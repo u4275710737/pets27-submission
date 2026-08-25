@@ -1,0 +1,19 @@
+{
+  "asn": 8835,
+  "metadata": {
+    "handle": "BINKBROADBAND",
+    "description": "BINK BROADBAND LTD",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [
+      "80.252.119.0/24",
+      "194.60.196.0/23"
+    ],
+    "ipv6": [
+      "2a0c:cf40::/29"
+    ]
+  }
+}

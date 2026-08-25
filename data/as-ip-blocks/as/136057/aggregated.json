@@ -1,0 +1,14 @@
+{
+  "asn": 136057,
+  "metadata": {
+    "handle": "IDNIC-PLATINUMCYBER-ID",
+    "description": "PT.PLATINUM CITRA INDONESIA",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

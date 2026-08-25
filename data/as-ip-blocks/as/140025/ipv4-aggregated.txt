@@ -1,0 +1,4 @@
+# AS140025 (IDNIC-IAINPONOROGO-AS-ID)
+# Universitas Islam Negeri Kiai Ageng Muhammad Besari Ponorogo
+#
+103.149.22.0/24

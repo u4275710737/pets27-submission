@@ -1,0 +1,14 @@
+{
+  "asn": 64417,
+  "metadata": {
+    "handle": "BROWNIAN",
+    "description": "BROWNIAN LABS SRL",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

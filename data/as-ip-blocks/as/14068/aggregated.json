@@ -1,0 +1,14 @@
+{
+  "asn": 14068,
+  "metadata": {
+    "handle": "PLAYBOY-BLK-1",
+    "description": "Playboy",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 132442,
+  "metadata": {
+    "handle": "TIS-AP",
+    "description": "Tongi Internet System",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

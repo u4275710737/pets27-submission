@@ -1,0 +1,14 @@
+{
+  "asn": 41256,
+  "metadata": {
+    "handle": "SERVCOM",
+    "description": "Servcom Sp. z o.o.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,5 @@
+# AS38176 (EMPERION-RIPE)
+# Emperion AS number in RIPE
+#
+2405:1400::/32
+2a0a:1a40::/32

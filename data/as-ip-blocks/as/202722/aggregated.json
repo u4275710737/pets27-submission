@@ -1,0 +1,14 @@
+{
+  "asn": 202722,
+  "metadata": {
+    "handle": "TELENET",
+    "description": "Telenet Group SRL",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

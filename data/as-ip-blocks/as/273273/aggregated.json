@@ -1,0 +1,16 @@
+{
+  "asn": 273273,
+  "metadata": {
+    "handle": "ELIAS-LOPEZ-COLORADO",
+    "description": "ELIAS LOPEZ COLORADO",
+    "countryCode": "MX",
+    "country": "Mexico",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "38.236.68.0/22" ],
+    "ipv6": [ ]
+  }
+}

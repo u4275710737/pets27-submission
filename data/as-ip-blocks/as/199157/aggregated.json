@@ -1,0 +1,14 @@
+{
+  "asn": 199157,
+  "metadata": {
+    "handle": "TCS-SSC-EIJISAT",
+    "description": "THALES SIX GTS FRANCE SAS",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

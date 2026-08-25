@@ -1,0 +1,14 @@
+{
+  "asn": 45373,
+  "metadata": {
+    "handle": "KSCFC-AS",
+    "description": "Korea Finance for Construction",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

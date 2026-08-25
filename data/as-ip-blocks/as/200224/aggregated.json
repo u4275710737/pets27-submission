@@ -1,0 +1,16 @@
+{
+  "asn": 200224,
+  "metadata": {
+    "handle": "DWE",
+    "description": "DWE GmbH",
+    "countryCode": "DE",
+    "country": "Germany",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "130.78.244.0/22" ],
+    "ipv6": [ ]
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 151659,
+  "metadata": {
+    "handle": "NEW-AP",
+    "description": "New Pakistan Cable Network",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

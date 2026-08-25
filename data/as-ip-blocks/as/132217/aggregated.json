@@ -1,0 +1,14 @@
+{
+  "asn": 132217,
+  "metadata": {
+    "handle": "VIRGIN-AP",
+    "description": "Virgin Australia Airlines Pty Ltd",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

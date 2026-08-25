@@ -1,0 +1,16 @@
+{
+  "asn": 197324,
+  "metadata": {
+    "handle": "BGP43",
+    "description": "Vladyslav Koba",
+    "countryCode": "IL",
+    "country": "Israel",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ "2a0b:4e07:b43::/48" ]
+  }
+}

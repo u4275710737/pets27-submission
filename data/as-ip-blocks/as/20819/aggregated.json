@@ -1,0 +1,16 @@
+{
+  "asn": 20819,
+  "metadata": {
+    "handle": "ALITALIA",
+    "description": "ITALIA TRASPORTO AEREO S.P.A.",
+    "countryCode": "IT",
+    "country": "Italy",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "80.72.160.0/20" ],
+    "ipv6": [ ]
+  }
+}

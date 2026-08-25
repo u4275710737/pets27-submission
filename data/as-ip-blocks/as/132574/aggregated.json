@@ -1,0 +1,14 @@
+{
+  "asn": 132574,
+  "metadata": {
+    "handle": "AI-1720",
+    "description": "Alpha InfoLab Inc",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

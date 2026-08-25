@@ -1,0 +1,14 @@
+{
+  "asn": 63237,
+  "metadata": {
+    "handle": "UDEMY",
+    "description": "Udemy",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

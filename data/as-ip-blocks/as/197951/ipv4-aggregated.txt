@@ -1,0 +1,4 @@
+# AS197951 (TREND-ODEME-AS)
+# Trend Odeme Kurulusu A.S.
+#
+193.84.102.0/24

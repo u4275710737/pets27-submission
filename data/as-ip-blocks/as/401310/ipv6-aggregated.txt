@@ -1,0 +1,4 @@
+# AS401310 (PMTC-ASN)
+# Palmer Mutual Telephone Company
+#
+2602:f849::/36

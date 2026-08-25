@@ -1,0 +1,8 @@
+# AS13649 (OUT-OF-REGION-ARIN)
+# Flexential Colorado Corp.
+#
+2600:3000::/29
+2602:f788::/38
+2607:f758::/32
+2607:fdf8::/32
+2620:84:a000::/44

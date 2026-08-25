@@ -1,0 +1,14 @@
+{
+  "asn": 54077,
+  "metadata": {
+    "handle": "OMH",
+    "description": "Old Mutual (US) Holdings",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

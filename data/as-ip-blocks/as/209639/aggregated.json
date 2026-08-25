@@ -1,0 +1,14 @@
+{
+  "asn": 209639,
+  "metadata": {
+    "handle": "ELS-AS",
+    "description": "European Legal Service LLC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

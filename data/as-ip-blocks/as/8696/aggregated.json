@@ -1,0 +1,16 @@
+{
+  "asn": 8696,
+  "metadata": {
+    "handle": "AS8696-ONE-HU",
+    "description": "Invitech ICT Services Kft.",
+    "countryCode": "HU",
+    "country": "Hungary",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "80.244.96.0/20" ],
+    "ipv6": [ ]
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 13650,
+  "metadata": {
+    "handle": "AXIA-CONNECT-USA",
+    "description": "Axia FibreNet Ltd.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

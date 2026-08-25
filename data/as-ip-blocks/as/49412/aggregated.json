@@ -1,0 +1,14 @@
+{
+  "asn": 49412,
+  "metadata": {
+    "handle": "CA-SRB",
+    "description": "Raiffeisen banka ad Beograd",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

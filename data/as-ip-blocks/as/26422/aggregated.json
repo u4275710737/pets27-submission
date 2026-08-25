@@ -1,0 +1,14 @@
+{
+  "asn": 26422,
+  "metadata": {
+    "handle": "ICTGLOBAL-MANAGEMENT",
+    "description": "ICTGlobe Management (Pty) Ltd",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

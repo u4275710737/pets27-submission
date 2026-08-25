@@ -1,0 +1,14 @@
+{
+  "asn": 395306,
+  "metadata": {
+    "handle": "BROADBANDCORP",
+    "description": "BROADBAND CORP",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

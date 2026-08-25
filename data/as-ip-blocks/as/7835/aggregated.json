@@ -1,0 +1,14 @@
+{
+  "asn": 7835,
+  "metadata": {
+    "handle": "ABRAXIS",
+    "description": "Abraxis Networks Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

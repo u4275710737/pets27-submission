@@ -1,0 +1,14 @@
+{
+  "asn": 204786,
+  "metadata": {
+    "handle": "FMT32",
+    "description": "serve-u - Buchholz und Suenderhauf GbR",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

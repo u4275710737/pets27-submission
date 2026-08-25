@@ -1,0 +1,5 @@
+# AS59600 (ATLAS-TELECOM-AS)
+# United Communication Systems Tambov LLC
+#
+91.244.168.0/21
+91.244.176.0/22

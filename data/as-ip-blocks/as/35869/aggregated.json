@@ -1,0 +1,14 @@
+{
+  "asn": 35869,
+  "metadata": {
+    "handle": "PETERAMAYER",
+    "description": "Peter A Mayer Advertising, Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

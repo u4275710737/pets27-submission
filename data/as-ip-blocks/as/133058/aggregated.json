@@ -1,0 +1,14 @@
+{
+  "asn": 133058,
+  "metadata": {
+    "handle": "MYREPUBLIC-SG",
+    "description": "MYREPUBLIC LIMITED",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,5 @@
+# AS26481 (REBEL-HOSTING)
+# Rebel Hosting
+#
+199.33.120.0/21
+209.74.104.0/21

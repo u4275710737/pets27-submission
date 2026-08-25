@@ -1,0 +1,3 @@
+# AS36618 (FGTLD)
+# VeriSign Global Registry Services
+#

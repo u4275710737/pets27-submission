@@ -1,0 +1,14 @@
+{
+  "asn": 26896,
+  "metadata": {
+    "handle": "D102-COS-2",
+    "description": "Data102",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

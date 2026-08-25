@@ -1,0 +1,16 @@
+{
+  "asn": 36372,
+  "metadata": {
+    "handle": "DP-SHV",
+    "description": "DartPoints Operating Company LLC",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "access_provider"
+  },
+  "prefixes": {
+    "ipv4": [ "173.242.144.0/20", "208.79.48.0/22" ],
+    "ipv6": [ "2604:d801::/32" ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "asn": 200954,
+  "metadata": {
+    "handle": "NUVIRA-AS",
+    "description": "Andrey Shemanin",
+    "countryCode": "RU",
+    "country": "Russia",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "45.88.66.0/24", "81.90.20.0/24" ],
+    "ipv6": [ ]
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 7829,
+  "metadata": {
+    "handle": "GEOLINKS",
+    "description": "GeoLinks",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

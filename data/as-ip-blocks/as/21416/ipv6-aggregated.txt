@@ -1,0 +1,9 @@
+# AS21416 (TCINET-AS)
+# The Technical center of Internet Limited Liability Company
+#
+2a0e:eac0:1000::/48
+2a0e:eac0:1105::/48
+2a0e:eac0:1106::/47
+2a0e:eac0:1108::/47
+2a0e:eac0:1110::/46
+2a0e:eac0:1115::/48

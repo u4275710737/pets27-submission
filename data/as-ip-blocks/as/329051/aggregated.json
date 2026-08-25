@@ -1,0 +1,14 @@
+{
+  "asn": 329051,
+  "metadata": {
+    "handle": "SPECTRANET-LIMITED",
+    "description": "SPECTRANET LIMITED",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

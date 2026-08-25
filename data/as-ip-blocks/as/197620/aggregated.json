@@ -1,0 +1,16 @@
+{
+  "asn": 197620,
+  "metadata": {
+    "handle": "EZ-BIT-AS",
+    "description": "ezbit sp. z o.o.",
+    "countryCode": "PL",
+    "country": "Poland",
+    "origin": "authoritative",
+    "category": null,
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "188.191.200.0/21" ],
+    "ipv6": [ ]
+  }
+}

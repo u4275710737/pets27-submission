@@ -1,0 +1,14 @@
+{
+  "asn": 47961,
+  "metadata": {
+    "handle": "RRMEDIA",
+    "description": "MX1 Ltd.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 135844,
+  "metadata": {
+    "handle": "NETIT",
+    "description": "Lightyears Broadband Pvt Ltd",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

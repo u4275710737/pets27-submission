@@ -1,0 +1,16 @@
+{
+  "asn": 402444,
+  "metadata": {
+    "handle": "LUMMI-NATION-CONNECT",
+    "description": "Lummi Nation Connect",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ "2606:1480::/32" ]
+  }
+}

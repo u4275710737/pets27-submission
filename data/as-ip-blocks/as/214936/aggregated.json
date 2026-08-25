@@ -1,0 +1,14 @@
+{
+  "asn": 214936,
+  "metadata": {
+    "handle": "POLIDO",
+    "description": "Goncalo Alves Polido",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

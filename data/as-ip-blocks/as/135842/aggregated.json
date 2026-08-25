@@ -1,0 +1,14 @@
+{
+  "asn": 135842,
+  "metadata": {
+    "handle": "DHEERA-IN",
+    "description": "Dheera Net Services Pvt. Ltd.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

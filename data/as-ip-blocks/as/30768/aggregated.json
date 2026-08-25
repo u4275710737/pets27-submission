@@ -1,0 +1,14 @@
+{
+  "asn": 30768,
+  "metadata": {
+    "handle": "LANTEK",
+    "description": "Lantek LLC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

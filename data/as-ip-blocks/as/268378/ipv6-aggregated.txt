@@ -1,0 +1,4 @@
+# AS268378 (TECNOTEC-TELECOMUNICACOES-INFORMATICA)
+# Tecnotec Telecomunicações e Informática Ltda
+#
+2804:5044::/32

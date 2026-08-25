@@ -1,0 +1,6 @@
+# AS60941 (FTS)
+# Fujitsu Technology Solutions BV
+#
+2a04:18c0::/45
+2a04:18c0:8::/47
+2a04:18c0:a::/48

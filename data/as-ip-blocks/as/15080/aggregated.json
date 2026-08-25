@@ -1,0 +1,14 @@
+{
+  "asn": 15080,
+  "metadata": {
+    "handle": "VIKINGGLOBAL",
+    "description": "Viking Global Investors LP",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

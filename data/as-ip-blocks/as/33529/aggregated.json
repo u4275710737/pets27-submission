@@ -1,0 +1,16 @@
+{
+  "asn": 33529,
+  "metadata": {
+    "handle": "PWC-136-33529",
+    "description": "PAC Worldwide Corporation",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "104.194.6.0/23" ],
+    "ipv6": [ ]
+  }
+}

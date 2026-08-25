@@ -1,0 +1,14 @@
+{
+  "asn": 213988,
+  "metadata": {
+    "handle": "NEROX",
+    "description": "Lars Strandos",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

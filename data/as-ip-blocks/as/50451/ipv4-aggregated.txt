@@ -1,0 +1,5 @@
+# AS50451 (DIGITAL-NSO)
+# Ministry of Digital Development and Communications of the Novosibirsk Region
+#
+185.138.128.0/24
+195.208.97.0/24

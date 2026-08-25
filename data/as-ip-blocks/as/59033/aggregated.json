@@ -1,0 +1,14 @@
+{
+  "asn": 59033,
+  "metadata": {
+    "handle": "ESUNNET",
+    "description": "Esun Technology(Shanghai) Co. Ltd",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

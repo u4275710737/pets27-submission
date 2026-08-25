@@ -1,0 +1,14 @@
+{
+  "asn": 33090,
+  "metadata": {
+    "handle": "ANDREWCORP-NOVA",
+    "description": "Andrew Corp.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

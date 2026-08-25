@@ -1,0 +1,14 @@
+{
+  "asn": 214764,
+  "metadata": {
+    "handle": "ALBERTO-SPAZIANO-NET",
+    "description": "Alberto Spaziano",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

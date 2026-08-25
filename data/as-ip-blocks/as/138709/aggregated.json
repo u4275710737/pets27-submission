@@ -1,0 +1,14 @@
+{
+  "asn": 138709,
+  "metadata": {
+    "handle": "OCEANNET-IN",
+    "description": "Ocean Leasedline Wala Pvt Ltd",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

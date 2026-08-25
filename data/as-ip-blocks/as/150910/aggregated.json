@@ -1,0 +1,14 @@
+{
+  "asn": 150910,
+  "metadata": {
+    "handle": "MODATEK-VN",
+    "description": "MODATEK LIMITED COMPANY",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

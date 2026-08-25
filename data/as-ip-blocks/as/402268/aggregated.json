@@ -1,0 +1,16 @@
+{
+  "asn": 402268,
+  "metadata": {
+    "handle": "FREECONNECT",
+    "description": "YUGS Networks Ltd.",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "16.216.128.0/24" ],
+    "ipv6": [ ]
+  }
+}

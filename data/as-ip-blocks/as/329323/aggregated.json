@@ -1,0 +1,14 @@
+{
+  "asn": 329323,
+  "metadata": {
+    "handle": "BRAVOSCAN-252",
+    "description": "Bravoscan 252 (PTY) LTD",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 49944,
+  "metadata": {
+    "handle": "OZDKABEL-NET",
+    "description": "Ozd Kabel TV-NET Kft",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

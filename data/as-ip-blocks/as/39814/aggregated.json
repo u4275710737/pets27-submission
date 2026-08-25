@@ -1,0 +1,14 @@
+{
+  "asn": 39814,
+  "metadata": {
+    "handle": "ITSERV",
+    "description": "SIA IT Services",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

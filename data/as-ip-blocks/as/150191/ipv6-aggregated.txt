@@ -1,0 +1,5 @@
+# AS150191 (IDNIC-SARANAINTIMEDIA-AS-ID)
+# PT Sarana Intimedia Telematika
+#
+2001:df2:5dc0::/48
+2001:df2:fe40::/48

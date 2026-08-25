@@ -1,0 +1,14 @@
+{
+  "asn": 153668,
+  "metadata": {
+    "handle": "FASTBEE24-AS-AP",
+    "description": "Fast Bee 24",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

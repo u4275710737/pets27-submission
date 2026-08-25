@@ -1,0 +1,5 @@
+# AS8595 (WESTCALL-AS)
+# OOO WestCall Ltd.
+#
+2a02:de80::/29
+2a11:a940::/29

@@ -1,0 +1,14 @@
+{
+  "asn": 394953,
+  "metadata": {
+    "handle": "SAP-CONCUR-EP",
+    "description": "SAP America Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

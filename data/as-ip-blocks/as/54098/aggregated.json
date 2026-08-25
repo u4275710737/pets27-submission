@@ -1,0 +1,16 @@
+{
+  "asn": 54098,
+  "metadata": {
+    "handle": "LIONLINK-NETWORKS",
+    "description": "LIONLINK NETWORKS",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "23.92.32.0/20" ],
+    "ipv6": [ "2607:2740::/32" ]
+  }
+}

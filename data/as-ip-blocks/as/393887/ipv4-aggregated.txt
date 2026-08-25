@@ -1,0 +1,4 @@
+# AS393887 (BIAMP-HQ)
+# Biamp Systems LLC
+#
+38.147.159.0/24

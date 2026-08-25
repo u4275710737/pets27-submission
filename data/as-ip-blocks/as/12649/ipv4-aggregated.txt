@@ -1,0 +1,4 @@
+# AS12649 (BANQUE-PICTET-CIE-SA)
+# Banque Pictet & Cie SA
+#
+185.154.92.0/23

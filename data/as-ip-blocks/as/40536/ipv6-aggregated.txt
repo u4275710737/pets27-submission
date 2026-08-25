@@ -1,0 +1,6 @@
+# AS40536 (PIXELDECK)
+# PixelDeck Hosting LLC
+#
+2602:f629::/47
+2602:f629:3::/48
+2602:f629:f::/48

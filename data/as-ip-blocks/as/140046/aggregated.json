@@ -1,0 +1,14 @@
+{
+  "asn": 140046,
+  "metadata": {
+    "handle": "TAOF-AP",
+    "description": "Telecommunications Authority of Fiji",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "asn": 37414,
+  "metadata": {
+    "handle": "MICROCOM-ISP",
+    "description": "Microcom Sprl",
+    "countryCode": "CD",
+    "country": "Congo - Kinshasa",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "41.223.104.0/22", "196.61.72.0/22" ],
+    "ipv6": [ ]
+  }
+}

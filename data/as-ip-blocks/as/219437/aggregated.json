@@ -1,0 +1,16 @@
+{
+  "asn": 219437,
+  "metadata": {
+    "handle": "CY-OCTACHORONST-20260612",
+    "description": "OCTACHORON STUDIO LTD",
+    "countryCode": "CY",
+    "country": "Cyprus",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ "2a0c:b641:db0::/44" ]
+  }
+}

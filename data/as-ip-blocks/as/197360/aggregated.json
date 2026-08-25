@@ -1,0 +1,16 @@
+{
+  "asn": 197360,
+  "metadata": {
+    "handle": "HQ-24PING-LTD",
+    "description": "24Ping Ltd.",
+    "countryCode": "GB",
+    "country": "United Kingdom",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "191.44.106.0/24" ],
+    "ipv6": [ ]
+  }
+}

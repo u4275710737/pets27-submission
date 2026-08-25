@@ -1,0 +1,16 @@
+{
+  "asn": 268001,
+  "metadata": {
+    "handle": "ABASE-SISTEMAS-SOLUCOES",
+    "description": "ABASE Sistemas e Soluções Ltda",
+    "countryCode": "BR",
+    "country": "Brazil",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "45.165.153.0/24" ],
+    "ipv6": [ ]
+  }
+}

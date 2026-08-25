@@ -1,0 +1,14 @@
+{
+  "asn": 205595,
+  "metadata": {
+    "handle": "MTW-VOSTOK-AS",
+    "description": "JSC Mediasoft ekspert",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

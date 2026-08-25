@@ -1,0 +1,14 @@
+{
+  "asn": 206131,
+  "metadata": {
+    "handle": "XPCOM-SYSTEMS",
+    "description": "XPCOM-SYSTEMS UG",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

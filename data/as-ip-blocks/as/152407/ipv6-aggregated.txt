@@ -1,0 +1,4 @@
+# AS152407 (IDNIC-NETFINITY-AS-ID)
+# PT Netfinity Network Indonesia
+#
+2001:df6:86c0::/48

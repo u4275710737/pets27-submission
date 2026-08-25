@@ -1,0 +1,14 @@
+{
+  "asn": 400999,
+  "metadata": {
+    "handle": "NODESHIFT-US",
+    "description": "NodeShift",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

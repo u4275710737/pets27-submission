@@ -1,0 +1,4 @@
+# AS270970 (EMMANUEL-HERCULANO-PESSOA)
+# Likenet Serviços de Comunicação Multimídia LTDA
+#
+2804:7444::/32

@@ -1,0 +1,14 @@
+{
+  "asn": 48241,
+  "metadata": {
+    "handle": "TTECH-AS",
+    "description": "Invest Mobile LLC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

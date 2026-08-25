@@ -1,0 +1,14 @@
+{
+  "asn": 14396,
+  "metadata": {
+    "handle": "IVANET-BURLINGTON",
+    "description": "IBASIS INC.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

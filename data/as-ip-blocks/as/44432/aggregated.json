@@ -1,0 +1,14 @@
+{
+  "asn": 44432,
+  "metadata": {
+    "handle": "RACKBONE",
+    "description": "Andreas Fink trading as Fink Telecom Services GmbH",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

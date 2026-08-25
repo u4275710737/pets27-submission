@@ -1,0 +1,6 @@
+# AS31463 (FOURD-AS)
+# Redcentric Solutions Ltd
+#
+2a00:1c18::/29
+2a07:45c2::/40
+2a0f:64c0::/29

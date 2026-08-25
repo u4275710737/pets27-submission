@@ -1,0 +1,14 @@
+{
+  "asn": 63265,
+  "metadata": {
+    "handle": "BTMU-AMERICA-MUFG",
+    "description": "The Bank of Tokyo-Mitsubishi UFJ",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

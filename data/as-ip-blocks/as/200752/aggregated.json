@@ -1,0 +1,14 @@
+{
+  "asn": 200752,
+  "metadata": {
+    "handle": "SPINNAKER-AS",
+    "description": "Spinnaker S.r.l.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

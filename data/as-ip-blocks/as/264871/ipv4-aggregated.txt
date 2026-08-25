@@ -1,0 +1,4 @@
+# AS264871 (INTERPOP-TELECOM)
+# InterPop Telecomunicações Eireli
+#
+168.205.232.0/22

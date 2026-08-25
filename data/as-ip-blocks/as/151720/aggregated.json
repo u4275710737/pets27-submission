@@ -1,0 +1,14 @@
+{
+  "asn": 151720,
+  "metadata": {
+    "handle": "DRVDIGITAL-AS-IN",
+    "description": "Drv Digital Network Private Limited",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

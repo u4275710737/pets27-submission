@@ -1,0 +1,16 @@
+{
+  "asn": 275623,
+  "metadata": {
+    "handle": "E-P-ARAUJO",
+    "description": "E P DE ARAUJO LTDA",
+    "countryCode": "BR",
+    "country": "Brazil",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ "2804:976c:20::/43", "2804:976c:1100::/48", "2804:976c:1180::/44" ]
+  }
+}

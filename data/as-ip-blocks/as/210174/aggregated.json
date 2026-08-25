@@ -1,0 +1,14 @@
+{
+  "asn": 210174,
+  "metadata": {
+    "handle": "AS210174",
+    "description": "Taha Mertcan Akbaba",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

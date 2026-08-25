@@ -1,0 +1,14 @@
+{
+  "asn": 202408,
+  "metadata": {
+    "handle": "MANSORA-NETWORK",
+    "description": "MANSORA NETWORK LIMITED",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

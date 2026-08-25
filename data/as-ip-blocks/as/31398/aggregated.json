@@ -1,0 +1,14 @@
+{
+  "asn": 31398,
+  "metadata": {
+    "handle": "NEC-EU",
+    "description": "NEC Europe LTD",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

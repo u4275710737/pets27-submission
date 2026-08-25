@@ -1,0 +1,16 @@
+{
+  "asn": 208462,
+  "metadata": {
+    "handle": "BISUP",
+    "description": "COSMIC STORE LLC",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "176.103.218.0/24" ],
+    "ipv6": [ ]
+  }
+}

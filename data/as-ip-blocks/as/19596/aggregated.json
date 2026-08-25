@@ -1,0 +1,14 @@
+{
+  "asn": 19596,
+  "metadata": {
+    "handle": "CCNY",
+    "description": "Clifford Chance US LLP",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

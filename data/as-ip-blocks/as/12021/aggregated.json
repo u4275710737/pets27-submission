@@ -1,0 +1,14 @@
+{
+  "asn": 12021,
+  "metadata": {
+    "handle": "ROGERS-COMMUNICATIONS",
+    "description": "Rogers Communications Canada Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

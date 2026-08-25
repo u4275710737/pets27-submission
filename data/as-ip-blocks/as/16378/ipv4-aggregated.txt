@@ -1,0 +1,4 @@
+# AS16378 (OTTO-NET)
+# Otto GmbH & Co. KGaA
+#
+80.85.192.0/20

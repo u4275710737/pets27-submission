@@ -1,0 +1,4 @@
+# AS142426 (FANTEL-AS-AP)
+# Fantel Pty Ltd
+#
+103.168.42.0/24

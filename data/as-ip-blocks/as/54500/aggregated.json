@@ -1,0 +1,16 @@
+{
+  "asn": 54500,
+  "metadata": {
+    "handle": "18779",
+    "description": "EGIHosting",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "45.39.136.0/24", "104.164.203.0/24" ],
+    "ipv6": [ ]
+  }
+}

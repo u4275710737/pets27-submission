@@ -1,0 +1,5 @@
+# AS9147 (JN-AS)
+# Homaye Jahan Nama Co. ( Private Joint Stock)
+#
+185.176.56.0/22
+212.86.64.0/19

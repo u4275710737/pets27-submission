@@ -1,0 +1,14 @@
+{
+  "asn": 269740,
+  "metadata": {
+    "handle": "ISTMO-ENTERTAINMENT",
+    "description": "ISTMO ENTERTAINMENT, SA.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

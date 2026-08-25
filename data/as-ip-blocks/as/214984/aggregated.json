@@ -1,0 +1,14 @@
+{
+  "asn": 214984,
+  "metadata": {
+    "handle": "CUHK",
+    "description": "CUHK LTD.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

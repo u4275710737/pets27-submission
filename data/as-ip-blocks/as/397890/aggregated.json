@@ -1,0 +1,14 @@
+{
+  "asn": 397890,
+  "metadata": {
+    "handle": "BETTER-ASN-01",
+    "description": "Betterment",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

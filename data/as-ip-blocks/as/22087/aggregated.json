@@ -1,0 +1,14 @@
+{
+  "asn": 22087,
+  "metadata": {
+    "handle": "SEARS-ECOMM",
+    "description": "Sears Holdings Management Corporation",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

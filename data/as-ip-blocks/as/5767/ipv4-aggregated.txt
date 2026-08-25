@@ -1,0 +1,5 @@
+# AS5767 (INFINITY)
+# Infinity AccessNET
+#
+170.159.4.0/22
+192.104.108.0/24

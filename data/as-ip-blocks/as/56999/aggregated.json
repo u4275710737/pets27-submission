@@ -1,0 +1,16 @@
+{
+  "asn": 56999,
+  "metadata": {
+    "handle": "STEAM-AS",
+    "description": "Steam Internet B.V.",
+    "countryCode": "NL",
+    "country": "Netherlands",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ "2a0a:7d40::/32" ]
+  }
+}

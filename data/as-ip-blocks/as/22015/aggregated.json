@@ -1,0 +1,14 @@
+{
+  "asn": 22015,
+  "metadata": {
+    "handle": "CLCH-NYC-NET",
+    "description": "Michael Callen-Audre Lorde Community Health Center",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

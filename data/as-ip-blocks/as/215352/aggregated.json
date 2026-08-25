@@ -1,0 +1,14 @@
+{
+  "asn": 215352,
+  "metadata": {
+    "handle": "PLOUIS",
+    "description": "PIERRE-LOUIS LESTRIEZ",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

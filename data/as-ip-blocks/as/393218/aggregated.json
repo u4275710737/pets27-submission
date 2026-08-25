@@ -1,0 +1,14 @@
+{
+  "asn": 393218,
+  "metadata": {
+    "handle": "ORACLE-OC39",
+    "description": "Oracle Corporation",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

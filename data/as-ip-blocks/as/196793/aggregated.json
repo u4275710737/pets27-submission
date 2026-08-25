@@ -1,0 +1,14 @@
+{
+  "asn": 196793,
+  "metadata": {
+    "handle": "CLOUDMORE",
+    "description": "Cloudmore AB",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 33735,
+  "metadata": {
+    "handle": "CRANE-DOWNTOWN-BGP",
+    "description": "CHARLES L CRANE AGENCY Company",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 204640,
+  "metadata": {
+    "handle": "IMPELLING",
+    "description": "Daniel Jackson",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

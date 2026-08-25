@@ -1,0 +1,14 @@
+{
+  "asn": 21880,
+  "metadata": {
+    "handle": "ZENDESK-NETWORK",
+    "description": "Zendesk, Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

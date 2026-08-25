@@ -1,0 +1,14 @@
+{
+  "asn": 197598,
+  "metadata": {
+    "handle": "VIRTUEON",
+    "description": "Virtueon Solutions LLC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

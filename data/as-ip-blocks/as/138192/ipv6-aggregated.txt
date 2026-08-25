@@ -1,0 +1,4 @@
+# AS138192 (SPEED1-AS-AP)
+# Speed Net
+#
+2403:88c0::/32

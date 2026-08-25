@@ -1,0 +1,14 @@
+{
+  "asn": 136338,
+  "metadata": {
+    "handle": "TRIVOZ",
+    "description": "Trivoz Digital Networks Pvt Ltd",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

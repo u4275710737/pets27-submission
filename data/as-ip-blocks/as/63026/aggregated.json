@@ -1,0 +1,14 @@
+{
+  "asn": 63026,
+  "metadata": {
+    "handle": "DP",
+    "description": "DartPoints LLC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

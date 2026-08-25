@@ -1,0 +1,14 @@
+{
+  "asn": 33564,
+  "metadata": {
+    "handle": "CONRESPS",
+    "description": "Continental Resources",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

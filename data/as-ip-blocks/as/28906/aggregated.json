@@ -1,0 +1,14 @@
+{
+  "asn": 28906,
+  "metadata": {
+    "handle": "TTKNN-AS1",
+    "description": "Joint Stock Company TransTeleCom",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

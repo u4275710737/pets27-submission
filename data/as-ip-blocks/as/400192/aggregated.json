@@ -1,0 +1,14 @@
+{
+  "asn": 400192,
+  "metadata": {
+    "handle": "WAVSPEED",
+    "description": "WavSpeed Incorporated",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

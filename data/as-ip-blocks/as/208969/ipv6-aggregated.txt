@@ -1,0 +1,4 @@
+# AS208969 (BITERIKA-BY-AS)
+# Biterika Group LLC
+#
+2a05:c440:4000::/36

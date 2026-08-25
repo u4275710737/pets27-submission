@@ -1,0 +1,16 @@
+{
+  "asn": 274258,
+  "metadata": {
+    "handle": "SERVICIOS-INTEGRALES-PERSONALIZADOS",
+    "description": "SERVICIOS INTEGRALES PERSONALIZADOS S.A.S",
+    "countryCode": "CO",
+    "country": "Colombia",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ "2803:efd0::/36" ]
+  }
+}

@@ -1,0 +1,5 @@
+# AS16094 (MAGTELECOM-AS)
+# Magistralny Telecom LLC
+#
+185.26.204.0/23
+217.22.174.0/23

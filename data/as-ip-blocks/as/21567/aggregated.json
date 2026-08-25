@@ -1,0 +1,14 @@
+{
+  "asn": 21567,
+  "metadata": {
+    "handle": "MARKETRON",
+    "description": "Maketron Broadcast Solutions, LLC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

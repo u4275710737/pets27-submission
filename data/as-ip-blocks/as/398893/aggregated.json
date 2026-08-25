@@ -1,0 +1,14 @@
+{
+  "asn": 398893,
+  "metadata": {
+    "handle": "CITYOFTUCSON-WIRELESS",
+    "description": "City of Tucson",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

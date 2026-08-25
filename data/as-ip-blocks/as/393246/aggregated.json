@@ -1,0 +1,16 @@
+{
+  "asn": 393246,
+  "metadata": {
+    "handle": "AFILIAS-IAD1-MON",
+    "description": "Afilias Canada Corp.",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "199.115.158.0/24" ],
+    "ipv6": [ "2001:500:a6::/48" ]
+  }
+}

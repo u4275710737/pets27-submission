@@ -1,0 +1,4 @@
+# AS14163 (SHEARMAN)
+# Shearman & Sterling
+#
+38.109.104.0/24

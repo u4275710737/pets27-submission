@@ -1,0 +1,14 @@
+{
+  "asn": 398769,
+  "metadata": {
+    "handle": "GEORGIA-MILITARY-COLLEGE",
+    "description": "Georgia Military College",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

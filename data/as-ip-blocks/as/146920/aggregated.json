@@ -1,0 +1,14 @@
+{
+  "asn": 146920,
+  "metadata": {
+    "handle": "RNINETCO-IN",
+    "description": "Rn Broadband Online Pvt. Ltd",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

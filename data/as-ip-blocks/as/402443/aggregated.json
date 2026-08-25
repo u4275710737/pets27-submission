@@ -1,0 +1,16 @@
+{
+  "asn": 402443,
+  "metadata": {
+    "handle": "AS-SIMPL-001",
+    "description": "SimpliFiber",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "216.71.124.0/22" ],
+    "ipv6": [ ]
+  }
+}

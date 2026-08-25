@@ -1,0 +1,17 @@
+{
+  "asn": 40144,
+  "metadata": {
+    "handle": "INTERCONTINENTAL-EXCHANGE",
+    "description": "Intercontinental Exchange, Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [
+      "63.247.117.0/24",
+      "158.224.16.0/24"
+    ],
+    "ipv6": []
+  }
+}

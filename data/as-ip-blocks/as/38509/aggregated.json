@@ -1,0 +1,14 @@
+{
+  "asn": 38509,
+  "metadata": {
+    "handle": "MAXIMA-ID",
+    "description": "PT. Maxima Data",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

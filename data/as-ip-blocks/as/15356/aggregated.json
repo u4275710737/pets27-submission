@@ -1,0 +1,14 @@
+{
+  "asn": 15356,
+  "metadata": {
+    "handle": "THEBANCORP",
+    "description": "Thebancorp.com",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

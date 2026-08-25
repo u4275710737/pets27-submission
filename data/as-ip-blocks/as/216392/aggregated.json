@@ -1,0 +1,16 @@
+{
+  "asn": 216392,
+  "metadata": {
+    "handle": "NETCLOUDIFY",
+    "description": "SERGI GARCIA JIMENEZ",
+    "countryCode": "ES",
+    "country": "Spain",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "access_provider"
+  },
+  "prefixes": {
+    "ipv4": [ "45.81.152.0/23", "45.144.228.0/24" ],
+    "ipv6": [ "2a0b:da80::/32" ]
+  }
+}

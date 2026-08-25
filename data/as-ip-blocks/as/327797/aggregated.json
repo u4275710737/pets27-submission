@@ -1,0 +1,16 @@
+{
+  "asn": 327797,
+  "metadata": {
+    "handle": "COWS",
+    "description": "Congo Online Web Services AS",
+    "countryCode": "CD",
+    "country": "Congo - Kinshasa",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "154.72.52.0/24" ],
+    "ipv6": [ ]
+  }
+}

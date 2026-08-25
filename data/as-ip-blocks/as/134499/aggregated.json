@@ -1,0 +1,14 @@
+{
+  "asn": 134499,
+  "metadata": {
+    "handle": "CENTRALLINKNET-AS-AP",
+    "description": "Central @linknet",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

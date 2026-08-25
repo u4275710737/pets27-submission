@@ -1,0 +1,4 @@
+# AS154439 (TECHABYTESOLUTIONS-AS-AP)
+# Techabyte Solutions
+#
+202.50.113.0/24

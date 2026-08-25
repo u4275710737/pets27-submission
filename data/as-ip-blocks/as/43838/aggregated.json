@@ -1,0 +1,14 @@
+{
+  "asn": 43838,
+  "metadata": {
+    "handle": "EDUCATION-BRADFORD",
+    "description": "City of Bradford Metropolitan District",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 23794,
+  "metadata": {
+    "handle": "BMCDN",
+    "description": "Broadmedia Corporation",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

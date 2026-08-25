@@ -1,0 +1,16 @@
+{
+  "asn": 51285,
+  "metadata": {
+    "handle": "APLANA",
+    "description": "LLC Aplana. Information Technologies",
+    "countryCode": "RU",
+    "country": "Russia",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ ]
+  }
+}

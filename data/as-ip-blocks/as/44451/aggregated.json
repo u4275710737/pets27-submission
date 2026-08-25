@@ -1,0 +1,14 @@
+{
+  "asn": 44451,
+  "metadata": {
+    "handle": "SKYTEL",
+    "description": "Digiweb ltd",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

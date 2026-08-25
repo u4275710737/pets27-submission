@@ -1,0 +1,14 @@
+{
+  "asn": 328432,
+  "metadata": {
+    "handle": "NORTH-STAR-INTERNATIONAL-AS",
+    "description": "NORTH STAR INTERNATIONAL",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

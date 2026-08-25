@@ -1,0 +1,14 @@
+{
+  "asn": 60683,
+  "metadata": {
+    "handle": "GEO-TEKNOLOJI",
+    "description": "GEO TEKNOLOJI A.S",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 150523,
+  "metadata": {
+    "handle": "IDNIC-IDE-AS-ID",
+    "description": "PT Ide Digital Inovatif",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

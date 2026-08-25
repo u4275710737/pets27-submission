@@ -1,0 +1,14 @@
+{
+  "asn": 37369,
+  "metadata": {
+    "handle": "UNIZIK",
+    "description": "Nnamdi Azikiwe University",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

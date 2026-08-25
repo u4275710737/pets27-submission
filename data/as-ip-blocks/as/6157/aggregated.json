@@ -1,0 +1,14 @@
+{
+  "asn": 6157,
+  "metadata": {
+    "handle": "SPRINTLINK-HOSTING",
+    "description": "SPRINT Business Serices Group",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

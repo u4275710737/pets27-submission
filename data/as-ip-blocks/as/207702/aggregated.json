@@ -1,0 +1,14 @@
+{
+  "asn": 207702,
+  "metadata": {
+    "handle": "CUENCA",
+    "description": "Nostravant S.L.L.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

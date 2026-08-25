@@ -1,0 +1,14 @@
+{
+  "asn": 29358,
+  "metadata": {
+    "handle": "DBAP-AS",
+    "description": "dbap GmbH",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

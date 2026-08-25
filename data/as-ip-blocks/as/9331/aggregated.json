@@ -1,0 +1,14 @@
+{
+  "asn": 9331,
+  "metadata": {
+    "handle": "BACKWAVES-AP",
+    "description": "NEXET LIMITED",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

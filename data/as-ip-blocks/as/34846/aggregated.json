@@ -1,0 +1,14 @@
+{
+  "asn": 34846,
+  "metadata": {
+    "handle": "CCORE-AS",
+    "description": "NEWS CORP UK & IRELAND LIMITED",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

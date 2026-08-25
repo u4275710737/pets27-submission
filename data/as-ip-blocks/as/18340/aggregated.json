@@ -1,0 +1,16 @@
+{
+  "asn": 18340,
+  "metadata": {
+    "handle": "SBKOREA-AS",
+    "description": "SBKorea",
+    "countryCode": "KR",
+    "country": "South Korea",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "168.222.17.0/24" ],
+    "ipv6": [ ]
+  }
+}

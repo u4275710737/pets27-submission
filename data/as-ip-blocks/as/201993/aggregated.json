@@ -1,0 +1,16 @@
+{
+  "asn": 201993,
+  "metadata": {
+    "handle": "KZ-TILDAPUBLISHING-1",
+    "description": "Tilda Publishing Kaz LLC",
+    "countryCode": "KZ",
+    "country": "Kazakhstan",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "213.130.74.0/24" ],
+    "ipv6": [ ]
+  }
+}

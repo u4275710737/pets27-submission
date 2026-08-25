@@ -1,0 +1,14 @@
+{
+  "asn": 56867,
+  "metadata": {
+    "handle": "TEKNOGRAD",
+    "description": "UPHEADS AS",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "asn": 212315,
+  "metadata": {
+    "handle": "FTCZ-NET",
+    "description": "Frantisek Toman",
+    "countryCode": "CZ",
+    "country": "Czechia",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "193.176.32.0/24", "194.164.239.0/24", "195.200.23.0/24" ],
+    "ipv6": [ "2a14:2040::/29" ]
+  }
+}

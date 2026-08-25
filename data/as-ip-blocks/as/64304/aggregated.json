@@ -1,0 +1,14 @@
+{
+  "asn": 64304,
+  "metadata": {
+    "handle": "WIN-NAP-ID",
+    "description": "PT WIRELESS INDONESIA",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

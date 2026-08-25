@@ -1,0 +1,14 @@
+{
+  "asn": 29976,
+  "metadata": {
+    "handle": "NETSUITE-CORP",
+    "description": "Oracle Corporation",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

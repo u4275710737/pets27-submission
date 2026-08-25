@@ -1,0 +1,14 @@
+{
+  "asn": 51818,
+  "metadata": {
+    "handle": "GPC-RS",
+    "description": "Moe BGP Co.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

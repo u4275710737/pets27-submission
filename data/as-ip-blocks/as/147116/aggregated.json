@@ -1,0 +1,14 @@
+{
+  "asn": 147116,
+  "metadata": {
+    "handle": "INDOGAME-ID",
+    "description": "PT Indogame Technology Group",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

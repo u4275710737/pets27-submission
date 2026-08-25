@@ -1,0 +1,16 @@
+{
+  "asn": 17612,
+  "metadata": {
+    "handle": "RINNAI-AS",
+    "description": "Rinnai Korea",
+    "countryCode": "KR",
+    "country": "South Korea",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "45.126.60.0/22", "106.48.32.0/19", "106.49.64.0/18", "202.0.127.0/24", "211.99.32.0/19", "218.97.128.0/19" ],
+    "ipv6": [ ]
+  }
+}

@@ -1,0 +1,4 @@
+# AS328315 (AS-SYNTIX)
+# Crisp Fibre (Pty) Ltd
+#
+102.164.80.0/20

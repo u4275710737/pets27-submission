@@ -1,0 +1,14 @@
+{
+  "asn": 44918,
+  "metadata": {
+    "handle": "ITBOX",
+    "description": "Firm Trade Corporation Ltd.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

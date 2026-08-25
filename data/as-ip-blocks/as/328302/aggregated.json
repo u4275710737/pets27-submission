@@ -1,0 +1,16 @@
+{
+  "asn": 328302,
+  "metadata": {
+    "handle": "CLOUDONE",
+    "description": "Cloud One Ltd",
+    "countryCode": "KE",
+    "country": "Kenya",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "102.164.53.0/24", "102.164.54.0/23" ],
+    "ipv6": [ ]
+  }
+}

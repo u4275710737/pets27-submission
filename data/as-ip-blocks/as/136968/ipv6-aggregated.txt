@@ -1,0 +1,4 @@
+# AS136968 (SINGAREN-GIX-AS-AP)
+# SingAREN
+#
+2401:c7c0:1::/48

@@ -1,0 +1,14 @@
+{
+  "asn": 55158,
+  "metadata": {
+    "handle": "RIVEN",
+    "description": "Riven",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 19824,
+  "metadata": {
+    "handle": "TPAC-LV-01",
+    "description": "TPx Communications",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

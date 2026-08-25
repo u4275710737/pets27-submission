@@ -1,0 +1,14 @@
+{
+  "asn": 16287,
+  "metadata": {
+    "handle": "KUZBASSNET",
+    "description": "PJSC Rostelecom",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

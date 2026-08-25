@@ -1,0 +1,14 @@
+{
+  "asn": 202681,
+  "metadata": {
+    "handle": "PRICERUNNER",
+    "description": "Klarna Bank AB",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 62221,
+  "metadata": {
+    "handle": "AMAYAMA",
+    "description": "Amayama Auto, Ltd.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,12 @@
+# AS3758 (ERX-SINGNET)
+# SingNet network used for Daimler access Singapore (main AS source: APNIC)
+#
+2001:c20::/32
+2400:1c00:13::/48
+2400:d801:7f00::/40
+2400:d802:4110::/44
+2400:d802:4180::/41
+2400:d802:4218::/45
+2400:d802:42c0::/42
+2401:be20::/32
+2404:5800::/32

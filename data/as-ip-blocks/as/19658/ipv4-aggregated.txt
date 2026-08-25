@@ -1,0 +1,5 @@
+# AS19658 (BROWARDHEALTH-AS)
+# North Broward Hospital District
+#
+65.82.23.0/24
+199.27.241.0/24

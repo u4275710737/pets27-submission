@@ -1,0 +1,14 @@
+{
+  "asn": 16467,
+  "metadata": {
+    "handle": "GEOLINKS-AS",
+    "description": "GeoLinks",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

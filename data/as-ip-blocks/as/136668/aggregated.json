@@ -1,0 +1,14 @@
+{
+  "asn": 136668,
+  "metadata": {
+    "handle": "IANA-IN",
+    "description": "Iana Solutions Digital India",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

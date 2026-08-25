@@ -1,0 +1,16 @@
+{
+  "asn": 140796,
+  "metadata": {
+    "handle": "SBDTELECOM-AS-VN",
+    "description": "U14b-16a 22 street Tan Thuan Tan Thuan Dong Ward 7 District HCM City",
+    "countryCode": "VN",
+    "country": "Vietnam",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "103.164.34.0/23" ],
+    "ipv6": [ ]
+  }
+}

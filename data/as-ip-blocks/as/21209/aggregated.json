@@ -1,0 +1,14 @@
+{
+  "asn": 21209,
+  "metadata": {
+    "handle": "MKB",
+    "description": "MKB Uzemeltetesi Kft.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

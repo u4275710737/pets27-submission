@@ -1,0 +1,3 @@
+# AS16094 (MAGTELECOM-AS)
+# Magistralny Telecom LLC
+#

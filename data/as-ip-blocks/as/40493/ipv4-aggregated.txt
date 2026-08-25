@@ -1,0 +1,5 @@
+# AS40493 (GAYLORD-PACIFIC-IP-MANAGEMENT)
+# Gaylord Pacific Resort and Convention Center
+#
+12.7.142.0/23
+184.189.102.0/23

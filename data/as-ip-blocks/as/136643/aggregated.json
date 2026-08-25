@@ -1,0 +1,14 @@
+{
+  "asn": 136643,
+  "metadata": {
+    "handle": "NETRAJ-AS-IN",
+    "description": "Net-raj Technology Pvt Ltd Opc",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

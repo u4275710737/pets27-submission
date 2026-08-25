@@ -1,0 +1,14 @@
+{
+  "asn": 21682,
+  "metadata": {
+    "handle": "H-S-NET-01",
+    "description": "SOLUTION-HOSTING INC.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

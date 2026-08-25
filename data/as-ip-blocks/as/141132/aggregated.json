@@ -1,0 +1,14 @@
+{
+  "asn": 141132,
+  "metadata": {
+    "handle": "NETZEN-ID",
+    "description": "PT Netzen Media Akses",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

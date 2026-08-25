@@ -1,0 +1,14 @@
+{
+  "asn": 47179,
+  "metadata": {
+    "handle": "DANEGO",
+    "description": "Danego BV",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

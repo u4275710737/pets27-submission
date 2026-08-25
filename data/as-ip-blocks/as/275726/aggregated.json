@@ -1,0 +1,16 @@
+{
+  "asn": 275726,
+  "metadata": {
+    "handle": "J-AGUIAR",
+    "description": "j a aguiar",
+    "countryCode": "BR",
+    "country": "Brazil",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ "2804:98a0::/32" ]
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 393443,
+  "metadata": {
+    "handle": "GENESIS-NETWORKS-INTEGRATION-SERVICES",
+    "description": "Genesis Networks",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

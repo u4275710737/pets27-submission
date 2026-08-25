@@ -1,0 +1,14 @@
+{
+  "asn": 27443,
+  "metadata": {
+    "handle": "LIFEGRID-INTERNET",
+    "description": "LifeGrid Internet",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

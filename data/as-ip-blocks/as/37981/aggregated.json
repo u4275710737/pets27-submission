@@ -1,0 +1,14 @@
+{
+  "asn": 37981,
+  "metadata": {
+    "handle": "TYIS-AS-AP",
+    "description": "TOYO Internet Service Co. Ltd.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

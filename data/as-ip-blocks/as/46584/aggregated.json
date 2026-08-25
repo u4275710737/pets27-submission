@@ -1,0 +1,16 @@
+{
+  "asn": 46584,
+  "metadata": {
+    "handle": "CLOUDNET-CANADA",
+    "description": "CLOUDNET CANADA",
+    "countryCode": "CA",
+    "country": "Canada",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "38.135.153.0/24" ],
+    "ipv6": [ ]
+  }
+}

@@ -1,0 +1,5 @@
+# AS58208 (VCORE-AS)
+# GEDEFI Conseil SARL
+#
+5.42.152.0/22
+5.42.156.0/23

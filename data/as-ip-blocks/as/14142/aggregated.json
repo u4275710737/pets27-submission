@@ -1,0 +1,14 @@
+{
+  "asn": 14142,
+  "metadata": {
+    "handle": "BANKOFBOTETOURT",
+    "description": "Bank of Botetourt Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 41555,
+  "metadata": {
+    "handle": "NOVATKL",
+    "description": "Novartis AG",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 135358,
+  "metadata": {
+    "handle": "MYOB-AS-AP",
+    "description": "MYOB Australia Pty Ltd",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

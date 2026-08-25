@@ -1,0 +1,14 @@
+{
+  "asn": 37676,
+  "metadata": {
+    "handle": "OYE-EKITI",
+    "description": "Federal University Oye-EKiti",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

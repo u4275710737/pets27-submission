@@ -1,0 +1,4 @@
+# AS204791 (STARLINK-CRIMEA-AS)
+# Starlink Crimea Ltd.
+#
+185.135.182.0/24

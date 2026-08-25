@@ -1,0 +1,14 @@
+{
+  "asn": 46125,
+  "metadata": {
+    "handle": "COMSCORE-INC",
+    "description": "comScore, Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

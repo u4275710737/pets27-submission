@@ -1,0 +1,14 @@
+{
+  "asn": 141370,
+  "metadata": {
+    "handle": "CTTCL-AP",
+    "description": "CAMBODIAN TXT TELECOM CO., LTD.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

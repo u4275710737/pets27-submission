@@ -1,0 +1,14 @@
+{
+  "asn": 328279,
+  "metadata": {
+    "handle": "NAS-INTER-GLOBAL",
+    "description": "NAS Inter-Global Liberia",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

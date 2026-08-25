@@ -1,0 +1,4 @@
+# AS14233 (ANCESTRY-INC)
+# Ancestry.com. Inc.
+#
+66.43.16.0/22

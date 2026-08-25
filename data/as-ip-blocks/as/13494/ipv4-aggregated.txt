@@ -1,0 +1,4 @@
+# AS13494 (AS-NJ)
+# Morningstar Inc.
+#
+206.220.17.0/24

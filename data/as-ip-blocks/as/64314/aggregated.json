@@ -1,0 +1,14 @@
+{
+  "asn": 64314,
+  "metadata": {
+    "handle": "IDNIC-INTEGRASI-AS-ID",
+    "description": "PT. INTEGRASI NETWORK PERKASA",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

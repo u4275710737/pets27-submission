@@ -1,0 +1,14 @@
+{
+  "asn": 149376,
+  "metadata": {
+    "handle": "IDNIC-ZARETIANCS-ID",
+    "description": "PT Zaretian Citra Solusindo",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

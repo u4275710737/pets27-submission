@@ -1,0 +1,14 @@
+{
+  "asn": 11098,
+  "metadata": {
+    "handle": "SBC-NET",
+    "description": "SBC Communications Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

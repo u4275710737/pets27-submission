@@ -1,0 +1,16 @@
+{
+  "asn": 7727,
+  "metadata": {
+    "handle": "HONDUTEL",
+    "description": "Hondutel",
+    "countryCode": "HN",
+    "country": "Honduras",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "131.221.8.0/22", "181.210.0.0/16", "190.130.0.0/18" ],
+    "ipv6": [ ]
+  }
+}

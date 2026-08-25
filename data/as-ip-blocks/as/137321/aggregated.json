@@ -1,0 +1,14 @@
+{
+  "asn": 137321,
+  "metadata": {
+    "handle": "IDNIC-NAM2-ID",
+    "description": "PT THE NIELSEN COMPANY INDONESIA",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

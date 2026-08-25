@@ -1,0 +1,16 @@
+{
+  "asn": 151331,
+  "metadata": {
+    "handle": "SORAYOU-AS-JP",
+    "description": "Sora You",
+    "countryCode": "JP",
+    "country": "Japan",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ "2400:e3e0:aa00::/39", "2406:840:fed7::/48", "2a14:c380:21::/48" ]
+  }
+}

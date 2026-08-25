@@ -1,0 +1,14 @@
+{
+  "asn": 211640,
+  "metadata": {
+    "handle": "NETGUARD",
+    "description": "NetGuard SAS",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

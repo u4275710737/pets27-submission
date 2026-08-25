@@ -1,0 +1,14 @@
+{
+  "asn": 33409,
+  "metadata": {
+    "handle": "CBICI",
+    "description": "CBI Connect Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

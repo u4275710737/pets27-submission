@@ -1,0 +1,4 @@
+# AS62966 (AS-BRIGHTEDGE-COM)
+# BrightEdge Technologies
+#
+198.232.216.0/23

@@ -1,0 +1,14 @@
+{
+  "asn": 54673,
+  "metadata": {
+    "handle": "NYCCO-AS01",
+    "description": "NYC & Company, Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

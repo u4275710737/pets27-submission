@@ -1,0 +1,16 @@
+{
+  "asn": 202905,
+  "metadata": {
+    "handle": "SYNETIC-SERVERS",
+    "description": "Lior Avraham Slakman",
+    "countryCode": "IL",
+    "country": "Israel",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "5.231.220.0/24" ],
+    "ipv6": [ ]
+  }
+}

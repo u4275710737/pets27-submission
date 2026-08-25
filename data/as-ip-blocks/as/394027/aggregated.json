@@ -1,0 +1,14 @@
+{
+  "asn": 394027,
+  "metadata": {
+    "handle": "BDS-NET",
+    "description": "Synopsys Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

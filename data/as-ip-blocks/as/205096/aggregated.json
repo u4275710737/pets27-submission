@@ -1,0 +1,16 @@
+{
+  "asn": 205096,
+  "metadata": {
+    "handle": "DAGMA-AS",
+    "description": "Dagma Sp. z o.o.",
+    "countryCode": "PL",
+    "country": "Poland",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "91.234.45.0/24" ],
+    "ipv6": [ ]
+  }
+}

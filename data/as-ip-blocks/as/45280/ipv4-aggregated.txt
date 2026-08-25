@@ -1,0 +1,6 @@
+# AS45280 (NZTECHNOLOGY-AS-AP)
+# New Zealand Technology Group Limited
+#
+114.134.160.0/20
+114.134.176.0/21
+203.80.60.0/22

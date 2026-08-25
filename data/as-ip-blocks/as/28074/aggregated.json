@@ -1,0 +1,14 @@
+{
+  "asn": 28074,
+  "metadata": {
+    "handle": "BANCO-AZTECA-EL-SALVADOR",
+    "description": "Banco Azteca El Salvador S.A.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

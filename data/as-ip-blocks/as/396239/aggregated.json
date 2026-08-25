@@ -1,0 +1,16 @@
+{
+  "asn": 396239,
+  "metadata": {
+    "handle": "CMW-WIRELESS-1",
+    "description": "CMW Wireless LLC",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "68.69.116.0/22" ],
+    "ipv6": [ ]
+  }
+}

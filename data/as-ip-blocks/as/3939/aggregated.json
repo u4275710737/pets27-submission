@@ -1,0 +1,14 @@
+{
+  "asn": 3939,
+  "metadata": {
+    "handle": "NTTA-3936",
+    "description": "NTT America Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

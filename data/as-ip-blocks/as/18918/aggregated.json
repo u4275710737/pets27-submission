@@ -1,0 +1,14 @@
+{
+  "asn": 18918,
+  "metadata": {
+    "handle": "UNOCOMM",
+    "description": "Uno Communications Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,4 @@
+# AS17718 (TWNIC)
+# Taiwan Network Information center
+#
+150.242.102.0/24

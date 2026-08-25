@@ -1,0 +1,16 @@
+{
+  "asn": 142258,
+  "metadata": {
+    "handle": "IDNIC-PESONA-AS-ID",
+    "description": "PT Pesona Network Mediautama",
+    "countryCode": "ID",
+    "country": "Indonesia",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "151.158.56.0/23" ],
+    "ipv6": [ ]
+  }
+}

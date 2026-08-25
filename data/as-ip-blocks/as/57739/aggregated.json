@@ -1,0 +1,14 @@
+{
+  "asn": 57739,
+  "metadata": {
+    "handle": "DOGADO-AMS",
+    "description": "dogado GmbH",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

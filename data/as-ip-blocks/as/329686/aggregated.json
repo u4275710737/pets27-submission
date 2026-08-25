@@ -1,0 +1,16 @@
+{
+  "asn": 329686,
+  "metadata": {
+    "handle": "RAMOS-NETWORK",
+    "description": "Ramos Network Prestação de Serviços Lda",
+    "countryCode": "AO",
+    "country": "Angola",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "102.203.164.0/22" ],
+    "ipv6": [ ]
+  }
+}

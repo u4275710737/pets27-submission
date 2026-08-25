@@ -1,0 +1,14 @@
+{
+  "asn": 141717,
+  "metadata": {
+    "handle": "WILINK-AP",
+    "description": "Wi-Link Solutions Pvt Ltd",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

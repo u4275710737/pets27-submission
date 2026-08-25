@@ -1,0 +1,14 @@
+{
+  "asn": 141792,
+  "metadata": {
+    "handle": "BIGV-IN",
+    "description": "METRO CAST NETWORK INDIA PRIVATE LIMITED",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

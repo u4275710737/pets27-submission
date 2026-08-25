@@ -1,0 +1,14 @@
+{
+  "asn": 17966,
+  "metadata": {
+    "handle": "CIBN",
+    "description": "China Information Broadcast Network Ltd.Co.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

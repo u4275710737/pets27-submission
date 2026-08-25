@@ -1,0 +1,16 @@
+{
+  "asn": 200464,
+  "metadata": {
+    "handle": "PAULO-AS",
+    "description": "PAULO HENRIQUE SILVA DE OLIVEIRA",
+    "countryCode": "BR",
+    "country": "Brazil",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ "2a14:7583:e703::/48", "2a14:7583:e70f::/48", "2a14:7583:e710::/44", "2a14:7583:e7f9::/48", "2a14:7583:e7fa::/48", "2a14:7583:e7fe::/47" ]
+  }
+}

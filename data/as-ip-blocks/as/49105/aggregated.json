@@ -1,0 +1,14 @@
+{
+  "asn": 49105,
+  "metadata": {
+    "handle": "MAOBUNI",
+    "description": "MAOBUNI LTD",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

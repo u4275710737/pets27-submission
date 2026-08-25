@@ -1,0 +1,14 @@
+{
+  "asn": 20179,
+  "metadata": {
+    "handle": "BONDS",
+    "description": "Tullett & Tokyo Forex, Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,4 @@
+# AS16101 (ORDIPAT)
+# Ordipat SAS
+#
+193.41.194.0/24

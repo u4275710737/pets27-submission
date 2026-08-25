@@ -1,0 +1,4 @@
+# AS201710 (DATA4)
+# Data4 Management France SAS
+#
+185.66.96.0/23

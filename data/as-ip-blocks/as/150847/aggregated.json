@@ -1,0 +1,14 @@
+{
+  "asn": 150847,
+  "metadata": {
+    "handle": "MAYCHUSO-VN",
+    "description": "DIGITAL SERVER COMPANY LIMITED",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

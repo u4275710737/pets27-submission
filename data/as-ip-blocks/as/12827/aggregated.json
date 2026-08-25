@@ -1,0 +1,16 @@
+{
+  "asn": 12827,
+  "metadata": {
+    "handle": "WIRTUALNAPOLSKA",
+    "description": "Wirtualna Polska Media S.A.",
+    "countryCode": "PL",
+    "country": "Poland",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "212.77.96.0/20", "212.77.112.0/23", "212.77.116.0/23", "212.77.120.0/23" ],
+    "ipv6": [ ]
+  }
+}

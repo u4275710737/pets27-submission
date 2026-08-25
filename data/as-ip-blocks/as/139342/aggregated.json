@@ -1,0 +1,14 @@
+{
+  "asn": 139342,
+  "metadata": {
+    "handle": "FREEDOM-AP",
+    "description": "Freedom Furniture Australia Pty Limited",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

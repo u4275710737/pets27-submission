@@ -1,0 +1,14 @@
+{
+  "asn": 16455,
+  "metadata": {
+    "handle": "MLATTTW",
+    "description": "MeridianLink, Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

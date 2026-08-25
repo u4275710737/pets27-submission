@@ -1,0 +1,14 @@
+{
+  "asn": 397004,
+  "metadata": {
+    "handle": "BRUNE1-ARIN",
+    "description": "The Reynolds and Reynolds Company",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

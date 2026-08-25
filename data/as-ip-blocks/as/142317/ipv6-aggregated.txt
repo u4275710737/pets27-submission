@@ -1,0 +1,4 @@
+# AS142317 (IDNIC-COVERNET-AS-ID)
+# PT Cover Network Indonesia
+#
+2400:57e0::/32

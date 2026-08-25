@@ -1,0 +1,4 @@
+# AS5080 (ARAMCO)
+# ARAMCO AS number
+#
+2620:14:8000::/48

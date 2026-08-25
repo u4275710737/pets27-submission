@@ -1,0 +1,14 @@
+{
+  "asn": 199041,
+  "metadata": {
+    "handle": "RESENNET",
+    "description": "ResenNet Aps",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

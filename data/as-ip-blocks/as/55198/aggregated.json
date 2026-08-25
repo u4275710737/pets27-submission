@@ -1,0 +1,14 @@
+{
+  "asn": 55198,
+  "metadata": {
+    "handle": "UCBINC",
+    "description": "UCB Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

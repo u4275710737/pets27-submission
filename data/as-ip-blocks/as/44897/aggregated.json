@@ -1,0 +1,14 @@
+{
+  "asn": 44897,
+  "metadata": {
+    "handle": "MIR",
+    "description": "Hrebeniukov Oleksandr Valeriiovych",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

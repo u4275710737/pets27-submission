@@ -1,0 +1,14 @@
+{
+  "asn": 2145,
+  "metadata": {
+    "handle": "COUGAR-WIRELESS",
+    "description": "Cougar Wireless",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

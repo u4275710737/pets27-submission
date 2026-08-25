@@ -1,0 +1,16 @@
+{
+  "asn": 201937,
+  "metadata": {
+    "handle": "HOLAFIBRA",
+    "description": "HOLAFIBRA SRL",
+    "countryCode": "IT",
+    "country": "Italy",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "194.9.9.0/24" ],
+    "ipv6": [ ]
+  }
+}

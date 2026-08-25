@@ -1,0 +1,14 @@
+{
+  "asn": 133441,
+  "metadata": {
+    "handle": "CLOUDITIDC",
+    "description": "Cloud Information Technology (Intl) Telecom Group LIMITED",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

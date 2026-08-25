@@ -1,0 +1,16 @@
+{
+  "asn": 54991,
+  "metadata": {
+    "handle": "CADENCE-BANK-BHM",
+    "description": "Huntington Bancshares Inc.",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "198.232.168.0/24" ],
+    "ipv6": [ ]
+  }
+}

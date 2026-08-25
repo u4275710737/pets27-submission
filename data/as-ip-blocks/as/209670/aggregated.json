@@ -1,0 +1,14 @@
+{
+  "asn": 209670,
+  "metadata": {
+    "handle": "ICTELECOM",
+    "description": "AVATEL TELECOM, SA",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

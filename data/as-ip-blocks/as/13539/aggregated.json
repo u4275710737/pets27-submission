@@ -1,0 +1,14 @@
+{
+  "asn": 13539,
+  "metadata": {
+    "handle": "BASTYR-UNIVERSITY",
+    "description": "Bastyr University",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

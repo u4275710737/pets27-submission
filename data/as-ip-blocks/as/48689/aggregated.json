@@ -1,0 +1,14 @@
+{
+  "asn": 48689,
+  "metadata": {
+    "handle": "WEBGLOBE-SK-AS",
+    "description": "Webglobe a.s.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

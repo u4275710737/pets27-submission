@@ -1,0 +1,16 @@
+{
+  "asn": 209690,
+  "metadata": {
+    "handle": "TELECOMAVENIDA",
+    "description": "TELECOMUNICACIONES AVENIDA SL",
+    "countryCode": "ES",
+    "country": "Spain",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "91.132.245.0/24", "91.132.246.0/23" ],
+    "ipv6": [ ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "asn": 154511,
+  "metadata": {
+    "handle": "BMC-AS-AP",
+    "description": "BMC Software India Pvt. Ltd.",
+    "countryCode": "IN",
+    "country": "India",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "202.36.78.0/24" ],
+    "ipv6": [ ]
+  }
+}

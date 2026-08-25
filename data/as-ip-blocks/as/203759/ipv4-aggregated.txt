@@ -1,0 +1,4 @@
+# AS203759 (INTAC-SERVICES)
+# INTAC Services GmbH
+#
+185.86.191.0/24

@@ -1,0 +1,16 @@
+{
+  "asn": 402487,
+  "metadata": {
+    "handle": "HOSTCRAM",
+    "description": "HostCram LLC",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "51.146.6.0/24", "178.83.134.0/24" ],
+    "ipv6": [ ]
+  }
+}

@@ -1,0 +1,4 @@
+# AS269251 (DEISIANE-SALES-SANTOS-SW-LINK)
+# Swlink Provedor de Internet LTDA
+#
+45.182.212.0/22

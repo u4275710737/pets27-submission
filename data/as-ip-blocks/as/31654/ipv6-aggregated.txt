@@ -1,0 +1,3 @@
+# AS31654 (VODAFONE-NET-INTERNATIONAL)
+# Vodafone Net Iletisim Hizmetler AS
+#

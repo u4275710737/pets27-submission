@@ -1,0 +1,14 @@
+{
+  "asn": 211684,
+  "metadata": {
+    "handle": "RUEDIGER",
+    "description": "Sven Ruediger",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

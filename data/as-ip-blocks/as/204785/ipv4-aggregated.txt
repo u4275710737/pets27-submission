@@ -1,0 +1,4 @@
+# AS204785 (TAKEHOST)
+# Raul Ghita trading as 'Ghita Telekom'
+#
+94.249.148.0/24

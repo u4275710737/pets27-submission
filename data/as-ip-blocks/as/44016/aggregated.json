@@ -1,0 +1,14 @@
+{
+  "asn": 44016,
+  "metadata": {
+    "handle": "XSUSENET-AS",
+    "description": "LayerSwitch B.V.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

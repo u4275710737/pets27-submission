@@ -1,0 +1,5 @@
+# AS52931 (NETVIP-TELECOMUNICACOES)
+# Netvip Telecomunicações Ltda
+#
+2804:af8::/33
+2804:af8:8000::/46

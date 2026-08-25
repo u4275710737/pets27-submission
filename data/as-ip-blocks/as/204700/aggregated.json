@@ -1,0 +1,14 @@
+{
+  "asn": 204700,
+  "metadata": {
+    "handle": "SGTSA",
+    "description": "Horyzont Technologie Internetowe sp.z.o.o.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 40396,
+  "metadata": {
+    "handle": "FLORI-18",
+    "description": "OTI Fiber LLC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

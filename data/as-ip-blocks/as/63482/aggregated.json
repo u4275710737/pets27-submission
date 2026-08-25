@@ -1,0 +1,14 @@
+{
+  "asn": 63482,
+  "metadata": {
+    "handle": "FNW-MIDDLEVILLE",
+    "description": "FreedomNet",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

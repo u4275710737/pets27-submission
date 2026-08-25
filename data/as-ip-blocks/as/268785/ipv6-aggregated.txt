@@ -1,0 +1,6 @@
+# AS268785 (VLINK-TELECOM)
+# Vlink Telecom
+#
+2804:5aa0::/33
+2804:5aa0:8000::/34
+2804:5aa0:c000::/40

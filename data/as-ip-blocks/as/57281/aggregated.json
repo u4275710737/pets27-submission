@@ -1,0 +1,14 @@
+{
+  "asn": 57281,
+  "metadata": {
+    "handle": "ASTKSSEVEROZAPAD",
+    "description": "RTT Ltd.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

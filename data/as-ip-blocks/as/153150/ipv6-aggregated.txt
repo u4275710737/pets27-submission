@@ -1,0 +1,3 @@
+# AS153150 (IDNIC-GNAP-AS-ID)
+# PT Gerbang Nasional Akses Prima
+#

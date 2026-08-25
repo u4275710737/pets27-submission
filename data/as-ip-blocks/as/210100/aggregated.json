@@ -1,0 +1,16 @@
+{
+  "asn": 210100,
+  "metadata": {
+    "handle": "ADAM-CHODKOWSKI",
+    "description": "Adam Chodkowski",
+    "countryCode": "PL",
+    "country": "Poland",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "44.30.4.0/24" ],
+    "ipv6": [ ]
+  }
+}

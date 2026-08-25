@@ -1,0 +1,14 @@
+{
+  "asn": 50089,
+  "metadata": {
+    "handle": "KAVKAZONLINE-AS",
+    "description": "Kavkaz Online LLC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

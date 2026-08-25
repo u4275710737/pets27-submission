@@ -1,0 +1,5 @@
+# AS265330 (PONTO-PONTO-TELECOMUNICACOES)
+# Ponto a Ponto Telecomunicaçoes
+#
+168.181.60.0/22
+186.224.195.0/24

@@ -1,0 +1,14 @@
+{
+  "asn": 271147,
+  "metadata": {
+    "handle": "KERO-NET-PROVEDOR",
+    "description": "KERO NET PROVEDOR DE INTERNET EIRELI",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

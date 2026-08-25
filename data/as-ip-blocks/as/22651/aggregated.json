@@ -1,0 +1,14 @@
+{
+  "asn": 22651,
+  "metadata": {
+    "handle": "A44K04R32F",
+    "description": "AKRF, Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

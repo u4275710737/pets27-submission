@@ -1,0 +1,14 @@
+{
+  "asn": 328158,
+  "metadata": {
+    "handle": "EXCHANGE-TELECOMS-LIMITED",
+    "description": "EXCHANGE TELECOMMUNICATIONS LIMITED",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

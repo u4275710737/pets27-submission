@@ -1,0 +1,14 @@
+{
+  "asn": 37247,
+  "metadata": {
+    "handle": "JHPIEGO",
+    "description": "Jhpiego Corporation",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

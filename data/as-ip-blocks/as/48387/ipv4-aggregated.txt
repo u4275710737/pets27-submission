@@ -1,0 +1,4 @@
+# AS48387 (RTBH-AS)
+# Christian Seitz
+#
+195.88.60.0/23

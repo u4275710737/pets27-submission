@@ -1,0 +1,14 @@
+{
+  "asn": 42977,
+  "metadata": {
+    "handle": "AMB-AS",
+    "description": "Ambientia Group Oy",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

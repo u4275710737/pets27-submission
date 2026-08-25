@@ -1,0 +1,16 @@
+{
+  "asn": 199808,
+  "metadata": {
+    "handle": "SHIELDCORE",
+    "description": "ShieldCore SAS",
+    "countryCode": "FR",
+    "country": "France",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "194.231.216.0/24" ],
+    "ipv6": [ ]
+  }
+}

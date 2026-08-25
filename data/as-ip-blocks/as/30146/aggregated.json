@@ -1,0 +1,14 @@
+{
+  "asn": 30146,
+  "metadata": {
+    "handle": "TIBCO",
+    "description": "TIBCO Software Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

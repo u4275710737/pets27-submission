@@ -1,0 +1,16 @@
+{
+  "asn": 152680,
+  "metadata": {
+    "handle": "GIPC-AS-AP",
+    "description": "Global IP Philippines Corp.",
+    "countryCode": "PH",
+    "country": "Philippines",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "117.103.112.0/23" ],
+    "ipv6": [ ]
+  }
+}

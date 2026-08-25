@@ -1,0 +1,4 @@
+# AS203052 (TELETEK-ASN)
+# Centcom Sverige AB
+#
+2a07:5100::/29

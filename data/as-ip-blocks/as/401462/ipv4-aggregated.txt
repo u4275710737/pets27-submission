@@ -1,0 +1,4 @@
+# AS401462 (SUBARU-SIA)
+# Subaru of Indiana Automotive Inc.
+#
+172.87.44.0/23

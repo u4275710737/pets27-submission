@@ -1,0 +1,14 @@
+{
+  "asn": 207117,
+  "metadata": {
+    "handle": "ICU-AS",
+    "description": "ICU Solutions B.V.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 47807,
+  "metadata": {
+    "handle": "PULKOVO",
+    "description": "Smart Telecom Limited",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 211168,
+  "metadata": {
+    "handle": "GOTLUND-AS",
+    "description": "Martin Gotlund",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

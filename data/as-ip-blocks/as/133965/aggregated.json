@@ -1,0 +1,14 @@
+{
+  "asn": 133965,
+  "metadata": {
+    "handle": "NNSPL-AS",
+    "description": "Nexgtech Net Solutions Pvt Ltd",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

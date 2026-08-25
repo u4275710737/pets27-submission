@@ -1,0 +1,14 @@
+{
+  "asn": 1771,
+  "metadata": {
+    "handle": "SOLBERG-CORE-NET",
+    "description": "X.25 Holding AS",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

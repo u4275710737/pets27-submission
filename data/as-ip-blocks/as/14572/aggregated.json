@@ -1,0 +1,14 @@
+{
+  "asn": 14572,
+  "metadata": {
+    "handle": "TMFHC",
+    "description": "Mother Frances Hospital Regional Health Care Center",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

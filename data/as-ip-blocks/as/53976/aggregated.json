@@ -1,0 +1,14 @@
+{
+  "asn": 53976,
+  "metadata": {
+    "handle": "EXPEDIENT-EMEA",
+    "description": "Expedient",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

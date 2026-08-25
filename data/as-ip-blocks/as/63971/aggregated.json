@@ -1,0 +1,16 @@
+{
+  "asn": 63971,
+  "metadata": {
+    "handle": "WALLIBI-ISP",
+    "description": "wallibi isp belgium",
+    "countryCode": "AU",
+    "country": "Australia",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "103.55.116.0/22" ],
+    "ipv6": [ ]
+  }
+}

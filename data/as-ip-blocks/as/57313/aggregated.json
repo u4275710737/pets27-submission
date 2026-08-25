@@ -1,0 +1,14 @@
+{
+  "asn": 57313,
+  "metadata": {
+    "handle": "EPSILON",
+    "description": "ModernColo LP",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

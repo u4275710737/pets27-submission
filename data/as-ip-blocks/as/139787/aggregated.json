@@ -1,0 +1,14 @@
+{
+  "asn": 139787,
+  "metadata": {
+    "handle": "CAISAN-AP",
+    "description": "Chongqing Caisan Technology Ltd.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

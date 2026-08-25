@@ -1,0 +1,5 @@
+# AS142281 (YUUTA-BACKBONE)
+# Yuuta Backbone
+#
+2404:f4c0:f9c3::/48
+2a0d:2580:8001::/48

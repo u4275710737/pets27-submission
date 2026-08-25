@@ -1,0 +1,16 @@
+{
+  "asn": 207085,
+  "metadata": {
+    "handle": "RACKPLACE",
+    "description": "LLC RACKPLACE",
+    "countryCode": "UA",
+    "country": "Ukraine",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "185.160.90.0/24" ],
+    "ipv6": [ "2a07:bbc0::/48" ]
+  }
+}

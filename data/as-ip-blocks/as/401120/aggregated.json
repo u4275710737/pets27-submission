@@ -1,0 +1,14 @@
+{
+  "asn": 401120,
+  "metadata": {
+    "handle": "CHEAPY-HOST",
+    "description": "cheapy.host LLC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

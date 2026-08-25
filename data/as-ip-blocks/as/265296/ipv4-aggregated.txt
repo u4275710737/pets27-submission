@@ -1,0 +1,4 @@
+# AS265296 (ELLITENET-TELECOM)
+# Sinal Telecom
+#
+168.90.216.0/22

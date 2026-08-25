@@ -1,0 +1,14 @@
+{
+  "asn": 201286,
+  "metadata": {
+    "handle": "REDHAT",
+    "description": "Red Hat Ltd",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

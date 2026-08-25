@@ -1,0 +1,4 @@
+# AS698 (ASN-UIUC-REGION-AS)
+# University of Illinois
+#
+2620:79:8000::/48

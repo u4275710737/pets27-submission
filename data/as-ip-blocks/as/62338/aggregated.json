@@ -1,0 +1,14 @@
+{
+  "asn": 62338,
+  "metadata": {
+    "handle": "CRYSTAL-EU",
+    "description": "Crystal GmbH",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

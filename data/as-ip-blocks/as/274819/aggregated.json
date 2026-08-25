@@ -1,0 +1,16 @@
+{
+  "asn": 274819,
+  "metadata": {
+    "handle": "GUAPNET-SERVICOS-EM",
+    "description": "Guapnet Servicos em Telecomunicacoes Ltd",
+    "countryCode": "BR",
+    "country": "Brazil",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "186.192.74.0/24" ],
+    "ipv6": [ "2804:9410::/32" ]
+  }
+}

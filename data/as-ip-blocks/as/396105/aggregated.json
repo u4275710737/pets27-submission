@@ -1,0 +1,14 @@
+{
+  "asn": 396105,
+  "metadata": {
+    "handle": "EN-15",
+    "description": "2EZ Network Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

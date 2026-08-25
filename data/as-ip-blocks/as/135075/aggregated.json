@@ -1,0 +1,14 @@
+{
+  "asn": 135075,
+  "metadata": {
+    "handle": "HALDA-AP",
+    "description": "HALDA NETWORK COMMUNICATION",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 12786,
+  "metadata": {
+    "handle": "HATTRICK",
+    "description": "Hattrick Limited",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

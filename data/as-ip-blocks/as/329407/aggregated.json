@@ -1,0 +1,16 @@
+{
+  "asn": 329407,
+  "metadata": {
+    "handle": "UCAD1",
+    "description": "Universite Cheikh Anta DIOP de DAKAR",
+    "countryCode": "SN",
+    "country": "Senegal",
+    "origin": "authoritative",
+    "category": "education_research",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "102.209.164.0/22", "196.1.92.0/22", "196.1.97.0/24", "196.1.100.0/24" ],
+    "ipv6": [ "2001:43fe:7000::/48" ]
+  }
+}

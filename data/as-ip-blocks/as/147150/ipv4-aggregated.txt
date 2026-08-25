@@ -1,0 +1,5 @@
+# AS147150 (IDNIC-ASTRAKOM-AS-ID)
+# PT Hasya Mitra Komunika
+#
+103.177.102.0/23
+103.255.108.0/24

@@ -1,0 +1,16 @@
+{
+  "asn": 141075,
+  "metadata": {
+    "handle": "IDNIC-SIMAK-AS-ID",
+    "description": "PT Satu Visi Kreasi Indonesia",
+    "countryCode": "ID",
+    "country": "Indonesia",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ ]
+  }
+}

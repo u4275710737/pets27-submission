@@ -1,0 +1,14 @@
+{
+  "asn": 151987,
+  "metadata": {
+    "handle": "ENTRAIN1-AP",
+    "description": "Entrain BD",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

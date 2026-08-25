@@ -1,0 +1,14 @@
+{
+  "asn": 33265,
+  "metadata": {
+    "handle": "LEEBHMG-ASN-33265",
+    "description": "Lee Enterprises Incorporated",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

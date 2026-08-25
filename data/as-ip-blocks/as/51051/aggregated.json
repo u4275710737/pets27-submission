@@ -1,0 +1,16 @@
+{
+  "asn": 51051,
+  "metadata": {
+    "handle": "SARATOVGOV-AS",
+    "description": "Administration department of the Government of Saratov region",
+    "countryCode": "RU",
+    "country": "Russia",
+    "origin": "authoritative",
+    "category": "government_admin",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "194.190.103.0/24" ],
+    "ipv6": [ ]
+  }
+}

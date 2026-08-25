@@ -1,0 +1,14 @@
+{
+  "asn": 23346,
+  "metadata": {
+    "handle": "INFORMATION-TECHNOLOGY-PARTNERS-INC",
+    "description": "Information Technology Partners, Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

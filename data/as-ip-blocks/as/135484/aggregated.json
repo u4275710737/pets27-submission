@@ -1,0 +1,14 @@
+{
+  "asn": 135484,
+  "metadata": {
+    "handle": "BEST-AS-ID",
+    "description": "PT. Bentang Selaras Teknologi",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

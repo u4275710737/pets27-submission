@@ -1,0 +1,14 @@
+{
+  "asn": 31402,
+  "metadata": {
+    "handle": "BLUESQUARE",
+    "description": "Rank Digital Limited",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

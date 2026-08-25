@@ -1,0 +1,14 @@
+{
+  "asn": 264655,
+  "metadata": {
+    "handle": "UNIVERSIDAD-CATOLICA-DE",
+    "description": "UNIVERSIDAD CATOLICA DE HONDURAS",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 55922,
+  "metadata": {
+    "handle": "ETHAN-AP",
+    "description": "Equip IT Pty Ltd",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

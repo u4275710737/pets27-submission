@@ -1,0 +1,14 @@
+{
+  "asn": 22562,
+  "metadata": {
+    "handle": "CSC-IGN-EMEA-AS22562",
+    "description": "DXC US Latin America Corporation",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

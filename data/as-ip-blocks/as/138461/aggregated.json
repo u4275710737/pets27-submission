@@ -1,0 +1,14 @@
+{
+  "asn": 138461,
+  "metadata": {
+    "handle": "BALLWAN-AS-AP",
+    "description": "Ballwan Technology Co. Limited",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

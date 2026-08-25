@@ -1,0 +1,4 @@
+# AS52304 (ANYCAST-A-NIC-CL)
+# NIC Chile
+#
+2001:1398:121::/48

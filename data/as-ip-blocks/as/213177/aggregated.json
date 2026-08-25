@@ -1,0 +1,14 @@
+{
+  "asn": 213177,
+  "metadata": {
+    "handle": "AKIWIFI-CASTELLON-ALCALATEN",
+    "description": "Nostravant S.L.L.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

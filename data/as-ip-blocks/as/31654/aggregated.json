@@ -1,0 +1,14 @@
+{
+  "asn": 31654,
+  "metadata": {
+    "handle": "VODAFONE-NET-INTERNATIONAL",
+    "description": "Vodafone Net Iletisim Hizmetler AS",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 24420,
+  "metadata": {
+    "handle": "CNNIC-CAFNET-AP",
+    "description": "Chinese Academy of Forestry",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "asn": 204880,
+  "metadata": {
+    "handle": "HSWAW-BGPWTF",
+    "description": "Stowarzyszenie Warszawski Hackerspace",
+    "countryCode": "PL",
+    "country": "Poland",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "185.236.240.0/23" ],
+    "ipv6": [ "2a0d:eb00::/32", "2a0d:eb01::/48" ]
+  }
+}

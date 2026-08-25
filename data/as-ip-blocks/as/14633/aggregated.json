@@ -1,0 +1,14 @@
+{
+  "asn": 14633,
+  "metadata": {
+    "handle": "GLOBAL-DATA-LINK",
+    "description": "Global Data Link, Inc",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

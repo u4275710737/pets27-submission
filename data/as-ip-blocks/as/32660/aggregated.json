@@ -1,0 +1,14 @@
+{
+  "asn": 32660,
+  "metadata": {
+    "handle": "SANOFI",
+    "description": "Sanofi",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

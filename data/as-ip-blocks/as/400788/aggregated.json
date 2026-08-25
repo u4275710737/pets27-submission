@@ -1,0 +1,14 @@
+{
+  "asn": 400788,
+  "metadata": {
+    "handle": "FOOXYZ",
+    "description": "FOO.XYZ LLC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

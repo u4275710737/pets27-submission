@@ -1,0 +1,16 @@
+{
+  "asn": 204856,
+  "metadata": {
+    "handle": "ABJUST-NET",
+    "description": "Lijun Li",
+    "countryCode": "CN",
+    "country": "China",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ "2400:54a0:21c2::/47" ]
+  }
+}

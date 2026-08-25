@@ -1,0 +1,16 @@
+{
+  "asn": 328278,
+  "metadata": {
+    "handle": "WIBERSOLUTIONS",
+    "description": "WiberSolutions AS OBJ",
+    "countryCode": "ZA",
+    "country": "South Africa",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "102.165.64.0/19" ],
+    "ipv6": [ "2c0f:ec98::/32" ]
+  }
+}

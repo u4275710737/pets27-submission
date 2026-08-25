@@ -1,0 +1,16 @@
+{
+  "asn": 154346,
+  "metadata": {
+    "handle": "OCTL-AS-AP",
+    "description": "OceanBlue Cloud Technology Limited",
+    "countryCode": "HK",
+    "country": "Hong Kong SAR China",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "38.22.124.0/22", "103.152.206.0/24", "154.50.39.0/24", "154.50.40.0/24", "202.134.239.0/24" ],
+    "ipv6": [ "2001:df7:3700::/46" ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "asn": 50801,
+  "metadata": {
+    "handle": "DAVID-FROEHLICH",
+    "description": "David Froehlich",
+    "countryCode": "DE",
+    "country": "Germany",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "80.78.134.0/23", "194.120.126.0/24" ],
+    "ipv6": [ "2a07:6f44::/40" ]
+  }
+}

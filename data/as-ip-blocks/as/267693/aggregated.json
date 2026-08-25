@@ -1,0 +1,16 @@
+{
+  "asn": 267693,
+  "metadata": {
+    "handle": "PROYTEL-CONNECTIONS-CA",
+    "description": "PROYTEL CONNECTIONS C.A",
+    "countryCode": "VE",
+    "country": "Venezuela",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "45.160.224.0/22" ],
+    "ipv6": [ "2803:c1a0::/32" ]
+  }
+}

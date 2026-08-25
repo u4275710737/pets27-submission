@@ -1,0 +1,16 @@
+{
+  "asn": 147024,
+  "metadata": {
+    "handle": "BTLTB-AS-AP",
+    "description": "bikpla.net",
+    "countryCode": "PG",
+    "country": "Papua New Guinea",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "103.173.32.0/23" ],
+    "ipv6": [ ]
+  }
+}

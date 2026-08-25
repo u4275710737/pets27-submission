@@ -1,0 +1,14 @@
+{
+  "asn": 46278,
+  "metadata": {
+    "handle": "USWIRED-CLOUD-HOSTING",
+    "description": "USWired Incorporated",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

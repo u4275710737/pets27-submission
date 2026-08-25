@@ -1,0 +1,16 @@
+{
+  "asn": 215460,
+  "metadata": {
+    "handle": "FELCLOUD",
+    "description": "Daniel Mishayev",
+    "countryCode": "IL",
+    "country": "Israel",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ "2a13:d2c7::/32" ]
+  }
+}

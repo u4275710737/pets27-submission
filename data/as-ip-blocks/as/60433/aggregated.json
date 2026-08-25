@@ -1,0 +1,14 @@
+{
+  "asn": 60433,
+  "metadata": {
+    "handle": "VMAR",
+    "description": "VMAR IT AB",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

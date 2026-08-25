@@ -1,0 +1,14 @@
+{
+  "asn": 209813,
+  "metadata": {
+    "handle": "FASTCONTENT",
+    "description": "Fast Content Delivery LTD",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

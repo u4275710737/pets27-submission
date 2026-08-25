@@ -1,0 +1,16 @@
+{
+  "asn": 274668,
+  "metadata": {
+    "handle": "L-V-SANTOS",
+    "description": "L V DOS SANTOS CARDOSO - COMUNICACOES",
+    "countryCode": "BR",
+    "country": "Brazil",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ ]
+  }
+}

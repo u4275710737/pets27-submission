@@ -1,0 +1,14 @@
+{
+  "asn": 29435,
+  "metadata": {
+    "handle": "IPOWER",
+    "description": "@iPower N.V.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

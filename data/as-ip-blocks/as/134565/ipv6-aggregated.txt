@@ -1,0 +1,4 @@
+# AS134565 (NTPCL-AS-AP)
+# National Telecom Public Company Limited
+#
+2001:c38:9151::/48

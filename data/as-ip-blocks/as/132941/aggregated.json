@@ -1,0 +1,14 @@
+{
+  "asn": 132941,
+  "metadata": {
+    "handle": "IRIISNET",
+    "description": "IriisNet communication Pvt Ltd",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

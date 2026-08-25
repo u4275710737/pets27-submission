@@ -1,0 +1,16 @@
+{
+  "asn": 214262,
+  "metadata": {
+    "handle": "DYRIS",
+    "description": "Tobias Graeven trading as Dyris IT Services e.U.",
+    "countryCode": "AT",
+    "country": "Austria",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ "2001:67c:f08::/48", "2001:67c:f0c::/48", "2001:67c:f10::/48", "2001:67c:2c28::/48", "2001:67c:2fc8::/48" ]
+  }
+}

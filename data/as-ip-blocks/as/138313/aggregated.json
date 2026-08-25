@@ -1,0 +1,14 @@
+{
+  "asn": 138313,
+  "metadata": {
+    "handle": "AMBPL-IN",
+    "description": "Am Broadband Private Limited",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

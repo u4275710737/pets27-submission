@@ -1,0 +1,6 @@
+# AS9678 (HOSTINGINSIDE-INTL)
+# HostingInside LTD
+#
+2401:95c0::/36
+2401:95c0:ff00::/47
+2403:cfc0:1004::/48

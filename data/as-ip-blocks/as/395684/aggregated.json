@@ -1,0 +1,14 @@
+{
+  "asn": 395684,
+  "metadata": {
+    "handle": "SUNEAST",
+    "description": "Sun East",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

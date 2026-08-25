@@ -1,0 +1,14 @@
+{
+  "asn": 48729,
+  "metadata": {
+    "handle": "HOSTKEY-FI",
+    "description": "HOSTKEY B.V.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

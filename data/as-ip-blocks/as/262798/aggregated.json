@@ -1,0 +1,16 @@
+{
+  "asn": 262798,
+  "metadata": {
+    "handle": "VIABOL-INTERNET",
+    "description": "VIABOL INTERNET",
+    "countryCode": "BR",
+    "country": "Brazil",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "186.236.48.0/20" ],
+    "ipv6": [ ]
+  }
+}

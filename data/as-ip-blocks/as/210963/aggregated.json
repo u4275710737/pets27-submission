@@ -1,0 +1,14 @@
+{
+  "asn": 210963,
+  "metadata": {
+    "handle": "VULKANET",
+    "description": "LOG S.R.L.S",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

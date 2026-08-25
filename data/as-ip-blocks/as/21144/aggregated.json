@@ -1,0 +1,16 @@
+{
+  "asn": 21144,
+  "metadata": {
+    "handle": "AS21144",
+    "description": "Unknown AS 21144",
+    "countryCode": null,
+    "country": null,
+    "origin": "none",
+    "category": null,
+    "networkRole": null
+  },
+  "prefixes": {
+    "ipv4": [ "154.119.82.0/24" ],
+    "ipv6": [ ]
+  }
+}

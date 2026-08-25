@@ -1,0 +1,14 @@
+{
+  "asn": 36532,
+  "metadata": {
+    "handle": "EXIM",
+    "description": "Export Import Bank of the U.S",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

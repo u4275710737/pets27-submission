@@ -1,0 +1,14 @@
+{
+  "asn": 39470,
+  "metadata": {
+    "handle": "ATRIUMNETWORK",
+    "description": "ICE Data Services Limited",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

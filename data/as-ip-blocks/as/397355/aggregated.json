@@ -1,0 +1,14 @@
+{
+  "asn": 397355,
+  "metadata": {
+    "handle": "ISERV-SWITCH",
+    "description": "The Iserv Company, LLC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 30470,
+  "metadata": {
+    "handle": "TELEPERFORMANCE-TX",
+    "description": "TELEPERFORMANCE USA",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "asn": 206503,
+  "metadata": {
+    "handle": "CYBER-AVANGARD-AS",
+    "description": "Cyber Avangard LLC",
+    "countryCode": "RU",
+    "country": "Russia",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "91.204.131.0/24" ],
+    "ipv6": [ ]
+  }
+}

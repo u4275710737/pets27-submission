@@ -1,0 +1,14 @@
+{
+  "asn": 205040,
+  "metadata": {
+    "handle": "VIRTUOZZO",
+    "description": "Virtuozzo Research LLC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

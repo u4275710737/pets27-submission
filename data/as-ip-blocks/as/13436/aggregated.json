@@ -1,0 +1,14 @@
+{
+  "asn": 13436,
+  "metadata": {
+    "handle": "INTERNET2-CONF",
+    "description": "Internet2",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

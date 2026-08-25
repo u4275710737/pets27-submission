@@ -1,0 +1,16 @@
+{
+  "asn": 265952,
+  "metadata": {
+    "handle": "RAP-10-TELECOMUNICACOES-EIRELI",
+    "description": "Rap 10 Telecomunicações Eireli",
+    "countryCode": "BR",
+    "country": "Brazil",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "164.163.16.0/22", "186.192.10.0/24" ],
+    "ipv6": [ "2804:4054::/32" ]
+  }
+}

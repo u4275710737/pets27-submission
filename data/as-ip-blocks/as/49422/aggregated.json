@@ -1,0 +1,14 @@
+{
+  "asn": 49422,
+  "metadata": {
+    "handle": "FORTENET",
+    "description": "DNA Oyj",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

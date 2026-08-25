@@ -1,0 +1,14 @@
+{
+  "asn": 199574,
+  "metadata": {
+    "handle": "CANCOM",
+    "description": "CANCOM GmbH",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

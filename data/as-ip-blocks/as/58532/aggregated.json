@@ -1,0 +1,14 @@
+{
+  "asn": 58532,
+  "metadata": {
+    "handle": "NEWMONT-AS-AP",
+    "description": "Newmont Australia",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

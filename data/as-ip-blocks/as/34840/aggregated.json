@@ -1,0 +1,14 @@
+{
+  "asn": 34840,
+  "metadata": {
+    "handle": "KM-IX",
+    "description": "Bilous Taras Vasylovych",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

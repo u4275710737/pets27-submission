@@ -1,0 +1,6 @@
+# AS212341 (CSN-DATACENTERS)
+# Stephan Rakowski trading as CSN-Solutions GmbH
+#
+2a05:900::/30
+2a05:904::/31
+2a13:1440::/29

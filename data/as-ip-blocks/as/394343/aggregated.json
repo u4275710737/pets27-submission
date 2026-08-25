@@ -1,0 +1,14 @@
+{
+  "asn": 394343,
+  "metadata": {
+    "handle": "TWS",
+    "description": "Total Warranty Services, Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 216181,
+  "metadata": {
+    "handle": "DARKNET-NL",
+    "description": "DarkNet Ltd",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

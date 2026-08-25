@@ -1,0 +1,14 @@
+{
+  "asn": 204201,
+  "metadata": {
+    "handle": "EMBL",
+    "description": "European Molecular Biology Laboratory",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

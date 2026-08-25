@@ -1,0 +1,14 @@
+{
+  "asn": 11836,
+  "metadata": {
+    "handle": "ICNET",
+    "description": "Intercom",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

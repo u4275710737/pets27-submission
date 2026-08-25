@@ -1,0 +1,14 @@
+{
+  "asn": 399092,
+  "metadata": {
+    "handle": "CBL-ASN-01",
+    "description": "MN Wireless, LLC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

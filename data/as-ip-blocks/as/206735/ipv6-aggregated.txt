@@ -1,0 +1,4 @@
+# AS206735 (NOVELCOMM-AS)
+# Novelcomm LP
+#
+2a06:5200:a::/48

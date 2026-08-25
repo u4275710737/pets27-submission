@@ -1,0 +1,14 @@
+{
+  "asn": 205589,
+  "metadata": {
+    "handle": "JULES",
+    "description": "Dani Jules Dixon",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

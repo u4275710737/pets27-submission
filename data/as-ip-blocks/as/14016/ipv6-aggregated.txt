@@ -1,0 +1,6 @@
+# AS14016 (CAPCON-NETWORK-LLC)
+# Capcon Networks
+#
+2602:fbcb:1::/48
+2602:fbcb:2::/47
+2602:fbcb:4::/48

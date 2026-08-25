@@ -1,0 +1,16 @@
+{
+  "asn": 13646,
+  "metadata": {
+    "handle": "PLACTRIX",
+    "description": "Plactrix Technologies",
+    "countryCode": "CA",
+    "country": "Canada",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ "2602:fa6e::/36" ]
+  }
+}

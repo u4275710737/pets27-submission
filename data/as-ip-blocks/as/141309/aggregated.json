@@ -1,0 +1,16 @@
+{
+  "asn": 141309,
+  "metadata": {
+    "handle": "YAKSHEN-AS",
+    "description": "Yaksh Enterprises",
+    "countryCode": "IN",
+    "country": "India",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "103.158.104.0/23", "157.15.34.0/23" ],
+    "ipv6": [ "2001:df5:ab80::/48" ]
+  }
+}

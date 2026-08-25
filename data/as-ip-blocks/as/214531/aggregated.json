@@ -1,0 +1,14 @@
+{
+  "asn": 214531,
+  "metadata": {
+    "handle": "VULN-SEEKER",
+    "description": "Vuln Seeker Unipessoal LDA",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

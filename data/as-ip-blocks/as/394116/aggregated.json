@@ -1,0 +1,14 @@
+{
+  "asn": 394116,
+  "metadata": {
+    "handle": "AXIOM-TECH",
+    "description": "chebeague.net LLC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

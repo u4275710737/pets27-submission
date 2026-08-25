@@ -1,0 +1,14 @@
+{
+  "asn": 64487,
+  "metadata": {
+    "handle": "ASTRCLOUD",
+    "description": "Cas Ebbers trading as BroadcastFacilities",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

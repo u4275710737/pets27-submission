@@ -1,0 +1,16 @@
+{
+  "asn": 200993,
+  "metadata": {
+    "handle": "NYARU",
+    "description": "Yanislav Basiuk",
+    "countryCode": "RU",
+    "country": "Russia",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "access_provider"
+  },
+  "prefixes": {
+    "ipv4": [ "91.193.111.0/24" ],
+    "ipv6": [ "2a10:ccc1:1333::/48", "2a12:4141::/48", "2a12:4141:fa00::/40" ]
+  }
+}

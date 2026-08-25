@@ -1,0 +1,14 @@
+{
+  "asn": 197116,
+  "metadata": {
+    "handle": "COMPODIUM-INTERNATIONAL-AB",
+    "description": "Compodium International AB",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

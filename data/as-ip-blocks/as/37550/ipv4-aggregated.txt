@@ -1,0 +1,4 @@
+# AS37550 (CONGOB-AIRTEL)
+# CongoB Airtel Pointe Noire
+#
+197.214.128.0/17

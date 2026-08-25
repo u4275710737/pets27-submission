@@ -1,0 +1,14 @@
+{
+  "asn": 10915,
+  "metadata": {
+    "handle": "CQL-AS",
+    "description": "CQL Incorporated",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

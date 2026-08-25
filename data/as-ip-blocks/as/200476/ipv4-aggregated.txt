@@ -1,0 +1,4 @@
+# AS200476 (TECHPAY-AS)
+# Tech Solutions LLC
+#
+93.179.89.0/24

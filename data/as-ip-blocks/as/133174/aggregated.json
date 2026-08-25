@@ -1,0 +1,14 @@
+{
+  "asn": 133174,
+  "metadata": {
+    "handle": "NEDA-AP",
+    "description": "Neda Telecommunications",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

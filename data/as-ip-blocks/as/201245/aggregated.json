@@ -1,0 +1,16 @@
+{
+  "asn": 201245,
+  "metadata": {
+    "handle": "PZYTA-NETWORK-LIMITED",
+    "description": "PZYTA Network Limited",
+    "countryCode": "HK",
+    "country": "Hong Kong SAR China",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "166.1.86.0/24" ],
+    "ipv6": [ ]
+  }
+}

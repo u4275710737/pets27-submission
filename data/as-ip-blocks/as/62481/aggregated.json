@@ -1,0 +1,14 @@
+{
+  "asn": 62481,
+  "metadata": {
+    "handle": "SUNTRUST-BANK",
+    "description": "SunTrust Banks, Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

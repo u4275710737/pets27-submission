@@ -1,0 +1,14 @@
+{
+  "asn": 36150,
+  "metadata": {
+    "handle": "SUNYSCCC",
+    "description": "SCHENECTADY COUNTY COMMUNITY COLLEGE",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 53345,
+  "metadata": {
+    "handle": "ONE-SOURCE-NETWORKS",
+    "description": "GTT Americas LLC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

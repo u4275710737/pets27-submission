@@ -1,0 +1,4 @@
+# AS9983 (ABS-AS-AP)
+# Australian Bureau of Statistics
+#
+144.53.0.0/16

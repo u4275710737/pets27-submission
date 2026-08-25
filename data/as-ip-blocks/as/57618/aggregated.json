@@ -1,0 +1,16 @@
+{
+  "asn": 57618,
+  "metadata": {
+    "handle": "JI-AS",
+    "description": "JIntelligence GmbH",
+    "countryCode": "DE",
+    "country": "Germany",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "37.1.112.0/20", "45.139.140.0/22" ],
+    "ipv6": [ "2a10:fb00::/29" ]
+  }
+}

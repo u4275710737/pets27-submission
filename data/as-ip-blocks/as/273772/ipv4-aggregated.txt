@@ -1,0 +1,4 @@
+# AS273772 (VNO-TELECOM)
+# VNO Telecom LTDA
+#
+187.19.0.0/20

@@ -1,0 +1,14 @@
+{
+  "asn": 58114,
+  "metadata": {
+    "handle": "VINCON",
+    "description": "Vincon Vrancea SA",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 149002,
+  "metadata": {
+    "handle": "HKOTC-AS-AP",
+    "description": "HONG KONG ORIENTAL SCIENCE AND TECHNOLOGY CO. LIMITED",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

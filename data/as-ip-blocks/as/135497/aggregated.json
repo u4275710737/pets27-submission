@@ -1,0 +1,14 @@
+{
+  "asn": 135497,
+  "metadata": {
+    "handle": "KINETICIT-AS-AP",
+    "description": "Kinetic IT Pty. Ltd.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

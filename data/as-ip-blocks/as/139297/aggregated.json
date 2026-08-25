@@ -1,0 +1,14 @@
+{
+  "asn": 139297,
+  "metadata": {
+    "handle": "LITSSCL-AP",
+    "description": "Lao International Technology Service Sole Co., Ltd",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

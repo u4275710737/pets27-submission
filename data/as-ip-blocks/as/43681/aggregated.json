@@ -1,0 +1,16 @@
+{
+  "asn": 43681,
+  "metadata": {
+    "handle": "UMSOPOT",
+    "description": "Urzad Miasta Sopotu",
+    "countryCode": "PL",
+    "country": "Poland",
+    "origin": "authoritative",
+    "category": "government_admin",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "91.195.108.0/23" ],
+    "ipv6": [ ]
+  }
+}

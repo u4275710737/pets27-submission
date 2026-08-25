@@ -1,0 +1,14 @@
+{
+  "asn": 58936,
+  "metadata": {
+    "handle": "MHAL-AP",
+    "description": "Managed Hosted Applications Limited",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

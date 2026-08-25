@@ -1,0 +1,5 @@
+# AS204702 (DWTS)
+# Deutsche Windtechnik GmbH & Co. KG
+#
+185.157.148.0/23
+185.157.151.0/24

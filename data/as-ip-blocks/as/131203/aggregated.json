@@ -1,0 +1,14 @@
+{
+  "asn": 131203,
+  "metadata": {
+    "handle": "MKN1-DIX-KH",
+    "description": "MekongNet IXP",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

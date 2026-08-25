@@ -1,0 +1,14 @@
+{
+  "asn": 13936,
+  "metadata": {
+    "handle": "UNIVERSAL-SOFT",
+    "description": "Universal Soft SA",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

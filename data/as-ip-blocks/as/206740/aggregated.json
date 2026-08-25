@@ -1,0 +1,14 @@
+{
+  "asn": 206740,
+  "metadata": {
+    "handle": "WUSEL",
+    "description": "Kai Siering",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

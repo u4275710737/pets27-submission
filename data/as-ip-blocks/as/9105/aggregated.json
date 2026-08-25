@@ -1,0 +1,14 @@
+{
+  "asn": 9105,
+  "metadata": {
+    "handle": "TISCALI-UK",
+    "description": "TalkTalk Communications Limited",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

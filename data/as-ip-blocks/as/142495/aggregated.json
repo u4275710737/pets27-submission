@@ -1,0 +1,14 @@
+{
+  "asn": 142495,
+  "metadata": {
+    "handle": "VONENET",
+    "description": "VONE NETWORK",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

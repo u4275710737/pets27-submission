@@ -1,0 +1,16 @@
+{
+  "asn": 209952,
+  "metadata": {
+    "handle": "MISTRAL-COMPUTE",
+    "description": "Mistral Compute Holding SAS",
+    "countryCode": "FR",
+    "country": "France",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "45.151.90.0/24" ],
+    "ipv6": [ ]
+  }
+}

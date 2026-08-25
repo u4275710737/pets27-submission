@@ -1,0 +1,14 @@
+{
+  "asn": 18380,
+  "metadata": {
+    "handle": "WESTPAC-AP",
+    "description": "Westpac Banking Corporation",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

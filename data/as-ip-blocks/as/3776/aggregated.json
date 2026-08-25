@@ -1,0 +1,14 @@
+{
+  "asn": 3776,
+  "metadata": {
+    "handle": "ALOHANET",
+    "description": "Hawaii Online",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

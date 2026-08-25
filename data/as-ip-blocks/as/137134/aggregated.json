@@ -1,0 +1,14 @@
+{
+  "asn": 137134,
+  "metadata": {
+    "handle": "ZEACLOUD-IN",
+    "description": "ZEACLOUD SERVICES PRIVATE LIMITED",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

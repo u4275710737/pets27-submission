@@ -1,0 +1,14 @@
+{
+  "asn": 54563,
+  "metadata": {
+    "handle": "CORVISA",
+    "description": "Corvisa LLC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

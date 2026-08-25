@@ -1,0 +1,14 @@
+{
+  "asn": 395085,
+  "metadata": {
+    "handle": "EMF-ASN",
+    "description": "Extra Mile Fiber LLC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

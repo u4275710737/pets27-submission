@@ -1,0 +1,16 @@
+{
+  "asn": 152280,
+  "metadata": {
+    "handle": "MGFOREST-AS",
+    "description": "MG Credit Information",
+    "countryCode": "KR",
+    "country": "South Korea",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "162.4.5.0/24" ],
+    "ipv6": [ ]
+  }
+}

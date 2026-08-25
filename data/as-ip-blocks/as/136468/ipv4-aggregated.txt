@@ -1,0 +1,4 @@
+# AS136468 (IBM-SG-AP)
+# IBM Singapore Pte Ltd
+#
+163.114.204.0/24

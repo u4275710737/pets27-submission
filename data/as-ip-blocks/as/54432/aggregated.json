@@ -1,0 +1,14 @@
+{
+  "asn": 54432,
+  "metadata": {
+    "handle": "VIRTUOZZO-US",
+    "description": "Virtuozzo Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 16558,
+  "metadata": {
+    "handle": "TOWERGROUP",
+    "description": "TOWER GROUP INTERNATIONAL",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

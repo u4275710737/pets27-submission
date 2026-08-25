@@ -1,0 +1,14 @@
+{
+  "asn": 132037,
+  "metadata": {
+    "handle": "HTCL-AP",
+    "description": "HO'NGSA' TELECOM COMPANY LIMITED",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

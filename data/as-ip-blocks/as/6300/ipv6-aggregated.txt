@@ -1,0 +1,4 @@
+# AS6300 (CCI-TEXAS)
+# Fidium
+#
+2605:d00::/32

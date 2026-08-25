@@ -1,0 +1,14 @@
+{
+  "asn": 136763,
+  "metadata": {
+    "handle": "FWCPL-AP",
+    "description": "Fiberworld Communication Pvt.ltd",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

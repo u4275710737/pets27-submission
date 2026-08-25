@@ -1,0 +1,14 @@
+{
+  "asn": 31761,
+  "metadata": {
+    "handle": "TALISEN-TECH",
+    "description": "Talisen Technologies Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

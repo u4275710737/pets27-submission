@@ -1,0 +1,14 @@
+{
+  "asn": 208607,
+  "metadata": {
+    "handle": "ASAP-ASN",
+    "description": "ASAP NETWORK SASU",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

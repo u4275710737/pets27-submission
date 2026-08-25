@@ -1,0 +1,14 @@
+{
+  "asn": 267739,
+  "metadata": {
+    "handle": "CABLECOLOR",
+    "description": "CABLECOLOR S.A.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

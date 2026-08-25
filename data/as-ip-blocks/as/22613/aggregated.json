@@ -1,0 +1,16 @@
+{
+  "asn": 22613,
+  "metadata": {
+    "handle": "GWU-055",
+    "description": "UNIVERSAL HEALTH SERVICES",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "50.169.98.0/24" ],
+    "ipv6": [ ]
+  }
+}

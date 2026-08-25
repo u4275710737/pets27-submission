@@ -1,0 +1,16 @@
+{
+  "asn": 151086,
+  "metadata": {
+    "handle": "AMRITANET-AS-IN",
+    "description": "Amrita Vishwa Vidyapeetham",
+    "countryCode": "IN",
+    "country": "India",
+    "origin": "authoritative",
+    "category": "education_research",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "103.10.27.0/24" ],
+    "ipv6": [ ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "asn": 40125,
+  "metadata": {
+    "handle": "CYBERNET-ENTERTAINMENT",
+    "description": "Cybernet Entertainment, LLC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [
+      "208.80.184.0/21"
+    ],
+    "ipv6": []
+  }
+}

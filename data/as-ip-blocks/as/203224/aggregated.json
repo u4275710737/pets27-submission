@@ -1,0 +1,14 @@
+{
+  "asn": 203224,
+  "metadata": {
+    "handle": "WEBPHONE",
+    "description": "Web + Phone GmbH",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

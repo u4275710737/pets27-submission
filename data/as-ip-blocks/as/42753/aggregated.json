@@ -1,0 +1,16 @@
+{
+  "asn": 42753,
+  "metadata": {
+    "handle": "MTK-ERA-AS",
+    "description": "Sergey Cherentayev",
+    "countryCode": "RU",
+    "country": "Russia",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "77.74.24.0/21" ],
+    "ipv6": [ ]
+  }
+}

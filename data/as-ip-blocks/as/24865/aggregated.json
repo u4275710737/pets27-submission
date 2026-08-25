@@ -1,0 +1,16 @@
+{
+  "asn": 24865,
+  "metadata": {
+    "handle": "SMOTI-AS",
+    "description": "Keith Mitchell",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "91.207.198.0/23" ],
+    "ipv6": [ ]
+  }
+}

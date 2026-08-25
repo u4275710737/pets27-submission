@@ -1,0 +1,4 @@
+# AS196904 (NETENT-AS)
+# Evolution NetEnt (Gibraltar) Limited
+#
+185.16.195.0/24

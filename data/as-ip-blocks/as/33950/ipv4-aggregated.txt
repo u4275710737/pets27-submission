@@ -1,0 +1,4 @@
+# AS33950 (LANXESS-BBS)
+# LANXESS Deutschland GmbH
+#
+195.242.224.0/23

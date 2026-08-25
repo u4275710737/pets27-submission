@@ -1,0 +1,16 @@
+{
+  "asn": 37403,
+  "metadata": {
+    "handle": "AS37403",
+    "description": "INFOGRO",
+    "countryCode": "ZA",
+    "country": "South Africa",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "41.79.148.0/22", "41.222.152.0/21", "41.242.40.0/21", "196.251.192.0/19" ],
+    "ipv6": [ "2c0f:faf8::/32" ]
+  }
+}

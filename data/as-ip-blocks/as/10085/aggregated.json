@@ -1,0 +1,14 @@
+{
+  "asn": 10085,
+  "metadata": {
+    "handle": "UNIGATE-OVERSEA-IX-AP",
+    "description": "Unigate Telecom Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

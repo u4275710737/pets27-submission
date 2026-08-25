@@ -1,0 +1,14 @@
+{
+  "asn": 132010,
+  "metadata": {
+    "handle": "XIERPU-AP",
+    "description": "XIERPU INDUSTRIAL CO., LIMITED",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

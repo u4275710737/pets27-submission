@@ -1,0 +1,14 @@
+{
+  "asn": 9143,
+  "metadata": {
+    "handle": "ZIGGO",
+    "description": "Ziggo B.V.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

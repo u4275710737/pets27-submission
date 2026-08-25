@@ -1,0 +1,14 @@
+{
+  "asn": 24245,
+  "metadata": {
+    "handle": "PNAPSYD001-AP",
+    "description": "Internap Network Services (Australia) Co. Ltd.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

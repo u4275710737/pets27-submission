@@ -1,0 +1,14 @@
+{
+  "asn": 138262,
+  "metadata": {
+    "handle": "SPACENET-IN",
+    "description": "Space Broadband",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

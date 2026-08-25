@@ -1,0 +1,16 @@
+{
+  "asn": 21626,
+  "metadata": {
+    "handle": "CLEARSKYNETWORK",
+    "description": "clearskynetwork",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ ]
+  }
+}

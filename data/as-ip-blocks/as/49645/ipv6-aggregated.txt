@@ -1,0 +1,7 @@
+# AS49645 (SOFT-EXPERT-AS)
+# Soft Expert SRL
+#
+2a0d:c9c0:1::/48
+2a0d:c9c0:2::/47
+2a0d:c9c0:4::/46
+2a0d:c9c0:8::/47

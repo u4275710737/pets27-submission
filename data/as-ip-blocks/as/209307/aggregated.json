@@ -1,0 +1,16 @@
+{
+  "asn": 209307,
+  "metadata": {
+    "handle": "CONVEX-EKB",
+    "description": "LLC Cifrovie Seti Urala",
+    "countryCode": "RU",
+    "country": "Russia",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "midsize_transit"
+  },
+  "prefixes": {
+    "ipv4": [ "95.183.42.0/23" ],
+    "ipv6": [ ]
+  }
+}

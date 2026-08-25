@@ -1,0 +1,4 @@
+# AS262601 (GTNET-TELECOMUNICACOES)
+# GtNet Telecomunicaçoes Ltda
+#
+2804:6ac::/32

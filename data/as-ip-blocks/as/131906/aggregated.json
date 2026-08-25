@@ -1,0 +1,14 @@
+{
+  "asn": 131906,
+  "metadata": {
+    "handle": "GAPINC-NET",
+    "description": "Gap Japan K.K.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

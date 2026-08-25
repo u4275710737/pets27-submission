@@ -1,0 +1,16 @@
+{
+  "asn": 37672,
+  "metadata": {
+    "handle": "INQ-DIGITAL-CAMEROON",
+    "description": "INQ DIGITAL CAMEROON SA",
+    "countryCode": "CM",
+    "country": "Cameroon",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "access_provider"
+  },
+  "prefixes": {
+    "ipv4": [ "41.216.232.0/22", "102.208.81.0/24", "217.14.84.0/24" ],
+    "ipv6": [ ]
+  }
+}

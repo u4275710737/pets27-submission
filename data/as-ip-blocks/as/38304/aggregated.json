@@ -1,0 +1,16 @@
+{
+  "asn": 38304,
+  "metadata": {
+    "handle": "VIRTELA-NET-VPHMAN1",
+    "description": "Virtela Communications",
+    "countryCode": "IN",
+    "country": "India",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "119.31.173.0/24", "207.179.27.0/24" ],
+    "ipv6": [ ]
+  }
+}

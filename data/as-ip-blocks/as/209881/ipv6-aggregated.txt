@@ -1,0 +1,4 @@
+# AS209881 (ASVASHINTPART)
+# LLC Vash internet partner
+#
+2a04:2e80:17::/48

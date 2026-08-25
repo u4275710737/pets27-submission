@@ -1,0 +1,14 @@
+{
+  "asn": 39477,
+  "metadata": {
+    "handle": "MUNDIO-MOBILE",
+    "description": "Vectone Mobile Limited",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "asn": 151574,
+  "metadata": {
+    "handle": "IDNIC-KDI-CORENET-ID",
+    "description": "PT Korina Data Indonesia",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [
+      "103.142.20.0/24"
+    ],
+    "ipv6": []
+  }
+}

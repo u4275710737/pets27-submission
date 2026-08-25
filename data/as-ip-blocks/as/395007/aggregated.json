@@ -1,0 +1,16 @@
+{
+  "asn": 395007,
+  "metadata": {
+    "handle": "ROCKETCOMM",
+    "description": "Rocket Communications Corp.",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "23.153.52.0/24", "184.105.42.0/24" ],
+    "ipv6": [ ]
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 40157,
+  "metadata": {
+    "handle": "ADESA-CORP",
+    "description": "ADESA Corp",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

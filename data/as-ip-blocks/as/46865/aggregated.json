@@ -1,0 +1,14 @@
+{
+  "asn": 46865,
+  "metadata": {
+    "handle": "FINANALYTICA",
+    "description": "FinAnalytica",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

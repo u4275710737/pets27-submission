@@ -1,0 +1,14 @@
+{
+  "asn": 19371,
+  "metadata": {
+    "handle": "ENOVATEL-1",
+    "description": "ENOVATEL LLC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 60704,
+  "metadata": {
+    "handle": "INETRO-AS",
+    "description": "CTD JSC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

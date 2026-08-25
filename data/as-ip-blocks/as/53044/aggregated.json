@@ -1,0 +1,14 @@
+{
+  "asn": 53044,
+  "metadata": {
+    "handle": "DHL-LOGISTCS-BRASIL",
+    "description": "DHL Logistcs Brasil Ltda.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 152327,
+  "metadata": {
+    "handle": "RASUWEBHOST-AS-AP",
+    "description": "Rasu Web Host",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

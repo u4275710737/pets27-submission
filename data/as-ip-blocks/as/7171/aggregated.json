@@ -1,0 +1,14 @@
+{
+  "asn": 7171,
+  "metadata": {
+    "handle": "EA-ONLINE-DC13",
+    "description": "Electronic Arts Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

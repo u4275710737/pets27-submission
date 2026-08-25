@@ -1,0 +1,5 @@
+# AS11722 (WFC-ASN)
+# Slic Network Solutions Inc
+#
+2606:1b00::/32
+2606:68c0::/32

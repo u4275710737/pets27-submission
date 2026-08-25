@@ -1,0 +1,4 @@
+# AS152027 (IDNIC-BCONN-AS-ID)
+# Bconn
+#
+45.249.224.0/23

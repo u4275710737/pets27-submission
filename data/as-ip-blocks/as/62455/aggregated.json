@@ -1,0 +1,14 @@
+{
+  "asn": 62455,
+  "metadata": {
+    "handle": "WBB",
+    "description": "Digiweb ltd",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

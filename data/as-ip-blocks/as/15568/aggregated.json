@@ -1,0 +1,14 @@
+{
+  "asn": 15568,
+  "metadata": {
+    "handle": "EBRD",
+    "description": "European Bank for Reconstruction and Development",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

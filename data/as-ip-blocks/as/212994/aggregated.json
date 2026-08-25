@@ -1,0 +1,16 @@
+{
+  "asn": 212994,
+  "metadata": {
+    "handle": "EUROLINK",
+    "description": "MEDIA INVESTCOM LLC",
+    "countryCode": "UA",
+    "country": "Ukraine",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "185.39.28.0/23", "185.237.216.0/23" ],
+    "ipv6": [ ]
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 208268,
+  "metadata": {
+    "handle": "PARVAZSYS",
+    "description": "Parvaz System Information Technology Company (Ltd)",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

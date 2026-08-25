@@ -1,0 +1,4 @@
+# AS198703 (BPA-AS)
+# Presse und Informationsamt der Bundesregierung
+#
+194.39.222.0/23

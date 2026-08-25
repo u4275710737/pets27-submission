@@ -1,0 +1,16 @@
+{
+  "asn": 12029,
+  "metadata": {
+    "handle": "AS12029",
+    "description": "TenSpire Network",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "66.163.223.0/24" ],
+    "ipv6": [ ]
+  }
+}

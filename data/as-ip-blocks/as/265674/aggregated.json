@@ -1,0 +1,14 @@
+{
+  "asn": 265674,
+  "metadata": {
+    "handle": "RICARDO-JORGE-BERTORA",
+    "description": "Ricardo Jorge Bertora",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

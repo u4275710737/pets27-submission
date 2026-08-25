@@ -1,0 +1,14 @@
+{
+  "asn": 37547,
+  "metadata": {
+    "handle": "ISPA-RW",
+    "description": "ISPA Ltd",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

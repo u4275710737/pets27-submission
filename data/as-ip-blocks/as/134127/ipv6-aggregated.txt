@@ -1,0 +1,4 @@
+# AS134127 (IDNIC-ZSN-AS-ID)
+# PT Zona Sejahtera Mandiri
+#
+2a14:7580:ff38::/47

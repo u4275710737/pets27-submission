@@ -1,0 +1,14 @@
+{
+  "asn": 18194,
+  "metadata": {
+    "handle": "PMMSI-AP",
+    "description": "Philippine Multi-Media System",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

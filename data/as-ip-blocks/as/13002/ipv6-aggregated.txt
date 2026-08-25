@@ -1,0 +1,5 @@
+# AS13002 (ISIX-AS)
+# ISIX Communications LLP
+#
+2a02:17e8::/32
+2a0a:c400:100::/40

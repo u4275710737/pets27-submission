@@ -1,0 +1,16 @@
+{
+  "asn": 37025,
+  "metadata": {
+    "handle": "KBLNG",
+    "description": "Keystone Bank Limited AS",
+    "countryCode": "NG",
+    "country": "Nigeria",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "41.203.110.0/23", "102.219.194.0/23", "196.6.228.0/24" ],
+    "ipv6": [ ]
+  }
+}

@@ -1,0 +1,4 @@
+# AS200489 (ARKYANETWORK)
+# Arkya Networks SAS
+#
+151.242.255.0/24

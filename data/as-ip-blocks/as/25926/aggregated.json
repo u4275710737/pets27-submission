@@ -1,0 +1,14 @@
+{
+  "asn": 25926,
+  "metadata": {
+    "handle": "HOSTUS-SOLUTIONS-LLC",
+    "description": "HostUS",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

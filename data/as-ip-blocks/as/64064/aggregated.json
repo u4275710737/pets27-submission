@@ -1,0 +1,14 @@
+{
+  "asn": 64064,
+  "metadata": {
+    "handle": "KMARTAUSTRALIALTD-AS-AP",
+    "description": "Kmart Australia Limited",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

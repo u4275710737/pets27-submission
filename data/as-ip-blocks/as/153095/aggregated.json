@@ -1,0 +1,14 @@
+{
+  "asn": 153095,
+  "metadata": {
+    "handle": "IDNIC-SPB-AS-ID",
+    "description": "PT Syahtelindo Putra Bangsa",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

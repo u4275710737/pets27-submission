@@ -1,0 +1,16 @@
+{
+  "asn": 400298,
+  "metadata": {
+    "handle": "CHICAGOSERVERS",
+    "description": "Madcityservers LLC",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "172.99.249.0/24" ],
+    "ipv6": [ "2602:fed2:7194::/48" ]
+  }
+}

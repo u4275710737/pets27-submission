@@ -1,0 +1,14 @@
+{
+  "asn": 208232,
+  "metadata": {
+    "handle": "DVN",
+    "description": "Donchenko Vitaliy Nikolaevich",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

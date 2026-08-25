@@ -1,0 +1,16 @@
+{
+  "asn": 27893,
+  "metadata": {
+    "handle": "UNIVERSIDAD-CARABOBO",
+    "description": "Universidad de Carabobo",
+    "countryCode": "VE",
+    "country": "Venezuela",
+    "origin": "authoritative",
+    "category": "education_research",
+    "networkRole": "access_provider"
+  },
+  "prefixes": {
+    "ipv4": [ "150.186.33.0/24", "190.170.64.0/18" ],
+    "ipv6": [ ]
+  }
+}

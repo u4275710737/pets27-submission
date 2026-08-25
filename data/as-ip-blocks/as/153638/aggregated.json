@@ -1,0 +1,14 @@
+{
+  "asn": 153638,
+  "metadata": {
+    "handle": "MMRM-AS-AP",
+    "description": "Rahaman Corporation",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

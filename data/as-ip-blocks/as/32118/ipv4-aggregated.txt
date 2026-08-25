@@ -1,0 +1,4 @@
+# AS32118 (AS-SMARTHEALTH)
+# Smart Practice
+#
+65.121.92.0/24

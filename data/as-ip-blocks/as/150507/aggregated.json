@@ -1,0 +1,14 @@
+{
+  "asn": 150507,
+  "metadata": {
+    "handle": "IDNIC-MNK-ID",
+    "description": "CV Maudy Network Komunikasi",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

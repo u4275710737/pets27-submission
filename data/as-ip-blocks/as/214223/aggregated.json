@@ -1,0 +1,16 @@
+{
+  "asn": 214223,
+  "metadata": {
+    "handle": "FPNET",
+    "description": "Luis Jakob Bartel",
+    "countryCode": "DE",
+    "country": "Germany",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ "2a14:7581:3705::/48", "2a14:7581:3709::/48" ]
+  }
+}

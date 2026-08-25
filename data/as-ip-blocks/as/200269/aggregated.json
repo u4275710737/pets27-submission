@@ -1,0 +1,16 @@
+{
+  "asn": 200269,
+  "metadata": {
+    "handle": "TRANSAVIA",
+    "description": "TRANSAVIA SA",
+    "countryCode": "RO",
+    "country": "Romania",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "81.181.144.0/24" ],
+    "ipv6": [ ]
+  }
+}

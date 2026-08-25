@@ -1,0 +1,14 @@
+{
+  "asn": 131590,
+  "metadata": {
+    "handle": "TCB-NET",
+    "description": "Taiwan Cooperative Bank",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

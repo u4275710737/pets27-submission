@@ -1,0 +1,5 @@
+# AS152069 (IDNIC-NSC-AS-ID)
+# PT Nusantara Star Connect
+#
+150.242.176.0/23
+202.91.30.0/23

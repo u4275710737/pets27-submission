@@ -1,0 +1,14 @@
+{
+  "asn": 199159,
+  "metadata": {
+    "handle": "DATASIX",
+    "description": "ANEXIA Internetdienstleistungs GmbH",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

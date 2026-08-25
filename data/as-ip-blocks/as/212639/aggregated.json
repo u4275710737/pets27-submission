@@ -1,0 +1,14 @@
+{
+  "asn": 212639,
+  "metadata": {
+    "handle": "DATMIT-AS212639",
+    "description": "DatMit s.r.l.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

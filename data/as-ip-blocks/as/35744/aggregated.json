@@ -1,0 +1,14 @@
+{
+  "asn": 35744,
+  "metadata": {
+    "handle": "CLDIN-DNS",
+    "description": "CLDIN B.V.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

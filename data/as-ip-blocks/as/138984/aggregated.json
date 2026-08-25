@@ -1,0 +1,16 @@
+{
+  "asn": 138984,
+  "metadata": {
+    "handle": "SLT-NW2",
+    "description": "Sri Lanka Telecom Ltd",
+    "countryCode": "LK",
+    "country": "Sri Lanka",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "203.96.160.0/22" ],
+    "ipv6": [ ]
+  }
+}

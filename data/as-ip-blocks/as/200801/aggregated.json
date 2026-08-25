@@ -1,0 +1,14 @@
+{
+  "asn": 200801,
+  "metadata": {
+    "handle": "PKMA-DEMOCENTER",
+    "description": "PFALZKOM GmbH",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

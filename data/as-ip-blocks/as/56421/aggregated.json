@@ -1,0 +1,14 @@
+{
+  "asn": 56421,
+  "metadata": {
+    "handle": "UA-WEECOMI",
+    "description": "LLC WEECOMI UKRAINE",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "asn": 4183,
+  "metadata": {
+    "handle": "UUNET-MCIWCOM",
+    "description": "Verizon Business",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ ]
+  }
+}

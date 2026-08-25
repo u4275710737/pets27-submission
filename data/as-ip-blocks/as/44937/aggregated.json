@@ -1,0 +1,14 @@
+{
+  "asn": 44937,
+  "metadata": {
+    "handle": "GASNEFTETORG",
+    "description": "GazNeftetorg.ru Ltd",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

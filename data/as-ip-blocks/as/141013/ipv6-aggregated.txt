@@ -1,0 +1,5 @@
+# AS141013 (RISE-AS-AP)
+# Responsible Internet Sustainability Effort inc
+#
+2401:fdc0:10::/44
+2401:fdc0:20::/43

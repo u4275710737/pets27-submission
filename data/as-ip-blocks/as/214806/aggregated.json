@@ -1,0 +1,16 @@
+{
+  "asn": 214806,
+  "metadata": {
+    "handle": "FEMBOY",
+    "description": "Femboy Cyber Networks LLC",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "94.156.238.0/24" ],
+    "ipv6": [ "2a12:9b00:b00b::/48" ]
+  }
+}

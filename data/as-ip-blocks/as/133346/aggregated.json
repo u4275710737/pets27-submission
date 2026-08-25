@@ -1,0 +1,14 @@
+{
+  "asn": 133346,
+  "metadata": {
+    "handle": "IDNIC-GDN-AS-ID",
+    "description": "PT Global Digital Niaga",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

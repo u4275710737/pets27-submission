@@ -1,0 +1,14 @@
+{
+  "asn": 133378,
+  "metadata": {
+    "handle": "WGCC-AP",
+    "description": "Wingel cooperation co.,Ltd",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

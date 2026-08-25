@@ -1,0 +1,14 @@
+{
+  "asn": 147074,
+  "metadata": {
+    "handle": "IDNIC-BISNET-ID",
+    "description": "PT Bisnet Teknologi Jaya",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

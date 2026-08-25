@@ -1,0 +1,14 @@
+{
+  "asn": 138822,
+  "metadata": {
+    "handle": "JKOM-ID",
+    "description": "PT Jaya Komunikasi Indonesia",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

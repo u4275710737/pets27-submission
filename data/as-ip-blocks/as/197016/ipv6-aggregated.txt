@@ -1,0 +1,4 @@
+# AS197016 (FRIESLAND-AS)
+# Provincie Friesland
+#
+2a07:3501:1070::/48

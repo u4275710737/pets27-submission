@@ -1,0 +1,14 @@
+{
+  "asn": 20471,
+  "metadata": {
+    "handle": "QCV-ASN-1",
+    "description": "Quick Connect VOIP, Inc",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

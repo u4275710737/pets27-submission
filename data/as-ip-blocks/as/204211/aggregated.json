@@ -1,0 +1,16 @@
+{
+  "asn": 204211,
+  "metadata": {
+    "handle": "LOCYAN-NETWORK-AS",
+    "description": "Hangzhou Yingyun Network Technology Co. Ltd.",
+    "countryCode": "CN",
+    "country": "China",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "access_provider"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ "2602:f9f6:450::/48", "2a12:cb47:ffff::/48", "2a14:7586:6100::/47", "2a14:7586:6103::/48", "2a14:7586:6104::/47", "2a14:7586:6106::/48", "2a14:7586:6110::/48" ]
+  }
+}

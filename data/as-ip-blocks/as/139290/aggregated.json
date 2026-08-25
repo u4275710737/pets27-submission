@@ -1,0 +1,14 @@
+{
+  "asn": 139290,
+  "metadata": {
+    "handle": "COALSERVICES-AS-AP",
+    "description": "Coal Services Pty Ltd",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

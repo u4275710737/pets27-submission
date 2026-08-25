@@ -1,0 +1,14 @@
+{
+  "asn": 213399,
+  "metadata": {
+    "handle": "AKIWIFI-TOLEDO",
+    "description": "Nostravant S.L.L.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

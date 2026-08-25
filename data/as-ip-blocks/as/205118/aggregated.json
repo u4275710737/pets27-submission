@@ -1,0 +1,14 @@
+{
+  "asn": 205118,
+  "metadata": {
+    "handle": "IME-ASN4",
+    "description": "BOURS KALAYE IRAN PJSC (Iran Mercantile Exchange)",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 21184,
+  "metadata": {
+    "handle": "FARPOST",
+    "description": "Farpost Int.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

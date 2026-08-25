@@ -1,0 +1,14 @@
+{
+  "asn": 27980,
+  "metadata": {
+    "handle": "WEATHERFORD-INTERNATIONAL",
+    "description": "Weatherford International Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 51961,
+  "metadata": {
+    "handle": "SVXPVT",
+    "description": "Standart AG, LLC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

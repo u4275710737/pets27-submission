@@ -1,0 +1,14 @@
+{
+  "asn": 209009,
+  "metadata": {
+    "handle": "AVANT-SI",
+    "description": "AVANT.SI storitve in trgovina d.o.o.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

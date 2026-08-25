@@ -1,0 +1,14 @@
+{
+  "asn": 138880,
+  "metadata": {
+    "handle": "IDNIC-DTA-AS-ID",
+    "description": "CV Dwi Tunggal Abadi",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

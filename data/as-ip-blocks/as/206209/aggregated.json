@@ -1,0 +1,14 @@
+{
+  "asn": 206209,
+  "metadata": {
+    "handle": "ORCL-NL",
+    "description": "Oracle Svenska AB",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

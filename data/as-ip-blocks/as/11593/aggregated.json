@@ -1,0 +1,14 @@
+{
+  "asn": 11593,
+  "metadata": {
+    "handle": "AKRS",
+    "description": "AKRS",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

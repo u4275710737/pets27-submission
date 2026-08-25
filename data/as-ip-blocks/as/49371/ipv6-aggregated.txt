@@ -1,0 +1,5 @@
+# AS49371 (RU-SHARK-AS)
+# Shark Telecom LLC
+#
+2a03:9000::/40
+2a03:9000:200::/40

@@ -1,0 +1,14 @@
+{
+  "asn": 40514,
+  "metadata": {
+    "handle": "LABCORP-DIAGNOSTICS-PAML",
+    "description": "Pathology Associates Medical Laboratories",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

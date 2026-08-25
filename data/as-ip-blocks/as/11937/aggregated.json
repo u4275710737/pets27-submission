@@ -1,0 +1,14 @@
+{
+  "asn": 11937,
+  "metadata": {
+    "handle": "TRX-ARIN",
+    "description": "TRX Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

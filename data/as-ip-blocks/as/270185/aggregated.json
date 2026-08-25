@@ -1,0 +1,14 @@
+{
+  "asn": 270185,
+  "metadata": {
+    "handle": "PETROLEOS-MEXICANOS",
+    "description": "Petroleos Mexicanos",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

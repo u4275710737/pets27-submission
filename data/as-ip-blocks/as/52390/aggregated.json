@@ -1,0 +1,16 @@
+{
+  "asn": 52390,
+  "metadata": {
+    "handle": "ADMINISTRADORADEREDES",
+    "description": "Administradora de Redes S.A.",
+    "countryCode": "HN",
+    "country": "Honduras",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "190.123.24.0/21", "200.75.184.0/21" ],
+    "ipv6": [ "2803:5600::/32" ]
+  }
+}

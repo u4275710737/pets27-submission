@@ -1,0 +1,4 @@
+# AS402019 (JEROME-COUNTY-ID)
+# Jerome County Idaho
+#
+2602:f547::/36

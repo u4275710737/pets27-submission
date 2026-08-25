@@ -1,0 +1,14 @@
+{
+  "asn": 33413,
+  "metadata": {
+    "handle": "BETA-OFFSHORE",
+    "description": "Beta Offshore",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

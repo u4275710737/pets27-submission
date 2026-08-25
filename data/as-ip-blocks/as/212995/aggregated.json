@@ -1,0 +1,14 @@
+{
+  "asn": 212995,
+  "metadata": {
+    "handle": "TAN-NET",
+    "description": "HockWoo Tan",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

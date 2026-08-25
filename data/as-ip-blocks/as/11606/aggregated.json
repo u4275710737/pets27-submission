@@ -1,0 +1,16 @@
+{
+  "asn": 11606,
+  "metadata": {
+    "handle": "ARCHTOP-FIBER-WVTC02",
+    "description": "Archtop Fiber",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ ]
+  }
+}

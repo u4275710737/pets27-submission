@@ -1,0 +1,14 @@
+{
+  "asn": 58164,
+  "metadata": {
+    "handle": "ASKPNET",
+    "description": "Zasseev Andrey Ruslanovych",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

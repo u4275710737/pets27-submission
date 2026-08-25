@@ -1,0 +1,16 @@
+{
+  "asn": 36936,
+  "metadata": {
+    "handle": "CELTEL-GABON",
+    "description": "Celtel Gabon Internet Service",
+    "countryCode": "AO",
+    "country": "Angola",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "196.1.15.0/24" ],
+    "ipv6": [ "2001:43f8:760::/48" ]
+  }
+}

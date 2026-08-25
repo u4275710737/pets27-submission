@@ -1,0 +1,16 @@
+{
+  "asn": 37585,
+  "metadata": {
+    "handle": "NSGB",
+    "description": "NSGB",
+    "countryCode": "EG",
+    "country": "Egypt",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "196.6.236.0/24" ],
+    "ipv6": [ ]
+  }
+}

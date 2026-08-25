@@ -1,0 +1,14 @@
+{
+  "asn": 141777,
+  "metadata": {
+    "handle": "XSUSENETBV-AP",
+    "description": "XS Usenet",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

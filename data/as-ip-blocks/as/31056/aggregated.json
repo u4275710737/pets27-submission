@@ -1,0 +1,14 @@
+{
+  "asn": 31056,
+  "metadata": {
+    "handle": "PING-PRIMA",
+    "description": "Verein zur Forderung der privaten Internet Nutzung (PING) e.V.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

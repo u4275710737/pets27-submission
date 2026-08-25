@@ -1,0 +1,14 @@
+{
+  "asn": 49239,
+  "metadata": {
+    "handle": "NANIDA",
+    "description": "Zsolt Murzsa",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

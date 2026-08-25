@@ -1,0 +1,14 @@
+{
+  "asn": 151931,
+  "metadata": {
+    "handle": "ERACLOUD-VN",
+    "description": "Cloud Era LLC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

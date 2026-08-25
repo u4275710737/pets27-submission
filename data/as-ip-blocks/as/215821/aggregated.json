@@ -1,0 +1,16 @@
+{
+  "asn": 215821,
+  "metadata": {
+    "handle": "AS215821",
+    "description": "London Digital Systems LTD",
+    "countryCode": "GB",
+    "country": "United Kingdom",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "45.84.101.0/24", "194.87.251.0/24" ],
+    "ipv6": [ "2606:f180:11::/48" ]
+  }
+}

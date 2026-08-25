@@ -1,0 +1,16 @@
+{
+  "asn": 201031,
+  "metadata": {
+    "handle": "SMART-WAVES-NETWORK",
+    "description": "Smart Waves for Information Technology and Internet Services Ltd.",
+    "countryCode": "IQ",
+    "country": "Iraq",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "185.88.24.0/24", "185.88.26.0/24" ],
+    "ipv6": [ ]
+  }
+}

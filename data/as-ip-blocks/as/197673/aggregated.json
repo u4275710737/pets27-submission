@@ -1,0 +1,14 @@
+{
+  "asn": 197673,
+  "metadata": {
+    "handle": "TIMELINE",
+    "description": "JSC Avantel",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

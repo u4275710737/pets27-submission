@@ -1,0 +1,14 @@
+{
+  "asn": 203994,
+  "metadata": {
+    "handle": "SATURN",
+    "description": "Murmansk Multiservice Networks-ShPD LLC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

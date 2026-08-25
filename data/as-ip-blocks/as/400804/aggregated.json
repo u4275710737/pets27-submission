@@ -1,0 +1,14 @@
+{
+  "asn": 400804,
+  "metadata": {
+    "handle": "ON-001",
+    "description": "Osage Nation",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

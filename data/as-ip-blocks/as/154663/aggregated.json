@@ -1,0 +1,16 @@
+{
+  "asn": 154663,
+  "metadata": {
+    "handle": "IDNIC-SPS-ID",
+    "description": "PT SIGNAL PRIMA SOLUSI",
+    "countryCode": "ID",
+    "country": "Indonesia",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "162.4.44.0/24" ],
+    "ipv6": [ ]
+  }
+}

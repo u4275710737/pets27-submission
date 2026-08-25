@@ -1,0 +1,4 @@
+# AS398846 (LOGIS-AS-1)
+# Local Government Information Systems Association
+#
+2605:ae40::/32

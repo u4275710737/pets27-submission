@@ -1,0 +1,14 @@
+{
+  "asn": 23510,
+  "metadata": {
+    "handle": "CORPORATE-TECHNOLOGY-GROUP-MONTANA",
+    "description": "Client Hub, Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

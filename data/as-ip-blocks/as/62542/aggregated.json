@@ -1,0 +1,14 @@
+{
+  "asn": 62542,
+  "metadata": {
+    "handle": "VMW-SEA3-COLO",
+    "description": "Avago Technologies U.S. Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

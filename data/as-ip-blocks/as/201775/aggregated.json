@@ -1,0 +1,14 @@
+{
+  "asn": 201775,
+  "metadata": {
+    "handle": "INTERPREMS",
+    "description": "INTERNATIONAL PREMIUMS (Offshore) S.A.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

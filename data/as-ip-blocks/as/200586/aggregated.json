@@ -1,0 +1,16 @@
+{
+  "asn": 200586,
+  "metadata": {
+    "handle": "CAKNING-ID",
+    "description": "ahmad munir",
+    "countryCode": "ID",
+    "country": "Indonesia",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ "2a06:9801:8b::/48", "2a14:7583:e600::/40" ]
+  }
+}

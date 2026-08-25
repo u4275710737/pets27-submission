@@ -1,0 +1,10 @@
+# AS209372 (WSTELECOM-CUSTOMERS)
+# WS Telecom Inc
+#
+2a07:da80::/29
+2a0c:f80::/29
+2a0c:5980::/29
+2a0c:7980::/29
+2a0d:b901::/32
+2a0f:5140::/29
+2a0f:a8c0::/29

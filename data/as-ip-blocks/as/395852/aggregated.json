@@ -1,0 +1,14 @@
+{
+  "asn": 395852,
+  "metadata": {
+    "handle": "WEBAPP-IO-01",
+    "description": "webapp.io",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

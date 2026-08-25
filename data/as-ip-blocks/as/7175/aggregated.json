@@ -1,0 +1,14 @@
+{
+  "asn": 7175,
+  "metadata": {
+    "handle": "ERX-AUSSIE",
+    "description": "aussie.net Pty Limited",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

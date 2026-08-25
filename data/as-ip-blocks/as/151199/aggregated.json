@@ -1,0 +1,14 @@
+{
+  "asn": 151199,
+  "metadata": {
+    "handle": "LUXOFT-AS-AP",
+    "description": "Luxoft India LLP",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

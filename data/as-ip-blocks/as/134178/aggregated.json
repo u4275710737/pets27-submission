@@ -1,0 +1,14 @@
+{
+  "asn": 134178,
+  "metadata": {
+    "handle": "UGL-AP",
+    "description": "United Group Limited",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

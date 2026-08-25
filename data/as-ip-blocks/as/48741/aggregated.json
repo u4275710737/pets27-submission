@@ -1,0 +1,14 @@
+{
+  "asn": 48741,
+  "metadata": {
+    "handle": "DATAPHOTON",
+    "description": "Dataphoton, Inc",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

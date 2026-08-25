@@ -1,0 +1,14 @@
+{
+  "asn": 1913,
+  "metadata": {
+    "handle": "DNIC-ASBLK-0-01914",
+    "description": "DoD Network Information Center",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

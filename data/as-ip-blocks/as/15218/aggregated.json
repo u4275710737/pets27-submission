@@ -1,0 +1,14 @@
+{
+  "asn": 15218,
+  "metadata": {
+    "handle": "CXA-OK-CBS",
+    "description": "Cox Communications Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 12441,
+  "metadata": {
+    "handle": "COMMTOUCH",
+    "description": "Cyren Inc",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 27542,
+  "metadata": {
+    "handle": "KKAMERICA",
+    "description": "K+K America Corporation",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

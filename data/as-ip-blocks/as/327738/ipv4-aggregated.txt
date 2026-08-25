@@ -1,0 +1,5 @@
+# AS327738 (AFRICELL-DRC)
+# AfricellDRC AS Number
+#
+45.221.4.0/22
+154.73.20.0/22

@@ -1,0 +1,14 @@
+{
+  "asn": 198649,
+  "metadata": {
+    "handle": "DIREKTNA-RS-AS",
+    "description": "AikBank ad Beograd",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

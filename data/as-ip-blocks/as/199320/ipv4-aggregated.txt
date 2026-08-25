@@ -1,0 +1,4 @@
+# AS199320 (OSNOVA-AS)
+# Karyalan LLC
+#
+93.180.136.0/23

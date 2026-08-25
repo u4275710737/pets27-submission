@@ -1,0 +1,16 @@
+{
+  "asn": 211620,
+  "metadata": {
+    "handle": "ADM-TELEKOM-AS",
+    "description": "ADM-TELEKOM LLC",
+    "countryCode": "RU",
+    "country": "Russia",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "170.168.79.0/24" ],
+    "ipv6": [ ]
+  }
+}

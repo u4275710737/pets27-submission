@@ -1,0 +1,14 @@
+{
+  "asn": 201518,
+  "metadata": {
+    "handle": "HORIZONTELECOM",
+    "description": "air2bite s.r.l.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

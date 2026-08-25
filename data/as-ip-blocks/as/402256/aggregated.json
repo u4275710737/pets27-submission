@@ -1,0 +1,16 @@
+{
+  "asn": 402256,
+  "metadata": {
+    "handle": "SEAN-LAB-01",
+    "description": "Sean Johns Sole Proprietorship",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ "2620:8:f080::/48" ]
+  }
+}

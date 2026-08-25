@@ -1,0 +1,14 @@
+{
+  "asn": 207429,
+  "metadata": {
+    "handle": "KAPTEYAN",
+    "description": "Kapteyan Bilisim Teknolojileri Sanayi ve Ticaret A.S",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

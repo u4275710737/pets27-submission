@@ -1,0 +1,4 @@
+# AS140748 (ICTVL-AS-VN)
+# Department of Science and Technology of Vinh Long province
+#
+103.154.180.0/23

@@ -1,0 +1,16 @@
+{
+  "asn": 213268,
+  "metadata": {
+    "handle": "QUARTIK",
+    "description": "QUARTIK SL",
+    "countryCode": "ES",
+    "country": "Spain",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "185.202.204.0/24" ],
+    "ipv6": [ ]
+  }
+}

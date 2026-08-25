@@ -1,0 +1,16 @@
+{
+  "asn": 34369,
+  "metadata": {
+    "handle": "AS-SHATELMOBILE",
+    "description": "Aria Shatel PJSC",
+    "countryCode": "IR",
+    "country": "Iran",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "37.148.0.0/17", "37.202.128.0/21", "37.202.144.0/20", "37.202.160.0/19" ],
+    "ipv6": [ ]
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 19365,
+  "metadata": {
+    "handle": "NETWURX-01",
+    "description": "Netwurx LLC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

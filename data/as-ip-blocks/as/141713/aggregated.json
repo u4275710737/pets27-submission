@@ -1,0 +1,14 @@
+{
+  "asn": 141713,
+  "metadata": {
+    "handle": "AWN-CIGNA-INSURANCE-AP",
+    "description": "Cigna Insurance Public Company Limited",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

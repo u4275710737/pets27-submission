@@ -1,0 +1,14 @@
+{
+  "asn": 24731,
+  "metadata": {
+    "handle": "ASN-NESMA",
+    "description": "Middle East Internet Company Limited",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

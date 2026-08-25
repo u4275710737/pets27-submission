@@ -1,0 +1,4 @@
+# AS52436 (CABLE-TELEVISORA-COLOR)
+# Cable Televisora Color
+#
+2803:b900:800::/37

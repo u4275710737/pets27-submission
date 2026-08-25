@@ -1,0 +1,16 @@
+{
+  "asn": 137413,
+  "metadata": {
+    "handle": "SANVIT-AS-AP",
+    "description": "Cambodian Network Exchange Co. Ltd.",
+    "countryCode": "KH",
+    "country": "Cambodia",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "103.237.53.0/24" ],
+    "ipv6": [ "2001:df6:1441::/48" ]
+  }
+}

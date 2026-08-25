@@ -1,0 +1,16 @@
+{
+  "asn": 266197,
+  "metadata": {
+    "handle": "IBL-TELECOM",
+    "description": "IBL TELECOM",
+    "countryCode": "BR",
+    "country": "Brazil",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "160.20.161.0/24", "160.20.162.0/23" ],
+    "ipv6": [ "2804:3c38:8000::/33" ]
+  }
+}

@@ -1,0 +1,4 @@
+# AS24991 (DATATRANSINTERNET-AS)
+# Datatrans Internet Ltd
+#
+81.93.192.0/20

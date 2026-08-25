@@ -1,0 +1,16 @@
+{
+  "asn": 210152,
+  "metadata": {
+    "handle": "VANVIK-INTERNET",
+    "description": "Jon Vanvik trading as Vanvik Internet",
+    "countryCode": "NO",
+    "country": "Norway",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "access_provider"
+  },
+  "prefixes": {
+    "ipv4": [ "185.147.35.0/24" ],
+    "ipv6": [ "2001:67c:c14::/48", "2a01:ffc6:4000::/34", "2a0a:3e40::/29", "2a0a:6040:e000::/40" ]
+  }
+}

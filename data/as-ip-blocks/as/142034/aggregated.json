@@ -1,0 +1,14 @@
+{
+  "asn": 142034,
+  "metadata": {
+    "handle": "GEM1-AP",
+    "description": "Gem Cloud Limited",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 42022,
+  "metadata": {
+    "handle": "DGI",
+    "description": "Digitale Gardermoen IS",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

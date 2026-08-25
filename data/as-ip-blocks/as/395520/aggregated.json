@@ -1,0 +1,14 @@
+{
+  "asn": 395520,
+  "metadata": {
+    "handle": "PLATFORM9",
+    "description": "Platform9",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

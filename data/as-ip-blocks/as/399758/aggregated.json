@@ -1,0 +1,14 @@
+{
+  "asn": 399758,
+  "metadata": {
+    "handle": "DAUZAT-01",
+    "description": "Paragon Casino Resort",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

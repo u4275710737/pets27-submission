@@ -1,0 +1,14 @@
+{
+  "asn": 394447,
+  "metadata": {
+    "handle": "TPS-NET",
+    "description": "Trinity Preparatory School",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

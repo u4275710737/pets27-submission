@@ -1,0 +1,5 @@
+# AS264920 (SHEL-NET-INFORMATICA)
+# Shel Net Informatica Ltda
+#
+168.232.4.0/22
+179.48.138.0/24

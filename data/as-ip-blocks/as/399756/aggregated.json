@@ -1,0 +1,16 @@
+{
+  "asn": 399756,
+  "metadata": {
+    "handle": "TFC-BASE-001",
+    "description": "The Fiber.Company LLC",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ ]
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 140958,
+  "metadata": {
+    "handle": "JWIT-AP",
+    "description": "Jehovah's Witnesses in Taiwan",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

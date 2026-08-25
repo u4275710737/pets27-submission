@@ -1,0 +1,16 @@
+{
+  "asn": 209365,
+  "metadata": {
+    "handle": "BRUTALSYS",
+    "description": "Brutalsys S.L.",
+    "countryCode": "ES",
+    "country": "Spain",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "85.208.100.0/23", "185.206.62.0/24" ],
+    "ipv6": [ "2a09:85c0:40::/48", "2a09:85c0:50::/48" ]
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 17347,
+  "metadata": {
+    "handle": "PEPCO",
+    "description": "Potomac Electric Power Company",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

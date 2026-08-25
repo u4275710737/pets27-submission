@@ -1,0 +1,6 @@
+# AS135330 (ADCDATA-LIMITED)
+# ADCDATA Limited
+#
+2404:c680::/32
+2a0a:eec0:8::/48
+2a0d:6c2:4::/47

@@ -1,0 +1,14 @@
+{
+  "asn": 43011,
+  "metadata": {
+    "handle": "OMSK",
+    "description": "GUIT Omskoy oblasti",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

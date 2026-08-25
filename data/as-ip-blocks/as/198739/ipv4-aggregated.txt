@@ -1,0 +1,4 @@
+# AS198739 (GARDIO-CUST-GBG)
+# Gardio AB
+#
+94.142.229.0/24

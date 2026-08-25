@@ -1,0 +1,16 @@
+{
+  "asn": 209182,
+  "metadata": {
+    "handle": "JASONAS",
+    "description": "Jason Ruhittel",
+    "countryCode": "AT",
+    "country": "Austria",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ "2a05:dfc1:ad00::/40", "2a05:dfc1:ae00::/40", "2a09:3f00:4000::/38" ]
+  }
+}

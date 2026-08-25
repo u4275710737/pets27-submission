@@ -1,0 +1,14 @@
+{
+  "asn": 33144,
+  "metadata": {
+    "handle": "NAVIGANTCONSULTING",
+    "description": "Guidehouse Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

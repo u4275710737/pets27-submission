@@ -1,0 +1,16 @@
+{
+  "asn": 154311,
+  "metadata": {
+    "handle": "MEHERPUR-AS-AP",
+    "description": "MEHERPUR BROADBAND",
+    "countryCode": "BD",
+    "country": "Bangladesh",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "138.252.88.0/24" ],
+    "ipv6": [ ]
+  }
+}

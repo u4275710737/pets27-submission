@@ -1,0 +1,16 @@
+{
+  "asn": 206378,
+  "metadata": {
+    "handle": "STOLITOMSON-AS",
+    "description": "FOP Dmytro Nedilskyi",
+    "countryCode": "UA",
+    "country": "Ukraine",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "193.8.187.0/24", "194.113.39.0/24" ],
+    "ipv6": [ ]
+  }
+}

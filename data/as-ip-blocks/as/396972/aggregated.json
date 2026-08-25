@@ -1,0 +1,14 @@
+{
+  "asn": 396972,
+  "metadata": {
+    "handle": "DHS-39N",
+    "description": "Department of Homeland Security",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

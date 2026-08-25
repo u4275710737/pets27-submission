@@ -1,0 +1,14 @@
+{
+  "asn": 23779,
+  "metadata": {
+    "handle": "N-BONE",
+    "description": "NTT DOCOMO BUSINESS Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

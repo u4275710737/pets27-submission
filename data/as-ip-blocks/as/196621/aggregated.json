@@ -1,0 +1,16 @@
+{
+  "asn": 196621,
+  "metadata": {
+    "handle": "FREESTONE",
+    "description": "Matthias Cramer",
+    "countryCode": "CH",
+    "country": "Switzerland",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "content_network"
+  },
+  "prefixes": {
+    "ipv4": [ "193.5.68.0/23" ],
+    "ipv6": [ "2001:67c:8::/48" ]
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 150642,
+  "metadata": {
+    "handle": "AZURA-IN",
+    "description": "AZURA DIGITAL WORLD",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

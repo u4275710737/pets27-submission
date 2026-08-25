@@ -1,0 +1,14 @@
+{
+  "asn": 139612,
+  "metadata": {
+    "handle": "CONTENTKEEPER-AS-AP-HQ",
+    "description": "ContentKeeper Technologies",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

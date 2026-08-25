@@ -1,0 +1,14 @@
+{
+  "asn": 18947,
+  "metadata": {
+    "handle": "FSN-USTXAUS01",
+    "description": "Freight Security Net, Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

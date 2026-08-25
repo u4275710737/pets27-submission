@@ -1,0 +1,14 @@
+{
+  "asn": 206397,
+  "metadata": {
+    "handle": "GENIUS-GUARD",
+    "description": "Geniusx Ltd",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

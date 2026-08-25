@@ -1,0 +1,14 @@
+{
+  "asn": 958,
+  "metadata": {
+    "handle": "GENIE-NODEBUFF",
+    "description": "Parsa Janbeglou Media Ltd.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

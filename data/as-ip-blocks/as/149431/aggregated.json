@@ -1,0 +1,14 @@
+{
+  "asn": 149431,
+  "metadata": {
+    "handle": "PISPL-AS-AP",
+    "description": "PricewaterhouseCoopers IT Services (Singapore) Pte. Ltd.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

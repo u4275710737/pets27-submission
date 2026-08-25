@@ -1,0 +1,16 @@
+{
+  "asn": 56447,
+  "metadata": {
+    "handle": "FE511-AS",
+    "description": "TNCA LLC",
+    "countryCode": "KZ",
+    "country": "Kazakhstan",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "84.38.4.0/24" ],
+    "ipv6": [ "2001:67c:3ac::/48" ]
+  }
+}

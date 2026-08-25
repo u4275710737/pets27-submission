@@ -1,0 +1,14 @@
+{
+  "asn": 201492,
+  "metadata": {
+    "handle": "NETVERSOR-4",
+    "description": "Netversor GmbH",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

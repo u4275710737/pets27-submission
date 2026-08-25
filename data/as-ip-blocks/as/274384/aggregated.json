@@ -1,0 +1,16 @@
+{
+  "asn": 274384,
+  "metadata": {
+    "handle": "VELIZ-INTERNET-SERVICOS",
+    "description": "VELIZ INTERNET E SERVICOS LTDA",
+    "countryCode": "BR",
+    "country": "Brazil",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ "2804:7bd0:7600::/40", "2804:9718::/32" ]
+  }
+}

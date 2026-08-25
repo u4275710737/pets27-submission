@@ -1,0 +1,16 @@
+{
+  "asn": 138768,
+  "metadata": {
+    "handle": "FCPL-AS",
+    "description": "Flixtel Communication Private Limited",
+    "countryCode": "IN",
+    "country": "India",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "103.139.190.0/23" ],
+    "ipv6": [ ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "asn": 37323,
+  "metadata": {
+    "handle": "NETPAGE",
+    "description": "Netpage Company Limited",
+    "countryCode": "GM",
+    "country": "Gambia",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "102.203.171.0/24", "102.211.244.0/22", "197.255.192.0/20" ],
+    "ipv6": [ "2c0f:fcb8::/32" ]
+  }
+}

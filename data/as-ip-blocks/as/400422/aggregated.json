@@ -1,0 +1,16 @@
+{
+  "asn": 400422,
+  "metadata": {
+    "handle": "MODERNTREASURY",
+    "description": "Modern Treasury Corp.",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "104.249.163.0/24" ],
+    "ipv6": [ "2606:a440:7::/48" ]
+  }
+}

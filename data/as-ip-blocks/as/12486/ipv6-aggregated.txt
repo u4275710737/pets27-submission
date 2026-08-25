@@ -1,0 +1,4 @@
+# AS12486 (TELEYEMEN)
+# TeleYemen
+#
+2a02:e280::/29

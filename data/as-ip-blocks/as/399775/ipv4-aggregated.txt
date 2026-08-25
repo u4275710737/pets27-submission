@@ -1,0 +1,5 @@
+# AS399775 (CENOV-ASN)
+# Cenovus Energy Inc
+#
+162.139.0.0/20
+162.139.240.0/20

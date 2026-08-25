@@ -1,0 +1,14 @@
+{
+  "asn": 25793,
+  "metadata": {
+    "handle": "DXC-TECHNOLOGY",
+    "description": "DXC Technology South Africa (Pty) Ltd",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

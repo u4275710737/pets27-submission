@@ -1,0 +1,14 @@
+{
+  "asn": 395504,
+  "metadata": {
+    "handle": "AMERICANAGCREDIT",
+    "description": "AMERICAN AGCREDIT ACA",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

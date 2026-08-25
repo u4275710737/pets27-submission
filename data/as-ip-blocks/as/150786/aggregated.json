@@ -1,0 +1,16 @@
+{
+  "asn": 150786,
+  "metadata": {
+    "handle": "MAHARLIKACONNECTINC-AS-PH",
+    "description": "Maharlika Connect Inc",
+    "countryCode": "PH",
+    "country": "Philippines",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ ]
+  }
+}

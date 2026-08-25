@@ -1,0 +1,4 @@
+# AS55427 (BROADLINK-NP)
+# Divinetworks for BLINK
+#
+2402:a300::/32

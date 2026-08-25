@@ -1,0 +1,14 @@
+{
+  "asn": 59800,
+  "metadata": {
+    "handle": "AS-DNS1",
+    "description": "Hostonce LLC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

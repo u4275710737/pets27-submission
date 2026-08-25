@@ -1,0 +1,16 @@
+{
+  "asn": 153586,
+  "metadata": {
+    "handle": "BXCLOUD-VN",
+    "description": "BNIX CLOUD COMPANY LIMITED",
+    "countryCode": "VN",
+    "country": "Vietnam",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ "2001:df5:e40::/48" ]
+  }
+}

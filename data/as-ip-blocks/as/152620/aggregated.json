@@ -1,0 +1,14 @@
+{
+  "asn": 152620,
+  "metadata": {
+    "handle": "AS-LINEPAY-TW",
+    "description": "LINE Pay Taiwan Limited",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

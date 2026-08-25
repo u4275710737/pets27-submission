@@ -1,0 +1,14 @@
+{
+  "asn": 137441,
+  "metadata": {
+    "handle": "TECHREP-AS-AP",
+    "description": "Techrep Services PTY LTD",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

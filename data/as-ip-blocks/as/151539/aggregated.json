@@ -1,0 +1,14 @@
+{
+  "asn": 151539,
+  "metadata": {
+    "handle": "IDNIC-GAZNET-AS-ID",
+    "description": "PT Gala Dewa Media",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

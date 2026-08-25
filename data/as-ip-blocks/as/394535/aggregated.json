@@ -1,0 +1,14 @@
+{
+  "asn": 394535,
+  "metadata": {
+    "handle": "TI",
+    "description": "Truth Initiative",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 30590,
+  "metadata": {
+    "handle": "NSCM-NYC",
+    "description": "3G Capital, Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

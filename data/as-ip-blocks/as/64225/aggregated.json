@@ -1,0 +1,14 @@
+{
+  "asn": 64225,
+  "metadata": {
+    "handle": "VYVE-BROADBAND",
+    "description": "Vyve Broadband",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

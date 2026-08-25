@@ -1,0 +1,16 @@
+{
+  "asn": 154657,
+  "metadata": {
+    "handle": "IDNIC-PANHANET-ID",
+    "description": "PT PANHA NETWORK SOLUTION",
+    "countryCode": "ID",
+    "country": "Indonesia",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "162.4.78.0/24" ],
+    "ipv6": [ "2001:df7:40::/48" ]
+  }
+}

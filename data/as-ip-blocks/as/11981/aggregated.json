@@ -1,0 +1,16 @@
+{
+  "asn": 11981,
+  "metadata": {
+    "handle": "AS-REUBENONLINE",
+    "description": "Yolo Risk Management LLC",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "23.162.168.0/24" ],
+    "ipv6": [ "2602:ff94::/40" ]
+  }
+}

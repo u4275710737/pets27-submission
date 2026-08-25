@@ -1,0 +1,14 @@
+{
+  "asn": 131651,
+  "metadata": {
+    "handle": "LOONGAMING-AS-TW",
+    "description": "loongaming",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

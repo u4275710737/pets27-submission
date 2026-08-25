@@ -1,0 +1,16 @@
+{
+  "asn": 63441,
+  "metadata": {
+    "handle": "ZAYO-CCF-AS63441",
+    "description": "Zayo Bandwidth",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "64.95.166.0/24" ],
+    "ipv6": [ ]
+  }
+}

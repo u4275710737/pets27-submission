@@ -1,0 +1,5 @@
+# AS42423 (BITWAY-AS)
+# Bitway Telecom SRL
+#
+193.168.184.0/24
+194.1.167.0/24

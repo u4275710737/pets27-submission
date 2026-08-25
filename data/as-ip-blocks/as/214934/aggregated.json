@@ -1,0 +1,14 @@
+{
+  "asn": 214934,
+  "metadata": {
+    "handle": "CHENQU",
+    "description": "Chen Qu",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

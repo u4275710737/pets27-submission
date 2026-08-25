@@ -1,0 +1,14 @@
+{
+  "asn": 138676,
+  "metadata": {
+    "handle": "RAJOR-AP",
+    "description": "RAJOR ONLINE & INTERNET CONNECTION",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

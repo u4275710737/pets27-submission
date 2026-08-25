@@ -1,0 +1,14 @@
+{
+  "asn": 23652,
+  "metadata": {
+    "handle": "XLR8-TRANSIT1-AS",
+    "description": "XLR8",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

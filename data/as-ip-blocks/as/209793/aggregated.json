@@ -1,0 +1,16 @@
+{
+  "asn": 209793,
+  "metadata": {
+    "handle": "SOLACTIVE",
+    "description": "Solactive AG",
+    "countryCode": "DE",
+    "country": "Germany",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "185.127.200.0/24", "185.127.202.0/24" ],
+    "ipv6": [ ]
+  }
+}

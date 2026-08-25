@@ -1,0 +1,16 @@
+{
+  "asn": 402020,
+  "metadata": {
+    "handle": "ASN-PLANISYS",
+    "description": "Planisys Corp",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "38.83.73.0/24", "154.57.159.0/24", "194.34.167.0/24", "209.127.217.0/24" ],
+    "ipv6": [ "2604:22e0::/32" ]
+  }
+}

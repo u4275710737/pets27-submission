@@ -1,0 +1,14 @@
+{
+  "asn": 329158,
+  "metadata": {
+    "handle": "N-DJAMENA-IX-MGT",
+    "description": "N'Djamena IX",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 265668,
+  "metadata": {
+    "handle": "MEDIA-COMMERCE-PER-SAC",
+    "description": "MEDIA COMMERCE PER S.A.C",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

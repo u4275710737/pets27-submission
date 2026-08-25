@@ -1,0 +1,14 @@
+{
+  "asn": 212117,
+  "metadata": {
+    "handle": "CIBEREON",
+    "description": "CIBEREON SL",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

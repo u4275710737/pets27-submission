@@ -1,0 +1,5 @@
+# AS133848 (AWN-IDC-AS)
+# Internet Datacenter Network
+#
+2405:9800:d003::/48
+2405:9800:d007::/48

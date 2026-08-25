@@ -1,0 +1,5 @@
+# AS31275 (SAMTELECOM-AS)
+# LLC Telecom-Service
+#
+83.220.64.0/19
+93.93.172.0/22

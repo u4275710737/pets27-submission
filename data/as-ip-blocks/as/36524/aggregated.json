@@ -1,0 +1,14 @@
+{
+  "asn": 36524,
+  "metadata": {
+    "handle": "MOLINA",
+    "description": "Molina Healthcare Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

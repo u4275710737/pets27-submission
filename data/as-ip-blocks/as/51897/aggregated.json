@@ -1,0 +1,16 @@
+{
+  "asn": 51897,
+  "metadata": {
+    "handle": "MIHAN",
+    "description": "MIHAN COMMUNICATION SYSTEMS CO. LTD",
+    "countryCode": "IR",
+    "country": "Iran",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ ]
+  }
+}

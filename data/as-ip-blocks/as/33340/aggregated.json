@@ -1,0 +1,14 @@
+{
+  "asn": 33340,
+  "metadata": {
+    "handle": "INDYIX-PUBLIC",
+    "description": "Indianapolis Internet Exchange Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

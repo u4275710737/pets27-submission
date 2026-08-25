@@ -1,0 +1,16 @@
+{
+  "asn": 140840,
+  "metadata": {
+    "handle": "LD-AS-AP",
+    "description": "L.D Infinity Pvt Ltd",
+    "countryCode": "NP",
+    "country": "Nepal",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "163.128.128.0/24" ],
+    "ipv6": [ "2001:df6:dbc0::/48" ]
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 8328,
+  "metadata": {
+    "handle": "SAASPLAZA",
+    "description": "InTWO Netherlands BV",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

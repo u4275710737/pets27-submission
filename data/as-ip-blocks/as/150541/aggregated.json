@@ -1,0 +1,16 @@
+{
+  "asn": 150541,
+  "metadata": {
+    "handle": "IDNIC-OAS-ID",
+    "description": "PT Oren Abadi Sakti",
+    "countryCode": "ID",
+    "country": "Indonesia",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "access_provider"
+  },
+  "prefixes": {
+    "ipv4": [ "103.68.232.0/23" ],
+    "ipv6": [ "2402:aa40:21::/48", "2402:aa40:22::/47", "2402:aa40:24::/46", "2402:aa40:28::/47", "2402:aa40:30::/48" ]
+  }
+}

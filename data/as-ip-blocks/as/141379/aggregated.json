@@ -1,0 +1,14 @@
+{
+  "asn": 141379,
+  "metadata": {
+    "handle": "ICL-AS-AP",
+    "description": "iShine Cloud Limited",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

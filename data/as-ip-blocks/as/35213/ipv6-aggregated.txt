@@ -1,0 +1,5 @@
+# AS35213 (COMPNETUA-AS)
+# TOV Kompjuternie Merezhi
+#
+2001:678:31c::/48
+2a13:61c0::/29

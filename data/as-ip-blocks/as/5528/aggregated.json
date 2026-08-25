@@ -1,0 +1,14 @@
+{
+  "asn": 5528,
+  "metadata": {
+    "handle": "JSC-BALTICOM3",
+    "description": "JSC BALTICOM",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

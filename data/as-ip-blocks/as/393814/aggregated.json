@@ -1,0 +1,14 @@
+{
+  "asn": 393814,
+  "metadata": {
+    "handle": "NTS-SANANGELO-01",
+    "description": "Vexus Fiber",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

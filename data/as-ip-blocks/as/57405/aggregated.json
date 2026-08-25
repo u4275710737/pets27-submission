@@ -1,0 +1,14 @@
+{
+  "asn": 57405,
+  "metadata": {
+    "handle": "MIHAN-NOC2",
+    "description": "MIHAN COMMUNICATION SYSTEMS CO. LTD",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

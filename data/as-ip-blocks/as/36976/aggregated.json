@@ -1,0 +1,16 @@
+{
+  "asn": 36976,
+  "metadata": {
+    "handle": "SONANGOL",
+    "description": "SONANGOL",
+    "countryCode": "AO",
+    "country": "Angola",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "41.223.164.0/22" ],
+    "ipv6": [ ]
+  }
+}

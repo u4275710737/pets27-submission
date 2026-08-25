@@ -1,0 +1,4 @@
+# AS51935 (SPY-AS)
+# BLC Telecom Oy
+#
+2a02:6fa0::/32

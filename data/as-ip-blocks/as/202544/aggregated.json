@@ -1,0 +1,14 @@
+{
+  "asn": 202544,
+  "metadata": {
+    "handle": "SIGMA",
+    "description": "Sigma-D LLC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

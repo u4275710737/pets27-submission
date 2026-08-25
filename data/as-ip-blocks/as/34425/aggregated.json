@@ -1,0 +1,14 @@
+{
+  "asn": 34425,
+  "metadata": {
+    "handle": "EDGOO-ANYCAST",
+    "description": "EDGOO NETWORKS LLC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

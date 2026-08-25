@@ -1,0 +1,14 @@
+{
+  "asn": 394068,
+  "metadata": {
+    "handle": "NAVEX-GLOBAL-INC",
+    "description": "NAVEX Global, inc",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

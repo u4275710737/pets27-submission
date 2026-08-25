@@ -1,0 +1,14 @@
+{
+  "asn": 134265,
+  "metadata": {
+    "handle": "PARIMJDP",
+    "description": "Parim Infocomm Private Limited",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

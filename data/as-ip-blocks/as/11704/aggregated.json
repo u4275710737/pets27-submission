@@ -1,0 +1,16 @@
+{
+  "asn": 11704,
+  "metadata": {
+    "handle": "VTCI",
+    "description": "Valley Telephone Cooperative Inc.",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "23.147.180.0/24", "161.13.192.0/18" ],
+    "ipv6": [ ]
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 62729,
+  "metadata": {
+    "handle": "ASMALLORANGE1",
+    "description": "A Small Orange LLC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

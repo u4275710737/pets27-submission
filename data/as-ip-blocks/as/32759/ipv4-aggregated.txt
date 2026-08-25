@@ -1,0 +1,4 @@
+# AS32759 (UNITED-COMMUNITY-BANKS)
+# United Community Bank
+#
+216.120.160.0/24

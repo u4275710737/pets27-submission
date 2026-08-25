@@ -1,0 +1,14 @@
+{
+  "asn": 328038,
+  "metadata": {
+    "handle": "HITEC-SURE-AS",
+    "description": "Hitec Sure cc",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

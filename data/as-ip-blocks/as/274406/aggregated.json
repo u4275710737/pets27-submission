@@ -1,0 +1,16 @@
+{
+  "asn": 274406,
+  "metadata": {
+    "handle": "JUAN-CARLOS-CRUZ-MUNOZ",
+    "description": "JUAN CARLOS CRUZ MUÑOZ",
+    "countryCode": "MX",
+    "country": "Mexico",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "38.199.215.0/24" ],
+    "ipv6": [ "2806:45b::/32" ]
+  }
+}

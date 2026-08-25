@@ -1,0 +1,16 @@
+{
+  "asn": 26419,
+  "metadata": {
+    "handle": "BDA-INC",
+    "description": "BDa",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "209.46.59.0/24" ],
+    "ipv6": [ ]
+  }
+}

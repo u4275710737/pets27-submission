@@ -1,0 +1,14 @@
+{
+  "asn": 201930,
+  "metadata": {
+    "handle": "ASN-TVAT",
+    "description": "VERTALA LTD",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

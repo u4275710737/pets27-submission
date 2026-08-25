@@ -1,0 +1,14 @@
+{
+  "asn": 206704,
+  "metadata": {
+    "handle": "EDN1",
+    "description": "AIRBNB IRELAND ULC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

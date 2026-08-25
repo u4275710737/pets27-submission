@@ -1,0 +1,14 @@
+{
+  "asn": 263192,
+  "metadata": {
+    "handle": "MEDITER",
+    "description": "MEDITER S.R.L.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

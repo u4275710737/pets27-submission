@@ -1,0 +1,14 @@
+{
+  "asn": 397350,
+  "metadata": {
+    "handle": "CARDNO-AME01",
+    "description": "Cardno, Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

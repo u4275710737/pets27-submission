@@ -1,0 +1,14 @@
+{
+  "asn": 267817,
+  "metadata": {
+    "handle": "LYL-COMUNICACIONES",
+    "description": "LYL COMUNICACIONES SRL",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

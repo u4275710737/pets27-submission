@@ -1,0 +1,14 @@
+{
+  "asn": 202789,
+  "metadata": {
+    "handle": "GLABO-NET",
+    "description": "GLASFASER RUHR GmbH & Co. KG",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

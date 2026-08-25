@@ -1,0 +1,14 @@
+{
+  "asn": 11591,
+  "metadata": {
+    "handle": "CAPARIO",
+    "description": "Capario, Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

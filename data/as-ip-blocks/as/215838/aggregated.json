@@ -1,0 +1,14 @@
+{
+  "asn": 215838,
+  "metadata": {
+    "handle": "XTAIN",
+    "description": "XTAIN Holding GmbH",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

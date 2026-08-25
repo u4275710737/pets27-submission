@@ -1,0 +1,16 @@
+{
+  "asn": 134376,
+  "metadata": {
+    "handle": "CSLSAMOA-IX-AS-AP",
+    "description": "Computer Services Ltd",
+    "countryCode": "WS",
+    "country": "Samoa",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ ]
+  }
+}

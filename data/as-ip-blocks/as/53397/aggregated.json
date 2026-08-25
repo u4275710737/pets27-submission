@@ -1,0 +1,14 @@
+{
+  "asn": 53397,
+  "metadata": {
+    "handle": "AFNI-ALAKSA",
+    "description": "Arctic Fox Networks Inc",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

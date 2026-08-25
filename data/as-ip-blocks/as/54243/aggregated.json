@@ -1,0 +1,14 @@
+{
+  "asn": 54243,
+  "metadata": {
+    "handle": "SAILINTERNET",
+    "description": "Sail Internet, Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

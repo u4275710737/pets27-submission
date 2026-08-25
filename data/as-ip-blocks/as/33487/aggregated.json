@@ -1,0 +1,16 @@
+{
+  "asn": 33487,
+  "metadata": {
+    "handle": "RETSINA01",
+    "description": "Retsina Technologies LTD.",
+    "countryCode": "CA",
+    "country": "Canada",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "204.15.240.0/22" ],
+    "ipv6": [ ]
+  }
+}

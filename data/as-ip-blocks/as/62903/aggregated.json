@@ -1,0 +1,14 @@
+{
+  "asn": 62903,
+  "metadata": {
+    "handle": "MARTINBROS",
+    "description": "Martin Brothers Distributing Co. Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

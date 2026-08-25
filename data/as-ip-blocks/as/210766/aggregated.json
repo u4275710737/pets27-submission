@@ -1,0 +1,14 @@
+{
+  "asn": 210766,
+  "metadata": {
+    "handle": "ERTH-CITY",
+    "description": "JSC ER-Telecom Holding",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

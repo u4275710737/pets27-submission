@@ -1,0 +1,14 @@
+{
+  "asn": 215113,
+  "metadata": {
+    "handle": "VIHLTD",
+    "description": "VICTORIA INTERNATIONAL HOLDINGS LTD",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

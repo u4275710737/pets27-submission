@@ -1,0 +1,4 @@
+# AS26483 (AMER-INST-ARCHITECTS)
+# The American Institute of Architects
+#
+38.103.20.0/24

@@ -1,0 +1,16 @@
+{
+  "asn": 29340,
+  "metadata": {
+    "handle": "AFOL-GH",
+    "description": "AS number for Africa Online Ghana",
+    "countryCode": "GH",
+    "country": "Ghana",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "212.85.192.0/19" ],
+    "ipv6": [ ]
+  }
+}

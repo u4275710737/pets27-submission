@@ -1,0 +1,14 @@
+{
+  "asn": 208853,
+  "metadata": {
+    "handle": "RUDDUR",
+    "description": "Ruddur B.V.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

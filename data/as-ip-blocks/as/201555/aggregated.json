@@ -1,0 +1,14 @@
+{
+  "asn": 201555,
+  "metadata": {
+    "handle": "ELKOD",
+    "description": "Elcode LTD",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

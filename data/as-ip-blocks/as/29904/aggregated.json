@@ -1,0 +1,14 @@
+{
+  "asn": 29904,
+  "metadata": {
+    "handle": "THEBOE",
+    "description": "The Boeing Company",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

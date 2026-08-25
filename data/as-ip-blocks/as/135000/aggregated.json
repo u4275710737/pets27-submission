@@ -1,0 +1,14 @@
+{
+  "asn": 135000,
+  "metadata": {
+    "handle": "FIBERLINKBD-AP",
+    "description": "Fiber Link BD",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

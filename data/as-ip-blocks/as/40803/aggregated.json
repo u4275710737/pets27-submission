@@ -1,0 +1,14 @@
+{
+  "asn": 40803,
+  "metadata": {
+    "handle": "KNOWNWEBHOSTING",
+    "description": "THEHOSTINGSOLUTION.COM L.L.C.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 13557,
+  "metadata": {
+    "handle": "CORESPACE-DAL3",
+    "description": "CoreSpace, Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 397611,
+  "metadata": {
+    "handle": "CCOA-ISP-ASN",
+    "description": "Outdoor Management Services Inc",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

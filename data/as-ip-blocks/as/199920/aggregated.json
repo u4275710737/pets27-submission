@@ -1,0 +1,16 @@
+{
+  "asn": 199920,
+  "metadata": {
+    "handle": "VELIX",
+    "description": "Vincenzo Di Salvo",
+    "countryCode": "IT",
+    "country": "Italy",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "80.71.239.0/24" ],
+    "ipv6": [ ]
+  }
+}

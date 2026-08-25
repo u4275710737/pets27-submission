@@ -1,0 +1,16 @@
+{
+  "asn": 37031,
+  "metadata": {
+    "handle": "MIST",
+    "description": "Misr Information Services and Trading",
+    "countryCode": "EG",
+    "country": "Egypt",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "41.217.224.0/21", "41.222.168.0/21", "196.219.27.0/24" ],
+    "ipv6": [ ]
+  }
+}

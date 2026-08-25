@@ -1,0 +1,4 @@
+# AS327774 (TPB-AS)
+# Tanzania Postal Bank
+#
+196.13.133.0/24

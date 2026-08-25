@@ -1,0 +1,16 @@
+{
+  "asn": 267612,
+  "metadata": {
+    "handle": "UNIAO-DIGITAL-TELECOMUNICACOES",
+    "description": "UNIAO DIGITAL TELECOMUNICAÇÕES",
+    "countryCode": "BR",
+    "country": "Brazil",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "45.71.64.0/22" ],
+    "ipv6": [ "2804:4440:1000::/48", "2804:4440:9000::/41", "2804:4440:9f00::/48", "2804:4440:a000::/41" ]
+  }
+}

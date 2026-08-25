@@ -1,0 +1,14 @@
+{
+  "asn": 36121,
+  "metadata": {
+    "handle": "NUCOM",
+    "description": "Nucom Technology Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

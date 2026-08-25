@@ -1,0 +1,16 @@
+{
+  "asn": 136358,
+  "metadata": {
+    "handle": "OMSAI-AS",
+    "description": "Omsai Cable Systems India Pvt Ltd",
+    "countryCode": "IN",
+    "country": "India",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "103.101.68.0/22" ],
+    "ipv6": [ ]
+  }
+}

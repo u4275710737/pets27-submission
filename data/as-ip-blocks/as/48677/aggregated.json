@@ -1,0 +1,14 @@
+{
+  "asn": 48677,
+  "metadata": {
+    "handle": "LOL",
+    "description": "LOL LLC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

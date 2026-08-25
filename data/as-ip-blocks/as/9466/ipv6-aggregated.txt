@@ -1,0 +1,5 @@
+# AS9466 (VZB)
+# Verizon Japan Limited
+#
+2401:6bff::/40
+2401:6bff:8000::/40

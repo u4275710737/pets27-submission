@@ -1,0 +1,4 @@
+# AS39524 (COGENT-COMMUNICATIONS-LLC)
+# Cogent Communications LLC
+#
+64.202.205.0/24

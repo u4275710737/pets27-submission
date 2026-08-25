@@ -1,0 +1,14 @@
+{
+  "asn": 395785,
+  "metadata": {
+    "handle": "WISE-ASN-01",
+    "description": "WiseBroadband",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

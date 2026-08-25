@@ -1,0 +1,14 @@
+{
+  "asn": 198869,
+  "metadata": {
+    "handle": "ITET",
+    "description": "Braathe Gruppen AS",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

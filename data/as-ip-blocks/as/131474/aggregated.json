@@ -1,0 +1,16 @@
+{
+  "asn": 131474,
+  "metadata": {
+    "handle": "NETX-AS-AP",
+    "description": "NETX",
+    "countryCode": "BD",
+    "country": "Bangladesh",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "103.114.95.0/24", "103.123.168.0/24" ],
+    "ipv6": [ ]
+  }
+}

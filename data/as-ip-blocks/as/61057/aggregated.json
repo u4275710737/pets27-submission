@@ -1,0 +1,16 @@
+{
+  "asn": 61057,
+  "metadata": {
+    "handle": "ASN-WITRON",
+    "description": "WITRON Systemhaus GmbH",
+    "countryCode": "DE",
+    "country": "Germany",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "195.253.240.0/24" ],
+    "ipv6": [ ]
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 10266,
+  "metadata": {
+    "handle": "1PATH",
+    "description": "1Path",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

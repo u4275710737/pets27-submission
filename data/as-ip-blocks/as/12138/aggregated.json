@@ -1,0 +1,14 @@
+{
+  "asn": 12138,
+  "metadata": {
+    "handle": "TAX-AIR",
+    "description": "Tax AirFreight Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

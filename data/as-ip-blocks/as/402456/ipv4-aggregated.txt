@@ -1,0 +1,4 @@
+# AS402456 (BJERKERUD)
+# Bjerkerud Inc.
+#
+109.122.46.0/24

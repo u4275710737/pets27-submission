@@ -1,0 +1,14 @@
+{
+  "asn": 151819,
+  "metadata": {
+    "handle": "FBPPL-AS-AP",
+    "description": "FLYING BARK PRODUCTIONS PTY LTD",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

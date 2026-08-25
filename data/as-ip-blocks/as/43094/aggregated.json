@@ -1,0 +1,16 @@
+{
+  "asn": 43094,
+  "metadata": {
+    "handle": "NODE",
+    "description": "DIGITAL NETWORK S.R.L.",
+    "countryCode": "MD",
+    "country": "Moldova",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "31.58.89.0/24", "31.59.70.0/24", "45.132.82.0/24", "82.38.21.0/24", "92.113.43.0/24", "158.173.226.0/24", "169.40.45.0/24", "178.92.6.0/24", "209.137.185.0/24", "216.75.143.0/24" ],
+    "ipv6": [ ]
+  }
+}

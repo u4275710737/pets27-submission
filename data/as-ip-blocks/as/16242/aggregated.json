@@ -1,0 +1,16 @@
+{
+  "asn": 16242,
+  "metadata": {
+    "handle": "AS-NEXTRA",
+    "description": "Gluecklich GmbH",
+    "countryCode": "CH",
+    "country": "Switzerland",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "193.247.85.0/24" ],
+    "ipv6": [ ]
+  }
+}

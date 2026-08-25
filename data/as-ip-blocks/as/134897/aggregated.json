@@ -1,0 +1,14 @@
+{
+  "asn": 134897,
+  "metadata": {
+    "handle": "SEVANETWORKS-IN",
+    "description": "SEVA NETWORKS PVT LTD",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

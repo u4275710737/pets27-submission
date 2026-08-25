@@ -1,0 +1,16 @@
+{
+  "asn": 61064,
+  "metadata": {
+    "handle": "TELENECIK",
+    "description": "Jawornet Sp. z o.o.",
+    "countryCode": "PL",
+    "country": "Poland",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "185.183.224.0/23" ],
+    "ipv6": [ ]
+  }
+}

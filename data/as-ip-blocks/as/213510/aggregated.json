@@ -1,0 +1,16 @@
+{
+  "asn": 213510,
+  "metadata": {
+    "handle": "EJOHNSON",
+    "description": "Eric Johnson",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "44.31.242.0/24", "44.32.176.0/22" ],
+    "ipv6": [ ]
+  }
+}

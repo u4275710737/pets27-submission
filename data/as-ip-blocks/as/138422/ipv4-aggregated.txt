@@ -1,0 +1,4 @@
+# AS138422 (ITC-AS-AP)
+# CS Loxinfo Public Company Limited
+#
+14.207.194.0/23

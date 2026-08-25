@@ -1,0 +1,14 @@
+{
+  "asn": 46462,
+  "metadata": {
+    "handle": "KELE",
+    "description": "Kele, Inc",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

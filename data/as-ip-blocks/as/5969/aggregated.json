@@ -1,0 +1,14 @@
+{
+  "asn": 5969,
+  "metadata": {
+    "handle": "DNIC-ASBLK-05800-06055",
+    "description": "United States Department of Defense (DoD)",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 47800,
+  "metadata": {
+    "handle": "IM-IF",
+    "description": "TOV Teleradiocompany Intermedia",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

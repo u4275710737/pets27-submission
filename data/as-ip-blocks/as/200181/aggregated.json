@@ -1,0 +1,16 @@
+{
+  "asn": 200181,
+  "metadata": {
+    "handle": "ABCAAN-NETWORK",
+    "description": "Mongkol Mutimal",
+    "countryCode": "TH",
+    "country": "Thailand",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "45.43.74.0/24" ],
+    "ipv6": [ "2a06:9801:cd::/48" ]
+  }
+}

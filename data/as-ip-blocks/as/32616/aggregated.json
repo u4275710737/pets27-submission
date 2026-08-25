@@ -1,0 +1,14 @@
+{
+  "asn": 32616,
+  "metadata": {
+    "handle": "TCA-BGP",
+    "description": "Take Charge America, Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

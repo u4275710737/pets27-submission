@@ -1,0 +1,16 @@
+{
+  "asn": 269877,
+  "metadata": {
+    "handle": "SERVICIO-TELECOMUNICACIONES-7NET",
+    "description": "SERVICIO DE TELECOMUNICACIONES 7NET LIMITADA",
+    "countryCode": "CL",
+    "country": "Chile",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "45.191.100.0/22" ],
+    "ipv6": [ ]
+  }
+}

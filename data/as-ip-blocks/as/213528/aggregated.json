@@ -1,0 +1,16 @@
+{
+  "asn": 213528,
+  "metadata": {
+    "handle": "MILLIY-BANKLARARO-PROTSESSING-MARKAZI-AJ",
+    "description": "Milliy Banklararo Protsessing Markazi AJ",
+    "countryCode": "UZ",
+    "country": "Uzbekistan",
+    "origin": "authoritative",
+    "category": "government_admin",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "185.72.100.0/24" ],
+    "ipv6": [ ]
+  }
+}

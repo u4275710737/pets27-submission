@@ -1,0 +1,16 @@
+{
+  "asn": 26305,
+  "metadata": {
+    "handle": "ASN-SSM",
+    "description": "SSM Health Care",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "67.66.136.0/21", "165.104.0.0/16" ],
+    "ipv6": [ "2620:1f6::/36" ]
+  }
+}

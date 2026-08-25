@@ -1,0 +1,14 @@
+{
+  "asn": 49201,
+  "metadata": {
+    "handle": "HOWICK",
+    "description": "BITNIFTY LTD",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "asn": 19782,
+  "metadata": {
+    "handle": "INDIANAGIGAPOP",
+    "description": "Indiana University",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "education_research",
+    "networkRole": "midsize_transit"
+  },
+  "prefixes": {
+    "ipv4": [ "149.165.128.0/17" ],
+    "ipv6": [ "2001:18e8::/32" ]
+  }
+}

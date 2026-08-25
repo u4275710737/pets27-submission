@@ -1,0 +1,14 @@
+{
+  "asn": 27052,
+  "metadata": {
+    "handle": "DNIC-ASBLK-27032-27159",
+    "description": "United States Department of Defense (DoD)",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

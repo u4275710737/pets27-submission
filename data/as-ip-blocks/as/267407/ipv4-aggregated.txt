@@ -1,0 +1,4 @@
+# AS267407 (ELETELNET-TELECOM)
+# Eletel Tecnologia
+#
+45.235.28.0/22

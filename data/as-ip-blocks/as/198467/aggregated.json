@@ -1,0 +1,16 @@
+{
+  "asn": 198467,
+  "metadata": {
+    "handle": "NOT1-PL-AS",
+    "description": "CENTRUM WSPARCIA BIZNESU NOT Sp. z o.o.",
+    "countryCode": "PL",
+    "country": "Poland",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "195.254.176.0/23" ],
+    "ipv6": [ ]
+  }
+}

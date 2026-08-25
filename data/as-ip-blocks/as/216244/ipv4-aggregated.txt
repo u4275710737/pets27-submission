@@ -1,0 +1,5 @@
+# AS216244 (DATATR)
+# Omur Akgun trading as Data TR Bilisim Teknoloji Hizmetleri
+#
+185.85.72.0/22
+185.160.28.0/22

@@ -1,0 +1,4 @@
+# AS136882 (IDNIC-DKISCRB-AS-ID)
+# Dinas Komunikasi Informatika dan Statistik Kota Cirebon
+#
+103.105.142.0/24

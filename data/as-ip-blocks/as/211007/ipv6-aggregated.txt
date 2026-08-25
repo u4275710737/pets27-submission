@@ -1,0 +1,4 @@
+# AS211007 (AS-NETZLEIPZIG)
+# Netz Leipzig GmbH
+#
+2a10:1f40::/29

@@ -1,0 +1,14 @@
+{
+  "asn": 53418,
+  "metadata": {
+    "handle": "DIRECTV-LOSANGELES",
+    "description": "DirecTV Operations",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

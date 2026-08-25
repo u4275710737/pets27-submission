@@ -1,0 +1,14 @@
+{
+  "asn": 31125,
+  "metadata": {
+    "handle": "MAVRA",
+    "description": "Mavra VerwaltungsgmbH",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

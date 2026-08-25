@@ -1,0 +1,14 @@
+{
+  "asn": 724,
+  "metadata": {
+    "handle": "DNIC-ASBLK-00-00726",
+    "description": "DoD Network Information Center",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

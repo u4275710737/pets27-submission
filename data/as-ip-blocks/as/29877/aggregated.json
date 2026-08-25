@@ -1,0 +1,14 @@
+{
+  "asn": 29877,
+  "metadata": {
+    "handle": "STS-TELECOM-1",
+    "description": "Windstream Communications LLC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 149380,
+  "metadata": {
+    "handle": "IDNIC-AMNET-ID",
+    "description": "PT Alfary Modula Teknologi",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,5 @@
+# AS11925 (RUESCH-CONSULTING)
+# Ruesch Consulting LLC
+#
+23.163.200.0/24
+131.143.176.0/22

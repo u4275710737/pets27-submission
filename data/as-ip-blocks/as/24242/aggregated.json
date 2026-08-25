@@ -1,0 +1,14 @@
+{
+  "asn": 24242,
+  "metadata": {
+    "handle": "PO-AP",
+    "description": "Passion Only Pty Ltd",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

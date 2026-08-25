@@ -1,0 +1,14 @@
+{
+  "asn": 20519,
+  "metadata": {
+    "handle": "BALTNET",
+    "description": "PJSC Rostelecom",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

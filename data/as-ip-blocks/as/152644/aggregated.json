@@ -1,0 +1,16 @@
+{
+  "asn": 152644,
+  "metadata": {
+    "handle": "QINIU-AS-AP",
+    "description": "QINIU (CHINA) limited",
+    "countryCode": "HK",
+    "country": "Hong Kong SAR China",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "access_provider"
+  },
+  "prefixes": {
+    "ipv4": [ "38.123.103.0/24", "154.41.93.0/24", "202.47.134.0/23", "204.141.218.0/24", "204.141.229.0/24" ],
+    "ipv6": [ "2001:418:149b::/48", "2001:418:149c::/48" ]
+  }
+}

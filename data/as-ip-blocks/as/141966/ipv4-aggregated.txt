@@ -1,0 +1,5 @@
+# AS141966 (IDNIC-INSTANET-AS-ID)
+# PT Instanet Media Nusantara
+#
+103.166.254.0/23
+157.66.124.0/24

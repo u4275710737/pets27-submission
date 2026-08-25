@@ -1,0 +1,14 @@
+{
+  "asn": 401251,
+  "metadata": {
+    "handle": "STCHEALTH-002",
+    "description": "STChealth",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 14515,
+  "metadata": {
+    "handle": "SV3-AS-PRI",
+    "description": "Sage Intacct Inc",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

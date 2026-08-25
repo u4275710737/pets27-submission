@@ -1,0 +1,16 @@
+{
+  "asn": 154570,
+  "metadata": {
+    "handle": "ALBURYCITYCOUNCIL-AS-AP",
+    "description": "Albury City Council",
+    "countryCode": "AU",
+    "country": "Australia",
+    "origin": "authoritative",
+    "category": "government_admin",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "203.16.185.0/24" ],
+    "ipv6": [ ]
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 1654,
+  "metadata": {
+    "handle": "SKOGEN",
+    "description": "Skogen Network",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 197606,
+  "metadata": {
+    "handle": "ISMHDEZ-NET",
+    "description": "Ismael Munoz Hernandez",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

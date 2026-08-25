@@ -1,0 +1,16 @@
+{
+  "asn": 199439,
+  "metadata": {
+    "handle": "DREAMLINK-AS",
+    "description": "Dreamlink sp. z o.o.",
+    "countryCode": "PL",
+    "country": "Poland",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "access_provider"
+  },
+  "prefixes": {
+    "ipv4": [ "45.86.32.0/24", "93.113.182.0/24", "107.6.104.0/22", "141.11.102.0/24" ],
+    "ipv6": [ ]
+  }
+}

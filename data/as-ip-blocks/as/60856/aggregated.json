@@ -1,0 +1,14 @@
+{
+  "asn": 60856,
+  "metadata": {
+    "handle": "ZTK-AS",
+    "description": "LLC Zakamskaya Telephone Company",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

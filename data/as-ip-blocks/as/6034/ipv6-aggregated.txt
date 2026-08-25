@@ -1,0 +1,7 @@
+# AS6034 (DNIC-ASBLK-05800-06055)
+# United States Department of Defense (DoD)
+#
+2608:8104:caed::/48
+2608:8107:4c6e::/48
+2608:8181:6939::/48
+2608:8183:5b2f::/48

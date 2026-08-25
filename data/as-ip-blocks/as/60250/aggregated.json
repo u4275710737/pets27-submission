@@ -1,0 +1,14 @@
+{
+  "asn": 60250,
+  "metadata": {
+    "handle": "INVEST-AZ",
+    "description": "INVEST-AZ MENKUL DEGERLER ANONIM SIRKETI",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

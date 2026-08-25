@@ -1,0 +1,14 @@
+{
+  "asn": 206620,
+  "metadata": {
+    "handle": "DE-EPXCLOUD",
+    "description": "EPX Ehrhardt + Partner Xtended GmbH",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

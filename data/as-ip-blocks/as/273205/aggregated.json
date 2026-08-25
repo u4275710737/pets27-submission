@@ -1,0 +1,16 @@
+{
+  "asn": 273205,
+  "metadata": {
+    "handle": "WLINK-TELECOM-CA",
+    "description": "WLINK TELECOM CA",
+    "countryCode": "VE",
+    "country": "Venezuela",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ ]
+  }
+}

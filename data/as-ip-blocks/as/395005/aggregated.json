@@ -1,0 +1,14 @@
+{
+  "asn": 395005,
+  "metadata": {
+    "handle": "CITY-OF-EASTON",
+    "description": "City of Easton",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

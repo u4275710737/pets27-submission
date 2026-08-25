@@ -1,0 +1,14 @@
+{
+  "asn": 140196,
+  "metadata": {
+    "handle": "SINGHTEL-IN",
+    "description": "Singh Televentures",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

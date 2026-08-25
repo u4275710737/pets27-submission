@@ -1,0 +1,16 @@
+{
+  "asn": 204427,
+  "metadata": {
+    "handle": "TWC-US",
+    "description": "Timeweb LLP",
+    "countryCode": "KZ",
+    "country": "Kazakhstan",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "72.56.40.0/23", "72.56.94.0/24", "186.246.16.0/21" ],
+    "ipv6": [ "2a03:6f00:16::/48" ]
+  }
+}

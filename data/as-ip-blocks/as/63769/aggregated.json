@@ -1,0 +1,14 @@
+{
+  "asn": 63769,
+  "metadata": {
+    "handle": "CICTBKN-AS-VN",
+    "description": "Information and Communication Technology Center of Bac Kan Province",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

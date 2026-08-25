@@ -1,0 +1,14 @@
+{
+  "asn": 11196,
+  "metadata": {
+    "handle": "NESTLE-USA",
+    "description": "Nestle USA",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

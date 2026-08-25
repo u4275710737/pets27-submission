@@ -1,0 +1,16 @@
+{
+  "asn": 266253,
+  "metadata": {
+    "handle": "BC-NET-COMUNICACOES",
+    "description": "BC NET COMUNICAÇÕES LTDA",
+    "countryCode": "BR",
+    "country": "Brazil",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "access_provider"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ ]
+  }
+}

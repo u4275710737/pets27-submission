@@ -1,0 +1,16 @@
+{
+  "asn": 274284,
+  "metadata": {
+    "handle": "CONEXION-TOTAL-ENIGMA",
+    "description": "CONEXION TOTAL ENIGMA VALLE DE TENZA S.A.S",
+    "countryCode": "CO",
+    "country": "Colombia",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "170.62.158.0/23" ],
+    "ipv6": [ "2803:830::/32" ]
+  }
+}

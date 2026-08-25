@@ -1,0 +1,14 @@
+{
+  "asn": 54988,
+  "metadata": {
+    "handle": "CMAS1",
+    "description": "cloudmain.com",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "asn": 273755,
+  "metadata": {
+    "handle": "VIVA-NET-TELECOM",
+    "description": "VIVA NET TELECOM LTDA",
+    "countryCode": "BR",
+    "country": "Brazil",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "38.9.210.0/23" ],
+    "ipv6": [ "2804:8bbc::/32" ]
+  }
+}

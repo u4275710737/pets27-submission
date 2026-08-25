@@ -1,0 +1,4 @@
+# AS271482 (MEGA-TELECOM)
+# Mega Telecom Ltda
+#
+181.233.80.0/22

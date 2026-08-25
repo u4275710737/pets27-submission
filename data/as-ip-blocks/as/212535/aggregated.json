@@ -1,0 +1,14 @@
+{
+  "asn": 212535,
+  "metadata": {
+    "handle": "MSBV",
+    "description": "MSBV B.V.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 35885,
+  "metadata": {
+    "handle": "ASSETBLACK-DALLAS",
+    "description": "Momentum Telecom Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "asn": 27289,
+  "metadata": {
+    "handle": "CLEO-COMMUNICATIONS",
+    "description": "Cleo Communications, Inc.",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "overlaid",
+    "category": null,
+    "networkRole": null
+  },
+  "prefixes": {
+    "ipv4": [ "107.1.107.0/24" ],
+    "ipv6": [ ]
+  }
+}

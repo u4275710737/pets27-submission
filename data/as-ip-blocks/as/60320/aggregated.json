@@ -1,0 +1,14 @@
+{
+  "asn": 60320,
+  "metadata": {
+    "handle": "EDOMREG",
+    "description": "European Domain Registry OU",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

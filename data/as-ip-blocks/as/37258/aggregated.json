@@ -1,0 +1,14 @@
+{
+  "asn": 37258,
+  "metadata": {
+    "handle": "DIANG",
+    "description": "Defence Intelligence Agency",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

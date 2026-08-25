@@ -1,0 +1,14 @@
+{
+  "asn": 17191,
+  "metadata": {
+    "handle": "PTS-TONTITOWN",
+    "description": "P.A.M. Transportation Services Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

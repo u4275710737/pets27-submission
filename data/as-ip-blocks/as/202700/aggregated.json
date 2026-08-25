@@ -1,0 +1,16 @@
+{
+  "asn": 202700,
+  "metadata": {
+    "handle": "KUSHKHOV-AS",
+    "description": "Aliev Zalim Khasanovich",
+    "countryCode": "RU",
+    "country": "Russia",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "37.18.61.0/24", "37.18.105.0/24", "178.170.247.0/24" ],
+    "ipv6": [ ]
+  }
+}

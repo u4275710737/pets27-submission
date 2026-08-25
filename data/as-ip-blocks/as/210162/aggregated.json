@@ -1,0 +1,16 @@
+{
+  "asn": 210162,
+  "metadata": {
+    "handle": "CHERRYSERVERS7-AS",
+    "description": "UAB Cherry Servers",
+    "countryCode": "LT",
+    "country": "Lithuania",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "85.208.113.0/24", "88.216.188.0/24", "88.216.193.0/24", "88.216.194.0/24", "91.124.26.0/23", "109.109.164.0/22", "151.245.36.0/24", "212.134.176.0/23" ],
+    "ipv6": [ ]
+  }
+}

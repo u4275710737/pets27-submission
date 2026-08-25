@@ -1,0 +1,14 @@
+{
+  "asn": 212588,
+  "metadata": {
+    "handle": "DREAMRADIO",
+    "description": "Dreamradio.org EOOD",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

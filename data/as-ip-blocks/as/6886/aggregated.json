@@ -1,0 +1,17 @@
+{
+  "asn": 6886,
+  "metadata": {
+    "handle": "INTS",
+    "description": "LLC INTS",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [
+      "141.98.148.0/22",
+      "212.66.48.0/21"
+    ],
+    "ipv6": []
+  }
+}

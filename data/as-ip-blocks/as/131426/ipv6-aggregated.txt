@@ -1,0 +1,4 @@
+# AS131426 (MISA-VN-AS)
+# MISA-VN
+#
+2001:df6:1fc0::/48

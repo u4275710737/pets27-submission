@@ -1,0 +1,16 @@
+{
+  "asn": 19766,
+  "metadata": {
+    "handle": "DRYDEN-FIBER",
+    "description": "Dryden Fiber",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "66.51.192.0/22", "168.151.160.0/20" ],
+    "ipv6": [ ]
+  }
+}

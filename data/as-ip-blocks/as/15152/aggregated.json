@@ -1,0 +1,14 @@
+{
+  "asn": 15152,
+  "metadata": {
+    "handle": "MODIVCARE-ASN1",
+    "description": "Modivcare Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

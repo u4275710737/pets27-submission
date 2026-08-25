@@ -1,0 +1,14 @@
+{
+  "asn": 30727,
+  "metadata": {
+    "handle": "SYSLINK",
+    "description": "IWB Industrielle Werke Basel",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 31884,
+  "metadata": {
+    "handle": "VSBGP",
+    "description": "Vining Sparks",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

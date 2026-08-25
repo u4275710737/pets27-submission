@@ -1,0 +1,16 @@
+{
+  "asn": 1270,
+  "metadata": {
+    "handle": "UUNET-DE",
+    "description": "Verizon Deutschland GmbH",
+    "countryCode": "DE",
+    "country": "Germany",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "213.71.148.0/22" ],
+    "ipv6": [ "2a02:2ad0:502::/48" ]
+  }
+}

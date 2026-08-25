@@ -1,0 +1,14 @@
+{
+  "asn": 202724,
+  "metadata": {
+    "handle": "WIFIBLASTER",
+    "description": "WIFIBLASTER SL",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

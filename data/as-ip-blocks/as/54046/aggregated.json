@@ -1,0 +1,14 @@
+{
+  "asn": 54046,
+  "metadata": {
+    "handle": "QUICKWEB-USA-NET",
+    "description": "QuickWeb Technologies LLC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 51930,
+  "metadata": {
+    "handle": "AUGUST-INTERNET",
+    "description": "Haonan Yang",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

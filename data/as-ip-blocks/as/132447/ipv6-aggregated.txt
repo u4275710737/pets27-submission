@@ -1,0 +1,6 @@
+# AS132447 (HUTCHISON-LK)
+# Hutchison Telecommunications Lanka (Private) Limited
+#
+2405:6b00::/48
+2405:6b00:64::/46
+2405:6b00:68::/47

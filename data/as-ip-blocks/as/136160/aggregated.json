@@ -1,0 +1,16 @@
+{
+  "asn": 136160,
+  "metadata": {
+    "handle": "M92HOSTLIMITED-AS-AP",
+    "description": "92host Limited",
+    "countryCode": "HK",
+    "country": "Hong Kong SAR China",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "43.251.100.0/22", "103.82.52.0/22" ],
+    "ipv6": [ "2602:f612::/40" ]
+  }
+}

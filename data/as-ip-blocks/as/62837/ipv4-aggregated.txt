@@ -1,0 +1,4 @@
+# AS62837 (SMARTFIBERNETWORKS)
+# Smart Fiber Networks
+#
+23.173.40.0/24

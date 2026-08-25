@@ -1,0 +1,14 @@
+{
+  "asn": 17263,
+  "metadata": {
+    "handle": "TN-ASN-NM",
+    "description": "Tarakona Networks, LLC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

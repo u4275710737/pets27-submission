@@ -1,0 +1,16 @@
+{
+  "asn": 150736,
+  "metadata": {
+    "handle": "WMCL-AS-AP",
+    "description": "WEBSATMEDIA MYANMAR COMPANY LIMITED",
+    "countryCode": "MM",
+    "country": "Myanmar (Burma)",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "103.77.216.0/24" ],
+    "ipv6": [ ]
+  }
+}

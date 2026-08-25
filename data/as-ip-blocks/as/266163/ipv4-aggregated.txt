@@ -1,0 +1,4 @@
+# AS266163 (ITAINET-FIBER-PROVEDOR)
+# Itaínet Fiber Provedor
+#
+186.2.248.0/22

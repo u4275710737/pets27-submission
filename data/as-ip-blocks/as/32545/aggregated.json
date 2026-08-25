@@ -1,0 +1,14 @@
+{
+  "asn": 32545,
+  "metadata": {
+    "handle": "ASNDGC-32",
+    "description": "Detour Gold Corporation",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

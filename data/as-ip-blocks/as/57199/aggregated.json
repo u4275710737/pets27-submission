@@ -1,0 +1,14 @@
+{
+  "asn": 57199,
+  "metadata": {
+    "handle": "MILKYWAN-OLD",
+    "description": "MilkyWan Association",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

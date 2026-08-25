@@ -1,0 +1,4 @@
+# AS141389 (GOIP-AS-AP)
+# GOIP Telecom (Asia Pacific) Pte. Ltd.
+#
+2406:ac40::/32

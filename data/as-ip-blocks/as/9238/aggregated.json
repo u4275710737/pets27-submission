@@ -1,0 +1,14 @@
+{
+  "asn": 9238,
+  "metadata": {
+    "handle": "TATA",
+    "description": "Tata Communications Limited",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

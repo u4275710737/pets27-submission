@@ -1,0 +1,14 @@
+{
+  "asn": 141037,
+  "metadata": {
+    "handle": "IQTEL-AP",
+    "description": "IQ-TEL",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

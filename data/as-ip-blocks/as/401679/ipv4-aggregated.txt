@@ -1,0 +1,4 @@
+# AS401679 (CPA-RTR-01)
+# Canadian Payments Association
+#
+104.160.248.0/23

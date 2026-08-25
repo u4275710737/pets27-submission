@@ -1,0 +1,14 @@
+{
+  "asn": 21321,
+  "metadata": {
+    "handle": "NETUITY",
+    "description": "John Macleod trading as Howick Digital",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

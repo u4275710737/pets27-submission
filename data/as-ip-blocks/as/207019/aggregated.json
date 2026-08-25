@@ -1,0 +1,16 @@
+{
+  "asn": 207019,
+  "metadata": {
+    "handle": "TNCL",
+    "description": "Clouvider Limited",
+    "countryCode": "GB",
+    "country": "United Kingdom",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "77.67.1.0/24", "157.254.25.0/24" ],
+    "ipv6": [ ]
+  }
+}

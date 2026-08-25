@@ -1,0 +1,14 @@
+{
+  "asn": 203631,
+  "metadata": {
+    "handle": "HEDANCLOUD",
+    "description": "HEDAN LIMITED",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

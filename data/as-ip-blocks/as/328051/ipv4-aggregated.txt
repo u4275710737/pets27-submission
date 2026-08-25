@@ -1,0 +1,4 @@
+# AS328051 (GOCONNECT)
+# Go Communications Network (Pty) LTD
+#
+164.160.124.0/22

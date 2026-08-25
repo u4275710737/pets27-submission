@@ -1,0 +1,14 @@
+{
+  "asn": 1058,
+  "metadata": {
+    "handle": "FSRM",
+    "description": "MCPc Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

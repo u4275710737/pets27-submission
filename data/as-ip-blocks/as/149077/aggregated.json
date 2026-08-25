@@ -1,0 +1,14 @@
+{
+  "asn": 149077,
+  "metadata": {
+    "handle": "DULICHYENVIET-AS-VN",
+    "description": "Yen Viet Tourist Company Limited",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

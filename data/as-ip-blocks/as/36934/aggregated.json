@@ -1,0 +1,14 @@
+{
+  "asn": 36934,
+  "metadata": {
+    "handle": "BROADBAND-SYSTEMS-CORPORATION",
+    "description": "Broadband Systems Corporation",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

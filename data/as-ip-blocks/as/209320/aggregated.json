@@ -1,0 +1,14 @@
+{
+  "asn": 209320,
+  "metadata": {
+    "handle": "ABEILLE-NOTINUSE",
+    "description": "ABEILLE SARL",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

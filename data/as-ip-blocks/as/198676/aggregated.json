@@ -1,0 +1,14 @@
+{
+  "asn": 198676,
+  "metadata": {
+    "handle": "DK-XSTREAM",
+    "description": "Seachange Polska Sp. z o. o.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

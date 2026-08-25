@@ -1,0 +1,14 @@
+{
+  "asn": 136721,
+  "metadata": {
+    "handle": "PALVYARA",
+    "description": "Pal Digital Networking Pvt. Ltd.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

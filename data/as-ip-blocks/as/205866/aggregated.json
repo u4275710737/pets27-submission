@@ -1,0 +1,16 @@
+{
+  "asn": 205866,
+  "metadata": {
+    "handle": "VRV-AS",
+    "description": "Vyshegorodtsev Roman Valerevich",
+    "countryCode": "RU",
+    "country": "Russia",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ "2a0d:e241::/32", "2a11:ec2::/32", "2a11:9044::/32", "2a11:e2c7::/32", "2a12:645::/32", "2a12:2806::/32", "2a12:8781::/32", "2a12:cf83::/32" ]
+  }
+}

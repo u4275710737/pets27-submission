@@ -1,0 +1,16 @@
+{
+  "asn": 52772,
+  "metadata": {
+    "handle": "SJNET-TELECOMUNICACOES-EIRELI",
+    "description": "SJNET TELECOMUNICACOES - EIRELI",
+    "countryCode": "BR",
+    "country": "Brazil",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "midsize_transit"
+  },
+  "prefixes": {
+    "ipv4": [ "38.236.128.0/19", "177.39.156.0/22" ],
+    "ipv6": [ "2804:259c::/32" ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "asn": 215324,
+  "metadata": {
+    "handle": "SATVERSMESTIESA",
+    "description": "Latvijas Republikas Satversmes tiesa",
+    "countryCode": "LV",
+    "country": "Latvia",
+    "origin": "authoritative",
+    "category": "government_admin",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "85.254.1.0/24" ],
+    "ipv6": [ ]
+  }
+}

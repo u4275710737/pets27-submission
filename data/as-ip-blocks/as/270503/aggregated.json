@@ -1,0 +1,16 @@
+{
+  "asn": 270503,
+  "metadata": {
+    "handle": "R-LUIZ-LEANDRO",
+    "description": "R LUIZ LEANDRO",
+    "countryCode": "BR",
+    "country": "Brazil",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "24.152.93.0/24", "24.152.94.0/23" ],
+    "ipv6": [ ]
+  }
+}

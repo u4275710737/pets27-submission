@@ -1,0 +1,14 @@
+{
+  "asn": 61977,
+  "metadata": {
+    "handle": "PATH-GLOBAL-UK-LIMITED",
+    "description": "Path Global UK Limited",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

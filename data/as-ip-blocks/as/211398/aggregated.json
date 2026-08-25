@@ -1,0 +1,16 @@
+{
+  "asn": 211398,
+  "metadata": {
+    "handle": "MIKE-AS",
+    "description": "Mike Marchal",
+    "countryCode": "BE",
+    "country": "Belgium",
+    "origin": "authoritative",
+    "category": null,
+    "networkRole": "access_provider"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ ]
+  }
+}

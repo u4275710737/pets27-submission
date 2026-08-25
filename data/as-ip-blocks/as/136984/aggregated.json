@@ -1,0 +1,14 @@
+{
+  "asn": 136984,
+  "metadata": {
+    "handle": "MERCURYNZ-AP",
+    "description": "Mercury NZ Limited",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

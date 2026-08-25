@@ -1,0 +1,14 @@
+{
+  "asn": 394705,
+  "metadata": {
+    "handle": "PAR-TECHNOLOGY-CORPORATION",
+    "description": "PAR Technology Corporation",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

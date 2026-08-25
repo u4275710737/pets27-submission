@@ -1,0 +1,4 @@
+# AS327770 (TELECELZIM)
+# Telecel Zimbabwe AS Number
+#
+41.79.56.0/22

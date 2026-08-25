@@ -1,0 +1,14 @@
+{
+  "asn": 205590,
+  "metadata": {
+    "handle": "COS",
+    "description": "Mallory Caldera",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

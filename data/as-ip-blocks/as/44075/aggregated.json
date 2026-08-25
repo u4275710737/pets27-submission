@@ -1,0 +1,14 @@
+{
+  "asn": 44075,
+  "metadata": {
+    "handle": "PALWIFI",
+    "description": "PALWIFI",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

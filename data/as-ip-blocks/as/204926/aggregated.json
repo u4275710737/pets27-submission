@@ -1,0 +1,16 @@
+{
+  "asn": 204926,
+  "metadata": {
+    "handle": "AFASN",
+    "description": "Fabio Zaffaroni trading as A.F. Network S.n.c. di Fabio Zaffaroni e Alberto Puppi",
+    "countryCode": "IT",
+    "country": "Italy",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "38.225.41.0/24" ],
+    "ipv6": [ ]
+  }
+}

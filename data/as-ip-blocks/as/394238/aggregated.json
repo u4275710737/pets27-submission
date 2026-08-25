@@ -1,0 +1,16 @@
+{
+  "asn": 394238,
+  "metadata": {
+    "handle": "GCFA-ASN01",
+    "description": "GENERAL COUNCIL ON FINANCE AND ADMINISTRATION OF THE UNITED METHODIST CHURCH",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "government_admin",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "205.189.45.0/24" ],
+    "ipv6": [ ]
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 44445,
+  "metadata": {
+    "handle": "ONFIBER-US",
+    "description": "Nova Networks Inc",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

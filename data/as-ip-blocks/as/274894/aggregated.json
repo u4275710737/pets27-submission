@@ -1,0 +1,16 @@
+{
+  "asn": 274894,
+  "metadata": {
+    "handle": "TV-GAITAN-TELECOMUNICACIONES",
+    "description": "TV GAITAN TELECOMUNICACIONES SAS",
+    "countryCode": "CO",
+    "country": "Colombia",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "38.236.107.0/24" ],
+    "ipv6": [ ]
+  }
+}

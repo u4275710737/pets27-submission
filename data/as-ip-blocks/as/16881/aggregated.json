@@ -1,0 +1,16 @@
+{
+  "asn": 16881,
+  "metadata": {
+    "handle": "DAVID-C-PRALL-INTERNET",
+    "description": "Prall Inc. David C",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "199.212.124.0/24" ],
+    "ipv6": [ "2620:ee:8000::/48" ]
+  }
+}

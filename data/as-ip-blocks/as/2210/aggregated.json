@@ -1,0 +1,14 @@
+{
+  "asn": 2210,
+  "metadata": {
+    "handle": "FR",
+    "description": "Renater",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

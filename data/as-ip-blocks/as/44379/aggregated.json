@@ -1,0 +1,14 @@
+{
+  "asn": 44379,
+  "metadata": {
+    "handle": "AUTOCENTER-AS",
+    "description": "Merezha LLC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

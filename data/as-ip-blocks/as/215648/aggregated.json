@@ -1,0 +1,14 @@
+{
+  "asn": 215648,
+  "metadata": {
+    "handle": "MARCOCET",
+    "description": "Marco Cettina",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

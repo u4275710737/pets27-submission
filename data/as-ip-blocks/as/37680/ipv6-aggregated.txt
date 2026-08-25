@@ -1,0 +1,5 @@
+# AS37680 (COOL-IDEAS1)
+# Cool Ideas
+#
+2607:bc40:104::/48
+2c0f:f9a8::/32

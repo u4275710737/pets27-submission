@@ -1,0 +1,14 @@
+{
+  "asn": 12608,
+  "metadata": {
+    "handle": "DATALABS-TRANSPORT",
+    "description": "DATATECH LABS MIDDLE EAST DMCC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

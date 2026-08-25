@@ -1,0 +1,16 @@
+{
+  "asn": 136826,
+  "metadata": {
+    "handle": "IDNIC-ID",
+    "description": "Indonesia Network Information Center",
+    "countryCode": "ID",
+    "country": "Indonesia",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "midsize_transit"
+  },
+  "prefixes": {
+    "ipv4": [ "102.220.88.0/22", "112.142.192.0/21", "211.102.152.0/21" ],
+    "ipv6": [ ]
+  }
+}

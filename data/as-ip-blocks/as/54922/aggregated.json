@@ -1,0 +1,14 @@
+{
+  "asn": 54922,
+  "metadata": {
+    "handle": "BOSTON-FQ",
+    "description": "ENV",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

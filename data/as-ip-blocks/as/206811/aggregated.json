@@ -1,0 +1,14 @@
+{
+  "asn": 206811,
+  "metadata": {
+    "handle": "NETADMIN",
+    "description": "Net-Admin S.r.l.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

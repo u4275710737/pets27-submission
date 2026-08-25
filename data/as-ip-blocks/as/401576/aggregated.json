@@ -1,0 +1,16 @@
+{
+  "asn": 401576,
+  "metadata": {
+    "handle": "BITRIOT",
+    "description": "Bitriot LLC",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "185.68.53.0/24" ],
+    "ipv6": [ ]
+  }
+}

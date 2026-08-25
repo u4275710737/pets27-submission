@@ -1,0 +1,14 @@
+{
+  "asn": 62307,
+  "metadata": {
+    "handle": "LAND-POWER-AS",
+    "description": "LAND POWER SRL",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

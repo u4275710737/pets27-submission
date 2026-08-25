@@ -1,0 +1,14 @@
+{
+  "asn": 31611,
+  "metadata": {
+    "handle": "ABILENE",
+    "description": "TIMENET SPA",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

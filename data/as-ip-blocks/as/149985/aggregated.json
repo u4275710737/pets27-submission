@@ -1,0 +1,16 @@
+{
+  "asn": 149985,
+  "metadata": {
+    "handle": "PENTAONLINE-AS-AP",
+    "description": "Penta Online",
+    "countryCode": "BD",
+    "country": "Bangladesh",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "103.190.34.0/23" ],
+    "ipv6": [ "2001:df0:e340::/48" ]
+  }
+}

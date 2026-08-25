@@ -1,0 +1,14 @@
+{
+  "asn": 398016,
+  "metadata": {
+    "handle": "OTONOMY-HQ-DC",
+    "description": "Otonomy, Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

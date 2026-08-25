@@ -1,0 +1,14 @@
+{
+  "asn": 13451,
+  "metadata": {
+    "handle": "NWF-IFIBER-ASN-1",
+    "description": "Ziply Fiber",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

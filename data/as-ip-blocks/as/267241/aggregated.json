@@ -1,0 +1,16 @@
+{
+  "asn": 267241,
+  "metadata": {
+    "handle": "AI-BRAZIL-TECHNOLOGIES",
+    "description": "GMAES TELECOM LTDA EM RECUPERACAO JUDICIAL",
+    "countryCode": "BR",
+    "country": "Brazil",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "45.232.28.0/22" ],
+    "ipv6": [ ]
+  }
+}

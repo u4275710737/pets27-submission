@@ -1,0 +1,14 @@
+{
+  "asn": 200739,
+  "metadata": {
+    "handle": "SIXT",
+    "description": "Sixt GmbH & Co. Autovermietung KG",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

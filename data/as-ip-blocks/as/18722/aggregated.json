@@ -1,0 +1,14 @@
+{
+  "asn": 18722,
+  "metadata": {
+    "handle": "SUPERVALU",
+    "description": "SUPERVALU, Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

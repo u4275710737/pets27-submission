@@ -1,0 +1,14 @@
+{
+  "asn": 151069,
+  "metadata": {
+    "handle": "VMW-MEL",
+    "description": "VMWare Incorporation",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 14153,
+  "metadata": {
+    "handle": "EDGECAST",
+    "description": "Edgecast Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

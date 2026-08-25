@@ -1,0 +1,16 @@
+{
+  "asn": 13339,
+  "metadata": {
+    "handle": "ONGAME-SERVICES-AB",
+    "description": "Ongame Services AB",
+    "countryCode": "SE",
+    "country": "Sweden",
+    "origin": "overlaid",
+    "category": null,
+    "networkRole": null
+  },
+  "prefixes": {
+    "ipv4": [ "50.204.152.0/24" ],
+    "ipv6": [ ]
+  }
+}

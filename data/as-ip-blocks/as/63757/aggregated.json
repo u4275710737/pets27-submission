@@ -1,0 +1,14 @@
+{
+  "asn": 63757,
+  "metadata": {
+    "handle": "PACIFIC-VN",
+    "description": "Pacific Technology Development and Communication joint stock company",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

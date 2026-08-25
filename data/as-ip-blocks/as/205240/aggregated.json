@@ -1,0 +1,16 @@
+{
+  "asn": 205240,
+  "metadata": {
+    "handle": "ACKERSTAFF",
+    "description": "Jan Wilke Ackerstaff",
+    "countryCode": "DE",
+    "country": "Germany",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "193.218.204.0/24", "193.218.222.0/24", "193.219.0.0/24" ],
+    "ipv6": [ "2a0f:99c0::/32" ]
+  }
+}

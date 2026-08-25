@@ -1,0 +1,16 @@
+{
+  "asn": 53690,
+  "metadata": {
+    "handle": "AVAILITY-1",
+    "description": "Availity",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ ]
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 14166,
+  "metadata": {
+    "handle": "SOFTCOMCA",
+    "description": "Softcom Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

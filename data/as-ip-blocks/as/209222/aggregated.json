@@ -1,0 +1,14 @@
+{
+  "asn": 209222,
+  "metadata": {
+    "handle": "MELITAITALIA",
+    "description": "Enel Energia SPA",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

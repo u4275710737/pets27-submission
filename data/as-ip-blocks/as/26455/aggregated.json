@@ -1,0 +1,14 @@
+{
+  "asn": 26455,
+  "metadata": {
+    "handle": "BMS",
+    "description": "Bristol-Myers Squibb Company",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

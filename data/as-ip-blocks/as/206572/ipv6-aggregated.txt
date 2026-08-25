@@ -1,0 +1,3 @@
+# AS206572 (BARNAUL-ADM-AS)
+# Administration of Barnaul City
+#

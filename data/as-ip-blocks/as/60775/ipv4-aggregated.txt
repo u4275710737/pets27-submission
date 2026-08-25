@@ -1,0 +1,4 @@
+# AS60775 (GXW)
+# Wesley Berendsen trading as GxW Internet Services
+#
+185.177.147.0/24

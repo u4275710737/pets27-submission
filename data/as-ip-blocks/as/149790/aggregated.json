@@ -1,0 +1,14 @@
+{
+  "asn": 149790,
+  "metadata": {
+    "handle": "OCTOPUSCLOUD-AS-AP",
+    "description": "Octopus Cloud Computing (Shanghai) Co. Ltd",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 147158,
+  "metadata": {
+    "handle": "IDNIC-CLOUD4C-ID",
+    "description": "PT Cloud Four Cee Services",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

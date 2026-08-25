@@ -1,0 +1,16 @@
+{
+  "asn": 137151,
+  "metadata": {
+    "handle": "GNPLISP-AS",
+    "description": "Greenworld Netcast Private Limited",
+    "countryCode": "IN",
+    "country": "India",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "103.107.60.0/22", "103.134.8.0/22" ],
+    "ipv6": [ "2401:8320::/32" ]
+  }
+}

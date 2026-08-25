@@ -1,0 +1,14 @@
+{
+  "asn": 132987,
+  "metadata": {
+    "handle": "ENEWINFO-AS-IN",
+    "description": "Enew Infotech",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

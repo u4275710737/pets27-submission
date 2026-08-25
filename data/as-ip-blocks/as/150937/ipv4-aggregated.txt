@@ -1,0 +1,5 @@
+# AS150937 (IDNIC-NEUTRON-AS-ID)
+# PT Neutron Mitra Nusantara
+#
+103.110.100.0/23
+103.225.46.0/24

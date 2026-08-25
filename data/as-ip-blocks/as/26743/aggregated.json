@@ -1,0 +1,14 @@
+{
+  "asn": 26743,
+  "metadata": {
+    "handle": "NETSCOUT-ARIN",
+    "description": "Networkscout Inc",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

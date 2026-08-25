@@ -1,0 +1,16 @@
+{
+  "asn": 214952,
+  "metadata": {
+    "handle": "MJANIK-AS",
+    "description": "mjanik.net s.r.o.",
+    "countryCode": "CZ",
+    "country": "Czechia",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ "2a01:9646::/32" ]
+  }
+}

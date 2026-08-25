@@ -1,0 +1,16 @@
+{
+  "asn": 834,
+  "metadata": {
+    "handle": "IPXO",
+    "description": "IPXO LLC",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "69.33.194.0/23", "148.163.252.0/24", "191.96.111.0/24" ],
+    "ipv6": [ "2c0f:ee78::/32", "2c0f:f738::/32" ]
+  }
+}

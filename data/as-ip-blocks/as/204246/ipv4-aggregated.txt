@@ -1,0 +1,4 @@
+# AS204246 (EZMOBPL)
+# IN9 MOBILE Sp. z o.o.
+#
+185.110.4.0/23

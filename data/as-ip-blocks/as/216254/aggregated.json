@@ -1,0 +1,14 @@
+{
+  "asn": 216254,
+  "metadata": {
+    "handle": "GAZLEE",
+    "description": "Gary Lee",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

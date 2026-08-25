@@ -1,0 +1,14 @@
+{
+  "asn": 210441,
+  "metadata": {
+    "handle": "TIMS-IT",
+    "description": "TIMS IT SASAU",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

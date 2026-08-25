@@ -1,0 +1,16 @@
+{
+  "asn": 211377,
+  "metadata": {
+    "handle": "ARYK",
+    "description": "ARYK SAS",
+    "countryCode": "FR",
+    "country": "France",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "31.59.234.0/23" ],
+    "ipv6": [ "2001:67c:26c0::/48" ]
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 17659,
+  "metadata": {
+    "handle": "MAINT-AU-SPEEDCASTAUSTRALIA",
+    "description": "SPEEDCAST AUSTRALIA PTY LIMITED",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

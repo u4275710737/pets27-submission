@@ -1,0 +1,16 @@
+{
+  "asn": 11960,
+  "metadata": {
+    "handle": "CUBADATA-AS",
+    "description": "Empresa de Telecomunicaciones de Cuba S.A.",
+    "countryCode": "CU",
+    "country": "Cuba",
+    "origin": "overlaid",
+    "category": "isp",
+    "networkRole": "access_provider"
+  },
+  "prefixes": {
+    "ipv4": [ "200.0.16.0/24" ],
+    "ipv6": [ "2001:13c8::/32" ]
+  }
+}

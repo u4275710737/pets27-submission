@@ -1,0 +1,14 @@
+{
+  "asn": 34682,
+  "metadata": {
+    "handle": "KOMPLEKTORG-AS",
+    "description": "KOMPLEKTORG OOO",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

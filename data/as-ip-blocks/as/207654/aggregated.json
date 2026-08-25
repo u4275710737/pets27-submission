@@ -1,0 +1,14 @@
+{
+  "asn": 207654,
+  "metadata": {
+    "handle": "MICRODEX-AS",
+    "description": "Nerv Technologica UG (haftungsbeschraenkt)",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

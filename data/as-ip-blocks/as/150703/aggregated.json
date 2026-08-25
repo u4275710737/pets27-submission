@@ -1,0 +1,14 @@
+{
+  "asn": 150703,
+  "metadata": {
+    "handle": "MOC-AS-AP",
+    "description": "Ministry of Commerce",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

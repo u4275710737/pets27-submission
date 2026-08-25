@@ -1,0 +1,14 @@
+{
+  "asn": 149813,
+  "metadata": {
+    "handle": "LSL-AS-AP",
+    "description": "LightEdge Solutions LLC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 272,
+  "metadata": {
+    "handle": "CTNOSC-ASN",
+    "description": "Headquarters, USAISC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

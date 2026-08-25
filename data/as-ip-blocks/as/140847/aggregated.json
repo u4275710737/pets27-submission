@@ -1,0 +1,14 @@
+{
+  "asn": 140847,
+  "metadata": {
+    "handle": "UPDATE1-AP",
+    "description": "Update Technology",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

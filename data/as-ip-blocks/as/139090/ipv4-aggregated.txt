@@ -1,0 +1,4 @@
+# AS139090 (WXEIMSC)
+# Wuxi Education Information Management Service Center
+#
+103.139.172.0/23

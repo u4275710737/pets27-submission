@@ -1,0 +1,14 @@
+{
+  "asn": 49349,
+  "metadata": {
+    "handle": "DOTSI",
+    "description": "Dotsi, Unipessoal Lda.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

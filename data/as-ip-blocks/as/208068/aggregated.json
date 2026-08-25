@@ -1,0 +1,16 @@
+{
+  "asn": 208068,
+  "metadata": {
+    "handle": "IELEVEN",
+    "description": "Ludwig Moritz Hodiamont",
+    "countryCode": "DE",
+    "country": "Germany",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ "2a0e:97c0:520::/44", "2a14:67c3:400::/43" ]
+  }
+}

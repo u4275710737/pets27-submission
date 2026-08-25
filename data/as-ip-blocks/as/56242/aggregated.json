@@ -1,0 +1,14 @@
+{
+  "asn": 56242,
+  "metadata": {
+    "handle": "SKI-AS-ID",
+    "description": "PT SUMBER KONEKSI INDOTELEMATIKA",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

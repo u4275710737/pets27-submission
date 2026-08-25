@@ -1,0 +1,14 @@
+{
+  "asn": 397750,
+  "metadata": {
+    "handle": "ARGUS",
+    "description": "Argus Business Solutions Group",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 328147,
+  "metadata": {
+    "handle": "SENIX-MGMT",
+    "description": "Agence De l'Informatique de l'Etat",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

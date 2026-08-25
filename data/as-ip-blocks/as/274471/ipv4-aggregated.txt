@@ -1,0 +1,4 @@
+# AS274471 (WIFI-NET-SERVICOS)
+# Wifi net serviços de telecomunicações
+#
+38.225.42.0/24

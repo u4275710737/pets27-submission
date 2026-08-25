@@ -1,0 +1,3 @@
+# AS26415 (VERISIGN-INC)
+# VeriSign Global Registry Services
+#

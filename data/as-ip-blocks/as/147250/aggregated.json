@@ -1,0 +1,14 @@
+{
+  "asn": 147250,
+  "metadata": {
+    "handle": "NEXEN-AS-IN",
+    "description": "NEXEN BROADBAND OPC PRIVATE LIMITED",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

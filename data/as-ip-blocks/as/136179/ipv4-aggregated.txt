@@ -1,0 +1,4 @@
+# AS136179 (GMRA-AS-AP)
+# GMR Airports Limited
+#
+103.83.59.0/24

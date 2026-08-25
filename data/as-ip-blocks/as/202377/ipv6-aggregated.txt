@@ -1,0 +1,4 @@
+# AS202377 (SUPERTEL)
+# GlobalConnect A/S
+#
+2a0c:6540::/32

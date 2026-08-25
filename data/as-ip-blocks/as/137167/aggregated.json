@@ -1,0 +1,14 @@
+{
+  "asn": 137167,
+  "metadata": {
+    "handle": "CHERRY",
+    "description": "Cherri Technologies",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "asn": 31952,
+  "metadata": {
+    "handle": "ASN-CAM-US",
+    "description": "Calamos US Autonomous System",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "192.52.162.0/24" ],
+    "ipv6": [ ]
+  }
+}

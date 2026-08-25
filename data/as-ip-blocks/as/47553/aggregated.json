@@ -1,0 +1,16 @@
+{
+  "asn": 47553,
+  "metadata": {
+    "handle": "MISAKA-BYOIP",
+    "description": "Misaka Network Inc.",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "142.147.95.0/24", "194.104.145.0/24", "194.114.137.0/24" ],
+    "ipv6": [ "2605:3a40:5::/48" ]
+  }
+}

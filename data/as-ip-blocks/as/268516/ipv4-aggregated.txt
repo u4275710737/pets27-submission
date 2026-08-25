@@ -1,0 +1,5 @@
+# AS268516 (MIDIA-NET-TELECOM)
+# Midia Net Telecom
+#
+45.162.104.0/22
+209.87.160.0/23

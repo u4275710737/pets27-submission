@@ -1,0 +1,16 @@
+{
+  "asn": 216014,
+  "metadata": {
+    "handle": "BESTDC-LIMITED",
+    "description": "BestDC Limited",
+    "countryCode": "GB",
+    "country": "United Kingdom",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "193.47.62.0/24" ],
+    "ipv6": [ ]
+  }
+}

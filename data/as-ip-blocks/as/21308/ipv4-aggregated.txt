@@ -1,0 +1,4 @@
+# AS21308 (ITMUA-AS)
+# Synapse Ukraine LLC
+#
+193.239.142.0/23

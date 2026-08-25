@@ -1,0 +1,16 @@
+{
+  "asn": 327757,
+  "metadata": {
+    "handle": "ICTDYNAMIX",
+    "description": "ICTD-ASN",
+    "countryCode": "BW",
+    "country": "Botswana",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "154.73.36.0/22" ],
+    "ipv6": [ ]
+  }
+}

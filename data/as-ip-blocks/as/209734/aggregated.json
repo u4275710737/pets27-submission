@@ -1,0 +1,16 @@
+{
+  "asn": 209734,
+  "metadata": {
+    "handle": "STARFALL",
+    "description": "STARFALL DISTRIBUTION LTD",
+    "countryCode": "GB",
+    "country": "United Kingdom",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "88.214.52.0/24" ],
+    "ipv6": [ ]
+  }
+}

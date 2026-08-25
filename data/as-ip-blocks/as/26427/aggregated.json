@@ -1,0 +1,14 @@
+{
+  "asn": 26427,
+  "metadata": {
+    "handle": "ENTER",
+    "description": "Enterprise Integration, Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

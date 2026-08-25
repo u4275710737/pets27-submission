@@ -1,0 +1,16 @@
+{
+  "asn": 210980,
+  "metadata": {
+    "handle": "MANTA-TECH",
+    "description": "MANTA TECH LTD",
+    "countryCode": "GB",
+    "country": "United Kingdom",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "2.26.128.0/23", "2.26.130.0/24", "2.26.135.0/24", "2.26.139.0/24", "2.27.94.0/24" ],
+    "ipv6": [ ]
+  }
+}

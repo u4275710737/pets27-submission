@@ -1,0 +1,14 @@
+{
+  "asn": 133972,
+  "metadata": {
+    "handle": "NISSCOM-IN",
+    "description": "NISS COMMUNICATION PRIVATE LIMITED",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

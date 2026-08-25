@@ -1,0 +1,14 @@
+{
+  "asn": 204008,
+  "metadata": {
+    "handle": "MUENET",
+    "description": "MN Glasfaser GmbH trading as MUENET GmbH & Co. KG",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 54865,
+  "metadata": {
+    "handle": "EARC-TW-ATT",
+    "description": "E.A. Renfroe & Company, Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

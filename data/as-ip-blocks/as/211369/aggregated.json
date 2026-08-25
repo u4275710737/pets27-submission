@@ -1,0 +1,16 @@
+{
+  "asn": 211369,
+  "metadata": {
+    "handle": "VERISIGN-AS",
+    "description": "VeriSign Inc.",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ ]
+  }
+}

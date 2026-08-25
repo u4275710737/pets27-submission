@@ -1,0 +1,5 @@
+# AS46690 (SNET-FCC)
+# Verizon Business
+#
+2602:250::/28
+2605:d580::/32

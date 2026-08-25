@@ -1,0 +1,4 @@
+# AS212880 (AS-LLTN-RIPE)
+# Rydal Communications Ltd
+#
+185.45.227.0/24

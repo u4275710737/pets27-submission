@@ -1,0 +1,14 @@
+{
+  "asn": 50986,
+  "metadata": {
+    "handle": "EXCELLENT-HOSTING",
+    "description": "Teleservice Bredband Skane AB",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

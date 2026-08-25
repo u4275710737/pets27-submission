@@ -1,0 +1,14 @@
+{
+  "asn": 56194,
+  "metadata": {
+    "handle": "SKYMEDIA-AS-MAIN",
+    "description": "Skymedia Corporation",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

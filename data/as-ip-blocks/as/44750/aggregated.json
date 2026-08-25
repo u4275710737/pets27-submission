@@ -1,0 +1,14 @@
+{
+  "asn": 44750,
+  "metadata": {
+    "handle": "ATOMOHOST-AS",
+    "description": "TOV 'Solarix Consulting LTD'",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

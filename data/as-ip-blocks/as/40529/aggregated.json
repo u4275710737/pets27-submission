@@ -1,0 +1,14 @@
+{
+  "asn": 40529,
+  "metadata": {
+    "handle": "MOXIENETWORKSINC",
+    "description": "Moxie Communications, Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

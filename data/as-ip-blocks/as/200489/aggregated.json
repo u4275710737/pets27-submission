@@ -1,0 +1,16 @@
+{
+  "asn": 200489,
+  "metadata": {
+    "handle": "ARKYANETWORK",
+    "description": "Arkya Networks SAS",
+    "countryCode": "FR",
+    "country": "France",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "151.242.255.0/24" ],
+    "ipv6": [ ]
+  }
+}

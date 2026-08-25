@@ -1,0 +1,14 @@
+{
+  "asn": 395934,
+  "metadata": {
+    "handle": "LEGALZOOM",
+    "description": "Legalzoom.com, inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

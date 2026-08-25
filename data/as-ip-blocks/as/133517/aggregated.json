@@ -1,0 +1,14 @@
+{
+  "asn": 133517,
+  "metadata": {
+    "handle": "CERNEWTECH-NANJING",
+    "description": "CERNET New Technology Co., Ltd",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

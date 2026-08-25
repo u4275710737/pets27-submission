@@ -1,0 +1,16 @@
+{
+  "asn": 204097,
+  "metadata": {
+    "handle": "IQVIA-GERMANY2",
+    "description": "IQVIA LTD.",
+    "countryCode": "GB",
+    "country": "United Kingdom",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "162.44.86.0/24" ],
+    "ipv6": [ ]
+  }
+}

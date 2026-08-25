@@ -1,0 +1,16 @@
+{
+  "asn": 272865,
+  "metadata": {
+    "handle": "INVERSIONES-SMARTBYTE-CA",
+    "description": "INVERSIONES SMARTBYTE C.A.",
+    "countryCode": "VE",
+    "country": "Venezuela",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "access_provider"
+  },
+  "prefixes": {
+    "ipv4": [ "38.188.96.0/22", "170.244.90.0/24" ],
+    "ipv6": [ "2803:2230::/32" ]
+  }
+}

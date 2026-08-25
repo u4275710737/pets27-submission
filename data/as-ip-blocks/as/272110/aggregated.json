@@ -1,0 +1,16 @@
+{
+  "asn": 272110,
+  "metadata": {
+    "handle": "FENIX-NETWORKS",
+    "description": "FENIX NETWORKS S.R.L.",
+    "countryCode": "DO",
+    "country": "Dominican Republic",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "midsize_transit"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ "2803:7710::/32" ]
+  }
+}

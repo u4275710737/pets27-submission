@@ -1,0 +1,14 @@
+{
+  "asn": 208572,
+  "metadata": {
+    "handle": "MUBA",
+    "description": "Muba Online SL",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

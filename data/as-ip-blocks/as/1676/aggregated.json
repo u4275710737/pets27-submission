@@ -1,0 +1,14 @@
+{
+  "asn": 1676,
+  "metadata": {
+    "handle": "AMERI",
+    "description": "Trane US INC.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

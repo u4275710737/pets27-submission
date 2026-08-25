@@ -1,0 +1,16 @@
+{
+  "asn": 273351,
+  "metadata": {
+    "handle": "STARVOICE-TELECOM-SISTEMA",
+    "description": "StarVoice Telecom Sistema de Comunicação Ltda",
+    "countryCode": "BR",
+    "country": "Brazil",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "45.168.95.0/24" ],
+    "ipv6": [ "2804:8d58::/32" ]
+  }
+}

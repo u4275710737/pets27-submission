@@ -1,0 +1,16 @@
+{
+  "asn": 147165,
+  "metadata": {
+    "handle": "IDNIC-AMERTA-AS-ID",
+    "description": "PT Amerta Asa Media",
+    "countryCode": "ID",
+    "country": "Indonesia",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "103.178.12.0/23" ],
+    "ipv6": [ "2001:df2:6140::/48" ]
+  }
+}

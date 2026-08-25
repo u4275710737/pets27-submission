@@ -1,0 +1,14 @@
+{
+  "asn": 17927,
+  "metadata": {
+    "handle": "WEBSATMEDIA",
+    "description": "WebSatMedia Pte Ltd",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

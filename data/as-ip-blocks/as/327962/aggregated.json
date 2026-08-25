@@ -1,0 +1,16 @@
+{
+  "asn": 327962,
+  "metadata": {
+    "handle": "AS-327962",
+    "description": "PACKETSKY AS",
+    "countryCode": "ZA",
+    "country": "South Africa",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "content_network"
+  },
+  "prefixes": {
+    "ipv4": [ "102.141.240.0/20", "169.239.176.0/22" ],
+    "ipv6": [ ]
+  }
+}

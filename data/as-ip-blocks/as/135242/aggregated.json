@@ -1,0 +1,14 @@
+{
+  "asn": 135242,
+  "metadata": {
+    "handle": "VISHWALOG-AS-IN",
+    "description": "VISHWA LOGIC SYSTEM",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

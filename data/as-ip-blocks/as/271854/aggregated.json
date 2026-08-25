@@ -1,0 +1,14 @@
+{
+  "asn": 271854,
+  "metadata": {
+    "handle": "GRUPO-NOREDZONE-ISP-SPA",
+    "description": "GRUPO NOREDZONE ISP SPA",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

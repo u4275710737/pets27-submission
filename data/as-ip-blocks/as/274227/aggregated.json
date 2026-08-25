@@ -1,0 +1,16 @@
+{
+  "asn": 274227,
+  "metadata": {
+    "handle": "MOSSO-MAYRA-ADELA",
+    "description": "MOSSO MAYRA ADELA (INTERZONA FORMOSA)",
+    "countryCode": "AR",
+    "country": "Argentina",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "131.196.82.0/24" ],
+    "ipv6": [ ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "asn": 268905,
+  "metadata": {
+    "handle": "NET-COMPARTILHE",
+    "description": "NET COMPARTILHE",
+    "countryCode": "BR",
+    "country": "Brazil",
+    "origin": "authoritative",
+    "category": "education_research",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "45.175.84.0/23" ],
+    "ipv6": [ "2804:5c60::/32" ]
+  }
+}

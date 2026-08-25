@@ -1,0 +1,14 @@
+{
+  "asn": 39772,
+  "metadata": {
+    "handle": "GIGABIT-MELITOPOL",
+    "description": "Tavrija Telecom Melitopol Ltd.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

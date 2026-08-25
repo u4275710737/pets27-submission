@@ -1,0 +1,14 @@
+{
+  "asn": 213140,
+  "metadata": {
+    "handle": "SALT-SOLUTIONS",
+    "description": "SALT Solutions GmbH",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

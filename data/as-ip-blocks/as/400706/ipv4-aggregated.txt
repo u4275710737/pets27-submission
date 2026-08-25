@@ -1,0 +1,8 @@
+# AS400706 (HEART-OF-IOWA-UNION)
+# Heart of Iowa Communications Cooperative
+#
+74.123.140.0/22
+167.142.155.0/24
+170.187.32.0/19
+208.126.0.0/21
+216.51.220.0/24

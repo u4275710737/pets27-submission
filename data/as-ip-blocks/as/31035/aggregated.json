@@ -1,0 +1,16 @@
+{
+  "asn": 31035,
+  "metadata": {
+    "handle": "ADVAIXUA-AS",
+    "description": "ADVAIX TELECOM LLC",
+    "countryCode": "UA",
+    "country": "Ukraine",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "31.172.142.0/24", "92.60.188.0/24", "128.0.175.0/24", "217.20.164.0/24", "217.20.188.0/24" ],
+    "ipv6": [ ]
+  }
+}

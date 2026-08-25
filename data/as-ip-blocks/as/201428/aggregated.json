@@ -1,0 +1,14 @@
+{
+  "asn": 201428,
+  "metadata": {
+    "handle": "VMW-LHR01",
+    "description": "Vmware International Unlimited Company",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

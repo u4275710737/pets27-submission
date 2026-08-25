@@ -1,0 +1,14 @@
+{
+  "asn": 49575,
+  "metadata": {
+    "handle": "PARA-AS",
+    "description": "Dong Ran Yang",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

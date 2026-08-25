@@ -1,0 +1,14 @@
+{
+  "asn": 133751,
+  "metadata": {
+    "handle": "HOSTPACIFIC-AS-AP",
+    "description": "Pacific Net Venture Co. Ltd.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

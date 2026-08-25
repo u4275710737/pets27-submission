@@ -1,0 +1,16 @@
+{
+  "asn": 214347,
+  "metadata": {
+    "handle": "MDTS-LTD",
+    "description": "Massive Dynamic Technical Services Limited",
+    "countryCode": "GB",
+    "country": "United Kingdom",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "191.96.91.0/24", "191.96.92.0/24" ],
+    "ipv6": [ "2001:678:7b4::/48" ]
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 204125,
+  "metadata": {
+    "handle": "YUNGOTECHLTD",
+    "description": "Yun Go Tech Ltd",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

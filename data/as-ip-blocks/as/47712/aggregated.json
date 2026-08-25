@@ -1,0 +1,14 @@
+{
+  "asn": 47712,
+  "metadata": {
+    "handle": "VELOCIX-EU",
+    "description": "VELOCIX SOLUTIONS LIMITED",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

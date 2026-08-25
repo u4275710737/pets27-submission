@@ -1,0 +1,14 @@
+{
+  "asn": 395935,
+  "metadata": {
+    "handle": "EXOSTAR-AVA-01",
+    "description": "Exostar LLC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

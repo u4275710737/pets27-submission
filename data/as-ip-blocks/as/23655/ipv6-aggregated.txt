@@ -1,0 +1,5 @@
+# AS23655 (TWODEGREES-NZ-AS)
+# Two Degrees Mobile Limited
+#
+2405:a400:2de5::/48
+2406:e000::/29

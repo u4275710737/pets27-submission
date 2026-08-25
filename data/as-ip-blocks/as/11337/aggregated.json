@@ -1,0 +1,14 @@
+{
+  "asn": 11337,
+  "metadata": {
+    "handle": "MARLABS-AS",
+    "description": "Marlabs Incorporated",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

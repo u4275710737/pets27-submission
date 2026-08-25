@@ -1,0 +1,16 @@
+{
+  "asn": 212205,
+  "metadata": {
+    "handle": "BRT-TV-NET",
+    "description": "Vladimirov Vladimir",
+    "countryCode": "RU",
+    "country": "Russia",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "194.11.28.0/24" ],
+    "ipv6": [ ]
+  }
+}

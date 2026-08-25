@@ -1,0 +1,14 @@
+{
+  "asn": 18950,
+  "metadata": {
+    "handle": "HAWAIIANFIBER",
+    "description": "HAWAIIAN TELCOM FIBER LLC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

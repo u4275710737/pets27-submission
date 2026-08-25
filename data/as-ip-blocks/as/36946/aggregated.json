@@ -1,0 +1,14 @@
+{
+  "asn": 36946,
+  "metadata": {
+    "handle": "CIVIX",
+    "description": "Cote d'Ivoire Internet Exchange Point",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

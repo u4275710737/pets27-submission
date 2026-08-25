@@ -1,0 +1,14 @@
+{
+  "asn": 7251,
+  "metadata": {
+    "handle": "THREATTRACK-SECURITY-INC",
+    "description": "ThreatTrack Security",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

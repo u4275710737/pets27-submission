@@ -1,0 +1,4 @@
+# AS134732 (DOTINTERNET-AS-AP)
+# Dot Internet
+#
+2401:f40::/32

@@ -1,0 +1,14 @@
+{
+  "asn": 139836,
+  "metadata": {
+    "handle": "CCSCL-AP",
+    "description": "COMEZOLO INTERNET SERVICE (HONGKONG) CO., LIMITED",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

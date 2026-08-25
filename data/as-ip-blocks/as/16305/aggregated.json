@@ -1,0 +1,14 @@
+{
+  "asn": 16305,
+  "metadata": {
+    "handle": "A1TELEKOM-AT",
+    "description": "A1 Telekom Austria AG",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

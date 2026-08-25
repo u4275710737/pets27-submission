@@ -1,0 +1,14 @@
+{
+  "asn": 50499,
+  "metadata": {
+    "handle": "INETCLOUD",
+    "description": "INETCLOUD Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

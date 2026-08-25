@@ -1,0 +1,14 @@
+{
+  "asn": 3079,
+  "metadata": {
+    "handle": "CITI13",
+    "description": "Citigroup Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

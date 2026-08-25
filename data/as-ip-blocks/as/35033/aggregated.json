@@ -1,0 +1,14 @@
+{
+  "asn": 35033,
+  "metadata": {
+    "handle": "FUJITSU-AS",
+    "description": "Fujitsu Services A/S",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

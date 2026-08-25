@@ -1,0 +1,14 @@
+{
+  "asn": 39926,
+  "metadata": {
+    "handle": "RADIOFLASH",
+    "description": "Cooperativa Culturale Biancaneve - Societa' Cooperativa Siglabile Biancaneve",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

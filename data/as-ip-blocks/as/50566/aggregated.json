@@ -1,0 +1,14 @@
+{
+  "asn": 50566,
+  "metadata": {
+    "handle": "A2A",
+    "description": "A2A LLC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 141570,
+  "metadata": {
+    "handle": "OPTAQON-IN",
+    "description": "Optaqon Broadband Private Limited",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

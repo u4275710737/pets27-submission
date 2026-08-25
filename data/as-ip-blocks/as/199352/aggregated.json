@@ -1,0 +1,16 @@
+{
+  "asn": 199352,
+  "metadata": {
+    "handle": "AUTOVIE-AS",
+    "description": "Societa' Autostrade Alto Adriatico S.p.A.",
+    "countryCode": "IT",
+    "country": "Italy",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "5.175.32.0/21" ],
+    "ipv6": [ ]
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 272151,
+  "metadata": {
+    "handle": "CHINA-MOBILE-INTERNATIONAL",
+    "description": "CHINA MOBILE INTERNATIONAL (PANAMA) S.A.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

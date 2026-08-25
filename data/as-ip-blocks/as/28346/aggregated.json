@@ -1,0 +1,14 @@
+{
+  "asn": 28346,
+  "metadata": {
+    "handle": "IB-TELECOMUNICACOES",
+    "description": "IB TELECOMUNICA\u00c7\u00d5ES LTDA",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "asn": 211667,
+  "metadata": {
+    "handle": "CO3",
+    "description": "COMPANY 3 STUDIOS UK LTD",
+    "countryCode": "GB",
+    "country": "United Kingdom",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "185.29.231.0/24" ],
+    "ipv6": [ ]
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 215038,
+  "metadata": {
+    "handle": "FABRICA-IDEARUM-1",
+    "description": "Fabrica Idearum MB",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

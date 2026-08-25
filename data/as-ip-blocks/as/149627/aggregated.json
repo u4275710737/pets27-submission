@@ -1,0 +1,14 @@
+{
+  "asn": 149627,
+  "metadata": {
+    "handle": "VBANGLA-AP",
+    "description": "V bangla",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

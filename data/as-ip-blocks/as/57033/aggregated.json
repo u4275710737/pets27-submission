@@ -1,0 +1,14 @@
+{
+  "asn": 57033,
+  "metadata": {
+    "handle": "ALTAIR-KPK",
+    "description": "TVCOM Ltd.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

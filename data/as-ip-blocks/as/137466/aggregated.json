@@ -1,0 +1,14 @@
+{
+  "asn": 137466,
+  "metadata": {
+    "handle": "COULL-AP",
+    "description": "Coull",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

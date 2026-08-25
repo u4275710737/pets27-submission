@@ -1,0 +1,14 @@
+{
+  "asn": 399926,
+  "metadata": {
+    "handle": "BERMUDA-COLLEGE-AS",
+    "description": "Bermuda College",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 397164,
+  "metadata": {
+    "handle": "VELOCITY-WIRELESS-NYC",
+    "description": "Velocity Wireless LLC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

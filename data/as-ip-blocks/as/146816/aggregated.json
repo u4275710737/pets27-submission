@@ -1,0 +1,16 @@
+{
+  "asn": 146816,
+  "metadata": {
+    "handle": "MOUTAICHINA",
+    "description": "Guizhou Moutai Winery (Group) Co. Ltd.",
+    "countryCode": "CN",
+    "country": "China",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ "2400:73e0::/32" ]
+  }
+}

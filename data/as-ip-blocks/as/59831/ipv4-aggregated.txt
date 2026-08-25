@@ -1,0 +1,4 @@
+# AS59831 (MEGATELEKOM-AS)
+# MegaTelekom. Ltd
+#
+217.78.235.0/24

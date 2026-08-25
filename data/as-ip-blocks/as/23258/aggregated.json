@@ -1,0 +1,14 @@
+{
+  "asn": 23258,
+  "metadata": {
+    "handle": "PARAMO",
+    "description": "Paramount Pictures",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

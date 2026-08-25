@@ -1,0 +1,16 @@
+{
+  "asn": 35340,
+  "metadata": {
+    "handle": "FGVFO",
+    "description": "State Organization Deposit Guarantee Fund Of Physical Persons",
+    "countryCode": "UA",
+    "country": "Ukraine",
+    "origin": "authoritative",
+    "category": "government_admin",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "193.47.85.0/24" ],
+    "ipv6": [ ]
+  }
+}

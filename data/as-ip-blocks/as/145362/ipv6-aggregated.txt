@@ -1,0 +1,4 @@
+# AS145362 (CERNET)
+# China Education and Research Network
+#
+240a:aa98::/32

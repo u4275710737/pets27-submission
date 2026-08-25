@@ -1,0 +1,16 @@
+{
+  "asn": 274229,
+  "metadata": {
+    "handle": "EMPRESA-ELECTRICA-GUATEMALA",
+    "description": "Empresa Electrica de Guatemala S.A.",
+    "countryCode": "GT",
+    "country": "Guatemala",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "190.98.150.0/24" ],
+    "ipv6": [ "2803:3bd0::/32" ]
+  }
+}

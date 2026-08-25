@@ -1,0 +1,14 @@
+{
+  "asn": 204497,
+  "metadata": {
+    "handle": "CLOUDCENTER",
+    "description": "Cloudcenter.hu Kft",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

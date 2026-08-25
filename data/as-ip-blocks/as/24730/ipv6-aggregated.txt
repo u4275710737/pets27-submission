@@ -1,0 +1,4 @@
+# AS24730 (ASN-NETHOLDING)
+# Garnier Projects BV
+#
+2001:15b8::/32

@@ -1,0 +1,14 @@
+{
+  "asn": 141404,
+  "metadata": {
+    "handle": "MAKBROADBAND-AP",
+    "description": "MAK BROADBAND",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

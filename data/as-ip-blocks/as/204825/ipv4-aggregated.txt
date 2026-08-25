@@ -1,0 +1,4 @@
+# AS204825 (RESCOM-AS)
+# Citytelecom LLC
+#
+193.138.70.0/24

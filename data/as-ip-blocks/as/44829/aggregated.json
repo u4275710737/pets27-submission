@@ -1,0 +1,14 @@
+{
+  "asn": 44829,
+  "metadata": {
+    "handle": "MSCIBARRA",
+    "description": "MSCI Barra (Suisse) Sarl",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,4 @@
+# AS60693 (MILETELECOM)
+# Konyaev Igor Gennadievich
+#
+194.0.68.0/22

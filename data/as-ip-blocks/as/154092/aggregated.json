@@ -1,0 +1,16 @@
+{
+  "asn": 154092,
+  "metadata": {
+    "handle": "IDNIC-ARTEKS-AS-ID",
+    "description": "PT Artha Teknologi Inovasi",
+    "countryCode": "ID",
+    "country": "Indonesia",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "asn": 400540,
+  "metadata": {
+    "handle": "WIRELESS-BLUE-INC",
+    "description": "Wireless Blue Inc.",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "23.154.124.0/24" ],
+    "ipv6": [ "2602:f857::/40" ]
+  }
+}

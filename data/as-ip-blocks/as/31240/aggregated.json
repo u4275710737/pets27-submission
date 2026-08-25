@@ -1,0 +1,14 @@
+{
+  "asn": 31240,
+  "metadata": {
+    "handle": "NOT-USED",
+    "description": "Filanco LLC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

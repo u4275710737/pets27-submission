@@ -1,0 +1,14 @@
+{
+  "asn": 926,
+  "metadata": {
+    "handle": "LIMITED",
+    "description": "AS926 Limited",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,4 @@
+# AS11858 (CM2COM)
+# Open Text Corporation
+#
+207.195.160.0/20

@@ -1,0 +1,14 @@
+{
+  "asn": 18896,
+  "metadata": {
+    "handle": "CALLIS-COMMUNICATIONS",
+    "description": "Callis Communications",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

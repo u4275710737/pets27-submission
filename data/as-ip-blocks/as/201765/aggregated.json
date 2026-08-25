@@ -1,0 +1,16 @@
+{
+  "asn": 201765,
+  "metadata": {
+    "handle": "NECTMANIA-AS",
+    "description": "NECTMANIA NETWORK LIMITED",
+    "countryCode": "GB",
+    "country": "United Kingdom",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "144.225.90.0/24" ],
+    "ipv6": [ "2a0f:1cc5:2300::/40", "2a14:67c2:4400::/40" ]
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 54275,
+  "metadata": {
+    "handle": "NETRIX",
+    "description": "Cyber Development Group International, LLC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

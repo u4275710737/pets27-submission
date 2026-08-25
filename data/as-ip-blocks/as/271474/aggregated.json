@@ -1,0 +1,16 @@
+{
+  "asn": 271474,
+  "metadata": {
+    "handle": "INALAN-TELECOMUNICACOES",
+    "description": "INALAN TELECOMUNICACOES LTDA",
+    "countryCode": "BR",
+    "country": "Brazil",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "181.224.28.0/22" ],
+    "ipv6": [ "2804:7c14::/32" ]
+  }
+}

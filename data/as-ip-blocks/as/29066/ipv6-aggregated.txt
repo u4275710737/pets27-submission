@@ -1,0 +1,10 @@
+# AS29066 (VELIANET-AS)
+# velia.net Internetdienste GmbH
+#
+2406:f380::/32
+2604:bc80::/32
+2a01:7a0::/32
+2a01:7a7::/32
+2a0f:2d84::/32
+2a0f:4a00::/29
+2a10:e380::/32

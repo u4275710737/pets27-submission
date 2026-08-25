@@ -1,0 +1,14 @@
+{
+  "asn": 132651,
+  "metadata": {
+    "handle": "DATAUTAMA-ID",
+    "description": "Datautama Dinamika, PT",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

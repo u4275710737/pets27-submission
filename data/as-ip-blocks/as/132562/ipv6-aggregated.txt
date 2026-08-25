@@ -1,0 +1,4 @@
+# AS132562 (KOMALNET-AS-IN)
+# Komal Network Service Private Limited
+#
+2402:ee0::/32

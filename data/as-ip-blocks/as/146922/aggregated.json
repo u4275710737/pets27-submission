@@ -1,0 +1,14 @@
+{
+  "asn": 146922,
+  "metadata": {
+    "handle": "UFIBER-AS",
+    "description": "U FIBER BROADBAND PRIVATE LIMITED",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

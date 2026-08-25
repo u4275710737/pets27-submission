@@ -1,0 +1,14 @@
+{
+  "asn": 30358,
+  "metadata": {
+    "handle": "INTEQ-LLC",
+    "description": "SHC Direct, LLC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

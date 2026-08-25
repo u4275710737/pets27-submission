@@ -1,0 +1,16 @@
+{
+  "asn": 327846,
+  "metadata": {
+    "handle": "WDI-AS",
+    "description": "Wadi-Degla-Investments-WDI-AS",
+    "countryCode": "EG",
+    "country": "Egypt",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "196.216.206.0/24" ],
+    "ipv6": [ ]
+  }
+}

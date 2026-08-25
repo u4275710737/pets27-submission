@@ -1,0 +1,16 @@
+{
+  "asn": 39061,
+  "metadata": {
+    "handle": "LAYKA-LTD-AS",
+    "description": "Ray-Svyaz Ltd.",
+    "countryCode": "RU",
+    "country": "Russia",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "195.110.32.0/23" ],
+    "ipv6": [ ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "asn": 265464,
+  "metadata": {
+    "handle": "ESTACAONET-TELECOM",
+    "description": "ESTACAONET TELECOM",
+    "countryCode": "BR",
+    "country": "Brazil",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "168.196.60.0/22" ],
+    "ipv6": [ "2804:348c::/32" ]
+  }
+}

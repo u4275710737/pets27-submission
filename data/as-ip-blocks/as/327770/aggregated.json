@@ -1,0 +1,16 @@
+{
+  "asn": 327770,
+  "metadata": {
+    "handle": "TELECELZIM",
+    "description": "Telecel Zimbabwe AS Number",
+    "countryCode": "ZW",
+    "country": "Zimbabwe",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "41.79.56.0/22" ],
+    "ipv6": [ ]
+  }
+}

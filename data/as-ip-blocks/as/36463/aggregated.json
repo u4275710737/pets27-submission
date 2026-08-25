@@ -1,0 +1,14 @@
+{
+  "asn": 36463,
+  "metadata": {
+    "handle": "ASN-STRAUSS",
+    "description": "Martin Strauss Technologies LLC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

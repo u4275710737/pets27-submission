@@ -1,0 +1,14 @@
+{
+  "asn": 942,
+  "metadata": {
+    "handle": "FORK-AUX",
+    "description": "FORK SYSTEMS",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

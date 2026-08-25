@@ -1,0 +1,14 @@
+{
+  "asn": 2871,
+  "metadata": {
+    "handle": "AS2871-CONSULTING",
+    "description": "Tobias Dostal",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

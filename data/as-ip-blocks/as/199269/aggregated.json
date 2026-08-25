@@ -1,0 +1,14 @@
+{
+  "asn": 199269,
+  "metadata": {
+    "handle": "UK-ARDENTA-ASN",
+    "description": "Claranet Limited",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

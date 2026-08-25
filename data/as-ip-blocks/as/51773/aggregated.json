@@ -1,0 +1,14 @@
+{
+  "asn": 51773,
+  "metadata": {
+    "handle": "SOFTONIC",
+    "description": "Softonic International, S.A.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

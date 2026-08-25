@@ -1,0 +1,14 @@
+{
+  "asn": 10625,
+  "metadata": {
+    "handle": "IDC-RTS",
+    "description": "Intercontinental Exchange, Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

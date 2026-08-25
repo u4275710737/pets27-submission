@@ -1,0 +1,16 @@
+{
+  "asn": 199074,
+  "metadata": {
+    "handle": "AS199074",
+    "description": "PEROVATE BILISIM TEKNOLOJILERI LIMITED SIRKETI",
+    "countryCode": "TR",
+    "country": "Türkiye",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "212.87.196.0/24" ],
+    "ipv6": [ ]
+  }
+}

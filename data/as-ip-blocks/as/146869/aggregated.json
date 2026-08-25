@@ -1,0 +1,14 @@
+{
+  "asn": 146869,
+  "metadata": {
+    "handle": "SPARKINT-AS-IN",
+    "description": "SPARKLIGHT INTERNET PRIVATE LIMITED",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

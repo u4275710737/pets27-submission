@@ -1,0 +1,14 @@
+{
+  "asn": 131685,
+  "metadata": {
+    "handle": "SUN-HK",
+    "description": "Sun Network (Hong Kong) Limited",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

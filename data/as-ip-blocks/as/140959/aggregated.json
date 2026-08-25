@@ -1,0 +1,16 @@
+{
+  "asn": 140959,
+  "metadata": {
+    "handle": "TFAL-AS-AP",
+    "description": "TOYOTA FINANCE AUSTRALIA LTD",
+    "countryCode": "AU",
+    "country": "Australia",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "151.158.191.0/24" ],
+    "ipv6": [ ]
+  }
+}

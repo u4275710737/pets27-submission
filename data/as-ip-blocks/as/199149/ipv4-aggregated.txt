@@ -1,0 +1,4 @@
+# AS199149 (SOLINTEX-INSULAR)
+# Solintex Insular SLU
+#
+151.246.236.0/24

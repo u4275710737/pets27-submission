@@ -1,0 +1,6 @@
+# AS8925 (TEUTONET-AS)
+# teuto.net Netzdienste GmbH
+#
+2001:67c:56c::/48
+2001:ae0::/32
+2001:ae2:207::/48

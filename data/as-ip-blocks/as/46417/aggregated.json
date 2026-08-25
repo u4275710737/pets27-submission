@@ -1,0 +1,14 @@
+{
+  "asn": 46417,
+  "metadata": {
+    "handle": "BAKER-OWOSSO",
+    "description": "Baker College",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,5 @@
+# AS329181 (AS-OPNAXS)
+# Bluedog Technology
+#
+2c0f:1900::/32
+2c0f:6500::/32

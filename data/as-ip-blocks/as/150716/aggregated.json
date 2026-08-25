@@ -1,0 +1,16 @@
+{
+  "asn": 150716,
+  "metadata": {
+    "handle": "ANCTSC-AS-AP",
+    "description": "AP Network Communication & Technology Sole CO. LTD",
+    "countryCode": "LA",
+    "country": "Laos",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "103.66.238.0/23" ],
+    "ipv6": [ ]
+  }
+}

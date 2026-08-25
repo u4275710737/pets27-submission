@@ -1,0 +1,4 @@
+# AS50256 (VIC-AS)
+# Zemes ukio duomenu centras VI
+#
+213.252.240.0/23

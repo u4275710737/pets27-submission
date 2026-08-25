@@ -1,0 +1,14 @@
+{
+  "asn": 21212,
+  "metadata": {
+    "handle": "SIGFOX",
+    "description": "SIGFOX SA",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

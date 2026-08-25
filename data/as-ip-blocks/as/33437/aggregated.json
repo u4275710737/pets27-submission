@@ -1,0 +1,14 @@
+{
+  "asn": 33437,
+  "metadata": {
+    "handle": "AGCS",
+    "description": "ASCENT GLOBAL CORPORATE SERVICES LLC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

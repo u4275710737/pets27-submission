@@ -1,0 +1,16 @@
+{
+  "asn": 52250,
+  "metadata": {
+    "handle": "AG-PARA-EL",
+    "description": "Ag para el Desarrollo de la Sociedad de la Inf en Bolivia - ADSIB",
+    "countryCode": "BO",
+    "country": "Bolivia",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "166.114.1.0/24" ],
+    "ipv6": [ ]
+  }
+}

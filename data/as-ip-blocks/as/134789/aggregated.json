@@ -1,0 +1,16 @@
+{
+  "asn": 134789,
+  "metadata": {
+    "handle": "OCPL-AS-AP",
+    "description": "OPTICALHASH COMMUNICATIONS PTE LTD",
+    "countryCode": "SG",
+    "country": "Singapore",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "114.28.208.0/23", "151.158.96.0/23", "154.196.138.0/24", "156.240.76.0/24" ],
+    "ipv6": [ ]
+  }
+}

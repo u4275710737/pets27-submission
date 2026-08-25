@@ -1,0 +1,14 @@
+{
+  "asn": 11899,
+  "metadata": {
+    "handle": "MEASINC",
+    "description": "Measurement Incorporated",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

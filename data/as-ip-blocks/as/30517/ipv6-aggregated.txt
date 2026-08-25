@@ -1,0 +1,5 @@
+# AS30517 (BLUEBIRDFIBER-GLC)
+# Missouri Network Alliance LLC
+#
+2604:fe00::/32
+2606:9780::/32

@@ -1,0 +1,16 @@
+{
+  "asn": 33057,
+  "metadata": {
+    "handle": "BLOOMER-BROADBAND",
+    "description": "Bloomer Broadband",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ ]
+  }
+}

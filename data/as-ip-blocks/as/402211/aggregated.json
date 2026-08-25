@@ -1,0 +1,16 @@
+{
+  "asn": 402211,
+  "metadata": {
+    "handle": "WRM-033",
+    "description": "UNIVERSAL HEALTH SERVICES",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "50.150.186.0/24" ],
+    "ipv6": [ ]
+  }
+}

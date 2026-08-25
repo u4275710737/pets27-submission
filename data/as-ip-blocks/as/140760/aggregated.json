@@ -1,0 +1,14 @@
+{
+  "asn": 140760,
+  "metadata": {
+    "handle": "INFINITY-VN",
+    "description": "INFINITY SOFTWARE CORPORATION",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

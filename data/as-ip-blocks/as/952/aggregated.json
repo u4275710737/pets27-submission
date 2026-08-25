@@ -1,0 +1,14 @@
+{
+  "asn": 952,
+  "metadata": {
+    "handle": "HOP",
+    "description": "Hop Inc",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

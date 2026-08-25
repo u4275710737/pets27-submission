@@ -1,0 +1,14 @@
+{
+  "asn": 53481,
+  "metadata": {
+    "handle": "VISANET",
+    "description": "VISA INTERNATIONAL SERVICE ASSOCIATION",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

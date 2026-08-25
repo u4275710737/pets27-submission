@@ -1,0 +1,14 @@
+{
+  "asn": 136072,
+  "metadata": {
+    "handle": "IDNIC-KLIKMEDIA-ID",
+    "description": "PT Klik Media Netindo",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

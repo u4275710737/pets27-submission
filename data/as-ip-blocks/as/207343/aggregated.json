@@ -1,0 +1,16 @@
+{
+  "asn": 207343,
+  "metadata": {
+    "handle": "BOJING",
+    "description": "BOJING CO. LIMITED",
+    "countryCode": "HK",
+    "country": "Hong Kong SAR China",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "16.216.40.0/24", "16.216.177.0/24", "16.217.129.0/24", "199.235.104.0/24", "199.235.213.0/24" ],
+    "ipv6": [ ]
+  }
+}

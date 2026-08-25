@@ -1,0 +1,14 @@
+{
+  "asn": 17090,
+  "metadata": {
+    "handle": "DATABASEBYDESIGNLLC",
+    "description": "Database By Design LLC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

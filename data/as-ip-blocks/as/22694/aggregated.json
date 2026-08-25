@@ -1,0 +1,16 @@
+{
+  "asn": 22694,
+  "metadata": {
+    "handle": "VERSANT-MEDIA",
+    "description": "Versant Media Group Inc.",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "access_provider"
+  },
+  "prefixes": {
+    "ipv4": [ "50.151.51.0/24", "50.152.225.0/24" ],
+    "ipv6": [ ]
+  }
+}

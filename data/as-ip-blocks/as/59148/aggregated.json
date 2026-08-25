@@ -1,0 +1,14 @@
+{
+  "asn": 59148,
+  "metadata": {
+    "handle": "IDNIC-XPNET-ID",
+    "description": "PT Xepia Prima",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

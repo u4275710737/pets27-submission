@@ -1,0 +1,14 @@
+{
+  "asn": 48827,
+  "metadata": {
+    "handle": "UTB",
+    "description": "JSC Uraltransbank",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

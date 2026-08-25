@@ -1,0 +1,14 @@
+{
+  "asn": 215829,
+  "metadata": {
+    "handle": "LEI-JIAJIE",
+    "description": "LEI JIAJIE",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

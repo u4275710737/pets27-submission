@@ -1,0 +1,16 @@
+{
+  "asn": 401770,
+  "metadata": {
+    "handle": "OMNIVERY-US",
+    "description": "Omnivery",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "103.65.228.0/24" ],
+    "ipv6": [ ]
+  }
+}

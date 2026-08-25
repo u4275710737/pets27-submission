@@ -1,0 +1,14 @@
+{
+  "asn": 3304,
+  "metadata": {
+    "handle": "SCARLET",
+    "description": "Proximus NV",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

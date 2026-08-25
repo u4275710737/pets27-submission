@@ -1,0 +1,4 @@
+# AS15790 (FINANZINFORMATIK-AS-OST)
+# Finanz Informatik GmbH & Co. KG
+#
+2a02:bb0::/29

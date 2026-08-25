@@ -1,0 +1,14 @@
+{
+  "asn": 37968,
+  "metadata": {
+    "handle": "CNIXP",
+    "description": "ShenZhen QianHai New-Type Internet Exchange Point Co. Ltd",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,5 @@
+# AS211827 (NE-AS1)
+# Nissan Automotive Europe SAS
+#
+77.94.225.0/24
+77.94.230.0/23

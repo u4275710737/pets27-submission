@@ -1,0 +1,14 @@
+{
+  "asn": 6061,
+  "metadata": {
+    "handle": "OREILLYMEDIA-AS2",
+    "description": "O'Reilly Media Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

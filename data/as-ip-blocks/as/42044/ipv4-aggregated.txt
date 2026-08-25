@@ -1,0 +1,4 @@
+# AS42044 (CENTRALNIC)
+# CentralNic Ltd
+#
+212.18.250.0/24

@@ -1,0 +1,16 @@
+{
+  "asn": 59458,
+  "metadata": {
+    "handle": "PURELINE",
+    "description": "Pure Line Co. For Telecommunications & Internet Ltd.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [
+      "5.149.111.0/24"
+    ],
+    "ipv6": []
+  }
+}

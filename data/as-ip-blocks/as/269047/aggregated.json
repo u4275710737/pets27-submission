@@ -1,0 +1,14 @@
+{
+  "asn": 269047,
+  "metadata": {
+    "handle": "DATA-CENTER-LINNKE",
+    "description": "DATA CENTER LINNKE TELECOMUNICACOES LTDA - EPP",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 18086,
+  "metadata": {
+    "handle": "PFU-IDC",
+    "description": "PFU LIMITED",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

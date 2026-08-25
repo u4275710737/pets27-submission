@@ -1,0 +1,16 @@
+{
+  "asn": 37062,
+  "metadata": {
+    "handle": "AS37062",
+    "description": "ASN - Banco de Negocios Internacional - Angola",
+    "countryCode": "AO",
+    "country": "Angola",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "196.216.248.0/23" ],
+    "ipv6": [ ]
+  }
+}

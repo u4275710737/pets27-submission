@@ -1,0 +1,14 @@
+{
+  "asn": 146882,
+  "metadata": {
+    "handle": "SAKSHAM1-AS-IN",
+    "description": "SAKSHAM TELECOM PRIVATE LIMITED",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,4 @@
+# AS202092 (SYNERGY-ACCESS)
+# Synergy Networks GmbH
+#
+185.37.155.0/24

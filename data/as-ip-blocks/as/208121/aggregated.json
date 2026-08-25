@@ -1,0 +1,14 @@
+{
+  "asn": 208121,
+  "metadata": {
+    "handle": "VWMEDIA",
+    "description": "LOBOS NETWORKING LTD",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

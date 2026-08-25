@@ -1,0 +1,16 @@
+{
+  "asn": 266754,
+  "metadata": {
+    "handle": "SISTEMAS-INFORMATICOS",
+    "description": "SISTEMAS INFORMATICOS S.A.S. (INTERFLASH)",
+    "countryCode": "AR",
+    "country": "Argentina",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "access_provider"
+  },
+  "prefixes": {
+    "ipv4": [ "45.232.0.0/22" ],
+    "ipv6": [ ]
+  }
+}

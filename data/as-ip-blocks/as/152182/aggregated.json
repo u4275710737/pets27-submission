@@ -1,0 +1,14 @@
+{
+  "asn": 152182,
+  "metadata": {
+    "handle": "PHC-AS-AP",
+    "description": "Pori Hoque Cyber",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

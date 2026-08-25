@@ -1,0 +1,14 @@
+{
+  "asn": 400682,
+  "metadata": {
+    "handle": "DARKDOT",
+    "description": "DarkDot Research, Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

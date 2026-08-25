@@ -1,0 +1,14 @@
+{
+  "asn": 139324,
+  "metadata": {
+    "handle": "RIOTINTOIST-EMEA",
+    "description": "Rio Tinto IS&T",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

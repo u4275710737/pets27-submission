@@ -1,0 +1,16 @@
+{
+  "asn": 275680,
+  "metadata": {
+    "handle": "COG-INTERNET-SEGURANCA",
+    "description": "COG INTERNET E SEGURANÇA ELETRONICA LTDA",
+    "countryCode": "BR",
+    "country": "Brazil",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ "2804:9850::/32" ]
+  }
+}

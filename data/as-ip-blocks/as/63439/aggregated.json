@@ -1,0 +1,14 @@
+{
+  "asn": 63439,
+  "metadata": {
+    "handle": "RECURLY",
+    "description": "Recurly Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

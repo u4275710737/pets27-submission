@@ -1,0 +1,14 @@
+{
+  "asn": 133616,
+  "metadata": {
+    "handle": "BEACHHEADGROUP-AS-AP",
+    "description": "Beachhead Group Pty. Ltd.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

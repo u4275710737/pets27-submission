@@ -1,0 +1,16 @@
+{
+  "asn": 131425,
+  "metadata": {
+    "handle": "DIENMAYXANH-VN",
+    "description": "Dien May Xanh Investment Joint Stock Company",
+    "countryCode": "VN",
+    "country": "Vietnam",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "103.48.76.0/22" ],
+    "ipv6": [ ]
+  }
+}

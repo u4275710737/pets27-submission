@@ -1,0 +1,14 @@
+{
+  "asn": 208005,
+  "metadata": {
+    "handle": "RAIMUN-SYSTEM",
+    "description": "Resaneh Pardaz Sepahan Co",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

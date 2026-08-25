@@ -1,0 +1,14 @@
+{
+  "asn": 35670,
+  "metadata": {
+    "handle": "IDE-GROUP-MANAGE",
+    "description": "CloudCoCo Connect Limited",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

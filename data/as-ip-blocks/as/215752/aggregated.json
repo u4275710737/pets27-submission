@@ -1,0 +1,14 @@
+{
+  "asn": 215752,
+  "metadata": {
+    "handle": "URIGHT-AS",
+    "description": "Xu Zhi Chang",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

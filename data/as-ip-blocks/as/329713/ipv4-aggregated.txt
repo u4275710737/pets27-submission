@@ -1,0 +1,4 @@
+# AS329713 (MALAKANA-ENTERPRISES-PROPRIETARY-LIMITED)
+# Malakana Enterprises Proprietary Limited
+#
+102.204.97.0/24

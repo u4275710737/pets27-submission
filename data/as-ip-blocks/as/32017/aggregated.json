@@ -1,0 +1,16 @@
+{
+  "asn": 32017,
+  "metadata": {
+    "handle": "SATCOM-AS",
+    "description": "Satcom Mozambique",
+    "countryCode": "MZ",
+    "country": "Mozambique",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "41.223.124.0/22" ],
+    "ipv6": [ ]
+  }
+}

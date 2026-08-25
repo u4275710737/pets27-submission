@@ -1,0 +1,14 @@
+{
+  "asn": 22412,
+  "metadata": {
+    "handle": "ADVGLOBAL",
+    "description": "ADVANCED GLOBAL NETWORKS, INC.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

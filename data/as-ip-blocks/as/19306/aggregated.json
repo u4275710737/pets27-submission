@@ -1,0 +1,14 @@
+{
+  "asn": 19306,
+  "metadata": {
+    "handle": "CNI-HMB-001",
+    "description": "Coastside Net, Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

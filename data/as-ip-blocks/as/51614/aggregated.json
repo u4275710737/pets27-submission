@@ -1,0 +1,14 @@
+{
+  "asn": 51614,
+  "metadata": {
+    "handle": "ALTERA-SYSTEMS",
+    "description": "Electris Ltd.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

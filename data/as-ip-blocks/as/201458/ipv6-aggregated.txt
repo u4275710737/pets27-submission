@@ -1,0 +1,4 @@
+# AS201458 (INNKLINIKUM)
+# InnKlinikum gKU Altoetting und Muehldorf
+#
+2001:67c:468::/48

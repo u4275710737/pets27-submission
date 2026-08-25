@@ -1,0 +1,14 @@
+{
+  "asn": 212594,
+  "metadata": {
+    "handle": "A2-TELECOM",
+    "description": "Joeri Bas Frantz",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

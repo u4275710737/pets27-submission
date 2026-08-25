@@ -1,0 +1,14 @@
+{
+  "asn": 395136,
+  "metadata": {
+    "handle": "RADICAL-INC-1",
+    "description": "Radio Communications of California, Incorporated",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

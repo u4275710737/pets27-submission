@@ -1,0 +1,16 @@
+{
+  "asn": 138165,
+  "metadata": {
+    "handle": "SISP-AS-AP",
+    "description": "Strategic Integrated Solutions P/L",
+    "countryCode": "AU",
+    "country": "Australia",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "103.113.1.0/24", "103.146.39.0/24" ],
+    "ipv6": [ "2407:40c0:4000::/36" ]
+  }
+}

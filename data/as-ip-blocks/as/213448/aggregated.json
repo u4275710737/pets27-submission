@@ -1,0 +1,14 @@
+{
+  "asn": 213448,
+  "metadata": {
+    "handle": "NETIFACEUK-AS",
+    "description": "Netiface Limited",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

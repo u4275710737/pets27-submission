@@ -1,0 +1,4 @@
+# AS12123 (BESMIR-ZANAJ-AS-NUMBER)
+# Spokane Transit Authority
+#
+64.239.6.0/24

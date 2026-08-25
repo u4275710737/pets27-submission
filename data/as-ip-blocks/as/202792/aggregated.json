@@ -1,0 +1,16 @@
+{
+  "asn": 202792,
+  "metadata": {
+    "handle": "CLOUD-TRANSIT",
+    "description": "Clouvider Limited",
+    "countryCode": "GB",
+    "country": "United Kingdom",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "82.108.206.0/24" ],
+    "ipv6": [ ]
+  }
+}

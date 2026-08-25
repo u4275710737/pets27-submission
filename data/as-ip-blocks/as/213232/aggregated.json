@@ -1,0 +1,16 @@
+{
+  "asn": 213232,
+  "metadata": {
+    "handle": "RADWARE",
+    "description": "Radware Ltd",
+    "countryCode": "IL",
+    "country": "Israel",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "94.188.135.0/24" ],
+    "ipv6": [ ]
+  }
+}

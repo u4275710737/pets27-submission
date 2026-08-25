@@ -1,0 +1,4 @@
+# AS17326 (CONCORDIA-COLLEGE)
+# Concordia College
+#
+138.129.240.0/20

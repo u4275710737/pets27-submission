@@ -1,0 +1,14 @@
+{
+  "asn": 394978,
+  "metadata": {
+    "handle": "ALLIANTCU-HQ2",
+    "description": "Alliant Credit Union",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

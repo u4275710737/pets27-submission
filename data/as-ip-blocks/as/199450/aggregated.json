@@ -1,0 +1,14 @@
+{
+  "asn": 199450,
+  "metadata": {
+    "handle": "STIB",
+    "description": "STIB LLC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

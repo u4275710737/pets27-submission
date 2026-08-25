@@ -1,0 +1,16 @@
+{
+  "asn": 200563,
+  "metadata": {
+    "handle": "SPRINTHOST",
+    "description": "SPRINTHOST.RU LLC",
+    "countryCode": "RU",
+    "country": "Russia",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "191.44.32.0/24" ],
+    "ipv6": [ ]
+  }
+}

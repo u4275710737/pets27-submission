@@ -1,0 +1,14 @@
+{
+  "asn": 213395,
+  "metadata": {
+    "handle": "NTXN",
+    "description": "NetX Networks a.s.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

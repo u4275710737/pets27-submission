@@ -1,0 +1,4 @@
+# AS150767 (SHIJICOLTD-AS-TW)
+# Shi Ji Industrial Co. Ltd.
+#
+2401:5f20::/32

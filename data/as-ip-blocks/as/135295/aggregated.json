@@ -1,0 +1,14 @@
+{
+  "asn": 135295,
+  "metadata": {
+    "handle": "FASTCDN2-AP",
+    "description": "S.I Group",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

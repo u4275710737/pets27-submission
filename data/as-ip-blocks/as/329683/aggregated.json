@@ -1,0 +1,16 @@
+{
+  "asn": 329683,
+  "metadata": {
+    "handle": "ARCEP",
+    "description": "Autorité de Régulation des Communications Electroniques et des Postes (ARCEP)",
+    "countryCode": "TG",
+    "country": "Togo",
+    "origin": "authoritative",
+    "category": "government_admin",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "102.203.184.0/22" ],
+    "ipv6": [ "2c0f:4320::/47" ]
+  }
+}

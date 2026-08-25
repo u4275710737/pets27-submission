@@ -1,0 +1,14 @@
+{
+  "asn": 14787,
+  "metadata": {
+    "handle": "ASN1GUARD23ATTWINSTAR",
+    "description": "Guardian Industries Corp",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

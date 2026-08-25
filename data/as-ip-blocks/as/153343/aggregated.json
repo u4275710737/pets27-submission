@@ -1,0 +1,14 @@
+{
+  "asn": 153343,
+  "metadata": {
+    "handle": "NETLINKBD-AS-AP",
+    "description": "Netlink BD",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

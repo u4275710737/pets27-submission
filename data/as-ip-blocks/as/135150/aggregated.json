@@ -1,0 +1,14 @@
+{
+  "asn": 135150,
+  "metadata": {
+    "handle": "HILLSIDE-NEW-MEDIA-AP",
+    "description": "Hillside (Australia New Media) Pty Ltd",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

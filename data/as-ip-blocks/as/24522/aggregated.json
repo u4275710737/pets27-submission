@@ -1,0 +1,14 @@
+{
+  "asn": 24522,
+  "metadata": {
+    "handle": "GLOBALPORTNET-AS-ID",
+    "description": "PT Global Port Binekatara",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

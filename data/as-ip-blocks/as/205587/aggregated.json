@@ -1,0 +1,14 @@
+{
+  "asn": 205587,
+  "metadata": {
+    "handle": "WEBWORLD-BROADBAND-AS",
+    "description": "Sternforth Ltd. trading as WebWorld",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

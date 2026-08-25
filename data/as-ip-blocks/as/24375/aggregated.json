@@ -1,0 +1,14 @@
+{
+  "asn": 24375,
+  "metadata": {
+    "handle": "LIBERTYFIN-AS-AP",
+    "description": "Liberty Financial",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

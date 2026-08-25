@@ -1,0 +1,14 @@
+{
+  "asn": 150031,
+  "metadata": {
+    "handle": "SSBSPL-AS-IN",
+    "description": "SHREE SAI BROADBAND SERVICES PRIVATE LIMITED",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

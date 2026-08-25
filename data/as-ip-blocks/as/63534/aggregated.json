@@ -1,0 +1,14 @@
+{
+  "asn": 63534,
+  "metadata": {
+    "handle": "CQCNET",
+    "description": "SHENZHEN CHUNQIU YUNJISUAN",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

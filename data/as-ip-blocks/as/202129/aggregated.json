@@ -1,0 +1,14 @@
+{
+  "asn": 202129,
+  "metadata": {
+    "handle": "NET365-AS",
+    "description": "NET 365 JSC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

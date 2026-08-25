@@ -1,0 +1,4 @@
+# AS154630 (IDNIC-TMC-AS-ID)
+# PT Teknologi Media Cepat
+#
+163.128.198.0/23

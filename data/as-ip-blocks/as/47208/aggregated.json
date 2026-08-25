@@ -1,0 +1,14 @@
+{
+  "asn": 47208,
+  "metadata": {
+    "handle": "PARAGON",
+    "description": "Paragon Data GmbH",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

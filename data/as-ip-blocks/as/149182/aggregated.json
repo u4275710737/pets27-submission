@@ -1,0 +1,14 @@
+{
+  "asn": 149182,
+  "metadata": {
+    "handle": "SUPERFAST-IN",
+    "description": "SUPERFAST NETSOL",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

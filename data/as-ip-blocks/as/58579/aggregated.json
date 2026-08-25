@@ -1,0 +1,14 @@
+{
+  "asn": 58579,
+  "metadata": {
+    "handle": "GLOBALE-HK",
+    "description": "Global eSolutions (HK) Ltd.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

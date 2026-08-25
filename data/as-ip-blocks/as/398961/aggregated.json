@@ -1,0 +1,14 @@
+{
+  "asn": 398961,
+  "metadata": {
+    "handle": "MS-ASL",
+    "description": "Microsoft Corporation",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

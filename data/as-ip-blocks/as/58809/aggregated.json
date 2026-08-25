@@ -1,0 +1,14 @@
+{
+  "asn": 58809,
+  "metadata": {
+    "handle": "IT-COREA-AS-AP",
+    "description": "VITRO Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

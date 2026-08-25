@@ -1,0 +1,4 @@
+# AS53244 (LOCAWEB-SERVICOS-INTERNET)
+# Locaweb Serviços de Internet S/A
+#
+177.11.80.0/22

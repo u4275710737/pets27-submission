@@ -1,0 +1,14 @@
+{
+  "asn": 264749,
+  "metadata": {
+    "handle": "DATASEC-HOLDING",
+    "description": "Datasec Holding Ltd",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

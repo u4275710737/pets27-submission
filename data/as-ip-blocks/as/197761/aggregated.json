@@ -1,0 +1,16 @@
+{
+  "asn": 197761,
+  "metadata": {
+    "handle": "HOSTSLIM-AS",
+    "description": "Elkin Semyon Yuryevich",
+    "countryCode": "RU",
+    "country": "Russia",
+    "origin": "authoritative",
+    "category": null,
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "83.171.244.0/24" ],
+    "ipv6": [ ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "asn": 48532,
+  "metadata": {
+    "handle": "TELEPORTSPB",
+    "description": "JSC ER-Telecom Holding",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [
+      "94.247.240.0/21"
+    ],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,4 @@
+# AS23438 (EZLINKS)
+# EZLinks Golf Inc.
+#
+192.159.120.0/24

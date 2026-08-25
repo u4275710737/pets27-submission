@@ -1,0 +1,14 @@
+{
+  "asn": 202747,
+  "metadata": {
+    "handle": "KAWAII",
+    "description": "Kazuki Omoto",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

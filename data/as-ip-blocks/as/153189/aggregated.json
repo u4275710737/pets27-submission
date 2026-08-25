@@ -1,0 +1,16 @@
+{
+  "asn": 153189,
+  "metadata": {
+    "handle": "WANGJIANWEI-AS-AP",
+    "description": "Wang Jianwei",
+    "countryCode": "CN",
+    "country": "China",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ "2406:840:fc60::/47", "2406:840:fc62::/48", "2406:840:fef4::/48" ]
+  }
+}

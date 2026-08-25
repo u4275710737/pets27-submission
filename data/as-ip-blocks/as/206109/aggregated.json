@@ -1,0 +1,14 @@
+{
+  "asn": 206109,
+  "metadata": {
+    "handle": "TECHCO-SECURITY",
+    "description": "Securitas Seguridad Espana S.A.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

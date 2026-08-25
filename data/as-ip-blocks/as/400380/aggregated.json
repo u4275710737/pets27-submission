@@ -1,0 +1,14 @@
+{
+  "asn": 400380,
+  "metadata": {
+    "handle": "PERMIAN-FIBER",
+    "description": "PIONEER NATURAL RESOURCES USA",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 47566,
+  "metadata": {
+    "handle": "KOLCHUG-INFO",
+    "description": "Kolchug-INFO Ltd.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "asn": 210443,
+  "metadata": {
+    "handle": "GOLDAPPLE2",
+    "description": "RC Company LLC",
+    "countryCode": "RU",
+    "country": "Russia",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "access_provider"
+  },
+  "prefixes": {
+    "ipv4": [ "77.105.176.0/24", "89.22.176.0/24" ],
+    "ipv6": [ ]
+  }
+}

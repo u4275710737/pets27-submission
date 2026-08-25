@@ -1,0 +1,14 @@
+{
+  "asn": 51237,
+  "metadata": {
+    "handle": "ACTION2019",
+    "description": "ACTION S.A.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

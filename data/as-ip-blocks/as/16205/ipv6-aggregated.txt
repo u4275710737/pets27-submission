@@ -1,0 +1,5 @@
+# AS16205 (DSINET-ASN)
+# DSI GmbH Daten Service Informationssysteme
+#
+2001:67c:2abc::/48
+2a00:8180::/32

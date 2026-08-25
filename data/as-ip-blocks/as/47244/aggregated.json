@@ -1,0 +1,16 @@
+{
+  "asn": 47244,
+  "metadata": {
+    "handle": "IXGATE",
+    "description": "MEDIA PLUS SOLUTION INC",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "194.61.47.0/24" ],
+    "ipv6": [ ]
+  }
+}

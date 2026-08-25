@@ -1,0 +1,14 @@
+{
+  "asn": 60545,
+  "metadata": {
+    "handle": "AS-MGW",
+    "description": "Rolf Tschumi (MGW Online)",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

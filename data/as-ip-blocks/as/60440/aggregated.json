@@ -1,0 +1,14 @@
+{
+  "asn": 60440,
+  "metadata": {
+    "handle": "DRAE",
+    "description": "Defaultroute DMCC LLC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

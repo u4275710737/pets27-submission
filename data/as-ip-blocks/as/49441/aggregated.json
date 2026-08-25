@@ -1,0 +1,14 @@
+{
+  "asn": 49441,
+  "metadata": {
+    "handle": "PFSA",
+    "description": "Pierre Fabre SA (PFSA)",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

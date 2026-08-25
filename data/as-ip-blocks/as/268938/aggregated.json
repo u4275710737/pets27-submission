@@ -1,0 +1,16 @@
+{
+  "asn": 268938,
+  "metadata": {
+    "handle": "GTEC-FIBRA",
+    "description": "GTEC FIBRA",
+    "countryCode": "BR",
+    "country": "Brazil",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "45.174.10.0/23" ],
+    "ipv6": [ "2804:5ce8:4000::/48", "2804:5ce8:6000::/48", "2804:5ce8:9000::/40" ]
+  }
+}

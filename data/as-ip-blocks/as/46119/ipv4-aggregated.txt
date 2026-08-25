@@ -1,0 +1,4 @@
+# AS46119 (MIDMICHIGANHEALTH-AS-1)
+# MidMichigan Health
+#
+198.140.228.0/24

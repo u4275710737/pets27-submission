@@ -1,0 +1,16 @@
+{
+  "asn": 213650,
+  "metadata": {
+    "handle": "CDNINFRA-AS",
+    "description": "CDN Infra Limited",
+    "countryCode": "GB",
+    "country": "United Kingdom",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ "2a06:9801:30::/44", "2a14:7581:3200::/40" ]
+  }
+}

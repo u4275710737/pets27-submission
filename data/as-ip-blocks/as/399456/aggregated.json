@@ -1,0 +1,14 @@
+{
+  "asn": 399456,
+  "metadata": {
+    "handle": "TEALCOM",
+    "description": "Teal Communications, Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

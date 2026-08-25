@@ -1,0 +1,14 @@
+{
+  "asn": 20154,
+  "metadata": {
+    "handle": "VISTABEAM",
+    "description": "VISTABEAM",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

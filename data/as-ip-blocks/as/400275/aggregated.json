@@ -1,0 +1,14 @@
+{
+  "asn": 400275,
+  "metadata": {
+    "handle": "AS-PHOENIXNAP-AUS",
+    "description": "SECURED SERVERS LLC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

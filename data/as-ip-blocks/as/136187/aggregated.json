@@ -1,0 +1,14 @@
+{
+  "asn": 136187,
+  "metadata": {
+    "handle": "NIXON-AP",
+    "description": "Nixon Controls Pty Ltd",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

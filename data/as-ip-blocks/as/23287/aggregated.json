@@ -1,0 +1,14 @@
+{
+  "asn": 23287,
+  "metadata": {
+    "handle": "SCRIPPS",
+    "description": "Discovery Communications",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 55289,
+  "metadata": {
+    "handle": "PROPEL-CLOUD-03",
+    "description": "PropelCLOUD",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "asn": 48731,
+  "metadata": {
+    "handle": "VSAU",
+    "description": "FEDERAL STATE BUDGETARY EDUCATIONAL INSTITUTION OF HIGHER EDUCATION VORONEZH STATE AGRARIAN UNIVERSITY NAMED AFTER EMPEROR PETER I",
+    "countryCode": "RU",
+    "country": "Russia",
+    "origin": "authoritative",
+    "category": "education_research",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "62.76.160.0/22" ],
+    "ipv6": [ ]
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 328920,
+  "metadata": {
+    "handle": "ADCS",
+    "description": "AFRICA DATA CENTER SA",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

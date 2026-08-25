@@ -1,0 +1,16 @@
+{
+  "asn": 36293,
+  "metadata": {
+    "handle": "NHVAS",
+    "description": "North Hunterdon-Voorhees Regional High School District",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "education_research",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "206.192.112.0/24" ],
+    "ipv6": [ ]
+  }
+}

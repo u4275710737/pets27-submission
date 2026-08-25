@@ -1,0 +1,16 @@
+{
+  "asn": 37629,
+  "metadata": {
+    "handle": "ESTREAM-1",
+    "description": "eStream Networks",
+    "countryCode": "NG",
+    "country": "Nigeria",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "154.65.4.0/22", "196.1.176.0/21", "196.1.184.0/22" ],
+    "ipv6": [ ]
+  }
+}

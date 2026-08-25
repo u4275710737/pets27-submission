@@ -1,0 +1,16 @@
+{
+  "asn": 51154,
+  "metadata": {
+    "handle": "PCLOUD",
+    "description": "pCloud AG",
+    "countryCode": "CH",
+    "country": "Switzerland",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "content_network"
+  },
+  "prefixes": {
+    "ipv4": [ "45.131.244.0/22", "104.128.16.0/22", "104.128.20.0/23", "104.128.22.0/24", "104.128.24.0/24", "104.128.30.0/23", "185.62.236.0/22" ],
+    "ipv6": [ ]
+  }
+}

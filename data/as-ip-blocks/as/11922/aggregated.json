@@ -1,0 +1,14 @@
+{
+  "asn": 11922,
+  "metadata": {
+    "handle": "REALNETWORKS",
+    "description": "REALNETWORKS LLC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

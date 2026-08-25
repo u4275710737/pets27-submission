@@ -1,0 +1,16 @@
+{
+  "asn": 28143,
+  "metadata": {
+    "handle": "E-GRECO-FALCHIONE-MANUTENCAO",
+    "description": "E Greco Falchione Manutencao",
+    "countryCode": "BR",
+    "country": "Brazil",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "187.49.96.0/21", "187.49.104.0/24", "187.49.111.0/24" ],
+    "ipv6": [ "2804:5ec::/32" ]
+  }
+}

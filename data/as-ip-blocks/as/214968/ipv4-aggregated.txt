@@ -1,0 +1,4 @@
+# AS214968 (KNEE-NET-AS)
+# JIANG Zhirui
+#
+44.30.89.0/24

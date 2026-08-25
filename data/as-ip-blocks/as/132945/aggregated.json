@@ -1,0 +1,16 @@
+{
+  "asn": 132945,
+  "metadata": {
+    "handle": "GIGABITPORT-AS",
+    "description": "GIGABIT PORT",
+    "countryCode": "IN",
+    "country": "India",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "45.65.52.0/22", "103.252.148.0/22" ],
+    "ipv6": [ ]
+  }
+}

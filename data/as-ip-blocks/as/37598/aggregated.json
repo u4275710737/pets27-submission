@@ -1,0 +1,14 @@
+{
+  "asn": 37598,
+  "metadata": {
+    "handle": "EBALE",
+    "description": "Eb@le",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

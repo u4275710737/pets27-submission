@@ -1,0 +1,14 @@
+{
+  "asn": 49992,
+  "metadata": {
+    "handle": "BFI-NETWORKS",
+    "description": "BFI Networks B.V.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

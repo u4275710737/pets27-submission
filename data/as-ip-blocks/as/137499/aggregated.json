@@ -1,0 +1,14 @@
+{
+  "asn": 137499,
+  "metadata": {
+    "handle": "HD-AS-AP",
+    "description": "Data Network Services Provider Co. Ltd",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

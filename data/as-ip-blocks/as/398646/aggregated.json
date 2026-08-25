@@ -1,0 +1,14 @@
+{
+  "asn": 398646,
+  "metadata": {
+    "handle": "SPRYSERVERS",
+    "description": "Spry Servers, LLC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,4 @@
+# AS205192 (OMURTECH)
+# Pole Telekomunikasyon Sanayi ve Ticaret Anonim Sirketi
+#
+185.226.160.0/22

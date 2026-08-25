@@ -1,0 +1,16 @@
+{
+  "asn": 328422,
+  "metadata": {
+    "handle": "FFG-CONNECTION",
+    "description": "FFG Connection CC",
+    "countryCode": "ZA",
+    "country": "South Africa",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "45.222.112.0/20" ],
+    "ipv6": [ ]
+  }
+}

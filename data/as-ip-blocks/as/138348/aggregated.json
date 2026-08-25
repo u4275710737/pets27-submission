@@ -1,0 +1,14 @@
+{
+  "asn": 138348,
+  "metadata": {
+    "handle": "ANTARCTICANZ-AS-AP",
+    "description": "Antarctica New Zealand",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 33613,
+  "metadata": {
+    "handle": "RF-SF",
+    "description": "Rodan & Fields LLC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

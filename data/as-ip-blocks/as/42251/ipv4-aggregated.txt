@@ -1,0 +1,4 @@
+# AS42251 (SE-LINDESBERG)
+# Lindesbergs Kommun
+#
+193.200.31.0/24

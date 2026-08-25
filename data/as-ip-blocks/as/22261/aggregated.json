@@ -1,0 +1,14 @@
+{
+  "asn": 22261,
+  "metadata": {
+    "handle": "SDCWA-ORG",
+    "description": "San Diego County Water Authority",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,4 @@
+# AS35971 (MYRTLE)
+# CompuNet Inc.
+#
+2602:fff2::/36

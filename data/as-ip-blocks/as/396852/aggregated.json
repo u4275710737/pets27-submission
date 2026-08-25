@@ -1,0 +1,14 @@
+{
+  "asn": 396852,
+  "metadata": {
+    "handle": "CFS-NY",
+    "description": "Clarity Fiber Solutions",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

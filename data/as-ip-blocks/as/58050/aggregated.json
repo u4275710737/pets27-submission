@@ -1,0 +1,14 @@
+{
+  "asn": 58050,
+  "metadata": {
+    "handle": "AZIMUTTELECOM",
+    "description": "Azimut-Telecom LLC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

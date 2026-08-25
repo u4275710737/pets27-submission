@@ -1,0 +1,14 @@
+{
+  "asn": 26125,
+  "metadata": {
+    "handle": "HOLCIMUSINC",
+    "description": "Holcim (US) Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

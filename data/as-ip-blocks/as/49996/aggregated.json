@@ -1,0 +1,14 @@
+{
+  "asn": 49996,
+  "metadata": {
+    "handle": "AS49996-AS",
+    "description": "Address Limited",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

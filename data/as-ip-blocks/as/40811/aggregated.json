@@ -1,0 +1,14 @@
+{
+  "asn": 40811,
+  "metadata": {
+    "handle": "GOLUB-2008",
+    "description": "Golub Capital Incorporated",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 43136,
+  "metadata": {
+    "handle": "INFOTRUST-NET",
+    "description": "NTT Security (Switzerland) AG",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

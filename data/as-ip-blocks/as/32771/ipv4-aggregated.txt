@@ -1,0 +1,5 @@
+# AS32771 (DNSIMPLE)
+# DNSimple Corporation
+#
+167.94.34.0/24
+199.247.152.0/22

@@ -1,0 +1,14 @@
+{
+  "asn": 204857,
+  "metadata": {
+    "handle": "BERRYBYTE-CORP-NET",
+    "description": "BerryByte Limited",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 134344,
+  "metadata": {
+    "handle": "FORTUNE-AS",
+    "description": "Fortune Marketing Pvt Ltd",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

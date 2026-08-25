@@ -1,0 +1,14 @@
+{
+  "asn": 150041,
+  "metadata": {
+    "handle": "CLASICCOM-IN",
+    "description": "CLASSIC COMMUNICATION",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

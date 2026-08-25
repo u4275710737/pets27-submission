@@ -1,0 +1,6 @@
+# AS56068 (LIGHTSPEED-TECHNOLOGY-AS-AP)
+# Lightspeed Technology Group Limited
+#
+103.37.204.0/22
+202.49.80.0/23
+206.62.34.0/23

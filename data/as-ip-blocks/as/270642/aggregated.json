@@ -1,0 +1,16 @@
+{
+  "asn": 270642,
+  "metadata": {
+    "handle": "AGILITY-TELECOM",
+    "description": "RaioLink Telecom",
+    "countryCode": "BR",
+    "country": "Brazil",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "189.85.32.0/22" ],
+    "ipv6": [ "2804:6f28::/32" ]
+  }
+}

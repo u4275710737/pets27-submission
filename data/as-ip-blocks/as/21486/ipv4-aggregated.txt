@@ -1,0 +1,4 @@
+# AS21486 (SYNAMEDIA-AS)
+# Synamedia Technologies Israel LTD
+#
+192.118.32.0/22

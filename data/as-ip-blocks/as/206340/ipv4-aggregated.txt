@@ -1,0 +1,4 @@
+# AS206340 (AMPERAURA-AS)
+# Contrust Solutions S.R.L.
+#
+102.135.101.0/24

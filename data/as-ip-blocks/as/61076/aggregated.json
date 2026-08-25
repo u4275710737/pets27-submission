@@ -1,0 +1,14 @@
+{
+  "asn": 61076,
+  "metadata": {
+    "handle": "BEBRAVE",
+    "description": "BE BRAVE AG",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

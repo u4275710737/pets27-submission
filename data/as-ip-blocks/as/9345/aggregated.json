@@ -1,0 +1,14 @@
+{
+  "asn": 9345,
+  "metadata": {
+    "handle": "PARADISE",
+    "description": "Vodafone New Zealand Limited",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

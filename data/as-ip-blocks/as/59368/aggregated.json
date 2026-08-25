@@ -1,0 +1,14 @@
+{
+  "asn": 59368,
+  "metadata": {
+    "handle": "CODEBLUE-AP",
+    "description": "Fujifilm Codeblue Australia Pty Ltd",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

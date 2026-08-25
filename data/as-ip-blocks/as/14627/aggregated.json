@@ -1,0 +1,16 @@
+{
+  "asn": 14627,
+  "metadata": {
+    "handle": "ASVITAL",
+    "description": "Vitalwerks",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "8.23.224.0/24", "38.77.200.0/24", "158.247.6.0/23" ],
+    "ipv6": [ "2a07:dc00:1330::/44" ]
+  }
+}

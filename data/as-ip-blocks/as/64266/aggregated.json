@@ -1,0 +1,14 @@
+{
+  "asn": 64266,
+  "metadata": {
+    "handle": "NUTANIX-AS",
+    "description": "Nutanix Inc",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

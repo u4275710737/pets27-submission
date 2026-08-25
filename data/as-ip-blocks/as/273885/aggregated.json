@@ -1,0 +1,14 @@
+{
+  "asn": 273885,
+  "metadata": {
+    "handle": "GEZCOM-CORPORATION-C-A",
+    "description": "GEZCOM CORPORATION, C. A.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

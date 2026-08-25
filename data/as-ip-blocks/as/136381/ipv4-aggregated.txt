@@ -1,0 +1,4 @@
+# AS136381 (IDNIC-MISINDO-AS-ID)
+# PT Megadata Inovasi Solusindo
+#
+163.128.238.0/23

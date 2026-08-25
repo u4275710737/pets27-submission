@@ -1,0 +1,16 @@
+{
+  "asn": 154512,
+  "metadata": {
+    "handle": "IRINN-TOPTUSIP-AS-IN",
+    "description": "TOPTUS BROADBAND SERVICES PRIVATE LIMITED",
+    "countryCode": "IN",
+    "country": "India",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "access_provider"
+  },
+  "prefixes": {
+    "ipv4": [ "151.158.184.0/23" ],
+    "ipv6": [ ]
+  }
+}

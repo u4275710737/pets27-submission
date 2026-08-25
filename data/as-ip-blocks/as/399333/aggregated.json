@@ -1,0 +1,14 @@
+{
+  "asn": 399333,
+  "metadata": {
+    "handle": "AS-COLOMICHIGAN",
+    "description": "ColoMichigan LLC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

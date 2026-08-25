@@ -1,0 +1,16 @@
+{
+  "asn": 197670,
+  "metadata": {
+    "handle": "LOVABLE-AS",
+    "description": "Lovable Labs Sweden AB",
+    "countryCode": "SE",
+    "country": "Sweden",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "185.41.149.0/24" ],
+    "ipv6": [ "2a07:8242::/40" ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "asn": 329721,
+  "metadata": {
+    "handle": "STRETTCH-CLOUD",
+    "description": "STRETTCH CLOUD Limited",
+    "countryCode": "RW",
+    "country": "Rwanda",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "102.202.208.0/24" ],
+    "ipv6": [ ]
+  }
+}

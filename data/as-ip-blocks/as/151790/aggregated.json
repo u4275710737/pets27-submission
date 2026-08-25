@@ -1,0 +1,14 @@
+{
+  "asn": 151790,
+  "metadata": {
+    "handle": "ADROITSSD-AP",
+    "description": "Adroit SSD",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

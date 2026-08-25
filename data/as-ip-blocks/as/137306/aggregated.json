@@ -1,0 +1,14 @@
+{
+  "asn": 137306,
+  "metadata": {
+    "handle": "CONNECTIVIST-ID",
+    "description": "PT Solusi Prima Connectivist",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

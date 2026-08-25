@@ -1,0 +1,14 @@
+{
+  "asn": 12361,
+  "metadata": {
+    "handle": "PANAFONET-AS",
+    "description": "VODAFONE-PANAFON HELLENIC TELECOMMUNICATIONS COMPANY SA",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

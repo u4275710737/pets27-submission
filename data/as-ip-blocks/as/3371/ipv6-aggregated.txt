@@ -1,0 +1,6 @@
+# AS3371 (MCI-ASN)
+# Verizon Business
+#
+2600:80e::/32
+2600:40f2::/32
+2600:40ff:fff1::/48

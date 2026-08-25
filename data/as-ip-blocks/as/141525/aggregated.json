@@ -1,0 +1,14 @@
+{
+  "asn": 141525,
+  "metadata": {
+    "handle": "INETCOMM-AS-IN",
+    "description": "Inet Communication Internet Service Provider",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

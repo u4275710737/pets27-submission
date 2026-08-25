@@ -1,0 +1,6 @@
+# AS63885 (MYNET-AS-ID)
+# PT Inovasi Tjaraka Buana
+#
+2402:cd80:63::/48
+2402:cd80:1cba::/48
+2402:cd80:b073::/48

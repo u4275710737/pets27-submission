@@ -1,0 +1,5 @@
+# AS206188 (ZETA-CLEAN-INTERNET)
+# Zeta Datacenters B.V.
+#
+5.42.194.0/24
+185.168.142.0/24

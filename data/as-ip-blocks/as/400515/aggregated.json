@@ -1,0 +1,14 @@
+{
+  "asn": 400515,
+  "metadata": {
+    "handle": "LITCOM-01",
+    "description": "Omni Fiber",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "asn": 56142,
+  "metadata": {
+    "handle": "ZNEPVN-VN",
+    "description": "THE OPERATING OFFICE OF ZARUBEZHNEFT EP VIETNAM B.V. IN BA RIA - VUNG TAU PROVINCE - BLOCK 11-2",
+    "countryCode": "VN",
+    "country": "Vietnam",
+    "origin": "authoritative",
+    "category": "government_admin",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "203.8.127.0/24" ],
+    "ipv6": [ ]
+  }
+}

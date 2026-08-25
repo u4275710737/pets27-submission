@@ -1,0 +1,6 @@
+# AS131691 (JASATELNET-AS-ID)
+# PT Berca Hardayaperkasa
+#
+116.213.55.0/24
+116.213.56.0/24
+116.213.58.0/23

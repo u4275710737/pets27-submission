@@ -1,0 +1,4 @@
+# AS151395 (SHIPONINTERNET-AS-AP)
+# Shipon Internet
+#
+49.143.248.0/24

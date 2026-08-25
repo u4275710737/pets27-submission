@@ -1,0 +1,14 @@
+{
+  "asn": 136478,
+  "metadata": {
+    "handle": "TRCPL-AP",
+    "description": "Tim Raphael Consulting Pty Ltd",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

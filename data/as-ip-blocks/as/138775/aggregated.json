@@ -1,0 +1,14 @@
+{
+  "asn": 138775,
+  "metadata": {
+    "handle": "ISOBARC1",
+    "description": "Isobar Commerce India Private Limited",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

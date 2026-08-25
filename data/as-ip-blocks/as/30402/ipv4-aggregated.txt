@@ -1,0 +1,5 @@
+# AS30402 (GLCNET)
+# Global Link Communications Limited
+#
+173.249.185.0/24
+208.99.1.0/24

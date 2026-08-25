@@ -1,0 +1,4 @@
+# AS142248 (MSBINODANNET-AS-AP)
+# M/S Binodan Net
+#
+151.158.110.0/24

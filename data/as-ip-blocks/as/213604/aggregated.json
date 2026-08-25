@@ -1,0 +1,14 @@
+{
+  "asn": 213604,
+  "metadata": {
+    "handle": "MK",
+    "description": "Masato Kikuchi",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "asn": 216397,
+  "metadata": {
+    "handle": "GOLDENDRAGON",
+    "description": "Golden Dragon LLC",
+    "countryCode": "OM",
+    "country": "Oman",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ "2a05:ec80::/48" ]
+  }
+}

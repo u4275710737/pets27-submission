@@ -1,0 +1,14 @@
+{
+  "asn": 10232,
+  "metadata": {
+    "handle": "HUTPLHK-AP",
+    "description": "IXTech Limited",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

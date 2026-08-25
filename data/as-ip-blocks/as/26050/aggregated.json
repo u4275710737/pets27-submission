@@ -1,0 +1,14 @@
+{
+  "asn": 26050,
+  "metadata": {
+    "handle": "SAM-CHAR",
+    "description": "SOUTHEASTERN ASSET MANAGEMENT INC.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

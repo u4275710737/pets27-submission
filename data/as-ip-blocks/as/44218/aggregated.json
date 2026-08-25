@@ -1,0 +1,14 @@
+{
+  "asn": 44218,
+  "metadata": {
+    "handle": "CTBY",
+    "description": "China Telecom Europe Ltd.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

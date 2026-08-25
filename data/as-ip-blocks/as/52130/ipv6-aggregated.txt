@@ -1,0 +1,4 @@
+# AS52130 (ARTCOMPANYCZ)
+# Livesport s.r.o.
+#
+2a02:7d00:dc4::/48

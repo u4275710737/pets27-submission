@@ -1,0 +1,14 @@
+{
+  "asn": 31458,
+  "metadata": {
+    "handle": "SMARTTELECOM",
+    "description": "Digiweb ltd",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,5 @@
+# AS31400 (ACCELERATED-IT)
+# firstcolo GmbH
+#
+77.37.0.0/17
+194.126.196.0/24

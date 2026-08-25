@@ -1,0 +1,14 @@
+{
+  "asn": 393692,
+  "metadata": {
+    "handle": "EA-KITCHENER",
+    "description": "Electronic Arts, Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

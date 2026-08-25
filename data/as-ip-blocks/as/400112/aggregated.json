@@ -1,0 +1,14 @@
+{
+  "asn": 400112,
+  "metadata": {
+    "handle": "TECH555",
+    "description": "Tech 555 Inc",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

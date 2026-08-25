@@ -1,0 +1,14 @@
+{
+  "asn": 150514,
+  "metadata": {
+    "handle": "IDNIC-SCHOOLMEDIA-ID",
+    "description": "PT. Janish Lintas Data",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 131462,
+  "metadata": {
+    "handle": "WALIA-NON-AU",
+    "description": "Landgate",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

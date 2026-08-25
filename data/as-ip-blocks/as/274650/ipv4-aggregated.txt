@@ -1,0 +1,5 @@
+# AS274650 (MONTECH-INFORMATICA)
+# Montech Informatica Ltda Me
+#
+72.244.117.0/24
+177.73.134.0/23

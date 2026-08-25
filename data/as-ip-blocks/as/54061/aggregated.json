@@ -1,0 +1,14 @@
+{
+  "asn": 54061,
+  "metadata": {
+    "handle": "TBBK-INTERNET",
+    "description": "The Bancorp Incorporated",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

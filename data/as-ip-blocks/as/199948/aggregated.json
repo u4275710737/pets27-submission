@@ -1,0 +1,16 @@
+{
+  "asn": 199948,
+  "metadata": {
+    "handle": "EXPANSE-NETWORKS",
+    "description": "Cosmorack Ltd",
+    "countryCode": "GB",
+    "country": "United Kingdom",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "148.135.201.0/24" ],
+    "ipv6": [ "2a06:9801:220::/48" ]
+  }
+}

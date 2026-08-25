@@ -1,0 +1,4 @@
+# AS200177 (ATLANTIC-AS-ID)
+# PT Atlantic Aksa Group
+#
+178.83.180.0/23

@@ -1,0 +1,14 @@
+{
+  "asn": 18665,
+  "metadata": {
+    "handle": "CALGARY-DC",
+    "description": "2227155 Alberta Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 212597,
+  "metadata": {
+    "handle": "MLM",
+    "description": "Mariborska livarna Maribor d.d.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

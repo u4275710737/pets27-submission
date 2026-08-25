@@ -1,0 +1,16 @@
+{
+  "asn": 46177,
+  "metadata": {
+    "handle": "WHITE-SKY-HOSTING",
+    "description": "White Sky Hosting",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "access_provider"
+  },
+  "prefixes": {
+    "ipv4": [ "23.136.228.0/24", "31.56.65.0/24" ],
+    "ipv6": [ "2602:f696::/40" ]
+  }
+}

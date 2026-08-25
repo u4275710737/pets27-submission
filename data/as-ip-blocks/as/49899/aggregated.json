@@ -1,0 +1,14 @@
+{
+  "asn": 49899,
+  "metadata": {
+    "handle": "PWT",
+    "description": "Petro Welt Technologies AG",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

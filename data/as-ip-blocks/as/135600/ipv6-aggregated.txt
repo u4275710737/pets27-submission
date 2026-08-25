@@ -1,0 +1,4 @@
+# AS135600 (WHIZCOMMS-AS-AP)
+# Whiz Communications Pte Ltd
+#
+2405:d180:8000::/33

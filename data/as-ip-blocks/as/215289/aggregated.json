@@ -1,0 +1,14 @@
+{
+  "asn": 215289,
+  "metadata": {
+    "handle": "MAA-AS",
+    "description": "Mikhailov Artem Andreevich",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

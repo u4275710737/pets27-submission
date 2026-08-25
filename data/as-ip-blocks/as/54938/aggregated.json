@@ -1,0 +1,14 @@
+{
+  "asn": 54938,
+  "metadata": {
+    "handle": "BSPEEDYINC-1",
+    "description": "Nextlink Broadband",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

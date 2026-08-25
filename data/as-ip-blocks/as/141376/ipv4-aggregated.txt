@@ -1,0 +1,4 @@
+# AS141376 (IDNIC-SHAFANZA-AS-ID)
+# PT Shafanza Cahaya Utama
+#
+163.128.35.0/24

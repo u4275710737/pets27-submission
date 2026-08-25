@@ -1,0 +1,14 @@
+{
+  "asn": 152713,
+  "metadata": {
+    "handle": "A1CLOUDHOST-AP",
+    "description": "A1 Cloud Host",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 44579,
+  "metadata": {
+    "handle": "TNGS-FARNORTHNET",
+    "description": "MTS PJSC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

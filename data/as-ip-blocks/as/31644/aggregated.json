@@ -1,0 +1,14 @@
+{
+  "asn": 31644,
+  "metadata": {
+    "handle": "NEAB-ETANET",
+    "description": "Norrtelje Energi Aktiebolag AB",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

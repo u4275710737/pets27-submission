@@ -1,0 +1,14 @@
+{
+  "asn": 36179,
+  "metadata": {
+    "handle": "VITA-DEM-1",
+    "description": "Virginia Information Technologies Agency (VITA)",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

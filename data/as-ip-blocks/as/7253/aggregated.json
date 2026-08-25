@@ -1,0 +1,16 @@
+{
+  "asn": 7253,
+  "metadata": {
+    "handle": "MAINSTAY-COMMUNICATIONS",
+    "description": "Mainstay Communications",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "96.46.96.0/21" ],
+    "ipv6": [ ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "asn": 132481,
+  "metadata": {
+    "handle": "MMCI-AS-AP",
+    "description": "Marsh & McLennan Companies Inc.",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "168.168.244.0/22", "168.168.248.0/23", "168.168.252.0/22" ],
+    "ipv6": [ ]
+  }
+}

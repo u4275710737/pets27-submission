@@ -1,0 +1,14 @@
+{
+  "asn": 136494,
+  "metadata": {
+    "handle": "SMARTCALLLIMITED-AP",
+    "description": "Smartcall Limited",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

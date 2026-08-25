@@ -1,0 +1,16 @@
+{
+  "asn": 211322,
+  "metadata": {
+    "handle": "AS",
+    "description": "GENET LTD",
+    "countryCode": "GE",
+    "country": "Georgia",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "193.228.126.0/24" ],
+    "ipv6": [ ]
+  }
+}

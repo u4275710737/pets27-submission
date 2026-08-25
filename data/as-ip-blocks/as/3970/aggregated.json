@@ -1,0 +1,14 @@
+{
+  "asn": 3970,
+  "metadata": {
+    "handle": "RGNET-TE-EX",
+    "description": "RGnet OU",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

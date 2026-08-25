@@ -1,0 +1,16 @@
+{
+  "asn": 272023,
+  "metadata": {
+    "handle": "UNIVERSIDAD-TECNICA-NACIONAL",
+    "description": "UNIVERSIDAD TECNICA NACIONAL",
+    "countryCode": "CR",
+    "country": "Costa Rica",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ "2801:13:1800::/48" ]
+  }
+}

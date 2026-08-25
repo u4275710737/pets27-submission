@@ -1,0 +1,14 @@
+{
+  "asn": 202559,
+  "metadata": {
+    "handle": "MATT",
+    "description": "Matteo Fruhwald trading as PipeHost e.U.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "asn": 207764,
+  "metadata": {
+    "handle": "EWB2-AS",
+    "description": "Elektrownia Wiatrowa Baltica-2 sp. z o. o.",
+    "countryCode": "PL",
+    "country": "Poland",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "81.15.218.0/24" ],
+    "ipv6": [ ]
+  }
+}

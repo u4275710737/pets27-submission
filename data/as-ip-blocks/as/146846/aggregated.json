@@ -1,0 +1,14 @@
+{
+  "asn": 146846,
+  "metadata": {
+    "handle": "NIXI",
+    "description": "NIXI",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

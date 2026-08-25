@@ -1,0 +1,14 @@
+{
+  "asn": 41989,
+  "metadata": {
+    "handle": "KTBAC-AS",
+    "description": "Dobrinka Bacanova",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

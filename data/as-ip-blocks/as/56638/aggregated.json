@@ -1,0 +1,14 @@
+{
+  "asn": 56638,
+  "metadata": {
+    "handle": "J2-IRE-AS",
+    "description": "j2 Global Ireland Limited",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

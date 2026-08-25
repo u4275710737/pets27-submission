@@ -1,0 +1,14 @@
+{
+  "asn": 21863,
+  "metadata": {
+    "handle": "INTELIVANT-CONSULTING",
+    "description": "intelivant consulting, llc",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

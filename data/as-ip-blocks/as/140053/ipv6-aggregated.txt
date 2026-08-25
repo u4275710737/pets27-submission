@@ -1,0 +1,6 @@
+# AS140053 (CHINANET-HUIZHOU-AS-AP)
+# China Telecom
+#
+240e:5e:10e0::/44
+240e:108:4050::/48
+240e:108:4850::/48

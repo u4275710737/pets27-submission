@@ -1,0 +1,4 @@
+# AS264472 (BCNET-SERVICOS-INFORMATICA)
+# Leonardo Vasconcelos Souza - Me - Bcnet Play
+#
+132.255.88.0/22

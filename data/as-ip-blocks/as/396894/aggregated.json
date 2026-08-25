@@ -1,0 +1,16 @@
+{
+  "asn": 396894,
+  "metadata": {
+    "handle": "ZAYO-BANDWIDTH",
+    "description": "Zayo Bandwidth",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "inferred",
+    "category": null,
+    "networkRole": null
+  },
+  "prefixes": {
+    "ipv4": [ "8.28.201.0/24", "144.121.224.0/24" ],
+    "ipv6": [ ]
+  }
+}

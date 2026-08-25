@@ -1,0 +1,14 @@
+{
+  "asn": 5066,
+  "metadata": {
+    "handle": "TERAS-4",
+    "description": "Teraswitch, Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

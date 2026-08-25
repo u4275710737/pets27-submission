@@ -1,0 +1,14 @@
+{
+  "asn": 133019,
+  "metadata": {
+    "handle": "EREA-AP",
+    "description": "Edmund Rice Education Australia",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

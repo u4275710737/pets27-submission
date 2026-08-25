@@ -1,0 +1,14 @@
+{
+  "asn": 268290,
+  "metadata": {
+    "handle": "UNIDAS-SERVICOS-DIGITAIS",
+    "description": "UNIDAS SERVICOS DIGITAIS LTDA",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

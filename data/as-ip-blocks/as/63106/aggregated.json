@@ -1,0 +1,14 @@
+{
+  "asn": 63106,
+  "metadata": {
+    "handle": "SALONBIZ-DAL",
+    "description": "Neill Corporation",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

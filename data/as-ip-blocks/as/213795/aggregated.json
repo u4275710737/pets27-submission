@@ -1,0 +1,16 @@
+{
+  "asn": 213795,
+  "metadata": {
+    "handle": "MUSTAFA-CAKIR",
+    "description": "Mustafa Cakir",
+    "countryCode": "TR",
+    "country": "Türkiye",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "31.56.60.0/24", "45.198.68.0/24" ],
+    "ipv6": [ ]
+  }
+}

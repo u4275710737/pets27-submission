@@ -1,0 +1,14 @@
+{
+  "asn": 137900,
+  "metadata": {
+    "handle": "RURALCO-AP",
+    "description": "Ruralco Holdings Limited",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

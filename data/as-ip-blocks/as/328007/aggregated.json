@@ -1,0 +1,16 @@
+{
+  "asn": 328007,
+  "metadata": {
+    "handle": "ZANACO",
+    "description": "ZANACO",
+    "countryCode": "ZM",
+    "country": "Zambia",
+    "origin": "overlaid",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "196.41.74.0/24" ],
+    "ipv6": [ ]
+  }
+}

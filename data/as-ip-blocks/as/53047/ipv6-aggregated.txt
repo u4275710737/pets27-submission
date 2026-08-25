@@ -1,0 +1,4 @@
+# AS53047 (INTERCOL-SERVICOS-INTERNET)
+# Intercol Serviços de Internet Ltda
+#
+2804:6f0::/32

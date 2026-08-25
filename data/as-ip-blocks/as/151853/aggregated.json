@@ -1,0 +1,14 @@
+{
+  "asn": 151853,
+  "metadata": {
+    "handle": "GIZANETWORK-VN",
+    "description": "GIZA NETWORK LIMITED",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

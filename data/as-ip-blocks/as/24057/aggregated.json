@@ -1,0 +1,14 @@
+{
+  "asn": 24057,
+  "metadata": {
+    "handle": "AIGL-AP",
+    "description": "PT. AIA FINANCIAL",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

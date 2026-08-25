@@ -1,0 +1,16 @@
+{
+  "asn": 212154,
+  "metadata": {
+    "handle": "SARUNETWORK-AS",
+    "description": "Wei-Cheng Tsai",
+    "countryCode": "TW",
+    "country": "Taiwan",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ "2a05:dfc3:fd0f::/48", "2a0e:8f02:f047::/48", "2a0e:b107:1c0f::/48" ]
+  }
+}

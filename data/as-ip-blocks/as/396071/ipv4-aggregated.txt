@@ -1,0 +1,4 @@
+# AS396071 (PACKETGG)
+# NTT Global Data Centers Americas INC.
+#
+204.141.192.0/23

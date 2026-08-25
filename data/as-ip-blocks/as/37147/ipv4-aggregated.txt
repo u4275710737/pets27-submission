@@ -1,0 +1,4 @@
+# AS37147 (ASN-BICAO)
+# ASN - Banco BIC - Angola
+#
+196.46.21.0/24

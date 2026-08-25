@@ -1,0 +1,14 @@
+{
+  "asn": 6384,
+  "metadata": {
+    "handle": "BELLSOUTH-NET-BLK",
+    "description": "AT&T Enterprises LLC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,5 @@
+# AS196819 (TWK-KL-AS)
+# DEMANDO GmbH
+#
+2a00:e100::/32
+2a0a:a380::/48

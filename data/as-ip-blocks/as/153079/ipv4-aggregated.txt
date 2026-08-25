@@ -1,0 +1,5 @@
+# AS153079 (IDNIC-CJA-AS-ID)
+# PT Citra Jaya Adiwangsa
+#
+160.25.116.0/24
+192.203.209.0/24

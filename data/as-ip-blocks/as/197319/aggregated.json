@@ -1,0 +1,16 @@
+{
+  "asn": 197319,
+  "metadata": {
+    "handle": "WANNEMAUS-AS",
+    "description": "Luca Maximilian Wannemacher",
+    "countryCode": "DE",
+    "country": "Germany",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ "2a06:9801:748::/48" ]
+  }
+}

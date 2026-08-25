@@ -1,0 +1,14 @@
+{
+  "asn": 16829,
+  "metadata": {
+    "handle": "TESSCO-MD",
+    "description": "Tessco Technologies",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

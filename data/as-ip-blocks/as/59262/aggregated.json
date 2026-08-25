@@ -1,0 +1,14 @@
+{
+  "asn": 59262,
+  "metadata": {
+    "handle": "ORIX-AS-AP",
+    "description": "ORIX AUSTRALIA CORPORATION LIMITED",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

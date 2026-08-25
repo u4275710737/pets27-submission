@@ -1,0 +1,14 @@
+{
+  "asn": 35045,
+  "metadata": {
+    "handle": "OPERATELECOM",
+    "description": "Dynamic Mobile Billing Limited",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

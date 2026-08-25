@@ -1,0 +1,16 @@
+{
+  "asn": 200709,
+  "metadata": {
+    "handle": "FLOTEK-SHARED-MNT",
+    "description": "Flotek Group Limited",
+    "countryCode": "GB",
+    "country": "United Kingdom",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "178.92.119.0/24" ],
+    "ipv6": [ ]
+  }
+}

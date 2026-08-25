@@ -1,0 +1,16 @@
+{
+  "asn": 215874,
+  "metadata": {
+    "handle": "VESTFOR",
+    "description": "DTU Kraftvarmevaerk ApS",
+    "countryCode": "DK",
+    "country": "Denmark",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "193.3.237.0/24" ],
+    "ipv6": [ ]
+  }
+}

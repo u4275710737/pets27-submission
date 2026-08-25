@@ -1,0 +1,16 @@
+{
+  "asn": 25605,
+  "metadata": {
+    "handle": "SCANSAFE",
+    "description": "Cisco Scansafe Division",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "155.190.249.0/24", "198.41.11.0/24", "198.41.13.0/24" ],
+    "ipv6": [ ]
+  }
+}

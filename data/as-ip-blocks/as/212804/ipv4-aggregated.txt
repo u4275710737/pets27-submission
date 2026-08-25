@@ -1,0 +1,5 @@
+# AS212804 (INETBOLAGET-SE-GBG)
+# Open Infra ISP Production International AB
+#
+46.252.0.0/24
+94.142.226.0/24

@@ -1,0 +1,16 @@
+{
+  "asn": 197622,
+  "metadata": {
+    "handle": "PARSELY-AS",
+    "description": "NEXTTRANSLATE LTD",
+    "countryCode": "GB",
+    "country": "United Kingdom",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "45.94.38.0/24", "113.30.155.0/24" ],
+    "ipv6": [ ]
+  }
+}

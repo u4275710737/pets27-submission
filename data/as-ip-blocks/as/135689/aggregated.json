@@ -1,0 +1,14 @@
+{
+  "asn": 135689,
+  "metadata": {
+    "handle": "NETARK-AS-IN",
+    "description": "Netark Technologies India Pvt Ltd",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

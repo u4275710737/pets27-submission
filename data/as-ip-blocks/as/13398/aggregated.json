@@ -1,0 +1,14 @@
+{
+  "asn": 13398,
+  "metadata": {
+    "handle": "K12LINK",
+    "description": "WHRO",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

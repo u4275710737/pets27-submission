@@ -1,0 +1,14 @@
+{
+  "asn": 208341,
+  "metadata": {
+    "handle": "SPIDER-NET",
+    "description": "Spider Net Ltd",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

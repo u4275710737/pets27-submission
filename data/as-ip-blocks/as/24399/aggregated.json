@@ -1,0 +1,16 @@
+{
+  "asn": 24399,
+  "metadata": {
+    "handle": "ABS-APNIC",
+    "description": "ABS ASN entry in RIPE",
+    "countryCode": "HK",
+    "country": "Hong Kong SAR China",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "202.133.8.0/21", "203.80.176.0/21", "203.80.184.0/22" ],
+    "ipv6": [ ]
+  }
+}

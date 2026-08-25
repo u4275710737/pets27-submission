@@ -1,0 +1,14 @@
+{
+  "asn": 202134,
+  "metadata": {
+    "handle": "LEASEWEB-NL",
+    "description": "LeaseWeb Network B.V.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

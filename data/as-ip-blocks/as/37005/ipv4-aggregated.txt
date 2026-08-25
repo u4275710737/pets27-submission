@@ -1,0 +1,5 @@
+# AS37005 (ACCESSBK-AS)
+# Access Bank Plc
+#
+102.212.229.0/24
+196.22.6.0/24

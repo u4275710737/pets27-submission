@@ -1,0 +1,4 @@
+# AS12225 (CONSUMERINFO1)
+# Consumerinfo.com Inc.
+#
+74.117.21.0/24

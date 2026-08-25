@@ -1,0 +1,4 @@
+# AS207603 (CUROTEC)
+# CuroTec ApS
+#
+185.101.140.0/22

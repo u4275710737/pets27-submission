@@ -1,0 +1,14 @@
+{
+  "asn": 272519,
+  "metadata": {
+    "handle": "SERVICO-SOCIAL-INDUSTRIA",
+    "description": "Servico Social da Industria",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

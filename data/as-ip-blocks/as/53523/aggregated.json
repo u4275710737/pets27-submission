@@ -1,0 +1,14 @@
+{
+  "asn": 53523,
+  "metadata": {
+    "handle": "MAP-COMMUNICATIONS",
+    "description": "MAP Communications, Inc",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

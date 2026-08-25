@@ -1,0 +1,16 @@
+{
+  "asn": 37320,
+  "metadata": {
+    "handle": "NLA-AS",
+    "description": "-",
+    "countryCode": "GH",
+    "country": "Ghana",
+    "origin": "overlaid",
+    "category": "government_admin",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "41.77.64.0/21" ],
+    "ipv6": [ ]
+  }
+}

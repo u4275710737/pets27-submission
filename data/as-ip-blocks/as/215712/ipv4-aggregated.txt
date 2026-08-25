@@ -1,0 +1,5 @@
+# AS215712 (PRINTFUL)
+# Printful Latvia AS
+#
+85.254.127.0/24
+159.148.88.0/24

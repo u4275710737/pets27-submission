@@ -1,0 +1,5 @@
+# AS22513 (CHARTER-22513-WA-OR-C3)
+# Charter Communications LLC
+#
+76.58.28.0/23
+192.61.80.0/21

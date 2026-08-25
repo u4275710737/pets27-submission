@@ -1,0 +1,4 @@
+# AS16058 (GABON-TELECOM)
+# Gabon Telecom Internet Network Autonomous System
+#
+2c0f:f640::/32

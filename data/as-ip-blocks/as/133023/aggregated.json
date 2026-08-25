@@ -1,0 +1,14 @@
+{
+  "asn": 133023,
+  "metadata": {
+    "handle": "VIRTUALPLATFORM-AP",
+    "description": "Virtualplatform",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

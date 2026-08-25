@@ -1,0 +1,14 @@
+{
+  "asn": 36380,
+  "metadata": {
+    "handle": "ECONNERGYENERGY",
+    "description": "Gateway Energy Services Corporation",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

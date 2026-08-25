@@ -1,0 +1,17 @@
+{
+  "asn": 20842,
+  "metadata": {
+    "handle": "FORMULAPLUS",
+    "description": "IPTP LTD",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [
+      "93.95.40.0/21",
+      "217.27.40.0/22"
+    ],
+    "ipv6": []
+  }
+}

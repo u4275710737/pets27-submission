@@ -1,0 +1,16 @@
+{
+  "asn": 201588,
+  "metadata": {
+    "handle": "MOSCONNECT-AS",
+    "description": "Digital technologies LLC",
+    "countryCode": "RU",
+    "country": "Russia",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "access_provider"
+  },
+  "prefixes": {
+    "ipv4": [ "185.102.181.0/24" ],
+    "ipv6": [ ]
+  }
+}

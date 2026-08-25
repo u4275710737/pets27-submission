@@ -1,0 +1,4 @@
+# AS35624 (SILVERSTAR-AS)
+# Fast Servers (Pty) Ltd
+#
+185.46.84.0/22

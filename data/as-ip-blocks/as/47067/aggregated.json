@@ -1,0 +1,14 @@
+{
+  "asn": 47067,
+  "metadata": {
+    "handle": "COMMTOUCH-INC-2",
+    "description": "Commtouch Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

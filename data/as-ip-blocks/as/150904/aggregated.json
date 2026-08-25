@@ -1,0 +1,14 @@
+{
+  "asn": 150904,
+  "metadata": {
+    "handle": "BWF-VN",
+    "description": "BWF Technology Company Limited",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

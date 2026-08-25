@@ -1,0 +1,14 @@
+{
+  "asn": 399581,
+  "metadata": {
+    "handle": "MMTM-BB",
+    "description": "Momentum Broadband Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

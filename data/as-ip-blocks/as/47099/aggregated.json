@@ -1,0 +1,14 @@
+{
+  "asn": 47099,
+  "metadata": {
+    "handle": "WITOPIA-AS1",
+    "description": "WiTopia Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

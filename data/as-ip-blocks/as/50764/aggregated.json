@@ -1,0 +1,14 @@
+{
+  "asn": 50764,
+  "metadata": {
+    "handle": "NEO-BACKBONE",
+    "description": "Tietoevry Tech Services Sweden AB",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

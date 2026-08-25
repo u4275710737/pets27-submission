@@ -1,0 +1,14 @@
+{
+  "asn": 394800,
+  "metadata": {
+    "handle": "MIDMARK",
+    "description": "Midmark Corporation",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

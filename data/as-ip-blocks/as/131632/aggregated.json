@@ -1,0 +1,16 @@
+{
+  "asn": 131632,
+  "metadata": {
+    "handle": "GMICLOUD-ASN-PHOENIX",
+    "description": "GMI Cloud Phoenix LTD. Taiwan Branch (CAYMAN ISLANDS REPUBLIC)",
+    "countryCode": "TW",
+    "country": "Taiwan",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "151.158.88.0/23" ],
+    "ipv6": [ ]
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 203630,
+  "metadata": {
+    "handle": "ACCEL-ADC",
+    "description": "Netflow Software BV",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

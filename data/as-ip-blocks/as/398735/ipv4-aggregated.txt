@@ -1,0 +1,4 @@
+# AS398735 (NORTH-TELECOM)
+# North Telecom
+#
+206.66.96.0/21

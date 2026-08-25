@@ -1,0 +1,4 @@
+# AS208995 (SPRK)
+# Sabiedrisko pakalpojumu regulesanas komisija
+#
+92.240.88.0/24

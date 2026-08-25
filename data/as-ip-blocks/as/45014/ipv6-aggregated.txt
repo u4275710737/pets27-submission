@@ -1,0 +1,7 @@
+# AS45014 (NCONNECT)
+# Nuco Technologies Ltd
+#
+2a00:1a90::/33
+2a00:1a90:c000::/34
+2a02:cb0::/40
+2a02:cb0:200::/39

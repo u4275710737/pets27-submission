@@ -1,0 +1,16 @@
+{
+  "asn": 205139,
+  "metadata": {
+    "handle": "ASN-LEPIDAH",
+    "description": "Lepida S.c.p.A.",
+    "countryCode": "IT",
+    "country": "Italy",
+    "origin": "authoritative",
+    "category": "government_admin",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "89.45.216.0/22" ],
+    "ipv6": [ ]
+  }
+}

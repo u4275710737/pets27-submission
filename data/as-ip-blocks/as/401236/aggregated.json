@@ -1,0 +1,14 @@
+{
+  "asn": 401236,
+  "metadata": {
+    "handle": "SBI",
+    "description": "South Bay Internet",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

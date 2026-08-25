@@ -1,0 +1,4 @@
+# AS7665 (OKIX)
+# Okayama Prefectural Government
+#
+2001:d50::/32

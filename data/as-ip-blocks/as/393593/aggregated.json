@@ -1,0 +1,14 @@
+{
+  "asn": 393593,
+  "metadata": {
+    "handle": "LRS",
+    "description": "Logos Bible Software",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

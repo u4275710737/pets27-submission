@@ -1,0 +1,14 @@
+{
+  "asn": 45335,
+  "metadata": {
+    "handle": "IKF-IN-AP",
+    "description": "IKF POWERNET",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 54452,
+  "metadata": {
+    "handle": "JACKSONSFOODSTORES",
+    "description": "Jacksons Food Stores Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 51673,
+  "metadata": {
+    "handle": "DVB",
+    "description": "DZ Bank AG Deutsche-Zentralgenossenschaftsbank",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

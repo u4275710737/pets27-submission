@@ -1,0 +1,16 @@
+{
+  "asn": 26753,
+  "metadata": {
+    "handle": "IN2NET-NETWORK",
+    "description": "In2Net network inc.",
+    "countryCode": "CA",
+    "country": "Canada",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "64.151.192.0/18", "65.61.192.0/18", "66.226.128.0/20", "209.151.0.0/19" ],
+    "ipv6": [ ]
+  }
+}

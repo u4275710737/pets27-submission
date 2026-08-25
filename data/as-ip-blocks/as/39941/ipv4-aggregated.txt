@@ -1,0 +1,4 @@
+# AS39941 (PACIFIC-WAVE)
+# Pacific Wave
+#
+207.231.240.0/20

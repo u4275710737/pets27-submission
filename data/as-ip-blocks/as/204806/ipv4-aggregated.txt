@@ -1,0 +1,4 @@
+# AS204806 (MOI-TELECOMMUNICATIONS)
+# Ministry of Interior - Telecommunication Department
+#
+185.239.92.0/22

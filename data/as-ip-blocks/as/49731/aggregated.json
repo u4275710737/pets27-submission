@@ -1,0 +1,14 @@
+{
+  "asn": 49731,
+  "metadata": {
+    "handle": "UNIQA",
+    "description": "Uniqa Towarzystwo Ubezpieczen S.A.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

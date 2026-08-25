@@ -1,0 +1,4 @@
+# AS16995 (NAMESTOGO)
+# Names To Go Inc.
+#
+104.218.84.0/22

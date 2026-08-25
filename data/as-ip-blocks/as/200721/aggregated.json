@@ -1,0 +1,16 @@
+{
+  "asn": 200721,
+  "metadata": {
+    "handle": "DATANET-AS",
+    "description": "Datanet LLP",
+    "countryCode": "KZ",
+    "country": "Kazakhstan",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ ]
+  }
+}

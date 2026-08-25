@@ -1,0 +1,16 @@
+{
+  "asn": 398450,
+  "metadata": {
+    "handle": "HOTWI-398450",
+    "description": "Hotwire Communications",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": null,
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "208.80.176.0/22" ],
+    "ipv6": [ ]
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 54842,
+  "metadata": {
+    "handle": "ASNAPSEAQ1",
+    "description": "ALLIANCE POUR LA SANTE ETUDIANTE AU QUEBEC INC.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

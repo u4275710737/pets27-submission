@@ -1,0 +1,14 @@
+{
+  "asn": 51720,
+  "metadata": {
+    "handle": "FUJITSU-TS-AS",
+    "description": "Manage Now GmbH",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

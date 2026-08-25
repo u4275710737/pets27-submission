@@ -1,0 +1,14 @@
+{
+  "asn": 44686,
+  "metadata": {
+    "handle": "SETI-KR-AS",
+    "description": "SpaceNet LLC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 30780,
+  "metadata": {
+    "handle": "PL-SKONET",
+    "description": "Tomasz SLASKI trading as SKONET ISP",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

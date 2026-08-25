@@ -1,0 +1,14 @@
+{
+  "asn": 152743,
+  "metadata": {
+    "handle": "IDNIC-IAIN-PONTIANAK-AS-ID",
+    "description": "Institut Agama Islam Negeri Pontianak",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

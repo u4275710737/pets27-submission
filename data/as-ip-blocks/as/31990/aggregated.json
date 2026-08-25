@@ -1,0 +1,14 @@
+{
+  "asn": 31990,
+  "metadata": {
+    "handle": "LSTECH",
+    "description": "Lightspeed Technologies Inc",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

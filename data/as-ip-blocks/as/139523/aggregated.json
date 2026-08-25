@@ -1,0 +1,14 @@
+{
+  "asn": 139523,
+  "metadata": {
+    "handle": "ATTIPL-IN",
+    "description": "All Time Tele Infra Pvt Ltd",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

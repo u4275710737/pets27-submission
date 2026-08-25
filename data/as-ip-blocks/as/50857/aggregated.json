@@ -1,0 +1,14 @@
+{
+  "asn": 50857,
+  "metadata": {
+    "handle": "MACTELECOM-AS",
+    "description": "Citymesh Integrator NV",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

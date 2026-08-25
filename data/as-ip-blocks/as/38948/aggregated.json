@@ -1,0 +1,14 @@
+{
+  "asn": 38948,
+  "metadata": {
+    "handle": "WYSIWYG",
+    "description": "Mindcurv Group GmbH",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "asn": 37232,
+  "metadata": {
+    "handle": "CTS",
+    "description": "CTSL AS number",
+    "countryCode": "GH",
+    "country": "Ghana",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "41.78.124.0/22" ],
+    "ipv6": [ ]
+  }
+}

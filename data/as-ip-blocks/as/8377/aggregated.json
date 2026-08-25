@@ -1,0 +1,14 @@
+{
+  "asn": 8377,
+  "metadata": {
+    "handle": "PETERLINK",
+    "description": "Awanti Ltd.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

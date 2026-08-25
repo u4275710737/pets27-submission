@@ -1,0 +1,14 @@
+{
+  "asn": 29998,
+  "metadata": {
+    "handle": "AZCOLO",
+    "description": "ZoyAR Inc",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

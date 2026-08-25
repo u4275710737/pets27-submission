@@ -1,0 +1,17 @@
+{
+  "asn": 56228,
+  "metadata": {
+    "handle": "KORDIA-LTD-AP",
+    "description": "Kordia Limited",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [
+      "203.14.20.0/24",
+      "203.195.124.0/24"
+    ],
+    "ipv6": []
+  }
+}

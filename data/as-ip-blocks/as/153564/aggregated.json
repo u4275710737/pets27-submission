@@ -1,0 +1,14 @@
+{
+  "asn": 153564,
+  "metadata": {
+    "handle": "RFB-AS-AP",
+    "description": "RAPID FIBERNET BROADBAND",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

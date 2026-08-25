@@ -1,0 +1,16 @@
+{
+  "asn": 266381,
+  "metadata": {
+    "handle": "GALAX-TELECOM",
+    "description": "Galax Telecom",
+    "countryCode": "BR",
+    "country": "Brazil",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "170.80.244.0/22" ],
+    "ipv6": [ "2804:36f0:8000::/33" ]
+  }
+}

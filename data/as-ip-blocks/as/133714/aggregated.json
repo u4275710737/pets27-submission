@@ -1,0 +1,14 @@
+{
+  "asn": 133714,
+  "metadata": {
+    "handle": "PGZORAML",
+    "description": "Zoram Business Enterprise Private Limited",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

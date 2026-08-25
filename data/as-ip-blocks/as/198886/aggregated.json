@@ -1,0 +1,14 @@
+{
+  "asn": 198886,
+  "metadata": {
+    "handle": "DANIELBRASHOLT",
+    "description": "Daniel Brasholt",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

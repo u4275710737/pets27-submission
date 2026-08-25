@@ -1,0 +1,16 @@
+{
+  "asn": 7500,
+  "metadata": {
+    "handle": "FR-M-ROOT-SERVER",
+    "description": "M-Root Server in Japan hosted by WIDE Project",
+    "countryCode": "JP",
+    "country": "Japan",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "access_provider"
+  },
+  "prefixes": {
+    "ipv4": [ "192.50.45.0/24", "202.12.27.0/24", "202.13.183.0/24" ],
+    "ipv6": [ "2001:dc3::/32" ]
+  }
+}

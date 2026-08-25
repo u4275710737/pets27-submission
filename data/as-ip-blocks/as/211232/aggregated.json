@@ -1,0 +1,14 @@
+{
+  "asn": 211232,
+  "metadata": {
+    "handle": "AIRWAVE2",
+    "description": "Lackabeha Services Ltd.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 15127,
+  "metadata": {
+    "handle": "CHATHAM-INTERNET-ACCESS",
+    "description": "Xplore Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

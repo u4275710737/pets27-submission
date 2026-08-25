@@ -1,0 +1,14 @@
+{
+  "asn": 12172,
+  "metadata": {
+    "handle": "LAKEMARY-ASN",
+    "description": "FISERV Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

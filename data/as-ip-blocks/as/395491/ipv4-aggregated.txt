@@ -1,0 +1,4 @@
+# AS395491 (RADIAN-GROUP-INC)
+# Radian Group Inc
+#
+208.74.15.0/24

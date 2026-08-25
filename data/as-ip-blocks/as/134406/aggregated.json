@@ -1,0 +1,14 @@
+{
+  "asn": 134406,
+  "metadata": {
+    "handle": "AUSTRALIANSUPERPTYLTD-AP",
+    "description": "AUSTRALIANSUPER PTY LTD",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

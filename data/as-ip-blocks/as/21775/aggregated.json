@@ -1,0 +1,14 @@
+{
+  "asn": 21775,
+  "metadata": {
+    "handle": "AFILIAS-REGISTRY-SERVICES",
+    "description": "Afilias Canada, Corp.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

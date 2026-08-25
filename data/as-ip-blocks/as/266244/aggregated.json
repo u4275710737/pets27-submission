@@ -1,0 +1,16 @@
+{
+  "asn": 266244,
+  "metadata": {
+    "handle": "VUPPI-INTERNET",
+    "description": "VUPPI INTERNET",
+    "countryCode": "BR",
+    "country": "Brazil",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "192.144.104.0/22" ],
+    "ipv6": [ ]
+  }
+}

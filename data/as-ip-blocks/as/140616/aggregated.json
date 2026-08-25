@@ -1,0 +1,14 @@
+{
+  "asn": 140616,
+  "metadata": {
+    "handle": "ZNITSOLUTION-AP",
+    "description": "ZN IT Solution",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

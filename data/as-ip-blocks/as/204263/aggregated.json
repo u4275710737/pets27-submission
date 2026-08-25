@@ -1,0 +1,14 @@
+{
+  "asn": 204263,
+  "metadata": {
+    "handle": "INGLOBUS",
+    "description": "IVENDO sp. z o.o.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

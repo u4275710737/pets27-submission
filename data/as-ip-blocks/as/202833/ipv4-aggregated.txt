@@ -1,0 +1,5 @@
+# AS202833 (BSABADELL2)
+# Banco de Sabadell SA
+#
+81.90.102.0/24
+81.90.105.0/24

@@ -1,0 +1,14 @@
+{
+  "asn": 10240,
+  "metadata": {
+    "handle": "MOTLEYFOOL",
+    "description": "The Motley Fool, LLC.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

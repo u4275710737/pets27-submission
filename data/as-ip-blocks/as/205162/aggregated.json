@@ -1,0 +1,14 @@
+{
+  "asn": 205162,
+  "metadata": {
+    "handle": "METATEH-AS",
+    "description": "MetaTeh LLC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

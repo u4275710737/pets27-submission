@@ -1,0 +1,14 @@
+{
+  "asn": 42987,
+  "metadata": {
+    "handle": "VM-LGFL",
+    "description": "Virgin Media Limited",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 48280,
+  "metadata": {
+    "handle": "GLIX",
+    "description": "Tom Klein",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

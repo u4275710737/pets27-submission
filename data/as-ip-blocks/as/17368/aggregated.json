@@ -1,0 +1,14 @@
+{
+  "asn": 17368,
+  "metadata": {
+    "handle": "TWRS-1V",
+    "description": "Towerstream I, Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

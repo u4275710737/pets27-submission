@@ -1,0 +1,14 @@
+{
+  "asn": 13797,
+  "metadata": {
+    "handle": "IDG-19",
+    "description": "International Data Group Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

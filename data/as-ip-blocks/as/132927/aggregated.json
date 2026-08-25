@@ -1,0 +1,14 @@
+{
+  "asn": 132927,
+  "metadata": {
+    "handle": "PINGPLUS-IN",
+    "description": "PING PLUS TECHNOLOGIES PRIVATE LIMITED",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

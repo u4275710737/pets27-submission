@@ -1,0 +1,4 @@
+# AS16284 (AS-VBN)
+# Vodacom Business Nigeria
+#
+2c0f:fc90::/32

@@ -1,0 +1,4 @@
+# AS139472 (CMJK-AS-AP)
+# Catalina Marketing Japan K.K.
+#
+2001:df6:d7c0::/48

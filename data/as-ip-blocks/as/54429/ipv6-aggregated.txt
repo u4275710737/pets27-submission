@@ -1,0 +1,5 @@
+# AS54429 (LOCAL-CONNECTIVITY-LAB)
+# Local Connectivity Lab
+#
+2602:fd94:a00::/48
+2602:fd94:fff::/48

@@ -1,0 +1,4 @@
+# AS135881 (SPARKNET-AS-AP)
+# Spark Net
+#
+103.78.224.0/23

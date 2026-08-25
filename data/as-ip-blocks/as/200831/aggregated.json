@@ -1,0 +1,14 @@
+{
+  "asn": 200831,
+  "metadata": {
+    "handle": "MIHOSNET",
+    "description": "Savvii B.V.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

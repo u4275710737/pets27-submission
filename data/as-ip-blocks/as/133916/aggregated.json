@@ -1,0 +1,14 @@
+{
+  "asn": 133916,
+  "metadata": {
+    "handle": "NEXTTECHBD-AP",
+    "description": "Next Tech BD",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

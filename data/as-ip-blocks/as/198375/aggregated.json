@@ -1,0 +1,16 @@
+{
+  "asn": 198375,
+  "metadata": {
+    "handle": "DELUSION-NET",
+    "description": "Delusion Limited",
+    "countryCode": "GB",
+    "country": "United Kingdom",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "82.29.6.0/24" ],
+    "ipv6": [ "2a11:29c0:3b::/48" ]
+  }
+}

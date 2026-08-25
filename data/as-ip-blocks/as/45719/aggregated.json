@@ -1,0 +1,14 @@
+{
+  "asn": 45719,
+  "metadata": {
+    "handle": "NAWALA-ID",
+    "description": "Nawala Project  - DNS Filtering Project",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

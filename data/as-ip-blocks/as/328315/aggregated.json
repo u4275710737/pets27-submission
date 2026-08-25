@@ -1,0 +1,16 @@
+{
+  "asn": 328315,
+  "metadata": {
+    "handle": "AS-SYNTIX",
+    "description": "Crisp Fibre (Pty) Ltd",
+    "countryCode": "ZA",
+    "country": "South Africa",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "content_network"
+  },
+  "prefixes": {
+    "ipv4": [ "102.164.80.0/20" ],
+    "ipv6": [ "2c0f:eec8::/32" ]
+  }
+}

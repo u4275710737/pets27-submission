@@ -1,0 +1,14 @@
+{
+  "asn": 47339,
+  "metadata": {
+    "handle": "SATFA",
+    "description": "SpeedCast Netherlands B.V.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

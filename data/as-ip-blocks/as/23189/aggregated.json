@@ -1,0 +1,14 @@
+{
+  "asn": 23189,
+  "metadata": {
+    "handle": "OSAM",
+    "description": "O'Shaughnessy Asset Management, LLC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

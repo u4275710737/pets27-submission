@@ -1,0 +1,14 @@
+{
+  "asn": 199769,
+  "metadata": {
+    "handle": "DANID",
+    "description": "Nets DanID A/S",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

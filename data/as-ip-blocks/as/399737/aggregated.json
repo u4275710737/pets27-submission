@@ -1,0 +1,14 @@
+{
+  "asn": 399737,
+  "metadata": {
+    "handle": "ETHERWARE",
+    "description": "Etherware Solutions LLC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

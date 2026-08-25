@@ -1,0 +1,16 @@
+{
+  "asn": 212369,
+  "metadata": {
+    "handle": "TAMM",
+    "description": "Tem Technology Communication Services and Electronic System Co. LTD",
+    "countryCode": "IQ",
+    "country": "Iraq",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "185.65.62.0/24" ],
+    "ipv6": [ ]
+  }
+}

@@ -1,0 +1,4 @@
+# AS19926 (CABLEVISION-LIGHTPATH-LLC)
+# Cablevision Lightpath LLC
+#
+47.19.143.0/24

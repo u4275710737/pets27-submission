@@ -1,0 +1,5 @@
+# AS58895 (EBONE-PK)
+# Ebone Network (Pvt) Ltd
+#
+2400:1680::/32
+2401:f8c0::/32

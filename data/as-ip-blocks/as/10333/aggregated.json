@@ -1,0 +1,14 @@
+{
+  "asn": 10333,
+  "metadata": {
+    "handle": "DIGITALINSIGHT",
+    "description": "Digital Insight Corporation",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

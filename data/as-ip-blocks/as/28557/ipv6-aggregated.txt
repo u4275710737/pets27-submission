@@ -1,0 +1,6 @@
+# AS28557 (CABLEMAS-TELECOMUNICACIONES)
+# Cablemas Telecomunicaciones SA de CV
+#
+2806:250:a00::/45
+2806:250:a08::/46
+2806:250:a0f::/48

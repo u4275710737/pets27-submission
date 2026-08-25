@@ -1,0 +1,14 @@
+{
+  "asn": 22102,
+  "metadata": {
+    "handle": "TEXAS-BB",
+    "description": "Texas Broadband Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

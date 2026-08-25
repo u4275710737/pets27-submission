@@ -1,0 +1,14 @@
+{
+  "asn": 199998,
+  "metadata": {
+    "handle": "DESTINY-SWEDEN",
+    "description": "Dstny BE N.V.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

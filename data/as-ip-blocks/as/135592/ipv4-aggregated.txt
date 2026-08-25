@@ -1,0 +1,5 @@
+# AS135592 (SOLAIRE-OLG-ASN)
+# Solaire Resort & Casino
+#
+110.235.152.0/24
+203.213.206.0/24

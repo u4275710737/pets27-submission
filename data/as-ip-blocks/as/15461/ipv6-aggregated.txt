@@ -1,0 +1,5 @@
+# AS15461 (SOLVERNET-AS)
+# NVTOV SOLVER
+#
+2001:67c:f84::/48
+2a0b:afc0::/36

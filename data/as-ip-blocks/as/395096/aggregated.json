@@ -1,0 +1,14 @@
+{
+  "asn": 395096,
+  "metadata": {
+    "handle": "ABSOLUTE-OPERATIONS",
+    "description": "Absolute Software Corporation",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

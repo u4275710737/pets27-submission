@@ -1,0 +1,14 @@
+{
+  "asn": 56196,
+  "metadata": {
+    "handle": "IBSSNET-NP",
+    "description": "Airwave Pvt. Ltd.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

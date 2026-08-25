@@ -1,0 +1,14 @@
+{
+  "asn": 395264,
+  "metadata": {
+    "handle": "TREKNETWORKS",
+    "description": "Network Resource Technologies Corp",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

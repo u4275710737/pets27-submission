@@ -1,0 +1,16 @@
+{
+  "asn": 262534,
+  "metadata": {
+    "handle": "LABORATORIO-NACIONAL-COMPUTACAO",
+    "description": "Laboratório Nacional de Computação Científica",
+    "countryCode": "BR",
+    "country": "Brazil",
+    "origin": "authoritative",
+    "category": "education_research",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "146.134.0.0/16" ],
+    "ipv6": [ ]
+  }
+}

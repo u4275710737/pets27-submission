@@ -1,0 +1,14 @@
+{
+  "asn": 38152,
+  "metadata": {
+    "handle": "NEXXG-NET",
+    "description": "PT Antar Mitra Prakarsa",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

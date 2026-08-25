@@ -1,0 +1,14 @@
+{
+  "asn": 12632,
+  "metadata": {
+    "handle": "DIGINETMOBIL",
+    "description": "RCS & RDS SA",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

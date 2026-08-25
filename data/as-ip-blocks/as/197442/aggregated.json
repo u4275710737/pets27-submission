@@ -1,0 +1,16 @@
+{
+  "asn": 197442,
+  "metadata": {
+    "handle": "NETWORKLAYER-MB",
+    "description": "NetworkLayer MB",
+    "countryCode": "LT",
+    "country": "Lithuania",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "45.84.89.0/24", "206.109.198.0/24" ],
+    "ipv6": [ ]
+  }
+}

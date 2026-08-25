@@ -1,0 +1,14 @@
+{
+  "asn": 197066,
+  "metadata": {
+    "handle": "FIRSTFRAME",
+    "description": "First Frame Networkers AG",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

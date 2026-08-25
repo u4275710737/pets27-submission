@@ -1,0 +1,14 @@
+{
+  "asn": 201490,
+  "metadata": {
+    "handle": "LUX-RS-BG",
+    "description": "Luxoft Professional Romania S.R.L.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

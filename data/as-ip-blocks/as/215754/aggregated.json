@@ -1,0 +1,14 @@
+{
+  "asn": 215754,
+  "metadata": {
+    "handle": "EIS-MK8",
+    "description": "Marcel Straub",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

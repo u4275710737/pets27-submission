@@ -1,0 +1,16 @@
+{
+  "asn": 33664,
+  "metadata": {
+    "handle": "CMCS",
+    "description": "Comcast Cable Communications LLC",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ ]
+  }
+}

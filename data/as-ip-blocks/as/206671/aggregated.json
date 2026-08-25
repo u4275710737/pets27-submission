@@ -1,0 +1,16 @@
+{
+  "asn": 206671,
+  "metadata": {
+    "handle": "NOTMIKE",
+    "description": "Michael Jones",
+    "countryCode": "GB",
+    "country": "United Kingdom",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ ]
+  }
+}

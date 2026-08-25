@@ -1,0 +1,16 @@
+{
+  "asn": 154609,
+  "metadata": {
+    "handle": "MSRETAIL-AS-AP",
+    "description": "MS Retail",
+    "countryCode": "IN",
+    "country": "India",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "163.128.208.0/23" ],
+    "ipv6": [ ]
+  }
+}

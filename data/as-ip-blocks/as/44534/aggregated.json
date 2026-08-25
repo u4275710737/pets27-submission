@@ -1,0 +1,16 @@
+{
+  "asn": 44534,
+  "metadata": {
+    "handle": "YANDEX-OFFICE",
+    "description": "YANDEX LLC",
+    "countryCode": "RU",
+    "country": "Russia",
+    "origin": "authoritative",
+    "category": "government_admin",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "5.45.214.0/24", "5.45.219.0/24", "5.45.243.0/24", "5.255.203.0/24", "5.255.205.0/24", "37.9.86.0/24", "37.9.98.0/24", "77.88.6.0/24", "84.252.160.0/20", "93.158.144.0/22", "93.158.168.0/22", "93.158.184.0/21" ],
+    "ipv6": [ "2a02:6bf:8000::/34" ]
+  }
+}

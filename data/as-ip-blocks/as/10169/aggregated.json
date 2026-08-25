@@ -1,0 +1,14 @@
+{
+  "asn": 10169,
+  "metadata": {
+    "handle": "AMOREPACIFIC",
+    "description": "AMOREPACIFIC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

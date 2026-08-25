@@ -1,0 +1,14 @@
+{
+  "asn": 40168,
+  "metadata": {
+    "handle": "BATTPLUS",
+    "description": "Batteries Plus LLC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

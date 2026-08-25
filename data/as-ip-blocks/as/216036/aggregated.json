@@ -1,0 +1,16 @@
+{
+  "asn": 216036,
+  "metadata": {
+    "handle": "TOTALCOMMS-AS",
+    "description": "Signal Telecom Ltd",
+    "countryCode": "GB",
+    "country": "United Kingdom",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "185.162.109.0/24" ],
+    "ipv6": [ ]
+  }
+}

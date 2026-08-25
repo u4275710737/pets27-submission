@@ -1,0 +1,14 @@
+{
+  "asn": 59196,
+  "metadata": {
+    "handle": "FBNET",
+    "description": "FUTURE NETSANCHAR LIMITED",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

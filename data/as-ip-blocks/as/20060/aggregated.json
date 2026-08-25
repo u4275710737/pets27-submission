@@ -1,0 +1,14 @@
+{
+  "asn": 20060,
+  "metadata": {
+    "handle": "CSC-FS",
+    "description": "DXC US Latin America Corporation",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

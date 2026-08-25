@@ -1,0 +1,4 @@
+# AS198423 (RESOLV-AS)
+# Resolv SARL
+#
+192.41.216.0/24

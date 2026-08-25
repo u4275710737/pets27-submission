@@ -1,0 +1,16 @@
+{
+  "asn": 265085,
+  "metadata": {
+    "handle": "LINFORTEL-INTERNET",
+    "description": "Linfortel Internet Ltda",
+    "countryCode": "BR",
+    "country": "Brazil",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "170.233.24.0/22" ],
+    "ipv6": [ "2804:3290::/32" ]
+  }
+}

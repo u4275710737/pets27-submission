@@ -1,0 +1,14 @@
+{
+  "asn": 204005,
+  "metadata": {
+    "handle": "NITRINNET",
+    "description": "Mats Fischer",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 31302,
+  "metadata": {
+    "handle": "TSRV",
+    "description": "JSC ER-Telecom Holding",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

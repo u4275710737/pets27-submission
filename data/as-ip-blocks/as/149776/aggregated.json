@@ -1,0 +1,14 @@
+{
+  "asn": 149776,
+  "metadata": {
+    "handle": "CNSPL-AP",
+    "description": "Cactus Network Solutions (CNS) Pvt Ltd",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

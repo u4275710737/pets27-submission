@@ -1,0 +1,4 @@
+# AS31991 (PRPA)
+# Platte River Power Authority
+#
+129.19.6.0/24

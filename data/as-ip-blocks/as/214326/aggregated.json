@@ -1,0 +1,16 @@
+{
+  "asn": 214326,
+  "metadata": {
+    "handle": "PERGAUD-ERWAN",
+    "description": "PERGAUD Erwan",
+    "countryCode": "FR",
+    "country": "France",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "179.61.174.0/24" ],
+    "ipv6": [ "2a12:5844:1190::/44" ]
+  }
+}

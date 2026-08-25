@@ -1,0 +1,14 @@
+{
+  "asn": 38935,
+  "metadata": {
+    "handle": "FASTWEB-RO",
+    "description": "SC Fastweb SRL",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

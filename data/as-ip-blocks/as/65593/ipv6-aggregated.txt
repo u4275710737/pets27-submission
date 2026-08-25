@@ -1,0 +1,3 @@
+# AS65593 (VODAFONE-NET-ILETISIM)
+# Vodafone Net Iletisim Hizmetler AS
+#

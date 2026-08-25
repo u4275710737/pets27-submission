@@ -1,0 +1,14 @@
+{
+  "asn": 62693,
+  "metadata": {
+    "handle": "SPOTX-DEN",
+    "description": "SpotX, Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

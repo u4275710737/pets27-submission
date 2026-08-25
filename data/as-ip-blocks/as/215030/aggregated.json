@@ -1,0 +1,16 @@
+{
+  "asn": 215030,
+  "metadata": {
+    "handle": "ASPIREHOSTING",
+    "description": "Budankailu Namrata Patra trading as AspireHosting",
+    "countryCode": "IN",
+    "country": "India",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "82.41.64.0/24", "89.106.84.0/24" ],
+    "ipv6": [ ]
+  }
+}

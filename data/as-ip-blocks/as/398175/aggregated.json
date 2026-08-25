@@ -1,0 +1,14 @@
+{
+  "asn": 398175,
+  "metadata": {
+    "handle": "LARKSUITE",
+    "description": "LARK ENTERPRISE APPLICATIONS INC.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

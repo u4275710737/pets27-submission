@@ -1,0 +1,16 @@
+{
+  "asn": 213473,
+  "metadata": {
+    "handle": "KALAAM-KSA",
+    "description": "Kalaam Telecom for Communications LLC",
+    "countryCode": "SA",
+    "country": "Saudi Arabia",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "77.83.88.0/22", "77.92.160.0/21", "77.92.180.0/22", "185.225.56.0/22" ],
+    "ipv6": [ "2a14:e500::/29" ]
+  }
+}

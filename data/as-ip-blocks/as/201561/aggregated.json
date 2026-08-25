@@ -1,0 +1,14 @@
+{
+  "asn": 201561,
+  "metadata": {
+    "handle": "SLDX1-RIPE",
+    "description": "SOLIDEX Ltd.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

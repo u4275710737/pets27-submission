@@ -1,0 +1,14 @@
+{
+  "asn": 21501,
+  "metadata": {
+    "handle": "GODADDY-AMS",
+    "description": "Host Europe GmbH",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

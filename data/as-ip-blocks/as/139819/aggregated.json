@@ -1,0 +1,16 @@
+{
+  "asn": 139819,
+  "metadata": {
+    "handle": "RAA-AS-AP",
+    "description": "RAA INSURANCE LIMITED",
+    "countryCode": "AU",
+    "country": "Australia",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "203.33.186.0/23" ],
+    "ipv6": [ "2001:df0:466::/48" ]
+  }
+}

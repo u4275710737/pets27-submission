@@ -1,0 +1,14 @@
+{
+  "asn": 59070,
+  "metadata": {
+    "handle": "ZLDT",
+    "description": "Chengdu Zhongli Data Technology Co.,Ltd",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

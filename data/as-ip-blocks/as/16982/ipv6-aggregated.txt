@@ -1,0 +1,3 @@
+# AS16982 (CANONMI-ASN-MN)
+# Canon Medical Informatics Inc.
+#

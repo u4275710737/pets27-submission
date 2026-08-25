@@ -1,0 +1,16 @@
+{
+  "asn": 133153,
+  "metadata": {
+    "handle": "IPV4SUPERHUB",
+    "description": "IPv4 Superhub Limited",
+    "countryCode": "HK",
+    "country": "Hong Kong SAR China",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "82.22.39.0/24", "82.39.99.0/24", "82.39.212.0/22", "162.141.152.0/24", "193.254.244.0/23", "213.220.62.0/24" ],
+    "ipv6": [ ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "asn": 201846,
+  "metadata": {
+    "handle": "ROBERT-BOSCH-DE-T",
+    "description": "Robert Bosch Gesellschaft mit Beschraenkter Haftung",
+    "countryCode": "DE",
+    "country": "Germany",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "192.48.31.0/24" ],
+    "ipv6": [ ]
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 60658,
+  "metadata": {
+    "handle": "ULTRANET",
+    "description": "ULTRA.net Leszek Pekala",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

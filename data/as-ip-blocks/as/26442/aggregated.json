@@ -1,0 +1,14 @@
+{
+  "asn": 26442,
+  "metadata": {
+    "handle": "DNB-US",
+    "description": "The Dun & Bradstreet Corporation",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 8808,
+  "metadata": {
+    "handle": "MSTEL-NET",
+    "description": "NOVATEL EOOD",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

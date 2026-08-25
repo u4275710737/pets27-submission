@@ -1,0 +1,4 @@
+# AS197670 (LOVABLE-AS)
+# Lovable Labs Sweden AB
+#
+2a07:8242::/40

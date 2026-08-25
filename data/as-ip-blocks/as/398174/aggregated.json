@@ -1,0 +1,14 @@
+{
+  "asn": 398174,
+  "metadata": {
+    "handle": "IHC",
+    "description": "I Heard Corp",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

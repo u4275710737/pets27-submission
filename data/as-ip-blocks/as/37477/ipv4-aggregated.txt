@@ -1,0 +1,4 @@
+# AS37477 (MOZABANCO-AS)
+# MozaBanco Autonomous Systems Number
+#
+196.43.241.0/24

@@ -1,0 +1,4 @@
+# AS16666 (CABLEVISION-LIGHTPATH-LLC)
+# Cablevision Lightpath LLC
+#
+148.77.62.0/24

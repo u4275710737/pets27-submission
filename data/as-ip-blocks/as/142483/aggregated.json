@@ -1,0 +1,14 @@
+{
+  "asn": 142483,
+  "metadata": {
+    "handle": "CLBSBEED-IN",
+    "description": "CITYLINK INFRATECH PVT LTD",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 6190,
+  "metadata": {
+    "handle": "GSIC-WI",
+    "description": "Radial, Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

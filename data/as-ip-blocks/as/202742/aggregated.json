@@ -1,0 +1,14 @@
+{
+  "asn": 202742,
+  "metadata": {
+    "handle": "NAYSTRADE",
+    "description": "NAYS TRADE EOOD",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

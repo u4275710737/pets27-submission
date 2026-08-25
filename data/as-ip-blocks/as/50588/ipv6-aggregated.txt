@@ -1,0 +1,4 @@
+# AS50588 (FR-MAE)
+# Ministere De L'europe Et Des Affaires Etrangeres
+#
+2a12:f7c0::/29

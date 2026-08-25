@@ -1,0 +1,14 @@
+{
+  "asn": 54637,
+  "metadata": {
+    "handle": "SIMPLII-AS",
+    "description": "Simplii LLC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

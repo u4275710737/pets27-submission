@@ -1,0 +1,14 @@
+{
+  "asn": 42336,
+  "metadata": {
+    "handle": "BEELASTIC",
+    "description": "Alpha Swiss Network AG",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

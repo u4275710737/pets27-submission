@@ -1,0 +1,16 @@
+{
+  "asn": 206032,
+  "metadata": {
+    "handle": "COOP-PRONTO",
+    "description": "Coop Pronto AG",
+    "countryCode": "CH",
+    "country": "Switzerland",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "193.5.123.0/24" ],
+    "ipv6": [ ]
+  }
+}

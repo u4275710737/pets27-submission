@@ -1,0 +1,14 @@
+{
+  "asn": 206607,
+  "metadata": {
+    "handle": "NEXUS-BYTES",
+    "description": "Nexus Bytes LLC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

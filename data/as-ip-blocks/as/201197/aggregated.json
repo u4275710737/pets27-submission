@@ -1,0 +1,14 @@
+{
+  "asn": 201197,
+  "metadata": {
+    "handle": "CELIANETWORKS",
+    "description": "Shingo HATTORI",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

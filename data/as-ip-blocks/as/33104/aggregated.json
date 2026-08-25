@@ -1,0 +1,14 @@
+{
+  "asn": 33104,
+  "metadata": {
+    "handle": "AS769",
+    "description": "hostdaz LLC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

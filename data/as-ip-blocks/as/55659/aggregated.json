@@ -1,0 +1,14 @@
+{
+  "asn": 55659,
+  "metadata": {
+    "handle": "OD-IX-ID",
+    "description": "PT Omadata Indonesia (OMADATA Internet Exchange)",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 9497,
+  "metadata": {
+    "handle": "DIGITELONE",
+    "description": "Digital Telecommunications Philippines, Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

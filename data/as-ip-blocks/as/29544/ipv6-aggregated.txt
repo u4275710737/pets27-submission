@@ -1,0 +1,4 @@
+# AS29544 (MAURITEL-AS)
+# Mauritanian Telecommunication Company
+#
+2c0f:f998::/32

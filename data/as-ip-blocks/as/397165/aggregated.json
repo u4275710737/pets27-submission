@@ -1,0 +1,14 @@
+{
+  "asn": 397165,
+  "metadata": {
+    "handle": "EPICUP-CHANDLER",
+    "description": "EpicUp Holdings Inc",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

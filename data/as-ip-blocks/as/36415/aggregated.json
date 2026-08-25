@@ -1,0 +1,16 @@
+{
+  "asn": 36415,
+  "metadata": {
+    "handle": "HUNGKUK-AS",
+    "description": "Hungkuk Life Insurance Co..LTD.",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "12.23.60.0/24" ],
+    "ipv6": [ ]
+  }
+}

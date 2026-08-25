@@ -1,0 +1,5 @@
+# AS153717 (IDNIC-DLD-AS-ID)
+# PT Diaza Lintas Data
+#
+31.58.59.0/24
+163.223.142.0/23

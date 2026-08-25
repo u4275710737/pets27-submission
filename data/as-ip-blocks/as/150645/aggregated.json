@@ -1,0 +1,16 @@
+{
+  "asn": 150645,
+  "metadata": {
+    "handle": "AIRFIBER1-AS-IN",
+    "description": "AIRFIBER BROADBAND SERVICES",
+    "countryCode": "IN",
+    "country": "India",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ ]
+  }
+}

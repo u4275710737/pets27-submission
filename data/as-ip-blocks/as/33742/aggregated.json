@@ -1,0 +1,14 @@
+{
+  "asn": 33742,
+  "metadata": {
+    "handle": "TELX-SFO",
+    "description": "Telx",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

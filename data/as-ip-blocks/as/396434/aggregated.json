@@ -1,0 +1,14 @@
+{
+  "asn": 396434,
+  "metadata": {
+    "handle": "SAP-DC-TO",
+    "description": "SAP America Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

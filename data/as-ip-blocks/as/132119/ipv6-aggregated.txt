@@ -1,0 +1,4 @@
+# AS132119 (BNP-PARIBAS-AP)
+# AS for BNP Paribas JP Ltd
+#
+2001:df5:12c0::/48

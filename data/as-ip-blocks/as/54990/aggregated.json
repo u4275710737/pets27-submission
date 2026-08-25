@@ -1,0 +1,16 @@
+{
+  "asn": 54990,
+  "metadata": {
+    "handle": "AS-1337",
+    "description": "1337 LLC",
+    "countryCode": "KN",
+    "country": "St. Kitts & Nevis",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "185.193.124.0/24" ],
+    "ipv6": [ "2001:67c:235c::/48" ]
+  }
+}

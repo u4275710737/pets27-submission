@@ -1,0 +1,16 @@
+{
+  "asn": 212306,
+  "metadata": {
+    "handle": "BYTEBLISS-SOLUTIONS",
+    "description": "Hemant Singh Taratiya trading as BYTEBLISS SOLUTIONS",
+    "countryCode": "IN",
+    "country": "India",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "77.107.95.0/24" ],
+    "ipv6": [ ]
+  }
+}

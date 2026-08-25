@@ -1,0 +1,14 @@
+{
+  "asn": 8148,
+  "metadata": {
+    "handle": "SOURCEWELL",
+    "description": "Sourcewell",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

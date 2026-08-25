@@ -1,0 +1,16 @@
+{
+  "asn": 198678,
+  "metadata": {
+    "handle": "DELOSCLOUD",
+    "description": "Delos Cloud GmbH",
+    "countryCode": "DE",
+    "country": "Germany",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "123.2.0.0/15", "142.221.0.0/16", "161.37.0.0/16", "168.86.0.0/17" ],
+    "ipv6": [ "2a07:3040::/32" ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "asn": 11600,
+  "metadata": {
+    "handle": "PARALLAX",
+    "description": "Parallax Services LLC",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "208.88.69.0/24" ],
+    "ipv6": [ "2602:f44f::/48" ]
+  }
+}

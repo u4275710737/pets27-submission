@@ -1,0 +1,14 @@
+{
+  "asn": 63381,
+  "metadata": {
+    "handle": "SUNESYS3",
+    "description": "Sunesys, LLC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

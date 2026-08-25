@@ -1,0 +1,16 @@
+{
+  "asn": 205924,
+  "metadata": {
+    "handle": "LIMOENGROEN",
+    "description": "Limoengroen BV",
+    "countryCode": "BE",
+    "country": "Belgium",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "38.210.122.0/24" ],
+    "ipv6": [ ]
+  }
+}

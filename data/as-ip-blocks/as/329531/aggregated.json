@@ -1,0 +1,16 @@
+{
+  "asn": 329531,
+  "metadata": {
+    "handle": "TALKIO-MOBILE-LTD",
+    "description": "TALKIO MOBILE LTD",
+    "countryCode": "UG",
+    "country": "Uganda",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "102.205.244.0/22" ],
+    "ipv6": [ ]
+  }
+}

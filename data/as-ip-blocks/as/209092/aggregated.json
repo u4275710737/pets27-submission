@@ -1,0 +1,14 @@
+{
+  "asn": 209092,
+  "metadata": {
+    "handle": "EVTECH",
+    "description": "SNCF Connect & Tech Services SASU",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

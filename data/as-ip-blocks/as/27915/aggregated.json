@@ -1,0 +1,16 @@
+{
+  "asn": 27915,
+  "metadata": {
+    "handle": "PROCESSING-CENTER",
+    "description": "Processing Center S.A.",
+    "countryCode": "PA",
+    "country": "Panama",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "201.218.232.0/24" ],
+    "ipv6": [ ]
+  }
+}

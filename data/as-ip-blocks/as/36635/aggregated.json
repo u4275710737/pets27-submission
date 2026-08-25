@@ -1,0 +1,14 @@
+{
+  "asn": 36635,
+  "metadata": {
+    "handle": "PECHANGA",
+    "description": "PECHANGA ENTERTAINMENT CENTER",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

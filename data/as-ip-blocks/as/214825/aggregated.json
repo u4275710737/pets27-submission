@@ -1,0 +1,14 @@
+{
+  "asn": 214825,
+  "metadata": {
+    "handle": "SUSANTO-AS",
+    "description": "SUSANTO",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

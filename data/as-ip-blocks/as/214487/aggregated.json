@@ -1,0 +1,16 @@
+{
+  "asn": 214487,
+  "metadata": {
+    "handle": "WEDEPLOY",
+    "description": "WEDEPLOY Piotr Chrostek",
+    "countryCode": "PL",
+    "country": "Poland",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "185.216.173.0/24" ],
+    "ipv6": [ ]
+  }
+}

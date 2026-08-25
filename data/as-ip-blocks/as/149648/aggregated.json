@@ -1,0 +1,14 @@
+{
+  "asn": 149648,
+  "metadata": {
+    "handle": "IRINN-AWSPL-AS-IN",
+    "description": "ARJUN WIRELESS SOLUTIONS PRIVATE LIMITED",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

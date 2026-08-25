@@ -1,0 +1,5 @@
+# AS41521 (BBP)
+# Finastra Switzerland GmbH
+#
+194.209.55.0/24
+194.209.69.0/24

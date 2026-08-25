@@ -1,0 +1,14 @@
+{
+  "asn": 21638,
+  "metadata": {
+    "handle": "PRINCESS-COM",
+    "description": "Princess Cruises Lines, Ltd.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

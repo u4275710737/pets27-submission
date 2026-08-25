@@ -1,0 +1,14 @@
+{
+  "asn": 22108,
+  "metadata": {
+    "handle": "RESEARCH-INT",
+    "description": "TNS UK Limited",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

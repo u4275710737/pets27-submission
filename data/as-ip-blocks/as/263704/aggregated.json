@@ -1,0 +1,16 @@
+{
+  "asn": 263704,
+  "metadata": {
+    "handle": "VELOSTAR-CANEPA",
+    "description": "VELOSTAR-CANEPA",
+    "countryCode": "AR",
+    "country": "Argentina",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "138.185.204.0/22" ],
+    "ipv6": [ ]
+  }
+}

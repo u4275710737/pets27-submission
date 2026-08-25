@@ -1,0 +1,14 @@
+{
+  "asn": 50117,
+  "metadata": {
+    "handle": "PARTNERS-GROUP",
+    "description": "Partners Group AG",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

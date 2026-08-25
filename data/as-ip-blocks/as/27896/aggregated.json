@@ -1,0 +1,14 @@
+{
+  "asn": 27896,
+  "metadata": {
+    "handle": "TRILOGY-DOMINICANA-SA",
+    "description": "Trilogy Dominicana, S.A.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

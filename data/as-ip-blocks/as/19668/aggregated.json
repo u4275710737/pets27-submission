@@ -1,0 +1,14 @@
+{
+  "asn": 19668,
+  "metadata": {
+    "handle": "PRICEWATERHOUSECOOPERS-MSO",
+    "description": "PriceWaterhouseCoopers, LLP",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

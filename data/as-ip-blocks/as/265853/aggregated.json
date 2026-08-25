@@ -1,0 +1,14 @@
+{
+  "asn": 265853,
+  "metadata": {
+    "handle": "SGC",
+    "description": "SGC S.A.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

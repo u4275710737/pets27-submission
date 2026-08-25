@@ -1,0 +1,5 @@
+# AS40035 (HASTINGS-INSURANCE-CO)
+# Hastings Insurance Company
+#
+2620:a7:c000::/47
+2620:a7:c004::/47

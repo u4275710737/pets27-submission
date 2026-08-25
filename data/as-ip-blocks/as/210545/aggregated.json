@@ -1,0 +1,14 @@
+{
+  "asn": 210545,
+  "metadata": {
+    "handle": "RTXIT",
+    "description": "RTX-iT B.V.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

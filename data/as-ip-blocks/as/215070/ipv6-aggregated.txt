@@ -1,0 +1,5 @@
+# AS215070 (AS-WILDBERRIES-BY)
+# LLC Wildberries
+#
+2a03:720:60::/48
+2a03:720:1060::/48

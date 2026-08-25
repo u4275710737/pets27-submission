@@ -1,0 +1,14 @@
+{
+  "asn": 11882,
+  "metadata": {
+    "handle": "WELLCARE-INET1",
+    "description": "Centene Corporation",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

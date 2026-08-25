@@ -1,0 +1,14 @@
+{
+  "asn": 40937,
+  "metadata": {
+    "handle": "I3LOGIX",
+    "description": "i3logix, Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

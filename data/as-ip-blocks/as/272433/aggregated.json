@@ -1,0 +1,14 @@
+{
+  "asn": 272433,
+  "metadata": {
+    "handle": "START-NET-TELECOMUNICACOES",
+    "description": "START NET TELECOMUNICACOES LTDA",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "asn": 152098,
+  "metadata": {
+    "handle": "HEXAZN-AS-AP",
+    "description": "Hexazn",
+    "countryCode": "BD",
+    "country": "Bangladesh",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "36.50.40.0/23", "155.35.35.0/24" ],
+    "ipv6": [ "2001:df3:1ec0::/48" ]
+  }
+}

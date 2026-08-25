@@ -1,0 +1,14 @@
+{
+  "asn": 27573,
+  "metadata": {
+    "handle": "OSLA-AS-1",
+    "description": "OKLAHOMA STUDENT LOAN AUTHORITY",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

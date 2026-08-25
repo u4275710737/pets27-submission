@@ -1,0 +1,5 @@
+# AS136715 (DSCN-AS)
+# Datasoft Comnet Pvt Ltd
+#
+103.100.201.0/24
+163.61.139.0/24

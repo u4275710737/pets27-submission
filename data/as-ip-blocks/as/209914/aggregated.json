@@ -1,0 +1,14 @@
+{
+  "asn": 209914,
+  "metadata": {
+    "handle": "AFANASEV",
+    "description": "FOP AFANASEV",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

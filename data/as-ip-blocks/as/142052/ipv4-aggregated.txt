@@ -1,0 +1,4 @@
+# AS142052 (MEMPOOLSPACEKK-AS-AP)
+# Mempool Space K.K.
+#
+103.165.192.0/23

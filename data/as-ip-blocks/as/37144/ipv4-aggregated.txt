@@ -1,0 +1,4 @@
+# AS37144 (AS37144)
+# ValuCard Nigeria AS
+#
+196.46.20.0/24

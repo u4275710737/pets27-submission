@@ -1,0 +1,14 @@
+{
+  "asn": 272596,
+  "metadata": {
+    "handle": "G5-PROVEDORES",
+    "description": "G5 provedores",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

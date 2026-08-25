@@ -1,0 +1,4 @@
+# AS264493 (CABO-TELECOM)
+# Cabo Telecom (TECNET)
+#
+131.255.156.0/22

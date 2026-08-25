@@ -1,0 +1,14 @@
+{
+  "asn": 214627,
+  "metadata": {
+    "handle": "MERSEYFIBRE",
+    "description": "Mersey Fibre Limited",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

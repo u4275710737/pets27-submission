@@ -1,0 +1,4 @@
+# AS63752 (PTO-KHCN-VN)
+# Department of Science and Technology of Phu Tho province
+#
+103.211.212.0/22

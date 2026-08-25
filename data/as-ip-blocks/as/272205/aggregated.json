@@ -1,0 +1,14 @@
+{
+  "asn": 272205,
+  "metadata": {
+    "handle": "LLEVON-INFORMATICA",
+    "description": "LLEVON INFORMATICA LTDA",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

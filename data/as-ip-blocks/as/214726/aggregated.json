@@ -1,0 +1,16 @@
+{
+  "asn": 214726,
+  "metadata": {
+    "handle": "ESTRADIOL",
+    "description": "Rowan Cooney",
+    "countryCode": "AU",
+    "country": "Australia",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ ]
+  }
+}

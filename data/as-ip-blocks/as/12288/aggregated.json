@@ -1,0 +1,16 @@
+{
+  "asn": 12288,
+  "metadata": {
+    "handle": "P2P-NETS-FOR",
+    "description": "P2P nets for Verizon end customers in Germany",
+    "countryCode": "DE",
+    "country": "Germany",
+    "origin": "inferred",
+    "category": null,
+    "networkRole": null
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ ]
+  }
+}

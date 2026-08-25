@@ -1,0 +1,14 @@
+{
+  "asn": 20921,
+  "metadata": {
+    "handle": "AMENA-AS",
+    "description": "Orange Espagne SA",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

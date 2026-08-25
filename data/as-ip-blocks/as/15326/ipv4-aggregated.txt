@@ -1,0 +1,5 @@
+# AS15326 (HIGHERSPEED)
+# Higherspeed Internet
+#
+23.128.32.0/24
+38.71.122.0/24

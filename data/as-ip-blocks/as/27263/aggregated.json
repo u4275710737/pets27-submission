@@ -1,0 +1,16 @@
+{
+  "asn": 27263,
+  "metadata": {
+    "handle": "AVONNET",
+    "description": "NATURA &Co UK HOLDINGS LIMITED",
+    "countryCode": "GB",
+    "country": "United Kingdom",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "134.65.160.0/22", "134.65.200.0/22" ],
+    "ipv6": [ ]
+  }
+}

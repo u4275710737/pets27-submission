@@ -1,0 +1,14 @@
+{
+  "asn": 214129,
+  "metadata": {
+    "handle": "ASN",
+    "description": "Cilveks. Vide. Darbs. Association",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

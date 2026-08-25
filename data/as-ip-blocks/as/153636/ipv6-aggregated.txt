@@ -1,0 +1,4 @@
+# AS153636 (IDNIC-EIS-AS-ID)
+# PT Erzar Inti Solusi
+#
+2001:df5:940::/48

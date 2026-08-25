@@ -1,0 +1,14 @@
+{
+  "asn": 38546,
+  "metadata": {
+    "handle": "CONJOINIX",
+    "description": "CONJOINIX TECHNOLOGIES PVT. LTD.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

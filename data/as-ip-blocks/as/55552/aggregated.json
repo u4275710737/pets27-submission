@@ -1,0 +1,14 @@
+{
+  "asn": 55552,
+  "metadata": {
+    "handle": "NETWORK-BOX-HK",
+    "description": "Network Box Corporation Ltd.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

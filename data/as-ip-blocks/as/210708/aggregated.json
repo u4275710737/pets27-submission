@@ -1,0 +1,16 @@
+{
+  "asn": 210708,
+  "metadata": {
+    "handle": "FENIKSNET",
+    "description": "Feniks internet ve iletisim hiz.san.tic.ltd.",
+    "countryCode": "TR",
+    "country": "Türkiye",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "79.110.233.0/24" ],
+    "ipv6": [ ]
+  }
+}

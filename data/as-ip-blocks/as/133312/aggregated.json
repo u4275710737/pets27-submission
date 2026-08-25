@@ -1,0 +1,14 @@
+{
+  "asn": 133312,
+  "metadata": {
+    "handle": "LALCO-AS",
+    "description": "LALCO PRIVATE LIMITED",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

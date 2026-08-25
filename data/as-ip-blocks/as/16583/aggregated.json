@@ -1,0 +1,16 @@
+{
+  "asn": 16583,
+  "metadata": {
+    "handle": "CFCS",
+    "description": "Care Factor Computer Services Inc",
+    "countryCode": "CA",
+    "country": "Canada",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "access_provider"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ ]
+  }
+}

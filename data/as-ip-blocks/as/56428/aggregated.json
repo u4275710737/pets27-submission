@@ -1,0 +1,14 @@
+{
+  "asn": 56428,
+  "metadata": {
+    "handle": "SANNET-AS",
+    "description": "PE Chuev Alexandr Anatolyevich",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,4 @@
+# AS33236 (AS33236)
+# Hood River Electric Cooperative
+#
+2606:efc0::/32

@@ -1,0 +1,14 @@
+{
+  "asn": 57482,
+  "metadata": {
+    "handle": "SMP-AS",
+    "description": "PJSC Promsvyazbank",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

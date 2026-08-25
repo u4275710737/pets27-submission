@@ -1,0 +1,14 @@
+{
+  "asn": 152331,
+  "metadata": {
+    "handle": "LEMON-AP",
+    "description": "LEMON TELECOMMUNICATIONS LIMITED",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

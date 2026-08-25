@@ -1,0 +1,16 @@
+{
+  "asn": 271697,
+  "metadata": {
+    "handle": "RS-ROSA",
+    "description": "R.S ROSA - ME",
+    "countryCode": "BR",
+    "country": "Brazil",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "187.111.117.0/24", "187.111.119.0/24" ],
+    "ipv6": [ ]
+  }
+}

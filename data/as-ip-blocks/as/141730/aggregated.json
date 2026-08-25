@@ -1,0 +1,16 @@
+{
+  "asn": 141730,
+  "metadata": {
+    "handle": "PTANPI-AS-AP",
+    "description": "Pacific Technologies and Network Philippines Incorporation",
+    "countryCode": "PH",
+    "country": "Philippines",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "103.161.0.0/24", "167.179.230.0/24" ],
+    "ipv6": [ ]
+  }
+}

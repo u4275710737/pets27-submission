@@ -1,0 +1,14 @@
+{
+  "asn": 16439,
+  "metadata": {
+    "handle": "AMTRAK-IB",
+    "description": "Amtrak",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

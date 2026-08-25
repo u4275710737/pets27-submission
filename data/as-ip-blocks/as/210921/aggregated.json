@@ -1,0 +1,14 @@
+{
+  "asn": 210921,
+  "metadata": {
+    "handle": "FLORIAN-MIFSUD",
+    "description": "Florian Mifsud",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

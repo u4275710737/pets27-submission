@@ -1,0 +1,14 @@
+{
+  "asn": 215560,
+  "metadata": {
+    "handle": "HOSTINGSELLING",
+    "description": "Hosting Selling Limited",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

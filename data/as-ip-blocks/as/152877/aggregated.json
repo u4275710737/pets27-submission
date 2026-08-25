@@ -1,0 +1,16 @@
+{
+  "asn": 152877,
+  "metadata": {
+    "handle": "NIN",
+    "description": "Nintendo Co. Ltd",
+    "countryCode": "JP",
+    "country": "Japan",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "151.158.220.0/23" ],
+    "ipv6": [ "2402:4ee0::/48", "2402:4ee0:100::/48" ]
+  }
+}

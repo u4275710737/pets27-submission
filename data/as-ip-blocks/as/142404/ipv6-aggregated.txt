@@ -1,0 +1,5 @@
+# AS142404 (CHINANET-AS-AP)
+# China Telecom
+#
+240e:926:3000::/36
+240e:981:8200::/40

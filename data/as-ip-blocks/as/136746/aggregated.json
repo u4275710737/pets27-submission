@@ -1,0 +1,14 @@
+{
+  "asn": 136746,
+  "metadata": {
+    "handle": "XRCLOUDNETINC-AP",
+    "description": "XRCLOUD.NET INC.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

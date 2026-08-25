@@ -1,0 +1,14 @@
+{
+  "asn": 54090,
+  "metadata": {
+    "handle": "ATL01",
+    "description": "KONGE TECH CORP",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

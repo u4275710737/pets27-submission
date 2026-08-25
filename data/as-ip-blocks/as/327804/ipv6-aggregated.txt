@@ -1,0 +1,4 @@
+# AS327804 (TRUSC)
+# TRUSC ISP
+#
+2c0f:f050::/32

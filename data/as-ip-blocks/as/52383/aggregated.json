@@ -1,0 +1,14 @@
+{
+  "asn": 52383,
+  "metadata": {
+    "handle": "COOPERATIVA-ELCTRICA-AZUL",
+    "description": "Cooperativa Elctrica de Azul Ltda.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

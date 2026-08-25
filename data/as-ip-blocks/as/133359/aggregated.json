@@ -1,0 +1,14 @@
+{
+  "asn": 133359,
+  "metadata": {
+    "handle": "IDNIC-ERUDEYE-ID",
+    "description": "PT. Erudeye Indonesia",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 147123,
+  "metadata": {
+    "handle": "IDNIC-HCP-ID",
+    "description": "PT Hablun Citramas Persada",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

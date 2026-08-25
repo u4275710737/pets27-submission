@@ -1,0 +1,14 @@
+{
+  "asn": 33267,
+  "metadata": {
+    "handle": "JMC-FRB",
+    "description": "JPMorgan Chase & Co.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

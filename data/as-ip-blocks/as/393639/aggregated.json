@@ -1,0 +1,14 @@
+{
+  "asn": 393639,
+  "metadata": {
+    "handle": "ONG-IVDESK",
+    "description": "TheIPGuys.Net, LLC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

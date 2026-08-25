@@ -1,0 +1,14 @@
+{
+  "asn": 200705,
+  "metadata": {
+    "handle": "NETSUITE-EU",
+    "description": "Oracle Svenska AB",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

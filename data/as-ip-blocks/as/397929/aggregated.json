@@ -1,0 +1,14 @@
+{
+  "asn": 397929,
+  "metadata": {
+    "handle": "DD-ASN-01",
+    "description": "ADT LLC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

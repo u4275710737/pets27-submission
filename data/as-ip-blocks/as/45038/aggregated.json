@@ -1,0 +1,14 @@
+{
+  "asn": 45038,
+  "metadata": {
+    "handle": "WALLATASN",
+    "description": "Sebastian Wallat",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

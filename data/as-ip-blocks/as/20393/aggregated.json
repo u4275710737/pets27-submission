@@ -1,0 +1,14 @@
+{
+  "asn": 20393,
+  "metadata": {
+    "handle": "BEANSTALK",
+    "description": "Beanstalk Networks",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

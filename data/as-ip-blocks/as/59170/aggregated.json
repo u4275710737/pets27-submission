@@ -1,0 +1,16 @@
+{
+  "asn": 59170,
+  "metadata": {
+    "handle": "WALLDEPOT-AS",
+    "description": "Wall Depot Telecom Sevices Ltd",
+    "countryCode": "IN",
+    "country": "India",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "45.113.76.0/24" ],
+    "ipv6": [ ]
+  }
+}

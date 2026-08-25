@@ -1,0 +1,14 @@
+{
+  "asn": 216085,
+  "metadata": {
+    "handle": "HACHIMI-NET",
+    "description": "Hachimi Network Technology Co., Limited",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

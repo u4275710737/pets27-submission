@@ -1,0 +1,7 @@
+# AS197422 (TETANEUTRAL-NET-AS)
+# Tetaneutral.net Association declaree
+#
+2001:678:3fc::/48
+2001:67c:2608::/48
+2a00:9a00::/29
+2a03:7220::/32

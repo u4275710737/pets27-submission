@@ -1,0 +1,16 @@
+{
+  "asn": 329600,
+  "metadata": {
+    "handle": "ELEGANT-TELEKOM",
+    "description": "Elegant Telekom Limited",
+    "countryCode": "KE",
+    "country": "Kenya",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ ]
+  }
+}

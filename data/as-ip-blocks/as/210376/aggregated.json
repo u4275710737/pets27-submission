@@ -1,0 +1,14 @@
+{
+  "asn": 210376,
+  "metadata": {
+    "handle": "STARCHILDSYSTEMS",
+    "description": "Matteo Bertucci",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

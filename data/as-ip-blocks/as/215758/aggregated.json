@@ -1,0 +1,14 @@
+{
+  "asn": 215758,
+  "metadata": {
+    "handle": "LYDIANSTONE",
+    "description": "Lydian Stone Limited",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

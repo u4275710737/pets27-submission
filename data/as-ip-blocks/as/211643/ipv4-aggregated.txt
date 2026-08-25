@@ -1,0 +1,4 @@
+# AS211643 (SIXPG-AS)
+# six point media GmbH
+#
+193.32.128.0/22

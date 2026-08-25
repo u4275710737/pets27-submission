@@ -1,0 +1,14 @@
+{
+  "asn": 394412,
+  "metadata": {
+    "handle": "ROYALUNITED",
+    "description": "Royal United Mortgage, LLC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

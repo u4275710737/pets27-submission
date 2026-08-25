@@ -1,0 +1,14 @@
+{
+  "asn": 10650,
+  "metadata": {
+    "handle": "EXTREME",
+    "description": "Extreme Internet",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

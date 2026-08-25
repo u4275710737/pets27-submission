@@ -1,0 +1,16 @@
+{
+  "asn": 198540,
+  "metadata": {
+    "handle": "ASN-RASIROM",
+    "description": "Rasirom RA",
+    "countryCode": "RO",
+    "country": "Romania",
+    "origin": "authoritative",
+    "category": "government_admin",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "92.83.65.0/24" ],
+    "ipv6": [ ]
+  }
+}

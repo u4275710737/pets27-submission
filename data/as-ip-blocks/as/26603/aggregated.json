@@ -1,0 +1,14 @@
+{
+  "asn": 26603,
+  "metadata": {
+    "handle": "TELMEX-COLOMBIA",
+    "description": "Telmex Colombia S.A.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

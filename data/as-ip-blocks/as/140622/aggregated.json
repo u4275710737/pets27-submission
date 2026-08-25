@@ -1,0 +1,14 @@
+{
+  "asn": 140622,
+  "metadata": {
+    "handle": "NHVR-AS-AP",
+    "description": "NHVR",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

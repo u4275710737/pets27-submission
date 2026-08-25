@@ -1,0 +1,16 @@
+{
+  "asn": 198084,
+  "metadata": {
+    "handle": "ORBICOM",
+    "description": "Orbicom LLP",
+    "countryCode": "KZ",
+    "country": "Kazakhstan",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "midsize_transit"
+  },
+  "prefixes": {
+    "ipv4": [ "194.32.212.0/24" ],
+    "ipv6": [ "2a0e:7bc0::/29" ]
+  }
+}

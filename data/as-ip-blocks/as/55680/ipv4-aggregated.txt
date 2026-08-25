@@ -1,0 +1,5 @@
+# AS55680 (KSI-UAJY-AS-ID)
+# Kantor Sistem Informasi Universitas Atma Jaya Yogyakarta
+#
+103.60.234.0/23
+202.14.92.0/23

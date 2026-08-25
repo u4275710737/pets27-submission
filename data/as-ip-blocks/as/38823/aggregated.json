@@ -1,0 +1,14 @@
+{
+  "asn": 38823,
+  "metadata": {
+    "handle": "CASPO-AS-AP",
+    "description": "Caspo Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

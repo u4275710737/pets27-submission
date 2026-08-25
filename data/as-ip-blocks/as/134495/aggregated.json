@@ -1,0 +1,14 @@
+{
+  "asn": 134495,
+  "metadata": {
+    "handle": "ERIS-AP",
+    "description": "Eris",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

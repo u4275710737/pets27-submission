@@ -1,0 +1,14 @@
+{
+  "asn": 53781,
+  "metadata": {
+    "handle": "HHE",
+    "description": "MillerKnoll, Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

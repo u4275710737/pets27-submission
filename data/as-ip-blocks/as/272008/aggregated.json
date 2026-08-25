@@ -1,0 +1,14 @@
+{
+  "asn": 272008,
+  "metadata": {
+    "handle": "TELECABLE-CENTRAL-NETWORK",
+    "description": "TELECABLE CENTRAL NETWORK SOCIEDAD ANONIMA CERRADA",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

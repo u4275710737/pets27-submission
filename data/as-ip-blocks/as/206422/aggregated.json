@@ -1,0 +1,14 @@
+{
+  "asn": 206422,
+  "metadata": {
+    "handle": "IN2TEL-BT",
+    "description": "In2com Limited",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

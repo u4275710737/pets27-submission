@@ -1,0 +1,14 @@
+{
+  "asn": 134834,
+  "metadata": {
+    "handle": "IHIPL-AP",
+    "description": "IMS Health India Pvt Ltd",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

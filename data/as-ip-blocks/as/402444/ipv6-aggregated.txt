@@ -1,0 +1,4 @@
+# AS402444 (LUMMI-NATION-CONNECT)
+# Lummi Nation Connect
+#
+2606:1480::/32

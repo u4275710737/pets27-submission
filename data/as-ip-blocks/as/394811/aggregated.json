@@ -1,0 +1,14 @@
+{
+  "asn": 394811,
+  "metadata": {
+    "handle": "HFASERVICES",
+    "description": "HFA Specialty Assets LLC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

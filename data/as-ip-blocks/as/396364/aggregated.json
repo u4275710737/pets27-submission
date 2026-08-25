@@ -1,0 +1,14 @@
+{
+  "asn": 396364,
+  "metadata": {
+    "handle": "WALSH-UNIVERTSITY",
+    "description": "Walsh University",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "asn": 45607,
+  "metadata": {
+    "handle": "BTCL-SATELLITE-AS",
+    "description": "Bangladesh Telegraph & Telephone Board",
+    "countryCode": "BD",
+    "country": "Bangladesh",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "123.49.56.0/24" ],
+    "ipv6": [ ]
+  }
+}

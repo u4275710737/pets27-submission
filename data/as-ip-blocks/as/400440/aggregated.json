@@ -1,0 +1,14 @@
+{
+  "asn": 400440,
+  "metadata": {
+    "handle": "EMPIRX-HEALTH",
+    "description": "EmpiRx Health LLC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

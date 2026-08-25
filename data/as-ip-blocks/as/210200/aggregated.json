@@ -1,0 +1,14 @@
+{
+  "asn": 210200,
+  "metadata": {
+    "handle": "CLOUDLITE",
+    "description": "Data Storage Center JSC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 140720,
+  "metadata": {
+    "handle": "UNICOM-JSNT-IDC",
+    "description": "China Unicom",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

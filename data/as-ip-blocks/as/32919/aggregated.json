@@ -1,0 +1,14 @@
+{
+  "asn": 32919,
+  "metadata": {
+    "handle": "ISP-PROMESA",
+    "description": "Promesa Enterprises Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

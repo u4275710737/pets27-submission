@@ -1,0 +1,16 @@
+{
+  "asn": 12237,
+  "metadata": {
+    "handle": "APPTIO",
+    "description": "IBM",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [
+      "160.202.136.0/24"
+    ],
+    "ipv6": []
+  }
+}

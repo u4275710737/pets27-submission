@@ -1,0 +1,14 @@
+{
+  "asn": 212742,
+  "metadata": {
+    "handle": "AS48678",
+    "description": "PENTECH BILISIM TEKNOLOJILERI SANAYI VE TICARET LIMITED SIRKETi",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

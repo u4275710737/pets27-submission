@@ -1,0 +1,14 @@
+{
+  "asn": 206315,
+  "metadata": {
+    "handle": "SHUCHENG",
+    "description": "Shucheng Li",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

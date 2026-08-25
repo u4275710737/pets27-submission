@@ -1,0 +1,14 @@
+{
+  "asn": 35804,
+  "metadata": {
+    "handle": "AL",
+    "description": "PP SKS-LUGAN",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

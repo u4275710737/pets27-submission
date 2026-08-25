@@ -1,0 +1,14 @@
+{
+  "asn": 16245,
+  "metadata": {
+    "handle": "NGDC",
+    "description": "Sentia Denmark A/S",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "asn": 395164,
+  "metadata": {
+    "handle": "AS-RIPE-NCC",
+    "description": "RIPE-NCC NETWORKS",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "192.16.75.0/24" ],
+    "ipv6": [ ]
+  }
+}

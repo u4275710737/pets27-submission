@@ -1,0 +1,14 @@
+{
+  "asn": 394141,
+  "metadata": {
+    "handle": "ROCKET-FIBER",
+    "description": "Rocket Fiber",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

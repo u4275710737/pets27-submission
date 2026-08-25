@@ -1,0 +1,14 @@
+{
+  "asn": 2714,
+  "metadata": {
+    "handle": "GSA-GOV",
+    "description": "General Services Administration",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

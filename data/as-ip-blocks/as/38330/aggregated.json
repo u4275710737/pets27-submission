@@ -1,0 +1,14 @@
+{
+  "asn": 38330,
+  "metadata": {
+    "handle": "ANYCAST-GLOBAL-BACKBONE",
+    "description": "Anycast Holdings Pty Ltd",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

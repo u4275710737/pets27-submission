@@ -1,0 +1,14 @@
+{
+  "asn": 2554,
+  "metadata": {
+    "handle": "IDC",
+    "description": "IDC Frontier Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

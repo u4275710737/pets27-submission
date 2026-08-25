@@ -1,0 +1,16 @@
+{
+  "asn": 52438,
+  "metadata": {
+    "handle": "PLANISYS",
+    "description": "PLANISYS S.A.",
+    "countryCode": "AR",
+    "country": "Argentina",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "131.108.40.0/22", "179.63.248.0/22", "185.180.8.0/22", "190.185.104.0/22" ],
+    "ipv6": [ "2803:bc00::/39" ]
+  }
+}

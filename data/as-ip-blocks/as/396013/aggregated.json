@@ -1,0 +1,14 @@
+{
+  "asn": 396013,
+  "metadata": {
+    "handle": "HYATT-CORP2",
+    "description": "Hyatt Corporation",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

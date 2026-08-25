@@ -1,0 +1,14 @@
+{
+  "asn": 47105,
+  "metadata": {
+    "handle": "AS-VD",
+    "description": "Vault Dweller OU",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

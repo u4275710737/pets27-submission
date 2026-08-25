@@ -1,0 +1,5 @@
+# AS54305 (ALLACCESSTC)
+# All Access Telecom Inc.
+#
+199.83.80.0/23
+199.83.82.0/24

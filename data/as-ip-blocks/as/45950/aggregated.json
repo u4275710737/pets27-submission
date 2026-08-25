@@ -1,0 +1,14 @@
+{
+  "asn": 45950,
+  "metadata": {
+    "handle": "GMI-AS-AP",
+    "description": "Gareth Morgan Investments",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

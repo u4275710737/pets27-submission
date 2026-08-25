@@ -1,0 +1,16 @@
+{
+  "asn": 208700,
+  "metadata": {
+    "handle": "QC-BG",
+    "description": "QUAD CODE (GB) LTD",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [
+      "62.192.155.0/24"
+    ],
+    "ipv6": []
+  }
+}

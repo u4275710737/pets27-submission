@@ -1,0 +1,14 @@
+{
+  "asn": 50492,
+  "metadata": {
+    "handle": "MTCONNECT",
+    "description": "Modern Technologies of Connection Ltd.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 149338,
+  "metadata": {
+    "handle": "IDNIC-JENDELATI-AS-ID",
+    "description": "CV Jendela Teknologi Indonesia",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

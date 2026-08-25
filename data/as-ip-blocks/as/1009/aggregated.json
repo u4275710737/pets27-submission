@@ -1,0 +1,16 @@
+{
+  "asn": 1009,
+  "metadata": {
+    "handle": "GOV-ISP-PAFB",
+    "description": "Air Force Technical Applications Center",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "198.47.64.0/20", "198.47.80.0/21", "198.47.88.0/24" ],
+    "ipv6": [ ]
+  }
+}

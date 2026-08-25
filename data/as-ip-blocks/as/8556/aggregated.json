@@ -1,0 +1,14 @@
+{
+  "asn": 8556,
+  "metadata": {
+    "handle": "LEVANTIS",
+    "description": "Levantis AG",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

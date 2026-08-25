@@ -1,0 +1,4 @@
+# AS24439 (NTAMAR-AS-AP)
+# National Telecommunications Authority
+#
+2405:400::/32

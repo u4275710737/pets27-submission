@@ -1,0 +1,14 @@
+{
+  "asn": 329094,
+  "metadata": {
+    "handle": "NFCL1",
+    "description": "Nile Fibertech Co. Ltd",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

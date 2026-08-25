@@ -1,0 +1,4 @@
+# AS4190 (BINGHAMTON-U)
+# Binghamton University
+#
+2620:7d:c000::/48

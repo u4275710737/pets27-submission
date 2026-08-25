@@ -1,0 +1,16 @@
+{
+  "asn": 267863,
+  "metadata": {
+    "handle": "EVOLUCION-WIFI-TELECOMUNICACIONES",
+    "description": "EVOLUCION WIFI TELECOMUNICACIONES LIMITADA",
+    "countryCode": "CL",
+    "country": "Chile",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "45.177.96.0/22" ],
+    "ipv6": [ ]
+  }
+}

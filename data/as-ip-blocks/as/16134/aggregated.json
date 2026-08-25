@@ -1,0 +1,14 @@
+{
+  "asn": 16134,
+  "metadata": {
+    "handle": "TECNOCRATICA-ANYCAST",
+    "description": "Tecnocratica Centro de Datos, S.L.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

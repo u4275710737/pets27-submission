@@ -1,0 +1,16 @@
+{
+  "asn": 29674,
+  "metadata": {
+    "handle": "GSTA-AS",
+    "description": "GST Africa is a Telecommunications Company",
+    "countryCode": "GH",
+    "country": "Ghana",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "212.96.0.0/20" ],
+    "ipv6": [ ]
+  }
+}

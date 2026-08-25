@@ -1,0 +1,16 @@
+{
+  "asn": 268968,
+  "metadata": {
+    "handle": "VELOZONE-TELECOM-EIRELI",
+    "description": "VELOZONE TELECOM EIRELI",
+    "countryCode": "BR",
+    "country": "Brazil",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "45.176.36.0/22" ],
+    "ipv6": [ "2804:5d60::/32" ]
+  }
+}

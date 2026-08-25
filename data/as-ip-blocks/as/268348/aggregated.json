@@ -1,0 +1,16 @@
+{
+  "asn": 268348,
+  "metadata": {
+    "handle": "NETWORK-INTERNET-SERVICO",
+    "description": "Network Internet Serviço Provedor",
+    "countryCode": "BR",
+    "country": "Brazil",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "45.239.0.0/22" ],
+    "ipv6": [ "2804:4fc4::/32" ]
+  }
+}

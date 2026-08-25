@@ -1,0 +1,14 @@
+{
+  "asn": 51688,
+  "metadata": {
+    "handle": "9AG",
+    "description": "9 AG",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

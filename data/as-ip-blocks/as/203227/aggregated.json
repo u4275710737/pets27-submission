@@ -1,0 +1,14 @@
+{
+  "asn": 203227,
+  "metadata": {
+    "handle": "SILEMAN-DC-PL",
+    "description": "Sileman Sp. z o.o.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

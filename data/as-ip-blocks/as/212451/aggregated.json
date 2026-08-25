@@ -1,0 +1,14 @@
+{
+  "asn": 212451,
+  "metadata": {
+    "handle": "RMDK",
+    "description": "SIA RMDK",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 23543,
+  "metadata": {
+    "handle": "RCB-INTERNET-TX",
+    "description": "ROLL-CALL SECURITY & COMMUNICATIONS, LLC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

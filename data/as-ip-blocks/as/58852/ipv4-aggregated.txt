@@ -1,0 +1,6 @@
+# AS58852 (GZGD)
+# Guizhou provincial radio and television information Network Inc
+#
+103.85.147.0/24
+103.242.212.0/22
+203.189.240.0/22

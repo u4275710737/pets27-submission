@@ -1,0 +1,14 @@
+{
+  "asn": 13910,
+  "metadata": {
+    "handle": "REGISTER",
+    "description": "Register.com, Inc",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

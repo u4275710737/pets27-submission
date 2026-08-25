@@ -1,0 +1,16 @@
+{
+  "asn": 197576,
+  "metadata": {
+    "handle": "ZUMBAK",
+    "description": "ZUMBAK LTD",
+    "countryCode": "GB",
+    "country": "United Kingdom",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "153.56.150.0/24" ],
+    "ipv6": [ ]
+  }
+}

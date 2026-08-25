@@ -1,0 +1,14 @@
+{
+  "asn": 199122,
+  "metadata": {
+    "handle": "ECHA",
+    "description": "European Chemicals Agency",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

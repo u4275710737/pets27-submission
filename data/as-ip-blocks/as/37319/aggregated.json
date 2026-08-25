@@ -1,0 +1,16 @@
+{
+  "asn": 37319,
+  "metadata": {
+    "handle": "GUARANTY-TRUST-BANK-KENYA-LTD",
+    "description": "Guaranty Trust Bank (Kenya) Ltd",
+    "countryCode": "KE",
+    "country": "Kenya",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "196.43.211.0/24" ],
+    "ipv6": [ ]
+  }
+}

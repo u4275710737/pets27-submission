@@ -1,0 +1,14 @@
+{
+  "asn": 52483,
+  "metadata": {
+    "handle": "AEPROVI",
+    "description": "Aeprovi",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 63280,
+  "metadata": {
+    "handle": "FACTOR-SYSTEMS",
+    "description": "Billtrust",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

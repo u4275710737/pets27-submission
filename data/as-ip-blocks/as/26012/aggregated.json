@@ -1,0 +1,14 @@
+{
+  "asn": 26012,
+  "metadata": {
+    "handle": "NET-OHIO-BWC",
+    "description": "Ohio Bureau of Worker's Compensation",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

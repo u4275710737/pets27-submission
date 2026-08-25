@@ -1,0 +1,14 @@
+{
+  "asn": 11143,
+  "metadata": {
+    "handle": "OECONNECTION",
+    "description": "OEConnection, LLC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

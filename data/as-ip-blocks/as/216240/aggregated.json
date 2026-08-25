@@ -1,0 +1,14 @@
+{
+  "asn": 216240,
+  "metadata": {
+    "handle": "MORTALSOFT",
+    "description": "MortalSoft Ltd.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

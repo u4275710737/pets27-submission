@@ -1,0 +1,14 @@
+{
+  "asn": 36725,
+  "metadata": {
+    "handle": "COLLECTORS",
+    "description": "Collectors Universe, Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "asn": 142240,
+  "metadata": {
+    "handle": "HOSTNOST-AS-AP",
+    "description": "HostNost",
+    "countryCode": "BD",
+    "country": "Bangladesh",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "77.110.67.0/24", "77.110.69.0/24", "77.110.73.0/24", "77.110.78.0/24", "77.110.86.0/24", "77.110.92.0/24" ],
+    "ipv6": [ ]
+  }
+}

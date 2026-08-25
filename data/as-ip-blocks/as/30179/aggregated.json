@@ -1,0 +1,16 @@
+{
+  "asn": 30179,
+  "metadata": {
+    "handle": "DWS-01",
+    "description": "DWS",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "157.254.184.0/24" ],
+    "ipv6": [ "2602:f4e8::/40" ]
+  }
+}

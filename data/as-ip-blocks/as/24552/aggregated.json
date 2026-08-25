@@ -1,0 +1,14 @@
+{
+  "asn": 24552,
+  "metadata": {
+    "handle": "AVAGOTECH-AP",
+    "description": "Avago Technologies Internatonal Sales Pte. Ltd.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

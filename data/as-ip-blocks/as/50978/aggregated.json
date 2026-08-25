@@ -1,0 +1,14 @@
+{
+  "asn": 50978,
+  "metadata": {
+    "handle": "BEZI-AS",
+    "description": "BeZiTech e.K.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

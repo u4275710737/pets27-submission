@@ -1,0 +1,14 @@
+{
+  "asn": 149055,
+  "metadata": {
+    "handle": "DIGITAL1-AP",
+    "description": "Digital Dotnet",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

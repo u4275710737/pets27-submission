@@ -1,0 +1,16 @@
+{
+  "asn": 32482,
+  "metadata": {
+    "handle": "BANDWIDTH-US-2",
+    "description": "Bandwidth Inc.",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "216.82.233.0/24", "216.82.234.0/23" ],
+    "ipv6": [ "2a0f:58c0::/32" ]
+  }
+}

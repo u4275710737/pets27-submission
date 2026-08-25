@@ -1,0 +1,16 @@
+{
+  "asn": 271172,
+  "metadata": {
+    "handle": "MEGALINK-SERVICO-COMUNICACAO",
+    "description": "Megalink Servico de Comunicacao Multimidia Scm Lt",
+    "countryCode": "BR",
+    "country": "Brazil",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "177.223.136.0/22" ],
+    "ipv6": [ ]
+  }
+}

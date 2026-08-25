@@ -1,0 +1,14 @@
+{
+  "asn": 137437,
+  "metadata": {
+    "handle": "AIRBNB-AS-AP",
+    "description": "Airbnb Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

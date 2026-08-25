@@ -1,0 +1,14 @@
+{
+  "asn": 31110,
+  "metadata": {
+    "handle": "AKAMAI-SJC",
+    "description": "Akamai International B.V.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

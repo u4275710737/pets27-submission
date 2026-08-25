@@ -1,0 +1,16 @@
+{
+  "asn": 199061,
+  "metadata": {
+    "handle": "KM-NET-AS",
+    "description": "Marek Sobol",
+    "countryCode": "PL",
+    "country": "Poland",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "176.122.212.0/22", "176.122.224.0/20" ],
+    "ipv6": [ "2001:67c:618::/48" ]
+  }
+}

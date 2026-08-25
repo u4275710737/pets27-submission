@@ -1,0 +1,14 @@
+{
+  "asn": 140279,
+  "metadata": {
+    "handle": "CHINATELECOM-SICHUAN-NANCHONG-5G-NETWORK",
+    "description": "CHINATELECOM SiChuan province Nanchong 5G network",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

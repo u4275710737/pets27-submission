@@ -1,0 +1,14 @@
+{
+  "asn": 61491,
+  "metadata": {
+    "handle": "INNOVA-TELECOM",
+    "description": "INNOVA TELECOM",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

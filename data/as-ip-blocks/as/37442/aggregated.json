@@ -1,0 +1,16 @@
+{
+  "asn": 37442,
+  "metadata": {
+    "handle": "ZARNET",
+    "description": "Maintainer",
+    "countryCode": "ZW",
+    "country": "Zimbabwe",
+    "origin": "overlaid",
+    "category": "isp",
+    "networkRole": "access_provider"
+  },
+  "prefixes": {
+    "ipv4": [ "41.57.124.0/22" ],
+    "ipv6": [ ]
+  }
+}

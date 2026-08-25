@@ -1,0 +1,16 @@
+{
+  "asn": 198410,
+  "metadata": {
+    "handle": "ASILKAN-SOYLEMEZ",
+    "description": "Asilkan Soylemez",
+    "countryCode": "TR",
+    "country": "Türkiye",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "153.56.131.0/24" ],
+    "ipv6": [ ]
+  }
+}

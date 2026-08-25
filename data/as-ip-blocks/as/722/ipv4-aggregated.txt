@@ -1,0 +1,6 @@
+# AS722 (DNIC-ASBLK-00721-00726)
+# United States Department of Defense (DoD)
+#
+209.22.180.0/24
+214.3.129.0/24
+214.6.64.0/19

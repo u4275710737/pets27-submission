@@ -1,0 +1,16 @@
+{
+  "asn": 150564,
+  "metadata": {
+    "handle": "BGCHITALE-AS-IN",
+    "description": "B G CHITALE",
+    "countryCode": "IN",
+    "country": "India",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ ]
+  }
+}

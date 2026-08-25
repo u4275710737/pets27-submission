@@ -1,0 +1,16 @@
+{
+  "asn": 275674,
+  "metadata": {
+    "handle": "A-S-GOMES-TELECOM",
+    "description": "A S GOMES TELECOM LTDA",
+    "countryCode": "BR",
+    "country": "Brazil",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "45.227.46.0/24" ],
+    "ipv6": [ "2804:9830::/32" ]
+  }
+}

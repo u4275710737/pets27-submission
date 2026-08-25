@@ -1,0 +1,14 @@
+{
+  "asn": 11849,
+  "metadata": {
+    "handle": "CAMPLINK-3",
+    "description": "Camplink",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

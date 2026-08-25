@@ -1,0 +1,14 @@
+{
+  "asn": 301,
+  "metadata": {
+    "handle": "C3PO",
+    "description": "Air Force Systems Networking",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

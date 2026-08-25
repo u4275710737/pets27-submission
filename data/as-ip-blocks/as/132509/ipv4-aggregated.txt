@@ -1,0 +1,4 @@
+# AS132509 (SOLARIX-INTERNET-AS-AP)
+# Solarix Networks Limited
+#
+103.244.180.0/22

@@ -1,0 +1,14 @@
+{
+  "asn": 41671,
+  "metadata": {
+    "handle": "HARMONY-NICK-LTD",
+    "description": "SERVER.UA LLC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

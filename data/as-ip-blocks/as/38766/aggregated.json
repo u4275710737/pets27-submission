@@ -1,0 +1,16 @@
+{
+  "asn": 38766,
+  "metadata": {
+    "handle": "BMP-AS-ID",
+    "description": "PT. Bumi Merbabu Permai",
+    "countryCode": "ID",
+    "country": "Indonesia",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "114.30.80.0/21" ],
+    "ipv6": [ "2403:ae00::/32" ]
+  }
+}

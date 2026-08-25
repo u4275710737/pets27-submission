@@ -1,0 +1,14 @@
+{
+  "asn": 57075,
+  "metadata": {
+    "handle": "NETGAZER",
+    "description": "Slashme BV",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

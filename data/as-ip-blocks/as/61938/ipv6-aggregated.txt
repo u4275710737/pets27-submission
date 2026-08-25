@@ -1,0 +1,4 @@
+# AS61938 (MEGNET-TELECOM)
+# Meg@Net Telecom
+#
+2804:1888::/32

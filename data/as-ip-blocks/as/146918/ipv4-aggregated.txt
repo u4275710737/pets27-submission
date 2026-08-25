@@ -1,0 +1,5 @@
+# AS146918 (CABLECOM-AS-IN)
+# Cablecom Network Private Limited
+#
+103.172.9.0/24
+157.10.96.0/24

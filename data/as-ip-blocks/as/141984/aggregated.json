@@ -1,0 +1,16 @@
+{
+  "asn": 141984,
+  "metadata": {
+    "handle": "IDNIC-FLASHNET-AS-ID",
+    "description": "PT Fajar Lestari Anugrah Sejati",
+    "countryCode": "ID",
+    "country": "Indonesia",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "103.167.167.0/24" ],
+    "ipv6": [ ]
+  }
+}

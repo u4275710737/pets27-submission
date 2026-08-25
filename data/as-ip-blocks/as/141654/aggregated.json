@@ -1,0 +1,14 @@
+{
+  "asn": 141654,
+  "metadata": {
+    "handle": "IDNIC-OWN-AS-ID",
+    "description": "PT Optima Wiyata Nusantara",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

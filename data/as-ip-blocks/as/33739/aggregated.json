@@ -1,0 +1,14 @@
+{
+  "asn": 33739,
+  "metadata": {
+    "handle": "MYSPACE",
+    "description": "Myspace, Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

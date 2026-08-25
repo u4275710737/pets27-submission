@@ -1,0 +1,16 @@
+{
+  "asn": 206069,
+  "metadata": {
+    "handle": "CORNSEED",
+    "description": "Cornseed Limited",
+    "countryCode": "GB",
+    "country": "United Kingdom",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "access_provider"
+  },
+  "prefixes": {
+    "ipv4": [ "64.204.48.0/23", "82.22.26.0/24", "82.29.38.0/24", "87.76.198.0/24" ],
+    "ipv6": [ "2a14:7586:6109::/48", "2a14:7586:6111::/48", "2a14:7586:6112::/48" ]
+  }
+}

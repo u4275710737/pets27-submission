@@ -1,0 +1,14 @@
+{
+  "asn": 202325,
+  "metadata": {
+    "handle": "AS-4MEDIA",
+    "description": "4Media Ltd.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

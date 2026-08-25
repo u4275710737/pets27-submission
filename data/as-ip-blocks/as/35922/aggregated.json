@@ -1,0 +1,14 @@
+{
+  "asn": 35922,
+  "metadata": {
+    "handle": "GAINC-NY-1",
+    "description": "Forex.com",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

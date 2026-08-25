@@ -1,0 +1,16 @@
+{
+  "asn": 45724,
+  "metadata": {
+    "handle": "MULTIMEDIA-AS-ID",
+    "description": "Multi Media Access PT",
+    "countryCode": "ID",
+    "country": "Indonesia",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "103.231.112.0/22", "202.8.28.0/23" ],
+    "ipv6": [ ]
+  }
+}

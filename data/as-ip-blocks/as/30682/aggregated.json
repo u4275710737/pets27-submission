@@ -1,0 +1,14 @@
+{
+  "asn": 30682,
+  "metadata": {
+    "handle": "PEARSON-ECOLLEGE",
+    "description": "NCS Pearson Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

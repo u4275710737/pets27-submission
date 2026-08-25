@@ -1,0 +1,14 @@
+{
+  "asn": 44013,
+  "metadata": {
+    "handle": "SANDVIK-AS",
+    "description": "Sandvik IT Services AB",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

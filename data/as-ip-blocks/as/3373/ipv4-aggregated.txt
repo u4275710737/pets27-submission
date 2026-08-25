@@ -1,0 +1,4 @@
+# AS3373 (MCI-ASN)
+# Verizon Business
+#
+153.39.64.0/19

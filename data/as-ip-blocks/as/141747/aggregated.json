@@ -1,0 +1,14 @@
+{
+  "asn": 141747,
+  "metadata": {
+    "handle": "GEEK-AP",
+    "description": "GEEK NETWORKS PTY LIMITED",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

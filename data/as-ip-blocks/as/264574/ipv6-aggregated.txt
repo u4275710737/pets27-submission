@@ -1,0 +1,5 @@
+# AS264574 (ELITE-TELECOMUNICACOES)
+# Elite Internet e Servicos Ltda
+#
+2804:21cc::/34
+2804:21cc:8000::/34

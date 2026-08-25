@@ -1,0 +1,14 @@
+{
+  "asn": 58406,
+  "metadata": {
+    "handle": "ISC-AP",
+    "description": "Internet Systems Consortium",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

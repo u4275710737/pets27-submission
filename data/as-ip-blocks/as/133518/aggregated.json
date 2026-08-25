@@ -1,0 +1,14 @@
+{
+  "asn": 133518,
+  "metadata": {
+    "handle": "CERNEWTECH-WUHAN",
+    "description": "CERNET New Technology Co., Ltd",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

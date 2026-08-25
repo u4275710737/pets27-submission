@@ -1,0 +1,14 @@
+{
+  "asn": 200385,
+  "metadata": {
+    "handle": "KORP",
+    "description": "KORP YAZILIM VE BILGI TEKNOLOJILERI LTD. STI.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

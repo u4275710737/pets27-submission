@@ -1,0 +1,14 @@
+{
+  "asn": 142302,
+  "metadata": {
+    "handle": "INNOKAT-AP",
+    "description": "INNOKAT (PVT.) LIMITED",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

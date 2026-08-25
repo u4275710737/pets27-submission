@@ -1,0 +1,14 @@
+{
+  "asn": 399800,
+  "metadata": {
+    "handle": "HTC1",
+    "description": "Hometown Cable Company LLC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

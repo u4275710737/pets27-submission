@@ -1,0 +1,5 @@
+# AS38559 (AIA-AUSTRALIA-AS-AP)
+# AIA Australia Limited
+#
+103.111.127.0/24
+103.112.66.0/24

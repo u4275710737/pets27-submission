@@ -1,0 +1,14 @@
+{
+  "asn": 215642,
+  "metadata": {
+    "handle": "FILLI-LAB-AS",
+    "description": "Ursin Filli",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

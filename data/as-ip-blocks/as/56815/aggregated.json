@@ -1,0 +1,16 @@
+{
+  "asn": 56815,
+  "metadata": {
+    "handle": "OLKA",
+    "description": "GeniusMind S.A.",
+    "countryCode": "GR",
+    "country": "Greece",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "access_provider"
+  },
+  "prefixes": {
+    "ipv4": [ "81.31.228.0/24", "81.31.230.0/24", "81.31.238.0/24", "185.140.240.0/22" ],
+    "ipv6": [ ]
+  }
+}

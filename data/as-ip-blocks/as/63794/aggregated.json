@@ -1,0 +1,16 @@
+{
+  "asn": 63794,
+  "metadata": {
+    "handle": "ILKS-NET",
+    "description": "ILKS Inc.",
+    "countryCode": "JP",
+    "country": "Japan",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "103.187.128.0/23" ],
+    "ipv6": [ "2400:7d20::/32" ]
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 150194,
+  "metadata": {
+    "handle": "IDNIC-AFANET-ID",
+    "description": "CV Afanet Multimedia",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

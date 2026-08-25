@@ -1,0 +1,14 @@
+{
+  "asn": 393648,
+  "metadata": {
+    "handle": "ACTON-SOFTWARE",
+    "description": "Act-On Software",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "asn": 57863,
+  "metadata": {
+    "handle": "SAIB",
+    "description": "Saudi Investment Bank JSC",
+    "countryCode": "SA",
+    "country": "Saudi Arabia",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "5.253.80.0/22", "194.50.35.0/24" ],
+    "ipv6": [ ]
+  }
+}

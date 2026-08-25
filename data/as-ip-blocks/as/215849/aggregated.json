@@ -1,0 +1,16 @@
+{
+  "asn": 215849,
+  "metadata": {
+    "handle": "TRISTAN-KLOCK",
+    "description": "Tristan Klock",
+    "countryCode": "DE",
+    "country": "Germany",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ "2a09:3f07::/32", "2a13:c8c1:6666::/48", "2a14:7584:3000::/36", "2a14:7585::/32", "2a14:7587::/32" ]
+  }
+}

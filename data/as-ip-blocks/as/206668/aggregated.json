@@ -1,0 +1,16 @@
+{
+  "asn": 206668,
+  "metadata": {
+    "handle": "VPSROBOT",
+    "description": "Bayram Coskun",
+    "countryCode": "TR",
+    "country": "Türkiye",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "87.76.135.0/24" ],
+    "ipv6": [ ]
+  }
+}

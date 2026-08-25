@@ -1,0 +1,14 @@
+{
+  "asn": 394386,
+  "metadata": {
+    "handle": "OCAN",
+    "description": "OANDA (Canada) Corporation ULC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

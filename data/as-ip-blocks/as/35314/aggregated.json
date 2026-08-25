@@ -1,0 +1,14 @@
+{
+  "asn": 35314,
+  "metadata": {
+    "handle": "FIBERING-TORINO",
+    "description": "Fiberwide S.p.a.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

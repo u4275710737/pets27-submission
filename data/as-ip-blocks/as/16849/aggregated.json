@@ -1,0 +1,14 @@
+{
+  "asn": 16849,
+  "metadata": {
+    "handle": "NEWPLANET",
+    "description": "NewPlanet S.A",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

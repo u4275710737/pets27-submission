@@ -1,0 +1,14 @@
+{
+  "asn": 13780,
+  "metadata": {
+    "handle": "MILEHIGHWALRUS-NETWORK",
+    "description": "Milehighwalrus Network",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 271828,
+  "metadata": {
+    "handle": "MUNICIPIO-CHIA",
+    "description": "MUNICIPIO DE CHIA",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 328908,
+  "metadata": {
+    "handle": "FOCON-NET-TELECOMS",
+    "description": "Societ FOCON-NET TELECOMS Sarl",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

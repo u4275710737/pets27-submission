@@ -1,0 +1,16 @@
+{
+  "asn": 271258,
+  "metadata": {
+    "handle": "ERICK-TELECOM",
+    "description": "ERICK TELECOM",
+    "countryCode": "BR",
+    "country": "Brazil",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "128.201.32.0/22" ],
+    "ipv6": [ "2804:78ac::/33", "2804:78ac:8000::/34", "2804:78ac:c000::/36" ]
+  }
+}

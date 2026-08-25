@@ -1,0 +1,14 @@
+{
+  "asn": 47043,
+  "metadata": {
+    "handle": "SMARTADSERVER",
+    "description": "H2H Interactif Inc",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

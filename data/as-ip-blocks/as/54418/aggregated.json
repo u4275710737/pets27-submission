@@ -1,0 +1,14 @@
+{
+  "asn": 54418,
+  "metadata": {
+    "handle": "ANBTX",
+    "description": "American National Bank of Texas",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

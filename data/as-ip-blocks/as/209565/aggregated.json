@@ -1,0 +1,16 @@
+{
+  "asn": 209565,
+  "metadata": {
+    "handle": "JIANYUELAB-STAFF",
+    "description": "JIANYUELAB LTD",
+    "countryCode": "GB",
+    "country": "United Kingdom",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ "2a12:cb40:1::/48", "2a12:cb40:2::/48" ]
+  }
+}

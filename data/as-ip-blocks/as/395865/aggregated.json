@@ -1,0 +1,14 @@
+{
+  "asn": 395865,
+  "metadata": {
+    "handle": "UNIONTOWN-HOSPITAL",
+    "description": "Fayette Regional Health System",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

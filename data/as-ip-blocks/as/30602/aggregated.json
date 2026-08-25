@@ -1,0 +1,14 @@
+{
+  "asn": 30602,
+  "metadata": {
+    "handle": "ISPRIME",
+    "description": "ISPrime, Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

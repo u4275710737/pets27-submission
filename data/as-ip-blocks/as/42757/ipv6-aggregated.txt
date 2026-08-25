@@ -1,0 +1,3 @@
+# AS42757 (SPARKASSE-SI-AS)
+# Banka Sparkasse d.d.
+#

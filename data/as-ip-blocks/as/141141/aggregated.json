@@ -1,0 +1,14 @@
+{
+  "asn": 141141,
+  "metadata": {
+    "handle": "IDNIC-PMSNETWORK-ID",
+    "description": "PT Prima Mandiri Sentosa Gowa",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

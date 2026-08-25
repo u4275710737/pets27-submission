@@ -1,0 +1,14 @@
+{
+  "asn": 25630,
+  "metadata": {
+    "handle": "RPMAS",
+    "description": "RP Management, LLC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

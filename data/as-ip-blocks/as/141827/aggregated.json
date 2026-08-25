@@ -1,0 +1,14 @@
+{
+  "asn": 141827,
+  "metadata": {
+    "handle": "MREZHI-AS",
+    "description": "Mrezhi Internet Private Limited",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 396858,
+  "metadata": {
+    "handle": "OBXTEK-INC",
+    "description": "OBXtek, Inc",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

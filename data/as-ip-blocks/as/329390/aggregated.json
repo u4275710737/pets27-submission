@@ -1,0 +1,16 @@
+{
+  "asn": 329390,
+  "metadata": {
+    "handle": "DANSTED",
+    "description": "DANSTED TECH SUPPLIERS LIMITED",
+    "countryCode": "KE",
+    "country": "Kenya",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "102.210.24.0/22" ],
+    "ipv6": [ ]
+  }
+}

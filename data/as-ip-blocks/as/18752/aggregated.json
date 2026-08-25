@@ -1,0 +1,16 @@
+{
+  "asn": 18752,
+  "metadata": {
+    "handle": "HT-HB18752",
+    "description": "Uniti Fiber Holdings Inc.",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "199.59.232.0/24" ],
+    "ipv6": [ ]
+  }
+}

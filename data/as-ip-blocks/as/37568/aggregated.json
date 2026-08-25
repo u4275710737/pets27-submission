@@ -1,0 +1,16 @@
+{
+  "asn": 37568,
+  "metadata": {
+    "handle": "NUST-AS",
+    "description": "RIPE registration for NUST AS object creation",
+    "countryCode": "ZW",
+    "country": "Zimbabwe",
+    "origin": "authoritative",
+    "category": "education_research",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "196.220.96.0/19" ],
+    "ipv6": [ "2001:43f8:10b0::/48" ]
+  }
+}

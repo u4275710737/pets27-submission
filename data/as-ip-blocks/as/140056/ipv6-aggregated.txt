@@ -1,0 +1,4 @@
+# AS140056 (CHINANET-MAOMING-AS-AP)
+# China Telecom
+#
+240e:1f:ce00::/40

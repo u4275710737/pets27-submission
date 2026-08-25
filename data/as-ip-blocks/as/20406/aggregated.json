@@ -1,0 +1,16 @@
+{
+  "asn": 20406,
+  "metadata": {
+    "handle": "BRASLINK",
+    "description": "Braslink Network Inc",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "access_provider"
+  },
+  "prefixes": {
+    "ipv4": [ "179.96.211.0/24", "204.16.0.0/21", "207.153.110.0/24" ],
+    "ipv6": [ ]
+  }
+}

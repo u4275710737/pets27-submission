@@ -1,0 +1,14 @@
+{
+  "asn": 131170,
+  "metadata": {
+    "handle": "FIERY-AS-AP",
+    "description": "FIERY DIGITAL IMAGING INDIA PRIVATE LIMITED",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

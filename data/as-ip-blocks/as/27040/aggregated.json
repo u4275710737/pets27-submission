@@ -1,0 +1,14 @@
+{
+  "asn": 27040,
+  "metadata": {
+    "handle": "DNIC-ASBLK-27159",
+    "description": "DoD Network Information Center",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

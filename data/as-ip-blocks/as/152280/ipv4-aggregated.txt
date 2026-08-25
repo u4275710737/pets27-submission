@@ -1,0 +1,4 @@
+# AS152280 (MGFOREST-AS)
+# MG Credit Information
+#
+162.4.5.0/24

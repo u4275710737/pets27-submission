@@ -1,0 +1,14 @@
+{
+  "asn": 30566,
+  "metadata": {
+    "handle": "WOLP",
+    "description": "Whippoorwill Operations, L.P.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

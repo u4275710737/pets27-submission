@@ -1,0 +1,4 @@
+# AS203403 (FLEXTEL)
+# Flextel Limited
+#
+82.41.13.0/24

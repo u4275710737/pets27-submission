@@ -1,0 +1,14 @@
+{
+  "asn": 137189,
+  "metadata": {
+    "handle": "BORNIL1-AP",
+    "description": "Bornil Networks System Limited",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 60292,
+  "metadata": {
+    "handle": "MEDIACOM-ARCH",
+    "description": "OOO MediaSeti",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

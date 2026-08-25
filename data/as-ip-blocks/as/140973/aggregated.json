@@ -1,0 +1,14 @@
+{
+  "asn": 140973,
+  "metadata": {
+    "handle": "LNPL-AS-AP",
+    "description": "Life Net Pvt. Ltd.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

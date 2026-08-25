@@ -1,0 +1,14 @@
+{
+  "asn": 4820,
+  "metadata": {
+    "handle": "NSWDAGJ-AP",
+    "description": "New South Wales Department of Attorney General and Justice",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

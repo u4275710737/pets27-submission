@@ -1,0 +1,14 @@
+{
+  "asn": 43554,
+  "metadata": {
+    "handle": "CDS",
+    "description": "Cifrovye Dispetcherskie Sistemy",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

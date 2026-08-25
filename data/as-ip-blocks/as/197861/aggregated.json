@@ -1,0 +1,16 @@
+{
+  "asn": 197861,
+  "metadata": {
+    "handle": "FMR-ASN",
+    "description": "Frej Mau Rye",
+    "countryCode": "DK",
+    "country": "Denmark",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ "2001:678:824::/48", "2001:678:1268::/48", "2001:678:126c::/48", "2001:678:1270::/48" ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "asn": 400242,
+  "metadata": {
+    "handle": "SIEMENS-EDC-MIF",
+    "description": "Siemens Corporation",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "132.186.88.0/24", "165.226.78.0/24" ],
+    "ipv6": [ "2a00:ad87:400::/48" ]
+  }
+}

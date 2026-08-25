@@ -1,0 +1,14 @@
+{
+  "asn": 51922,
+  "metadata": {
+    "handle": "MYTOYS",
+    "description": "mytoys.de GmbH",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "asn": 58240,
+  "metadata": {
+    "handle": "ASNPODS",
+    "description": "NPO Diagnosticheskie sistemyi Ltd.",
+    "countryCode": "RU",
+    "country": "Russia",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "91.239.239.0/24" ],
+    "ipv6": [ ]
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 34649,
+  "metadata": {
+    "handle": "HOST365",
+    "description": "HOST365 LIMITED",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

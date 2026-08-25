@@ -1,0 +1,16 @@
+{
+  "asn": 204961,
+  "metadata": {
+    "handle": "ON4-AS",
+    "description": "ON4 sp. z o.o.",
+    "countryCode": "PL",
+    "country": "Poland",
+    "origin": "authoritative",
+    "category": null,
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ ]
+  }
+}

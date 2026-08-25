@@ -1,0 +1,14 @@
+{
+  "asn": 32900,
+  "metadata": {
+    "handle": "QSL-01",
+    "description": "Quartet Service Ltd.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

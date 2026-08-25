@@ -1,0 +1,16 @@
+{
+  "asn": 200725,
+  "metadata": {
+    "handle": "IXCELLERATE",
+    "description": "IXcellerate LLC",
+    "countryCode": "RU",
+    "country": "Russia",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "185.90.145.0/24" ],
+    "ipv6": [ ]
+  }
+}

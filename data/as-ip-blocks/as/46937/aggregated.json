@@ -1,0 +1,14 @@
+{
+  "asn": 46937,
+  "metadata": {
+    "handle": "NN-DUKE",
+    "description": "Northern Neck Wireless Internet Services LLC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

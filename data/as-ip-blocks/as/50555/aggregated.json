@@ -1,0 +1,14 @@
+{
+  "asn": 50555,
+  "metadata": {
+    "handle": "KEATONAGLAIR-RAECHEN-EIN",
+    "description": "Keaton Alexander Guger Lair",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

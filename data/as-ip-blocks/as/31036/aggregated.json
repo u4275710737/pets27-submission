@@ -1,0 +1,14 @@
+{
+  "asn": 31036,
+  "metadata": {
+    "handle": "NEWTELESYSTEMS",
+    "description": "JSC ER-Telecom Holding",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

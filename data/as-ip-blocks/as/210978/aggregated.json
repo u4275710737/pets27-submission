@@ -1,0 +1,14 @@
+{
+  "asn": 210978,
+  "metadata": {
+    "handle": "OFFICE",
+    "description": "NOVAMETRO OU",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 58528,
+  "metadata": {
+    "handle": "NET-AS-AP",
+    "description": "NetStrategy Pty Ltd",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

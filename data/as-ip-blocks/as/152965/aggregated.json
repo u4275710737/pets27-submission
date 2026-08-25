@@ -1,0 +1,14 @@
+{
+  "asn": 152965,
+  "metadata": {
+    "handle": "VXANH-VN",
+    "description": "Green VPS Company Limitedx",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

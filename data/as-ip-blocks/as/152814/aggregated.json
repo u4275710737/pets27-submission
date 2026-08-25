@@ -1,0 +1,14 @@
+{
+  "asn": 152814,
+  "metadata": {
+    "handle": "IDNIC-MAHARDIKA-ID",
+    "description": "CV Mahardika Telematika",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

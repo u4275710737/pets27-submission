@@ -1,0 +1,4 @@
+# AS37473 (TELESOM)
+# Telesom ASN
+#
+2c0f:f710::/32

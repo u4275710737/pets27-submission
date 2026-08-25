@@ -1,0 +1,14 @@
+{
+  "asn": 14568,
+  "metadata": {
+    "handle": "SIRVA",
+    "description": "North American Van Lines",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

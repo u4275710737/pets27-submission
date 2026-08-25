@@ -1,0 +1,16 @@
+{
+  "asn": 51125,
+  "metadata": {
+    "handle": "POLYANA",
+    "description": "Limited Liability Company Gazprom Polyana",
+    "countryCode": "RU",
+    "country": "Russia",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "194.190.100.0/24" ],
+    "ipv6": [ ]
+  }
+}

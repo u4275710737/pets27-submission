@@ -1,0 +1,16 @@
+{
+  "asn": 274352,
+  "metadata": {
+    "handle": "EUDORA-NET-SERVICOS",
+    "description": "Eudora Net Servicos Telecomunicações Ltd",
+    "countryCode": "BR",
+    "country": "Brazil",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "191.5.72.0/21" ],
+    "ipv6": [ "2804:96b0::/32" ]
+  }
+}

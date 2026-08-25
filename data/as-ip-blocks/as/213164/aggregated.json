@@ -1,0 +1,16 @@
+{
+  "asn": 213164,
+  "metadata": {
+    "handle": "RUPEIKS-AS",
+    "description": "Intars Rupeiks",
+    "countryCode": "LV",
+    "country": "Latvia",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "31.76.104.0/22", "31.76.122.0/24" ],
+    "ipv6": [ ]
+  }
+}

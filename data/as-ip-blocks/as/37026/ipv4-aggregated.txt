@@ -1,0 +1,4 @@
+# AS37026 (SALT-ESSENTIAL-IT-ASN)
+# Salt Essential IT
+#
+41.190.84.0/22

@@ -1,0 +1,16 @@
+{
+  "asn": 153435,
+  "metadata": {
+    "handle": "KHG-VN",
+    "description": "Center for Information Technology and Cyber Security Monitoring",
+    "countryCode": "VN",
+    "country": "Vietnam",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "160.250.124.0/23" ],
+    "ipv6": [ "2001:df4:b1c0::/48" ]
+  }
+}

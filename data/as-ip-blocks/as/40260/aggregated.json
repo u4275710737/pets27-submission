@@ -1,0 +1,14 @@
+{
+  "asn": 40260,
+  "metadata": {
+    "handle": "TERRA-NETWORKS-MIAMI",
+    "description": "Telefonica Global Solutions USA INC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

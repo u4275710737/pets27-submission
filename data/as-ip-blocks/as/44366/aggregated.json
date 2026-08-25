@@ -1,0 +1,14 @@
+{
+  "asn": 44366,
+  "metadata": {
+    "handle": "DATACASH",
+    "description": "MASTERCARD PAYMENT GATEWAY SERVICES GROUP LIMITED",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

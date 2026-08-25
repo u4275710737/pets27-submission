@@ -1,0 +1,16 @@
+{
+  "asn": 267141,
+  "metadata": {
+    "handle": "TERABYTE-TERESOPOLIS-PROVEDOR",
+    "description": "Terabyte de Teresopolis Provedor de Internet LTDA",
+    "countryCode": "BR",
+    "country": "Brazil",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "45.229.216.0/22" ],
+    "ipv6": [ ]
+  }
+}

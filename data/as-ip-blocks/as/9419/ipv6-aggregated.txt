@@ -1,0 +1,4 @@
+# AS9419 (NTU-AS-AP)
+# Nanyang Technological University
+#
+2407:9380:1::/48

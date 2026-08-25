@@ -1,0 +1,14 @@
+{
+  "asn": 146998,
+  "metadata": {
+    "handle": "LAHORE2-AS-AP",
+    "description": "Lahore BroadBand",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

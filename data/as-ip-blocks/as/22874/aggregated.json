@@ -1,0 +1,16 @@
+{
+  "asn": 22874,
+  "metadata": {
+    "handle": "HIGH-DATA-CONNECTION",
+    "description": "HIGH DATA CONNECTION LLC",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "midsize_transit"
+  },
+  "prefixes": {
+    "ipv4": [ "38.10.176.0/24", "38.254.20.0/24" ],
+    "ipv6": [ ]
+  }
+}

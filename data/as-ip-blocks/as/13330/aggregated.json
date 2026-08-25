@@ -1,0 +1,14 @@
+{
+  "asn": 13330,
+  "metadata": {
+    "handle": "TECHNOLOGY-CENTER-SNA",
+    "description": "Corelogic Solutions LLC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

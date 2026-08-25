@@ -1,0 +1,16 @@
+{
+  "asn": 19056,
+  "metadata": {
+    "handle": "IETF-49",
+    "description": "Qualcomm Inc.",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "101.192.64.0/22" ],
+    "ipv6": [ ]
+  }
+}

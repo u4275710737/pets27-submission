@@ -1,0 +1,14 @@
+{
+  "asn": 7125,
+  "metadata": {
+    "handle": "UNIVERSIDAD-MONTERREY",
+    "description": "Universidad de Monterrey",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

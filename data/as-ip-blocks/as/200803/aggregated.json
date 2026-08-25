@@ -1,0 +1,16 @@
+{
+  "asn": 200803,
+  "metadata": {
+    "handle": "LANKOM-AS",
+    "description": "Lankom OOO",
+    "countryCode": "RU",
+    "country": "Russia",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ ]
+  }
+}

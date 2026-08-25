@@ -1,0 +1,14 @@
+{
+  "asn": 27538,
+  "metadata": {
+    "handle": "NOBLEENERGY-ASN2",
+    "description": "Chevron Corporation",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

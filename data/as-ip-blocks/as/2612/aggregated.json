@@ -1,0 +1,14 @@
+{
+  "asn": 2612,
+  "metadata": {
+    "handle": "SITASYS-AG",
+    "description": "SITASYS AG",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

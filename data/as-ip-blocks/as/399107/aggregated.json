@@ -1,0 +1,16 @@
+{
+  "asn": 399107,
+  "metadata": {
+    "handle": "TERIDION3",
+    "description": "Teridion inc",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ ]
+  }
+}

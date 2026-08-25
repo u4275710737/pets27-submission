@@ -1,0 +1,6 @@
+# AS571 (DNIC-AS-00571)
+# United States Department of Defense (DoD)
+#
+214.26.64.0/18
+214.26.128.0/21
+215.65.160.0/19

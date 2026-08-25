@@ -1,0 +1,4 @@
+# AS21406 (SWAROVSKI-AS)
+# DSW Kristall AG & Co KG
+#
+2001:67c:1110::/47

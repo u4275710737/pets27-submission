@@ -1,0 +1,16 @@
+{
+  "asn": 27361,
+  "metadata": {
+    "handle": "ARIEL-INVESTMENTS",
+    "description": "Ariel Investments",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "overlaid",
+    "category": null,
+    "networkRole": null
+  },
+  "prefixes": {
+    "ipv4": [ "38.115.132.0/24" ],
+    "ipv6": [ ]
+  }
+}

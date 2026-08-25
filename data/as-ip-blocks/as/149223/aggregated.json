@@ -1,0 +1,14 @@
+{
+  "asn": 149223,
+  "metadata": {
+    "handle": "DRNETWORK-IN",
+    "description": "DR NETWORK SOLUTIONS PRIVATE LIMITED",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

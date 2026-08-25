@@ -1,0 +1,14 @@
+{
+  "asn": 401388,
+  "metadata": {
+    "handle": "TELOCITY",
+    "description": "CABLE DOMAIN LLC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

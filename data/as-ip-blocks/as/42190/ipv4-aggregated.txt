@@ -1,0 +1,4 @@
+# AS42190 (ENERGOMERA-AS)
+# JSC Energomera
+#
+194.0.145.0/24

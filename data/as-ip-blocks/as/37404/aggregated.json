@@ -1,0 +1,16 @@
+{
+  "asn": 37404,
+  "metadata": {
+    "handle": "UI-AS",
+    "description": "UI NIGERIA Autonomous Number",
+    "countryCode": "NG",
+    "country": "Nigeria",
+    "origin": "authoritative",
+    "category": "education_research",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "41.78.8.0/22" ],
+    "ipv6": [ ]
+  }
+}

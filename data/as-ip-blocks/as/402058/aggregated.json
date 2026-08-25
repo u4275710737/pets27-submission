@@ -1,0 +1,16 @@
+{
+  "asn": 402058,
+  "metadata": {
+    "handle": "QUANTUM-NETWORKS-US1",
+    "description": "QUANTUM",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "23.146.236.0/24" ],
+    "ipv6": [ "2604:23e0::/32" ]
+  }
+}

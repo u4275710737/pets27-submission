@@ -1,0 +1,14 @@
+{
+  "asn": 6912,
+  "metadata": {
+    "handle": "HCSNET-ASNBLK",
+    "description": "Hayes Computer Systems",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

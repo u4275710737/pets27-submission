@@ -1,0 +1,14 @@
+{
+  "asn": 22092,
+  "metadata": {
+    "handle": "TELEFNICA-BRASIL-SA",
+    "description": "TELEFNICA BRASIL S.A",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

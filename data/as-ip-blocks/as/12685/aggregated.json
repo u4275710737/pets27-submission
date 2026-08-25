@@ -1,0 +1,16 @@
+{
+  "asn": 12685,
+  "metadata": {
+    "handle": "SIBITEX",
+    "description": "PJSC Rostelecom",
+    "countryCode": "RU",
+    "country": "Russia",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ "2a02:5a60::/32" ]
+  }
+}

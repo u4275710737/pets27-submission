@@ -1,0 +1,14 @@
+{
+  "asn": 30322,
+  "metadata": {
+    "handle": "BIRCH-COV",
+    "description": "Fusion Cloud Services, LLC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

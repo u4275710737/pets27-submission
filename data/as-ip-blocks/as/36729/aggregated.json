@@ -1,0 +1,14 @@
+{
+  "asn": 36729,
+  "metadata": {
+    "handle": "BC",
+    "description": "Brash Concepts Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

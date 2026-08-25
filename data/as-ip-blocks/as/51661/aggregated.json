@@ -1,0 +1,16 @@
+{
+  "asn": 51661,
+  "metadata": {
+    "handle": "ALLSTARNET",
+    "description": "UVT Internet s.r.o.",
+    "countryCode": "CZ",
+    "country": "Czechia",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "185.160.20.0/22" ],
+    "ipv6": [ ]
+  }
+}

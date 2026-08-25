@@ -1,0 +1,14 @@
+{
+  "asn": 1612,
+  "metadata": {
+    "handle": "FLUXTEL",
+    "description": "Flux Telecom, LLC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

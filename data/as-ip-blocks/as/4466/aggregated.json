@@ -1,0 +1,16 @@
+{
+  "asn": 4466,
+  "metadata": {
+    "handle": "ASATTIDNS",
+    "description": "AT&T Global Network iDNS Service",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "12.120.57.0/24", "12.120.58.0/24", "194.69.149.0/24", "204.127.196.0/24", "205.233.22.0/24" ],
+    "ipv6": [ "2620:32::/48" ]
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 39865,
+  "metadata": {
+    "handle": "VIT-CH",
+    "description": "FotoWare Switzerland AG",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

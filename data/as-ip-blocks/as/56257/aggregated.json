@@ -1,0 +1,14 @@
+{
+  "asn": 56257,
+  "metadata": {
+    "handle": "BPPPTI-ID",
+    "description": "Balai Penyedia dan Pengelola Pembiayaan Telekomunikasi dan Informatika",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

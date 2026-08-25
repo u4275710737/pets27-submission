@@ -1,0 +1,14 @@
+{
+  "asn": 50168,
+  "metadata": {
+    "handle": "BOGALNET",
+    "description": "GleSYS AB",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

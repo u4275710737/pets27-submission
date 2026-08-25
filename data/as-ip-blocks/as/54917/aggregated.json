@@ -1,0 +1,14 @@
+{
+  "asn": 54917,
+  "metadata": {
+    "handle": "LAKESPC",
+    "description": "Lakes PC Help, LLC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

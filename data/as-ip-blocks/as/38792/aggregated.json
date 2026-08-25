@@ -1,0 +1,14 @@
+{
+  "asn": 38792,
+  "metadata": {
+    "handle": "DOCOMOINTERTOUCH-SH",
+    "description": "interTouch Pte. Ltd.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 62489,
+  "metadata": {
+    "handle": "LIX",
+    "description": "August Internet",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

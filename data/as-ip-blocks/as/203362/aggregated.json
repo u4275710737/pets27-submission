@@ -1,0 +1,16 @@
+{
+  "asn": 203362,
+  "metadata": {
+    "handle": "PL-OPEN-WAY-AS",
+    "description": "OPEN WAY Lukasz Jankowiak",
+    "countryCode": "PL",
+    "country": "Poland",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "74.209.169.0/24", "89.234.207.0/24" ],
+    "ipv6": [ ]
+  }
+}

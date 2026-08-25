@@ -1,0 +1,16 @@
+{
+  "asn": 270600,
+  "metadata": {
+    "handle": "BL-PROVEDOR-ACESSO",
+    "description": "BL PROVEDOR DE ACESSO A INTERNET LTDA",
+    "countryCode": "BR",
+    "country": "Brazil",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "189.36.128.0/22" ],
+    "ipv6": [ "2804:6e7c::/32" ]
+  }
+}

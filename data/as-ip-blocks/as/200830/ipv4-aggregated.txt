@@ -1,0 +1,4 @@
+# AS200830 (TURKAK-AS)
+# Turk Akreditasyon Kurumu
+#
+46.102.174.0/24

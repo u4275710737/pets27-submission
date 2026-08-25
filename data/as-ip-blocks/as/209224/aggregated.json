@@ -1,0 +1,16 @@
+{
+  "asn": 209224,
+  "metadata": {
+    "handle": "LBBW-NETWORK-AS",
+    "description": "Landesbank Baden-Wuerttemberg",
+    "countryCode": "DE",
+    "country": "Germany",
+    "origin": "authoritative",
+    "category": "government_admin",
+    "networkRole": "content_network"
+  },
+  "prefixes": {
+    "ipv4": [ "91.198.67.0/24", "185.164.84.0/22", "193.111.169.0/24" ],
+    "ipv6": [ ]
+  }
+}

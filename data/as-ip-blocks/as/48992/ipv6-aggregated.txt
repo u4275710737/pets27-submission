@@ -1,0 +1,4 @@
+# AS48992 (ALKM-AS)
+# Archidiecezja Lubelska
+#
+2001:678:ea0::/48

@@ -1,0 +1,16 @@
+{
+  "asn": 214682,
+  "metadata": {
+    "handle": "EPRO-IO",
+    "description": "Epro.io LLC",
+    "countryCode": "AZ",
+    "country": "Azerbaijan",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "94.20.153.0/24" ],
+    "ipv6": [ ]
+  }
+}

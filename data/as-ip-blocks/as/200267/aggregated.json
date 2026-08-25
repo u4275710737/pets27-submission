@@ -1,0 +1,14 @@
+{
+  "asn": 200267,
+  "metadata": {
+    "handle": "ZHAO",
+    "description": "Yiping Zhao",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

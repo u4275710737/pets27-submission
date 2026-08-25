@@ -1,0 +1,14 @@
+{
+  "asn": 5461,
+  "metadata": {
+    "handle": "OKB-MEI",
+    "description": "OKB MEI",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

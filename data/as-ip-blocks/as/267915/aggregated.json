@@ -1,0 +1,16 @@
+{
+  "asn": 267915,
+  "metadata": {
+    "handle": "ROMANO-DIEGO-OSCAR",
+    "description": "ROMANO DIEGO OSCAR(CONECTA)",
+    "countryCode": "AR",
+    "country": "Argentina",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "45.178.244.0/23", "45.178.246.0/24" ],
+    "ipv6": [ ]
+  }
+}

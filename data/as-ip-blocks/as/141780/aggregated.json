@@ -1,0 +1,14 @@
+{
+  "asn": 141780,
+  "metadata": {
+    "handle": "CGCL-AS-AP",
+    "description": "CHANNEL G COMPANY LIMITED",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

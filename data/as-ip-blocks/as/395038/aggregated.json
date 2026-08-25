@@ -1,0 +1,14 @@
+{
+  "asn": 395038,
+  "metadata": {
+    "handle": "KERNELEQUITY",
+    "description": "Dev Digital LLC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

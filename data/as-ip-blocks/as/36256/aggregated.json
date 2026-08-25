@@ -1,0 +1,14 @@
+{
+  "asn": 36256,
+  "metadata": {
+    "handle": "RBC-CAN-01",
+    "description": "Royal Bank of Canada",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

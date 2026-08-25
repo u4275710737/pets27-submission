@@ -1,0 +1,14 @@
+{
+  "asn": 200494,
+  "metadata": {
+    "handle": "ME-BRIDGE",
+    "description": "ME BRIDGE TELECOM FZCO",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

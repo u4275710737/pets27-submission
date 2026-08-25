@@ -1,0 +1,14 @@
+{
+  "asn": 204422,
+  "metadata": {
+    "handle": "LAURENT-PASCAL",
+    "description": "Pascal LAURENT",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

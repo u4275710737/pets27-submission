@@ -1,0 +1,4 @@
+# AS136823 (ADPNET-AS-ID)
+# PT. Arka Data Primatama
+#
+2401:2240::/32

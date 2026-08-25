@@ -1,0 +1,14 @@
+{
+  "asn": 207307,
+  "metadata": {
+    "handle": "SKIPVETDIGITAL",
+    "description": "Viken Fiber AS",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

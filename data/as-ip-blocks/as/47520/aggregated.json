@@ -1,0 +1,14 @@
+{
+  "asn": 47520,
+  "metadata": {
+    "handle": "ALLIANZ-PL",
+    "description": "Allianz Polska Services Sp. z o.o.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

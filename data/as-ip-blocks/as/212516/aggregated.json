@@ -1,0 +1,14 @@
+{
+  "asn": 212516,
+  "metadata": {
+    "handle": "NET-ALESSIOCAIROLI",
+    "description": "Alessio Cairoli",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

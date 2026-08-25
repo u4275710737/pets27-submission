@@ -1,0 +1,14 @@
+{
+  "asn": 132515,
+  "metadata": {
+    "handle": "MAXIMO-IN",
+    "description": "Maximo Infotech",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

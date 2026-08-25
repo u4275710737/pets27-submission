@@ -1,0 +1,14 @@
+{
+  "asn": 209444,
+  "metadata": {
+    "handle": "RCJY",
+    "description": "The Royal commission for Jubail and Yanbu",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

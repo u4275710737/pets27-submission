@@ -1,0 +1,5 @@
+# AS45485 (CARGOSMARTNET-AS-AP)
+# CargoSmart Limited
+#
+103.134.86.0/24
+203.99.143.0/24

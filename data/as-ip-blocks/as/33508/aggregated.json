@@ -1,0 +1,14 @@
+{
+  "asn": 33508,
+  "metadata": {
+    "handle": "SLN-CORE",
+    "description": "Solstas Lab Partners, LLC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

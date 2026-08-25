@@ -1,0 +1,16 @@
+{
+  "asn": 198180,
+  "metadata": {
+    "handle": "GABRIELE-SABATINO",
+    "description": "Gabriele Sabatino",
+    "countryCode": "IT",
+    "country": "Italy",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "89.125.112.0/24" ],
+    "ipv6": [ ]
+  }
+}

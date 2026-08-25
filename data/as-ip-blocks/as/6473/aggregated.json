@@ -1,0 +1,14 @@
+{
+  "asn": 6473,
+  "metadata": {
+    "handle": "WCIXN4",
+    "description": "Vidillion Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

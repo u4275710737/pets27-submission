@@ -1,0 +1,14 @@
+{
+  "asn": 22210,
+  "metadata": {
+    "handle": "AURICO",
+    "description": "Aurico",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

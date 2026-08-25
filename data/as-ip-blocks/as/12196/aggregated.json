@@ -1,0 +1,14 @@
+{
+  "asn": 12196,
+  "metadata": {
+    "handle": "ETSY",
+    "description": "Etsy Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 40114,
+  "metadata": {
+    "handle": "AS-IMPROCOM",
+    "description": "IMPROCOM INC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

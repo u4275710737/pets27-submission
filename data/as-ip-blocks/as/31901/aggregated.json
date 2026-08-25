@@ -1,0 +1,14 @@
+{
+  "asn": 31901,
+  "metadata": {
+    "handle": "JOHNSON-COUNTY-LIBRARY",
+    "description": "Johnson County Library",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

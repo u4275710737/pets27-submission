@@ -1,0 +1,14 @@
+{
+  "asn": 26085,
+  "metadata": {
+    "handle": "YAHOO-2",
+    "description": "Yahoo Holdings Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "asn": 212713,
+  "metadata": {
+    "handle": "TELECOM-GROUP",
+    "description": "LLC Telecom Group",
+    "countryCode": "RU",
+    "country": "Russia",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ ]
+  }
+}

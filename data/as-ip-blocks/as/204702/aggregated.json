@@ -1,0 +1,16 @@
+{
+  "asn": 204702,
+  "metadata": {
+    "handle": "DWTS",
+    "description": "Deutsche Windtechnik GmbH & Co. KG",
+    "countryCode": "DE",
+    "country": "Germany",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "185.157.148.0/23", "185.157.151.0/24" ],
+    "ipv6": [ "2a0c:f387:f000::/36" ]
+  }
+}

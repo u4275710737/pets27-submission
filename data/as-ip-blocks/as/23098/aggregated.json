@@ -1,0 +1,14 @@
+{
+  "asn": 23098,
+  "metadata": {
+    "handle": "PHOENIX-PLANO-EDS",
+    "description": "American Airlines Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

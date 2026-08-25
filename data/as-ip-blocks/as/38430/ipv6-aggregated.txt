@@ -1,0 +1,3 @@
+# AS38430 (SHINHANCARD-AS)
+# Shinhan card
+#

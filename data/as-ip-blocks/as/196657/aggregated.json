@@ -1,0 +1,14 @@
+{
+  "asn": 196657,
+  "metadata": {
+    "handle": "HIGHTECH",
+    "description": "Expressplus Ltd.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

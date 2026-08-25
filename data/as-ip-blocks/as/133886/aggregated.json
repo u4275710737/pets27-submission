@@ -1,0 +1,14 @@
+{
+  "asn": 133886,
+  "metadata": {
+    "handle": "SHL-AP",
+    "description": "Sibasa Holdings Ltd.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

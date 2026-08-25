@@ -1,0 +1,14 @@
+{
+  "asn": 149904,
+  "metadata": {
+    "handle": "IDNIC-POLITANI-SAMARINDA-AS-ID",
+    "description": "Politeknik Pertanian Negeri Samarinda",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 149348,
+  "metadata": {
+    "handle": "IDNIC-DISKOMINFOKOTAMETRO-ID",
+    "description": "Dinas Komunikasi dan Informatika Kota Metro",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

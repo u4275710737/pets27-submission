@@ -1,0 +1,5 @@
+# AS7423 (PUTNAMFT)
+# Franklin Resources Inc.
+#
+155.39.77.0/24
+155.39.88.0/24

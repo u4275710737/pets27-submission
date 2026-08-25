@@ -1,0 +1,4 @@
+# AS151847 (FASTMAILPTYLTD-AS-AP)
+# Fastmail
+#
+2402:5d60::/35

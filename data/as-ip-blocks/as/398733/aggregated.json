@@ -1,0 +1,14 @@
+{
+  "asn": 398733,
+  "metadata": {
+    "handle": "CELERIT-AS-LRDC",
+    "description": "Celerit Solutions Corporation",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

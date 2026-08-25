@@ -1,0 +1,14 @@
+{
+  "asn": 213303,
+  "metadata": {
+    "handle": "PAUNADEU",
+    "description": "Pau Nadeu Rabat",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 3644,
+  "metadata": {
+    "handle": "SPR-VPN",
+    "description": "Sprint",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

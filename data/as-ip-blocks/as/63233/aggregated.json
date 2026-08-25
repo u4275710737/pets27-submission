@@ -1,0 +1,14 @@
+{
+  "asn": 63233,
+  "metadata": {
+    "handle": "LC-LAS-63233",
+    "description": "LendingClub Corporation",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

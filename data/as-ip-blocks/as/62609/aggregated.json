@@ -1,0 +1,14 @@
+{
+  "asn": 62609,
+  "metadata": {
+    "handle": "IL-853-62609",
+    "description": "insiteOne",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

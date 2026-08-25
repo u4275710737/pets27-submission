@@ -1,0 +1,4 @@
+# AS24467 (DB-APAC-RHO-AS)
+# Deutsche Bank APAC RHO in Singapore Internet AS
+#
+2a00:c00:f030::/46

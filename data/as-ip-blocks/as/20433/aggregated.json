@@ -1,0 +1,14 @@
+{
+  "asn": 20433,
+  "metadata": {
+    "handle": "CENGAGE-MABOS",
+    "description": "Cengage Learning, Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

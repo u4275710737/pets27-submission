@@ -1,0 +1,14 @@
+{
+  "asn": 5637,
+  "metadata": {
+    "handle": "SAF-HOLLAND",
+    "description": "SAF HOLLAND INC.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

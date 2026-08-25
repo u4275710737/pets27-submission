@@ -1,0 +1,14 @@
+{
+  "asn": 11282,
+  "metadata": {
+    "handle": "SERVERYOU",
+    "description": "SERVERYOU INC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

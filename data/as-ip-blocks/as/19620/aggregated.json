@@ -1,0 +1,14 @@
+{
+  "asn": 19620,
+  "metadata": {
+    "handle": "HOSTARIS",
+    "description": "Hostaris L.L.C",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

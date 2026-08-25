@@ -1,0 +1,14 @@
+{
+  "asn": 12858,
+  "metadata": {
+    "handle": "MYNET",
+    "description": "MYNET INTERNET TEKNOLOJI ANONIM SIRKETI",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,4 @@
+# AS22392 (NGS-MOE)
+# National Geographic Society
+#
+209.249.172.0/23

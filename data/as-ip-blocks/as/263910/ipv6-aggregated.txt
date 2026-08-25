@@ -1,0 +1,4 @@
+# AS263910 (COREBGP)
+# Gurisat Gurinet Ltda Me
+#
+2804:2790::/32

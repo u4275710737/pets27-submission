@@ -1,0 +1,4 @@
+# AS270953 (IDL-TELECOMUNICACOES)
+# IDL Telecomunicações LTDA
+#
+186.26.100.0/22

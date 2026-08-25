@@ -1,0 +1,14 @@
+{
+  "asn": 399015,
+  "metadata": {
+    "handle": "NARORO",
+    "description": "Naroro, Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

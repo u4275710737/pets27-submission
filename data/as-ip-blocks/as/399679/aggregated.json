@@ -1,0 +1,14 @@
+{
+  "asn": 399679,
+  "metadata": {
+    "handle": "SFINC",
+    "description": "Stars Flying Inc",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

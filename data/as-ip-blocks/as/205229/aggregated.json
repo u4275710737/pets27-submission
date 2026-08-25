@@ -1,0 +1,16 @@
+{
+  "asn": 205229,
+  "metadata": {
+    "handle": "WIRELESS-CLIENT",
+    "description": "Rahnamoun Rayaneh Ertebatat Company (Ltd.)",
+    "countryCode": "IR",
+    "country": "Iran",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "185.224.176.0/22" ],
+    "ipv6": [ ]
+  }
+}

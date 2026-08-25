@@ -1,0 +1,14 @@
+{
+  "asn": 149760,
+  "metadata": {
+    "handle": "NAPINFO-AS-ID",
+    "description": "PT. NAP Info Lintas Nusa",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

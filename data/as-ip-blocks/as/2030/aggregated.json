@@ -1,0 +1,16 @@
+{
+  "asn": 2030,
+  "metadata": {
+    "handle": "TBCASN2",
+    "description": "The Boeing Company",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "192.48.21.0/24", "192.48.23.0/24", "192.76.224.0/22" ],
+    "ipv6": [ ]
+  }
+}

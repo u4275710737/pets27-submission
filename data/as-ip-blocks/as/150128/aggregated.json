@@ -1,0 +1,14 @@
+{
+  "asn": 150128,
+  "metadata": {
+    "handle": "MSSPARKINGWORLD-AP",
+    "description": "Sparking World",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

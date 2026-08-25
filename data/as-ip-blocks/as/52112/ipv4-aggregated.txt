@@ -1,0 +1,4 @@
+# AS52112 (GENTLENT-AS)
+# Gentlent GmbH
+#
+91.207.13.0/24

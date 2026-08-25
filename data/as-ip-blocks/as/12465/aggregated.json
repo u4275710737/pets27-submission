@@ -1,0 +1,14 @@
+{
+  "asn": 12465,
+  "metadata": {
+    "handle": "ISP-ASN5",
+    "description": "Intesa Sanpaolo S.p.A.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

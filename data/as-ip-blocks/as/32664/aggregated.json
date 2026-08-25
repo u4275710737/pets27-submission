@@ -1,0 +1,14 @@
+{
+  "asn": 32664,
+  "metadata": {
+    "handle": "CLOUDNET-AS2",
+    "description": "Cloudnet, Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

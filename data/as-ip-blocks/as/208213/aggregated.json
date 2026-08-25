@@ -1,0 +1,14 @@
+{
+  "asn": 208213,
+  "metadata": {
+    "handle": "H-MENA",
+    "description": "Horizon Technology-Fzco",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

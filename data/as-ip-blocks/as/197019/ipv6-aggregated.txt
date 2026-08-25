@@ -1,0 +1,5 @@
+# AS197019 (WEDOS)
+# WEDOS Internet a.s.
+#
+2a02:2b88::/32
+2a0e:acc0:ac00::/48

@@ -1,0 +1,16 @@
+{
+  "asn": 197551,
+  "metadata": {
+    "handle": "AMEOS",
+    "description": "Ameos SARL",
+    "countryCode": "FR",
+    "country": "France",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "91.223.40.0/24", "194.50.124.0/24" ],
+    "ipv6": [ ]
+  }
+}

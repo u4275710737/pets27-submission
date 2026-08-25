@@ -1,0 +1,4 @@
+# AS142243 (IDNIC-IFGLIFE-AS-ID)
+# PT Asuransi Jiwa IFG
+#
+192.122.210.0/24

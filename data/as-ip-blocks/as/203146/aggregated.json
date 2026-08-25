@@ -1,0 +1,16 @@
+{
+  "asn": 203146,
+  "metadata": {
+    "handle": "ORG-SF252-RIPE",
+    "description": "SwiftConnect Fiber LTD",
+    "countryCode": "GB",
+    "country": "United Kingdom",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "asn": 327778,
+  "metadata": {
+    "handle": "BOT-AS",
+    "description": "BOT AS NUMBER",
+    "countryCode": "TZ",
+    "country": "Tanzania",
+    "origin": "authoritative",
+    "category": "government_admin",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "196.13.186.0/24" ],
+    "ipv6": [ ]
+  }
+}

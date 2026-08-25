@@ -1,0 +1,4 @@
+# AS263233 (INTEGRAL-COMUNICACIONES)
+# Integral Comunicaciones SRL
+#
+198.50.16.0/21

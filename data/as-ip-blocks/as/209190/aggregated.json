@@ -1,0 +1,14 @@
+{
+  "asn": 209190,
+  "metadata": {
+    "handle": "IDGRUP",
+    "description": "ID GRUP,S.A.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

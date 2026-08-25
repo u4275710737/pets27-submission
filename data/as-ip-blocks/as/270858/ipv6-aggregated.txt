@@ -1,0 +1,4 @@
+# AS270858 (DIAMANTINO-TELECOM-PROVEDOR)
+# Diamantino Telecom Provedor de Internet LTDA
+#
+2804:7284::/32

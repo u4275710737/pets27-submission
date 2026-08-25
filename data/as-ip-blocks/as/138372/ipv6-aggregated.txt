@@ -1,0 +1,3 @@
+# AS138372 (JANOME-AS-AP)
+# Janome Australia Pty Ltd
+#

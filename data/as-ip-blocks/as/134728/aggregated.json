@@ -1,0 +1,16 @@
+{
+  "asn": 134728,
+  "metadata": {
+    "handle": "IDNIC-SANET-ID",
+    "description": "PT SANET MEDIA TEKNOLOGI",
+    "countryCode": "ID",
+    "country": "Indonesia",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "151.158.132.0/23" ],
+    "ipv6": [ ]
+  }
+}

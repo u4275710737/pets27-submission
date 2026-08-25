@@ -1,0 +1,14 @@
+{
+  "asn": 138908,
+  "metadata": {
+    "handle": "RAL-AS-AP",
+    "description": "Racing Australia Limited",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

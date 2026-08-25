@@ -1,0 +1,14 @@
+{
+  "asn": 9396,
+  "metadata": {
+    "handle": "TIKONAIN",
+    "description": "Tikona Infinet Ltd.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

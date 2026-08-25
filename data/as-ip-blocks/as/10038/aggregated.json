@@ -1,0 +1,16 @@
+{
+  "asn": 10038,
+  "metadata": {
+    "handle": "NHNCLOUDSERVICE-AS",
+    "description": "NHNCLOUD",
+    "countryCode": "KR",
+    "country": "South Korea",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "103.243.200.0/24" ],
+    "ipv6": [ ]
+  }
+}

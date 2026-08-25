@@ -1,0 +1,14 @@
+{
+  "asn": 23051,
+  "metadata": {
+    "handle": "FHI-360",
+    "description": "FHI 360",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

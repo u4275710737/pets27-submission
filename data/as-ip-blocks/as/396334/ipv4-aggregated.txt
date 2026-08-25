@@ -1,0 +1,4 @@
+# AS396334 (ORU-ASN)
+# Oral Roberts University
+#
+205.143.136.0/21

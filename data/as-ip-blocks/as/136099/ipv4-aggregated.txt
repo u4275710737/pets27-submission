@@ -1,0 +1,5 @@
+# AS136099 (IDNIC-PJNHK-AS-ID)
+# Pusat Jantung Nasional Harapan Kita
+#
+103.89.248.0/24
+160.25.249.0/24

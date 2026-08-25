@@ -1,0 +1,16 @@
+{
+  "asn": 16666,
+  "metadata": {
+    "handle": "CABLEVISION-LIGHTPATH-LLC",
+    "description": "Cablevision Lightpath LLC",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "inferred",
+    "category": null,
+    "networkRole": null
+  },
+  "prefixes": {
+    "ipv4": [ "148.77.62.0/24" ],
+    "ipv6": [ ]
+  }
+}

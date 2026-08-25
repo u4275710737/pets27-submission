@@ -1,0 +1,14 @@
+{
+  "asn": 206801,
+  "metadata": {
+    "handle": "SPRINGO",
+    "description": "Springo Srl",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

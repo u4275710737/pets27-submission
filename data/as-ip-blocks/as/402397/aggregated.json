@@ -1,0 +1,16 @@
+{
+  "asn": 402397,
+  "metadata": {
+    "handle": "17SOLUTIONS-LLC",
+    "description": "17 Solutions LLC",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "23.156.188.0/24" ],
+    "ipv6": [ "2602:f3f3::/48" ]
+  }
+}

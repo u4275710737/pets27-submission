@@ -1,0 +1,16 @@
+{
+  "asn": 36788,
+  "metadata": {
+    "handle": "WREC",
+    "description": "Wells Rural Electric Company",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "207.171.203.0/24" ],
+    "ipv6": [ ]
+  }
+}

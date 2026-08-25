@@ -1,0 +1,16 @@
+{
+  "asn": 214745,
+  "metadata": {
+    "handle": "NET67X-NETWORKS",
+    "description": "Arseniy Likhacev",
+    "countryCode": "RU",
+    "country": "Russia",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ "2a10:ab80:3e5::/48" ]
+  }
+}

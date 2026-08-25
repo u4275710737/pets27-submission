@@ -1,0 +1,14 @@
+{
+  "asn": 209695,
+  "metadata": {
+    "handle": "KUCHERENKOV",
+    "description": "LTD Darya",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

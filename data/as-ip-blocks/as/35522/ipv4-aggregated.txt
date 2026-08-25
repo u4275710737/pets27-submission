@@ -1,0 +1,4 @@
+# AS35522 (STADIONSPARTAK-AS)
+# SZ Stadion Spartak LLC
+#
+194.88.200.0/23

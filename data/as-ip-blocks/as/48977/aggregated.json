@@ -1,0 +1,14 @@
+{
+  "asn": 48977,
+  "metadata": {
+    "handle": "STEPCOM",
+    "description": "Descartes Systems (Belgium) NV",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

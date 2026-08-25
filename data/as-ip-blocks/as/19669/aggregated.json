@@ -1,0 +1,16 @@
+{
+  "asn": 19669,
+  "metadata": {
+    "handle": "SCS",
+    "description": "Steel City Signal",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "government_admin",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "23.135.108.0/24" ],
+    "ipv6": [ ]
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 395204,
+  "metadata": {
+    "handle": "AS-TEAMSOFTWARE",
+    "description": "TEAM Software Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

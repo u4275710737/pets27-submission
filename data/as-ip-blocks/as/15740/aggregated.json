@@ -1,0 +1,14 @@
+{
+  "asn": 15740,
+  "metadata": {
+    "handle": "ABN-AMRO-BANK-NV",
+    "description": "ABN AMRO Bank N.V.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

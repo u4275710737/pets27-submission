@@ -1,0 +1,14 @@
+{
+  "asn": 30112,
+  "metadata": {
+    "handle": "ALTA-1828",
+    "description": "AMERICAN LAND TITLE ASSOCIATION",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

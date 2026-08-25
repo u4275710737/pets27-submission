@@ -1,0 +1,14 @@
+{
+  "asn": 5684,
+  "metadata": {
+    "handle": "GANNETT-NET",
+    "description": "Gannett Company, Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 31193,
+  "metadata": {
+    "handle": "VIATELE",
+    "description": "1 Cloud Lab s.r.o.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

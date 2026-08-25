@@ -1,0 +1,14 @@
+{
+  "asn": 137255,
+  "metadata": {
+    "handle": "SKYNET-AS-AP1",
+    "description": "SKY NET ONLINE BD",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

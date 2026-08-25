@@ -1,0 +1,14 @@
+{
+  "asn": 204043,
+  "metadata": {
+    "handle": "TBASTIDE",
+    "description": "Thomas Bastide",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

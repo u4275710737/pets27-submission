@@ -1,0 +1,14 @@
+{
+  "asn": 44531,
+  "metadata": {
+    "handle": "AS12280",
+    "description": "Rayanmehr Danesh Sanj Company Ltd",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

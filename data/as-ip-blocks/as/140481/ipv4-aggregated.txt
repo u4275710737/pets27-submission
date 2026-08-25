@@ -1,0 +1,6 @@
+# AS140481 (T2NET-AS-ID)
+# PT Tonggak Teknologi Netikom
+#
+103.154.76.0/23
+110.76.144.0/22
+110.76.148.0/23

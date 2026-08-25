@@ -1,0 +1,16 @@
+{
+  "asn": 146772,
+  "metadata": {
+    "handle": "PENGCHENGNET",
+    "description": "Shenzhen Pengcheng communication network Co. Ltd",
+    "countryCode": "CN",
+    "country": "China",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "45.248.108.0/23", "45.248.110.0/24", "103.161.254.0/23" ],
+    "ipv6": [ "2405:80:10::/48", "2405:80:13::/48" ]
+  }
+}

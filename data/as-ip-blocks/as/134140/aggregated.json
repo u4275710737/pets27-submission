@@ -1,0 +1,16 @@
+{
+  "asn": 134140,
+  "metadata": {
+    "handle": "PLDT-CORPORATEDSL-AP",
+    "description": "Philippine Long Distance Telephone Co.",
+    "countryCode": "PH",
+    "country": "Philippines",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "101.192.112.0/20", "101.193.72.0/21", "101.193.80.0/22", "117.120.192.0/21", "117.120.232.0/21", "211.102.184.0/21" ],
+    "ipv6": [ ]
+  }
+}

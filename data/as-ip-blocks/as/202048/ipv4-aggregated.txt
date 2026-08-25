@@ -1,0 +1,4 @@
+# AS202048 (CLOUDTEKNOLOJI)
+# Cloud Teknoloji Bilisim Hizmetleri ve Ticaret A.S.
+#
+46.28.232.0/24

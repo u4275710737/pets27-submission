@@ -1,0 +1,4 @@
+# AS2149 (COGENT-2149)
+# Cogent Communications LLC
+#
+2001:500:2::/48

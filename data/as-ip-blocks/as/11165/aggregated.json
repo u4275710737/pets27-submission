@@ -1,0 +1,14 @@
+{
+  "asn": 11165,
+  "metadata": {
+    "handle": "DPI",
+    "description": "Toppan Photomasks, Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

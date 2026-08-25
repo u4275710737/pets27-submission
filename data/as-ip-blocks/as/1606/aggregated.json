@@ -1,0 +1,14 @@
+{
+  "asn": 1606,
+  "metadata": {
+    "handle": "EXCEL-ASN",
+    "description": "Excelenet Inc",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

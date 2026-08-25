@@ -1,0 +1,14 @@
+{
+  "asn": 61507,
+  "metadata": {
+    "handle": "ADMINISTRADORA-FONDOS-PENSIONES",
+    "description": "ADMINISTRADORA DE FONDOS DE PENSIONES PROVIDA S.A.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

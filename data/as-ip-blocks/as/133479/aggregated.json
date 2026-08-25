@@ -1,0 +1,14 @@
+{
+  "asn": 133479,
+  "metadata": {
+    "handle": "KEYLOOP-AS-AP",
+    "description": "Keyloop (UK) Limited",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,4 @@
+# AS262504 (NOVA-REDE-TELECOMUNICACOES)
+# Nova Rede de Telecomunicações Ltda
+#
+2804:540::/32

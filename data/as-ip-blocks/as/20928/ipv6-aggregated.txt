@@ -1,0 +1,4 @@
+# AS20928 (NOOR-AS)
+# Noor Data Networks ASN
+#
+2001:43c8:10::/48

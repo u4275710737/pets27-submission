@@ -1,0 +1,16 @@
+{
+  "asn": 199442,
+  "metadata": {
+    "handle": "M2MNT",
+    "description": "M2M SERVICES Ltd.",
+    "countryCode": "BG",
+    "country": "Bulgaria",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "content_network"
+  },
+  "prefixes": {
+    "ipv4": [ "185.201.81.0/24" ],
+    "ipv6": [ ]
+  }
+}

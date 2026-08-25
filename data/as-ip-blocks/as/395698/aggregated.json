@@ -1,0 +1,16 @@
+{
+  "asn": 395698,
+  "metadata": {
+    "handle": "BCBSKS",
+    "description": "Blue Cross Blue Shield of Kansas Inc.",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "204.154.185.0/24", "204.154.189.0/24" ],
+    "ipv6": [ ]
+  }
+}

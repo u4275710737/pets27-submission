@@ -1,0 +1,14 @@
+{
+  "asn": 19097,
+  "metadata": {
+    "handle": "GWRE-SM",
+    "description": "Guidewire Software, Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

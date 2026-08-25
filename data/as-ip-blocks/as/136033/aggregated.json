@@ -1,0 +1,14 @@
+{
+  "asn": 136033,
+  "metadata": {
+    "handle": "IAIR-INFINET-AS-AP",
+    "description": "IAIR INFOCOM PRIVATE LIMITED",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "asn": 538,
+  "metadata": {
+    "handle": "DNIC-AS-00538",
+    "description": "Headquarters USAISC",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "government_admin",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "192.33.186.0/24", "192.129.65.0/24" ],
+    "ipv6": [ ]
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 13264,
+  "metadata": {
+    "handle": "CELLCOM-FIXED-LINE",
+    "description": "Cellcom Fixed Line Communication L.P",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

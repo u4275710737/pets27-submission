@@ -1,0 +1,16 @@
+{
+  "asn": 9863,
+  "metadata": {
+    "handle": "EDUCAR-AS",
+    "description": "Hana Insurance Co. Ltd.",
+    "countryCode": "KR",
+    "country": "South Korea",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "61.36.51.0/24" ],
+    "ipv6": [ ]
+  }
+}

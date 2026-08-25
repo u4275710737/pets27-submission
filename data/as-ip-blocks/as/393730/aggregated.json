@@ -1,0 +1,14 @@
+{
+  "asn": 393730,
+  "metadata": {
+    "handle": "HARVEYBP",
+    "description": "Harvey Building Products",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

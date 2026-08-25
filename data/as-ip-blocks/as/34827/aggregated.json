@@ -1,0 +1,14 @@
+{
+  "asn": 34827,
+  "metadata": {
+    "handle": "EBOR",
+    "description": "Ebor Limited",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

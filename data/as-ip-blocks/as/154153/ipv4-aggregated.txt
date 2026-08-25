@@ -1,0 +1,4 @@
+# AS154153 (IDNIC-BIMANET-ID)
+# PT Bimanet Media Nusantara
+#
+192.88.101.0/24

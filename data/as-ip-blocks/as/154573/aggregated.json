@@ -1,0 +1,16 @@
+{
+  "asn": 154573,
+  "metadata": {
+    "handle": "ONHOSTEDPTYLTD-AS-AP",
+    "description": "Onhosted Pty Ltd",
+    "countryCode": "AU",
+    "country": "Australia",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "163.128.134.0/23" ],
+    "ipv6": [ "2402:5420:1::/48" ]
+  }
+}

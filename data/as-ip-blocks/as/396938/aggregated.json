@@ -1,0 +1,14 @@
+{
+  "asn": 396938,
+  "metadata": {
+    "handle": "WELLTECK-IT",
+    "description": "VC3 Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

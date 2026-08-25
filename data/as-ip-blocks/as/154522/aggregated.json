@@ -1,0 +1,16 @@
+{
+  "asn": 154522,
+  "metadata": {
+    "handle": "IDNIC-QUICKNET-AS-ID",
+    "description": "PT Quicknet Nusantara Teknologi",
+    "countryCode": "ID",
+    "country": "Indonesia",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "151.158.204.0/23" ],
+    "ipv6": [ ]
+  }
+}

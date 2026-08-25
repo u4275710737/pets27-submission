@@ -1,0 +1,4 @@
+# AS262533 (UNIVERSIDADE-PARA)
+# Universidade do Estado do Pará
+#
+177.70.32.0/19

@@ -1,0 +1,14 @@
+{
+  "asn": 211129,
+  "metadata": {
+    "handle": "GREGOIRE",
+    "description": "GREGOIRE NEVE DE MEVERGNIES",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

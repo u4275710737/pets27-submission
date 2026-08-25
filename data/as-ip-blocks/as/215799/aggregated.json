@@ -1,0 +1,14 @@
+{
+  "asn": 215799,
+  "metadata": {
+    "handle": "YOCTO-NET",
+    "description": "Ben Jonathan van Hartingsveldt trading as Yocto",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

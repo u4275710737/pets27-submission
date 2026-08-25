@@ -1,0 +1,14 @@
+{
+  "asn": 35714,
+  "metadata": {
+    "handle": "INFOSERVICE-UA",
+    "description": "PP Infoservis-Link",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

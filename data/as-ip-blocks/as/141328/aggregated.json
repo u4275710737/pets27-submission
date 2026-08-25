@@ -1,0 +1,14 @@
+{
+  "asn": 141328,
+  "metadata": {
+    "handle": "MANMEET",
+    "description": "Manmeet Communication Pvt Ltd",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

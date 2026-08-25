@@ -1,0 +1,16 @@
+{
+  "asn": 141210,
+  "metadata": {
+    "handle": "GRAND-AS-AP",
+    "description": "Grand Unicom Corp",
+    "countryCode": "PH",
+    "country": "Philippines",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "45.196.192.0/24", "103.136.109.0/24", "103.136.111.0/24" ],
+    "ipv6": [ ]
+  }
+}

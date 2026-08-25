@@ -1,0 +1,14 @@
+{
+  "asn": 12220,
+  "metadata": {
+    "handle": "I-EVOLVE-TECHNOLOGY-SERVICES",
+    "description": "I-Evolve Technology Services",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

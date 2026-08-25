@@ -1,0 +1,14 @@
+{
+  "asn": 2827,
+  "metadata": {
+    "handle": "MOMTAZICT-AS",
+    "description": "Momtaz ICT",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

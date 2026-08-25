@@ -1,0 +1,16 @@
+{
+  "asn": 16652,
+  "metadata": {
+    "handle": "RISEUP-NETWORKS",
+    "description": "Riseup Networks",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "198.252.153.0/24", "199.254.238.0/24", "204.13.164.0/24" ],
+    "ipv6": [ "2620:13:4000::/48" ]
+  }
+}

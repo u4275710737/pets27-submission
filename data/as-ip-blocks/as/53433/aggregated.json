@@ -1,0 +1,14 @@
+{
+  "asn": 53433,
+  "metadata": {
+    "handle": "YODLE-1",
+    "description": "Web.com Group, Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

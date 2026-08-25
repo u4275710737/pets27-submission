@@ -1,0 +1,16 @@
+{
+  "asn": 15345,
+  "metadata": {
+    "handle": "AUSTINCC",
+    "description": "Austin Community College",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "education_research",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "198.213.3.0/24", "198.213.89.0/24", "198.214.176.0/20", "206.77.144.0/21", "206.77.152.0/22" ],
+    "ipv6": [ "2605:2800:4004::/48" ]
+  }
+}

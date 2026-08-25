@@ -1,0 +1,14 @@
+{
+  "asn": 16815,
+  "metadata": {
+    "handle": "GOTO-PRIMARY",
+    "description": "Goto Group, Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

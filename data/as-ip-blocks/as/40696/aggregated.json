@@ -1,0 +1,14 @@
+{
+  "asn": 40696,
+  "metadata": {
+    "handle": "SEIMDC001",
+    "description": "Systems Engineering Incorporated",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

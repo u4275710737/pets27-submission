@@ -1,0 +1,4 @@
+# AS25522 (TRAVELPORT-AUSTRIA-AS)
+# Travelport Austria GmbH
+#
+2001:67c:704::/48

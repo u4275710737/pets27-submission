@@ -1,0 +1,14 @@
+{
+  "asn": 20354,
+  "metadata": {
+    "handle": "WESTNET",
+    "description": "WestNet Nevada, LLC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

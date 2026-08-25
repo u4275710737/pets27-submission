@@ -1,0 +1,16 @@
+{
+  "asn": 272794,
+  "metadata": {
+    "handle": "CONECTAMAX-COMERCIO-SERVICOS",
+    "description": "CONECTAMAX COMERCIO E SERVICOS",
+    "countryCode": "BR",
+    "country": "Brazil",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "access_provider"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ "2804:88cc::/32" ]
+  }
+}

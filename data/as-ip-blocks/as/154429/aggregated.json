@@ -1,0 +1,16 @@
+{
+  "asn": 154429,
+  "metadata": {
+    "handle": "JAFFYSUDIOBUYAO-AS-AP",
+    "description": "JAPTECH ELECTRONIC IT SOLUTIONS",
+    "countryCode": "PH",
+    "country": "Philippines",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "144.79.140.0/23" ],
+    "ipv6": [ ]
+  }
+}

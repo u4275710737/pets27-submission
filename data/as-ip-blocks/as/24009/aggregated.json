@@ -1,0 +1,14 @@
+{
+  "asn": 24009,
+  "metadata": {
+    "handle": "LIHGL-AP",
+    "description": "LANLIAN INTERNATIONAL HOLDING GROUP LIMITED",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

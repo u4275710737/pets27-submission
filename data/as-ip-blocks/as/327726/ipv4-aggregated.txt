@@ -1,0 +1,4 @@
+# AS327726 (NEWTELCO)
+# Newtelco Autonomous System Number
+#
+154.72.4.0/22

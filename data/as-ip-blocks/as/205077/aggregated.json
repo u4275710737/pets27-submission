@@ -1,0 +1,14 @@
+{
+  "asn": 205077,
+  "metadata": {
+    "handle": "SIGMAX",
+    "description": "Exite ICT B.V.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

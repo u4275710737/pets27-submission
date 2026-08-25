@@ -1,0 +1,14 @@
+{
+  "asn": 28843,
+  "metadata": {
+    "handle": "DAUTKOM",
+    "description": "Baltcom SIA",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

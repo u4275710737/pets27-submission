@@ -1,0 +1,14 @@
+{
+  "asn": 199984,
+  "metadata": {
+    "handle": "BLRM",
+    "description": "BLRM LTD",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

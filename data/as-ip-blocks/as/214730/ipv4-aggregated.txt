@@ -1,0 +1,4 @@
+# AS214730 (GODMANAM-AS)
+# Kedrov Andrii
+#
+147.90.44.0/24

@@ -1,0 +1,14 @@
+{
+  "asn": 61492,
+  "metadata": {
+    "handle": "SERVICIOS-EQUIFAX-CHILE",
+    "description": "SERVICIOS EQUIFAX CHILE LIMITADA",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

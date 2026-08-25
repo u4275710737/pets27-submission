@@ -1,0 +1,16 @@
+{
+  "asn": 263509,
+  "metadata": {
+    "handle": "DOMUS-TELECOM",
+    "description": "TURBOVIP TELECOM LTDA.",
+    "countryCode": "BR",
+    "country": "Brazil",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "access_provider"
+  },
+  "prefixes": {
+    "ipv4": [ "191.243.176.0/20" ],
+    "ipv6": [ ]
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 202198,
+  "metadata": {
+    "handle": "VIRUSOV-NET-AS",
+    "description": "Kolesnik Elena Vitalevna",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

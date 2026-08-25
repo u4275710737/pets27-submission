@@ -1,0 +1,14 @@
+{
+  "asn": 63796,
+  "metadata": {
+    "handle": "NEXTNET-LAB",
+    "description": "NEXTNET-LAB",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

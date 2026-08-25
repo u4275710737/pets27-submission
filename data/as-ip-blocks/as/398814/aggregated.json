@@ -1,0 +1,14 @@
+{
+  "asn": 398814,
+  "metadata": {
+    "handle": "EQUINIX-EC-PH",
+    "description": "Equinix, Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

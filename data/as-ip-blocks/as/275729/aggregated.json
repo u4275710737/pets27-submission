@@ -1,0 +1,16 @@
+{
+  "asn": 275729,
+  "metadata": {
+    "handle": "SPOTNET-TECNOLOGIA-TELECOMUNICACOES",
+    "description": "SPOTNET TECNOLOGIA DE TELECOMUNICACOES LTDA",
+    "countryCode": "BR",
+    "country": "Brazil",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ "2804:98ac::/32" ]
+  }
+}

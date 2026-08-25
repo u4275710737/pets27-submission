@@ -1,0 +1,14 @@
+{
+  "asn": 142524,
+  "metadata": {
+    "handle": "POEMTECHN-AS",
+    "description": "Poem Techno Pvt Ltd",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

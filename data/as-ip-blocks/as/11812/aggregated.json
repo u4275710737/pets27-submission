@@ -1,0 +1,14 @@
+{
+  "asn": 11812,
+  "metadata": {
+    "handle": "DWS-DGN",
+    "description": "Disney Worldwide Services, Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

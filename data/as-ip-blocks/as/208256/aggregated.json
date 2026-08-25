@@ -1,0 +1,14 @@
+{
+  "asn": 208256,
+  "metadata": {
+    "handle": "STINGERS",
+    "description": "Stingers Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

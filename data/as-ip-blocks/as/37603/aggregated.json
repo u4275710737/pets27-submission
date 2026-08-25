@@ -1,0 +1,14 @@
+{
+  "asn": 37603,
+  "metadata": {
+    "handle": "GAMEZONE-AS",
+    "description": "GameZone Angola",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

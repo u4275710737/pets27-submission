@@ -1,0 +1,14 @@
+{
+  "asn": 37997,
+  "metadata": {
+    "handle": "YTLCOMMS-MY",
+    "description": "YTL Communications Sdn Bhd",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

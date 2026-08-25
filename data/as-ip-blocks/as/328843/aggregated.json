@@ -1,0 +1,14 @@
+{
+  "asn": 328843,
+  "metadata": {
+    "handle": "SOUTHCOAST",
+    "description": "South Coast Fibre (pty) LTD",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

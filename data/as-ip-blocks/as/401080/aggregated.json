@@ -1,0 +1,14 @@
+{
+  "asn": 401080,
+  "metadata": {
+    "handle": "PXH",
+    "description": "Planet X Hosting LLC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

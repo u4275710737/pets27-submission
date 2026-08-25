@@ -1,0 +1,14 @@
+{
+  "asn": 395004,
+  "metadata": {
+    "handle": "MOTIVACTION",
+    "description": "MotivAction, LLC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

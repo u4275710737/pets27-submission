@@ -1,0 +1,14 @@
+{
+  "asn": 328933,
+  "metadata": {
+    "handle": "IBC",
+    "description": "Intrasurf Broadband cc",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

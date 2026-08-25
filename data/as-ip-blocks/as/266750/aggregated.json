@@ -1,0 +1,16 @@
+{
+  "asn": 266750,
+  "metadata": {
+    "handle": "CONECTADOZ",
+    "description": "CONECTADOZ S.R.L.",
+    "countryCode": "AR",
+    "country": "Argentina",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "45.231.248.0/23" ],
+    "ipv6": [ ]
+  }
+}

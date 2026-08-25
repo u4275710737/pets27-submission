@@ -1,0 +1,16 @@
+{
+  "asn": 59956,
+  "metadata": {
+    "handle": "S3WAY",
+    "description": "PP Lurenet",
+    "countryCode": "UA",
+    "country": "Ukraine",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "5.53.116.0/24", "194.50.167.0/24", "194.145.227.0/24", "195.39.240.0/24", "195.191.200.0/23" ],
+    "ipv6": [ ]
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 30101,
+  "metadata": {
+    "handle": "CSEINS-AS",
+    "description": "CSE SAFEGUARD INSURANCE COMPANY",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

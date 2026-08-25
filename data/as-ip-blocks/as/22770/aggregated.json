@@ -1,0 +1,14 @@
+{
+  "asn": 22770,
+  "metadata": {
+    "handle": "WHEELS-COM",
+    "description": "Wheels LLC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

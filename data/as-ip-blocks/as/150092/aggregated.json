@@ -1,0 +1,16 @@
+{
+  "asn": 150092,
+  "metadata": {
+    "handle": "ZOLM-AS-IN",
+    "description": "Zolm Private Limited",
+    "countryCode": "IN",
+    "country": "India",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "103.20.230.0/23" ],
+    "ipv6": [ ]
+  }
+}

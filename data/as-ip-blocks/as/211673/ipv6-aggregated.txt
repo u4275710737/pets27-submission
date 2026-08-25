@@ -1,0 +1,4 @@
+# AS211673 (MYNYMBOX)
+# Mynymbox Hosting LLC
+#
+2a14:1ec7:f900::/47

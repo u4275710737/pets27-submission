@@ -1,0 +1,4 @@
+# AS202905 (SYNETIC-SERVERS)
+# Lior Avraham Slakman
+#
+5.231.220.0/24

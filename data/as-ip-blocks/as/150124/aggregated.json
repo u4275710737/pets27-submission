@@ -1,0 +1,14 @@
+{
+  "asn": 150124,
+  "metadata": {
+    "handle": "MAYBANK-DC-AWN-AP",
+    "description": "MAYBANK Data Center (Co-Location)",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

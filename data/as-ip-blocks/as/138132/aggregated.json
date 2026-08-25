@@ -1,0 +1,14 @@
+{
+  "asn": 138132,
+  "metadata": {
+    "handle": "FASTEL-NAP-ID",
+    "description": "PT. FASTEL SARANA INDONESIA",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

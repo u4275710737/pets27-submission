@@ -1,0 +1,14 @@
+{
+  "asn": 7487,
+  "metadata": {
+    "handle": "NTTDATA-DIPS-AP",
+    "description": "NTT DATA INFORMATION PROCESSING SERVICES PRIVATE LIMITED",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

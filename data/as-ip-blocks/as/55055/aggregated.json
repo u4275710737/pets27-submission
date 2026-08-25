@@ -1,0 +1,14 @@
+{
+  "asn": 55055,
+  "metadata": {
+    "handle": "HRCO",
+    "description": "HRCO Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

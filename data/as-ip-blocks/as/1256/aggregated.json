@@ -1,0 +1,14 @@
+{
+  "asn": 1256,
+  "metadata": {
+    "handle": "MASSNET-AS",
+    "description": "UMASSNET",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

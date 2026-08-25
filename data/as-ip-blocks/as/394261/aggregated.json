@@ -1,0 +1,14 @@
+{
+  "asn": 394261,
+  "metadata": {
+    "handle": "WYNDHAM-WORLDWIDE-INDIANAPOLIS",
+    "description": "Wyndham Worldwide Corporation",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

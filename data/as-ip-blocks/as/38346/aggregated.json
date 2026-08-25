@@ -1,0 +1,14 @@
+{
+  "asn": 38346,
+  "metadata": {
+    "handle": "HANGTIAN-INFONET-AP",
+    "description": "HangTian Info Network Ltd.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

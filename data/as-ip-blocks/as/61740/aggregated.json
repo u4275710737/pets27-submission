@@ -1,0 +1,16 @@
+{
+  "asn": 61740,
+  "metadata": {
+    "handle": "TELECAB-TELECOMUNICACOES",
+    "description": "Telecab Telecomunicacoes Ltda",
+    "countryCode": "BR",
+    "country": "Brazil",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ ]
+  }
+}

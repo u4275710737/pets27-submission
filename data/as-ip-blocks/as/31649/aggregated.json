@@ -1,0 +1,14 @@
+{
+  "asn": 31649,
+  "metadata": {
+    "handle": "RIPN-FDNS-RU-NYC",
+    "description": "Join-stock company Internet ExchangeMSK-IX",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

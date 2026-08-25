@@ -1,0 +1,14 @@
+{
+  "asn": 205523,
+  "metadata": {
+    "handle": "SERVPERSO-SYSTEMS-CUSTOMERS-ANNOUNCEMENTS",
+    "description": "Sarah Rossius",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

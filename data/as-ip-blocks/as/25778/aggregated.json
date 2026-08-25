@@ -1,0 +1,14 @@
+{
+  "asn": 25778,
+  "metadata": {
+    "handle": "URBAN-INSTITUTE",
+    "description": "The Urban Institute",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

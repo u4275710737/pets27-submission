@@ -1,0 +1,16 @@
+{
+  "asn": 216431,
+  "metadata": {
+    "handle": "HOSTPOST-HUNGARY",
+    "description": "Roland Doczi",
+    "countryCode": "HU",
+    "country": "Hungary",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "185.221.21.0/24" ],
+    "ipv6": [ ]
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 210691,
+  "metadata": {
+    "handle": "ASTROVPN",
+    "description": "ASTROVPN LLC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

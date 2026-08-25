@@ -1,0 +1,14 @@
+{
+  "asn": 43790,
+  "metadata": {
+    "handle": "FL-L2",
+    "description": "Frode Laursen A/S",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

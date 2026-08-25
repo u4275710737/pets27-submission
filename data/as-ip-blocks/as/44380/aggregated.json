@@ -1,0 +1,14 @@
+{
+  "asn": 44380,
+  "metadata": {
+    "handle": "WESTCOM-TRADE",
+    "description": "Smart Telecom Limited",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

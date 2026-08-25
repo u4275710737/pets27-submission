@@ -1,0 +1,4 @@
+# AS214244 (AJIB)
+# Arab Jordan investment bank PLC
+#
+185.68.54.0/24

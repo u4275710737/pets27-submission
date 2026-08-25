@@ -1,0 +1,4 @@
+# AS198837 (REGION-VASTMANLAND-ASN)
+# Region Vastmanland
+#
+2001:67c:728::/48

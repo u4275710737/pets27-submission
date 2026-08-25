@@ -1,0 +1,16 @@
+{
+  "asn": 37398,
+  "metadata": {
+    "handle": "JUNISAT-AS37398",
+    "description": "Maintainer For AS37398",
+    "countryCode": "NG",
+    "country": "Nigeria",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "41.77.168.0/21" ],
+    "ipv6": [ ]
+  }
+}

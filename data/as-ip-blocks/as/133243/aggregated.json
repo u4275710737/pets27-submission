@@ -1,0 +1,14 @@
+{
+  "asn": 133243,
+  "metadata": {
+    "handle": "WEBLINK-IN",
+    "description": "Weblink Infoways Private Limited",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

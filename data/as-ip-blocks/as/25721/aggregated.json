@@ -1,0 +1,14 @@
+{
+  "asn": 25721,
+  "metadata": {
+    "handle": "AS-CHICAGO",
+    "description": "Morningstar Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

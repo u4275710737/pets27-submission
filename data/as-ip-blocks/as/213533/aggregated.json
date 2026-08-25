@@ -1,0 +1,16 @@
+{
+  "asn": 213533,
+  "metadata": {
+    "handle": "BEGET-REGION",
+    "description": "Beget LLC",
+    "countryCode": "RU",
+    "country": "Russia",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "93.92.81.0/24", "194.113.245.0/24" ],
+    "ipv6": [ ]
+  }
+}

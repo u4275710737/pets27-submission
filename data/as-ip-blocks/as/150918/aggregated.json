@@ -1,0 +1,14 @@
+{
+  "asn": 150918,
+  "metadata": {
+    "handle": "IDNIC-BCAI-ID",
+    "description": "PT Asuransi Umum BCA",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

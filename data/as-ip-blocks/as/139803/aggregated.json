@@ -1,0 +1,16 @@
+{
+  "asn": 139803,
+  "metadata": {
+    "handle": "INLWW-AS-AP",
+    "description": "iOVZ Networks Limited",
+    "countryCode": "HK",
+    "country": "Hong Kong SAR China",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "85.149.192.0/20" ],
+    "ipv6": [ "2a0b:d904::/30", "2a12:28c4::/30", "2a14:e04::/30" ]
+  }
+}

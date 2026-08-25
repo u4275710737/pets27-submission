@@ -1,0 +1,14 @@
+{
+  "asn": 209661,
+  "metadata": {
+    "handle": "MCFX",
+    "description": "SIQI WANG",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 211849,
+  "metadata": {
+    "handle": "KAKHAROV-AS",
+    "description": "Kakharov Orinbassar Maratuly",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

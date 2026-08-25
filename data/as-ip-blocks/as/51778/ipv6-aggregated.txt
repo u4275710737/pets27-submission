@@ -1,0 +1,4 @@
+# AS51778 (ASPUREICT)
+# Pure ICT AG
+#
+2a0c:e740::/32

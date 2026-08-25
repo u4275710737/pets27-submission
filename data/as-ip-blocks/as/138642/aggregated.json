@@ -1,0 +1,14 @@
+{
+  "asn": 138642,
+  "metadata": {
+    "handle": "BPL-AS-AP",
+    "description": "Broadridge (Australia) Pty Ltd",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

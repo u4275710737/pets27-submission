@@ -1,0 +1,14 @@
+{
+  "asn": 15023,
+  "metadata": {
+    "handle": "LOTUS-CANTON",
+    "description": "Lotus International Company",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

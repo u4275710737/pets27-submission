@@ -1,0 +1,5 @@
+# AS33848 (PORSCHE-AS)
+# Dr. Ing. h.c. F. Porsche AG
+#
+2a00:4980:10::/44
+2a00:4980:20::/44

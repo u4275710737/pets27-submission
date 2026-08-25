@@ -1,0 +1,14 @@
+{
+  "asn": 21250,
+  "metadata": {
+    "handle": "BAHNHOF",
+    "description": "Bahnhof AB",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

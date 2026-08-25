@@ -1,0 +1,16 @@
+{
+  "asn": 142262,
+  "metadata": {
+    "handle": "MCL-AS-AP",
+    "description": "434480",
+    "countryCode": "KR",
+    "country": "South Korea",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "151.158.230.0/24" ],
+    "ipv6": [ ]
+  }
+}

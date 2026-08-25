@@ -1,0 +1,14 @@
+{
+  "asn": 11559,
+  "metadata": {
+    "handle": "OTSR",
+    "description": "Outseer LLC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 11057,
+  "metadata": {
+    "handle": "WTHOMPSONCO",
+    "description": "J. Walter Thompson",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

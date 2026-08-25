@@ -1,0 +1,14 @@
+{
+  "asn": 36605,
+  "metadata": {
+    "handle": "CORNERIT",
+    "description": "CornerIT",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

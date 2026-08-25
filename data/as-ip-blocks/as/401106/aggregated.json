@@ -1,0 +1,16 @@
+{
+  "asn": 401106,
+  "metadata": {
+    "handle": "TECHIES365",
+    "description": "Techies365",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "160.20.121.0/24" ],
+    "ipv6": [ "2602:f40a:a::/47", "2602:f40a:63::/48" ]
+  }
+}

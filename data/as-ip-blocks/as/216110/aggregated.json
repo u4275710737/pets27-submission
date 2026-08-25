@@ -1,0 +1,14 @@
+{
+  "asn": 216110,
+  "metadata": {
+    "handle": "SOREN",
+    "description": "SOREN NETWORK INNOVATOR LTD",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

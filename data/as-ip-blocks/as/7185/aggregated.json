@@ -1,0 +1,14 @@
+{
+  "asn": 7185,
+  "metadata": {
+    "handle": "QUADRANET-INTERNET-SERVICES",
+    "description": "QuadraNet Internet Services",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

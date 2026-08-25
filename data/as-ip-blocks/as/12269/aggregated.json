@@ -1,0 +1,14 @@
+{
+  "asn": 12269,
+  "metadata": {
+    "handle": "GROUPON-PROD1",
+    "description": "Groupon, Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

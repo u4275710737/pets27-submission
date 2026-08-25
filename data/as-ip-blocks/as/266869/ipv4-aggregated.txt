@@ -1,0 +1,4 @@
+# AS266869 (UNIVERSIDAD-NARINO)
+# Universidad de Nariño
+#
+192.68.185.0/24

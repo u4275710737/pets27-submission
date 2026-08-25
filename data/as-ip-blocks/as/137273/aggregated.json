@@ -1,0 +1,16 @@
+{
+  "asn": 137273,
+  "metadata": {
+    "handle": "XNL-AS-AP",
+    "description": "X1 NETWORKS (PRIVATE) LIMITED",
+    "countryCode": "PK",
+    "country": "Pakistan",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ "2402:5a60::/47", "2402:5a60:2::/48" ]
+  }
+}

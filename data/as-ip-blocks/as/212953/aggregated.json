@@ -1,0 +1,14 @@
+{
+  "asn": 212953,
+  "metadata": {
+    "handle": "MRS-BILISIM",
+    "description": "MRS Bilisim ve Telekomunikasyon Hiz. Ltd. Sti.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

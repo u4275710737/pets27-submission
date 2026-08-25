@@ -1,0 +1,5 @@
+# AS200561 (PLACETEL)
+# Gamma Placetel GmbH
+#
+2a03:20::/32
+2a0b:cb00::/29

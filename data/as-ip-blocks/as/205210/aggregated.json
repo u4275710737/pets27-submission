@@ -1,0 +1,14 @@
+{
+  "asn": 205210,
+  "metadata": {
+    "handle": "WALTER",
+    "description": "Moritz Walter",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "asn": 401771,
+  "metadata": {
+    "handle": "CEDAR-CREEK",
+    "description": "CEDAR CREEK IT SOLUTIONS",
+    "countryCode": "CA",
+    "country": "Canada",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ ]
+  }
+}

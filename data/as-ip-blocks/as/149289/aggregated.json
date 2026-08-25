@@ -1,0 +1,14 @@
+{
+  "asn": 149289,
+  "metadata": {
+    "handle": "PLT-AP",
+    "description": "Palash Link Technology",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

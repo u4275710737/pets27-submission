@@ -1,0 +1,16 @@
+{
+  "asn": 203516,
+  "metadata": {
+    "handle": "ALTUNHOST",
+    "description": "AltunHOST LTD",
+    "countryCode": "GB",
+    "country": "United Kingdom",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "5.83.131.0/24", "5.83.135.0/24", "5.175.206.0/24", "5.230.9.0/24" ],
+    "ipv6": [ "2a02:2fc0:12::/48" ]
+  }
+}

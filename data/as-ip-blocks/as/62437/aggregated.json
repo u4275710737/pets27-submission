@@ -1,0 +1,14 @@
+{
+  "asn": 62437,
+  "metadata": {
+    "handle": "UNIXSOLUTIONS2",
+    "description": "Unix-Solutions BVBA",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

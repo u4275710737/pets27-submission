@@ -1,0 +1,14 @@
+{
+  "asn": 205835,
+  "metadata": {
+    "handle": "STEFANVODA-UL",
+    "description": "Uplink SRL",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

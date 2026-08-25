@@ -1,0 +1,14 @@
+{
+  "asn": 37641,
+  "metadata": {
+    "handle": "GIE-GCB-AS",
+    "description": "GROUPEMENT D'INTERET ECONOMIQUE GROUPE COMMERCIAL BANK - GIE GCB",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 37281,
+  "metadata": {
+    "handle": "GVA-CONGO",
+    "description": "GVA Congo",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

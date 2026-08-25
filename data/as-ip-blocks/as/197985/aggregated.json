@@ -1,0 +1,14 @@
+{
+  "asn": 197985,
+  "metadata": {
+    "handle": "NL-F2X",
+    "description": "F2X Operator B.V.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

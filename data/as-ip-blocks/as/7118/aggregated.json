@@ -1,0 +1,16 @@
+{
+  "asn": 7118,
+  "metadata": {
+    "handle": "GIS-7118",
+    "description": "Global Internet Services",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "176.102.170.0/24" ],
+    "ipv6": [ ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "asn": 210542,
+  "metadata": {
+    "handle": "G-NET",
+    "description": "NPO G-net",
+    "countryCode": "JP",
+    "country": "Japan",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ ]
+  }
+}

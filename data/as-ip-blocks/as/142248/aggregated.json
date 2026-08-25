@@ -1,0 +1,16 @@
+{
+  "asn": 142248,
+  "metadata": {
+    "handle": "MSBINODANNET-AS-AP",
+    "description": "M/S Binodan Net",
+    "countryCode": "BD",
+    "country": "Bangladesh",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "151.158.110.0/24" ],
+    "ipv6": [ ]
+  }
+}

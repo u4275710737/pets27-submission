@@ -1,0 +1,14 @@
+{
+  "asn": 47722,
+  "metadata": {
+    "handle": "CONCORDE",
+    "description": "Concorde Capital Ltd.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

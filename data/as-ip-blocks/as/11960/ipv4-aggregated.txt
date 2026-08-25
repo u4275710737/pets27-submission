@@ -1,0 +1,4 @@
+# AS11960 (CUBADATA-AS)
+# Empresa de Telecomunicaciones de Cuba S.A.
+#
+200.0.16.0/24

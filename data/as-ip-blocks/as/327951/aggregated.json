@@ -1,0 +1,16 @@
+{
+  "asn": 327951,
+  "metadata": {
+    "handle": "INCM",
+    "description": "INCM Network",
+    "countryCode": "MZ",
+    "country": "Mozambique",
+    "origin": "authoritative",
+    "category": "government_admin",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "196.13.101.0/24" ],
+    "ipv6": [ ]
+  }
+}

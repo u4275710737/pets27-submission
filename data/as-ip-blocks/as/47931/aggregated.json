@@ -1,0 +1,14 @@
+{
+  "asn": 47931,
+  "metadata": {
+    "handle": "APSI-ASN1",
+    "description": "Agora Publishing Services (Ireland) Limited",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

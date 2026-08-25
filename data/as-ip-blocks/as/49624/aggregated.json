@@ -1,0 +1,14 @@
+{
+  "asn": 49624,
+  "metadata": {
+    "handle": "LUCIX",
+    "description": "LU-CIX Management GIE",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

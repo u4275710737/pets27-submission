@@ -1,0 +1,14 @@
+{
+  "asn": 25768,
+  "metadata": {
+    "handle": "AQ-1",
+    "description": "Aquent, LLC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

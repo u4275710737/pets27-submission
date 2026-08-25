@@ -1,0 +1,14 @@
+{
+  "asn": 39295,
+  "metadata": {
+    "handle": "SWIP-AS",
+    "description": "Southern Communications Ltd",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

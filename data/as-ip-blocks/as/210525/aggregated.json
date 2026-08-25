@@ -1,0 +1,14 @@
+{
+  "asn": 210525,
+  "metadata": {
+    "handle": "SIRIUS-NET",
+    "description": "Nikita Sergienko",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

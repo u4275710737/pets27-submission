@@ -1,0 +1,14 @@
+{
+  "asn": 16555,
+  "metadata": {
+    "handle": "HENKELSMCCOY",
+    "description": "Henkels and McCoy, Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

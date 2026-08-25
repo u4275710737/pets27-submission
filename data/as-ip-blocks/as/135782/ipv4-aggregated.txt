@@ -1,0 +1,5 @@
+# AS135782 (NYAK-AS)
+# Nyak Technologies And Teleservices Pvt Ltd
+#
+103.82.97.0/24
+103.82.98.0/23

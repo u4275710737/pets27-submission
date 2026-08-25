@@ -1,0 +1,16 @@
+{
+  "asn": 402386,
+  "metadata": {
+    "handle": "SETTLEDIN",
+    "description": "Settledin LLC",
+    "countryCode": "TH",
+    "country": "Thailand",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "23.156.212.0/24" ],
+    "ipv6": [ ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "asn": 28120,
+  "metadata": {
+    "handle": "ARQUICOMP",
+    "description": "Arquicomp Ltda.",
+    "countryCode": "CL",
+    "country": "Chile",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "200.114.88.0/21" ],
+    "ipv6": [ "2803:420::/33", "2803:420:8000::/34", "2803:420:c000::/35", "2803:420:e000::/36" ]
+  }
+}

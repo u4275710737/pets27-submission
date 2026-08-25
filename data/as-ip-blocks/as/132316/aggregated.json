@@ -1,0 +1,14 @@
+{
+  "asn": 132316,
+  "metadata": {
+    "handle": "FREDNETLIMITED-AS-AP",
+    "description": "Frednet Limited",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

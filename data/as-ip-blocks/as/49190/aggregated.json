@@ -1,0 +1,14 @@
+{
+  "asn": 49190,
+  "metadata": {
+    "handle": "XCOMPARTNERS",
+    "description": "Leon Sp. z o.o.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

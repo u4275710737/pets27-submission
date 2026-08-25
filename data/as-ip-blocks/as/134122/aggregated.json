@@ -1,0 +1,16 @@
+{
+  "asn": 134122,
+  "metadata": {
+    "handle": "KAZINET-AS-AP",
+    "description": "Kazi Net",
+    "countryCode": "BD",
+    "country": "Bangladesh",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ ]
+  }
+}

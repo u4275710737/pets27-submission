@@ -1,0 +1,14 @@
+{
+  "asn": 20275,
+  "metadata": {
+    "handle": "PCA-LATNY",
+    "description": "Pearl Carroll & Associates LLC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

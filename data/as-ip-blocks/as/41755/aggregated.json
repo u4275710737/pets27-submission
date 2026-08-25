@@ -1,0 +1,16 @@
+{
+  "asn": 41755,
+  "metadata": {
+    "handle": "EGM-TR",
+    "description": "Emeklilik Gozetim Merkezi Anonim Sirketi",
+    "countryCode": "TR",
+    "country": "Türkiye",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "130.43.162.0/24", "193.37.154.0/24" ],
+    "ipv6": [ ]
+  }
+}

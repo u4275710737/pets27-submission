@@ -1,0 +1,4 @@
+# AS154522 (IDNIC-QUICKNET-AS-ID)
+# PT Quicknet Nusantara Teknologi
+#
+151.158.204.0/23

@@ -1,0 +1,16 @@
+{
+  "asn": 33352,
+  "metadata": {
+    "handle": "CNF-BLOCK",
+    "description": "GM Financial",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "139.180.24.0/23", "206.109.200.0/23" ],
+    "ipv6": [ ]
+  }
+}

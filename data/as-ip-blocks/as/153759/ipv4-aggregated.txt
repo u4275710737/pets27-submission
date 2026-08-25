@@ -1,0 +1,4 @@
+# AS153759 (IRINN-INTERWIRE-AS-IN)
+# De-cix Interwire Internet Services Private Limited
+#
+103.83.70.0/24

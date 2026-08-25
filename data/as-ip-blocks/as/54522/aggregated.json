@@ -1,0 +1,14 @@
+{
+  "asn": 54522,
+  "metadata": {
+    "handle": "CIERANT-CORP",
+    "description": "CIERANT CORPORATION",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

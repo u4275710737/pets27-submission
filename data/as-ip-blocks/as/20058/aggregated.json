@@ -1,0 +1,16 @@
+{
+  "asn": 20058,
+  "metadata": {
+    "handle": "CCTC-LINK1",
+    "description": "Totelcom Communications LLC",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "access_provider"
+  },
+  "prefixes": {
+    "ipv4": [ "108.161.0.0/20", "199.30.48.0/21" ],
+    "ipv6": [ ]
+  }
+}

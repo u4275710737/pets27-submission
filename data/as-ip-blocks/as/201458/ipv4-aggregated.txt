@@ -1,0 +1,4 @@
+# AS201458 (INNKLINIKUM)
+# InnKlinikum gKU Altoetting und Muehldorf
+#
+91.203.107.0/24

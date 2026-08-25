@@ -1,0 +1,14 @@
+{
+  "asn": 399152,
+  "metadata": {
+    "handle": "ULTRADNS",
+    "description": "NeuStar, Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

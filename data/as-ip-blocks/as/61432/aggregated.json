@@ -1,0 +1,14 @@
+{
+  "asn": 61432,
+  "metadata": {
+    "handle": "VAIZ-AS",
+    "description": "TOV VAIZ PARTNER",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

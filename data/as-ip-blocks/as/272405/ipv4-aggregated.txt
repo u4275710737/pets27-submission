@@ -1,0 +1,4 @@
+# AS272405 (JAIR-LOZANO)
+# Jair Lozano
+#
+38.210.176.0/22

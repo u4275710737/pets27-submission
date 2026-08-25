@@ -1,0 +1,14 @@
+{
+  "asn": 4513,
+  "metadata": {
+    "handle": "INTERNAP",
+    "description": "Unitas Global",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

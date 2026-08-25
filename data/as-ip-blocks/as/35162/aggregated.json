@@ -1,0 +1,14 @@
+{
+  "asn": 35162,
+  "metadata": {
+    "handle": "INTERNET-AS",
+    "description": "Internet Ltd.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

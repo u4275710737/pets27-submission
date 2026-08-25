@@ -1,0 +1,14 @@
+{
+  "asn": 32870,
+  "metadata": {
+    "handle": "RADIAN6",
+    "description": "Salesforce.com Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

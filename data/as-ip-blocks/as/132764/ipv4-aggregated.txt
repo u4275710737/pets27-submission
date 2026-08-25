@@ -1,0 +1,4 @@
+# AS132764 (PINKEYIT-AS)
+# Pinkey Internet
+#
+110.44.8.0/24

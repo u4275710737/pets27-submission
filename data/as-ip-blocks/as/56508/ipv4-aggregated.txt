@@ -1,0 +1,4 @@
+# AS56508 (ARDC)
+# Amateur Radio Digital Communications
+#
+44.27.0.0/16

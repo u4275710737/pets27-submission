@@ -1,0 +1,16 @@
+{
+  "asn": 268175,
+  "metadata": {
+    "handle": "AIRMAR-TELECOM",
+    "description": "A DE CARVALHO COMUNICAÇÃO LTDA",
+    "countryCode": "BR",
+    "country": "Brazil",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "45.171.4.0/22" ],
+    "ipv6": [ "2804:5934::/32" ]
+  }
+}

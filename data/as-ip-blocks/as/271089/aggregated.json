@@ -1,0 +1,16 @@
+{
+  "asn": 271089,
+  "metadata": {
+    "handle": "SKYNEXT-TELECOM",
+    "description": "SKYNEXT TELECOM LTDA",
+    "countryCode": "BR",
+    "country": "Brazil",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "179.48.135.0/24" ],
+    "ipv6": [ "2804:7618:b00::/40" ]
+  }
+}

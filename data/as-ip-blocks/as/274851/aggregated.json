@@ -1,0 +1,16 @@
+{
+  "asn": 274851,
+  "metadata": {
+    "handle": "COOPERATIVA-ELECTRICIDAD-VIVIENDAS",
+    "description": "COOPERATIVA DE ELECTRICIDAD VIVIENDAS Y ANEXOS DE LA CESIRA LTDA",
+    "countryCode": "AR",
+    "country": "Argentina",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "131.0.134.0/24", "190.136.19.0/24", "190.224.200.0/24" ],
+    "ipv6": [ ]
+  }
+}

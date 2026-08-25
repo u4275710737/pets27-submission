@@ -1,0 +1,14 @@
+{
+  "asn": 203691,
+  "metadata": {
+    "handle": "LIMA",
+    "description": "Li Ma",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

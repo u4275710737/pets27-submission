@@ -1,0 +1,14 @@
+{
+  "asn": 53530,
+  "metadata": {
+    "handle": "MYRON-ASN",
+    "description": "Myron Corp.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 132994,
+  "metadata": {
+    "handle": "DENABANK",
+    "description": "DENA BANK",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

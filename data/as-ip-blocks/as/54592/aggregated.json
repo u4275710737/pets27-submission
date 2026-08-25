@@ -1,0 +1,14 @@
+{
+  "asn": 54592,
+  "metadata": {
+    "handle": "PHOENIXSOFT",
+    "description": "Phoenixsoft, Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

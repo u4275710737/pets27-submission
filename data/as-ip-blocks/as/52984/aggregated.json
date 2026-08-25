@@ -1,0 +1,16 @@
+{
+  "asn": 52984,
+  "metadata": {
+    "handle": "CS-NET-INFORMATICA",
+    "description": "CS-NET Informática e Tecnologia Ltda.",
+    "countryCode": "BR",
+    "country": "Brazil",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "187.87.176.0/20" ],
+    "ipv6": [ "2804:5dac::/32" ]
+  }
+}

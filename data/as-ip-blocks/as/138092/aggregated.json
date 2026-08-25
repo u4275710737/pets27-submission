@@ -1,0 +1,14 @@
+{
+  "asn": 138092,
+  "metadata": {
+    "handle": "IDNIC-NEBULA-AS-ID",
+    "description": "PT. Nebula Surya Corpora",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

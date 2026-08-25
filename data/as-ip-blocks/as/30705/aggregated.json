@@ -1,0 +1,14 @@
+{
+  "asn": 30705,
+  "metadata": {
+    "handle": "FARGO-VOXTELESYS-01",
+    "description": "Voxtelesys LLC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,5 @@
+# AS142308 (IDNIC-WHIZDIGITAL-AS-ID)
+# PT Whiz Digital Berjaya
+#
+2402:3f20::/48
+2402:3f20:11::/48

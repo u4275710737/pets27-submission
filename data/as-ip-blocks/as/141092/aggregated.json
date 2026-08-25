@@ -1,0 +1,14 @@
+{
+  "asn": 141092,
+  "metadata": {
+    "handle": "IDNIC-TEKLINGMEDIA-ID",
+    "description": "PT Tekling Media Interkoneksi",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

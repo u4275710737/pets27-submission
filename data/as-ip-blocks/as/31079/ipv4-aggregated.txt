@@ -1,0 +1,4 @@
+# AS31079 (LGI)
+# Liberty Global Europe Holding B.V.
+#
+195.20.106.0/24

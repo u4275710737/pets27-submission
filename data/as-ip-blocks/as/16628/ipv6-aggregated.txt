@@ -1,0 +1,4 @@
+# AS16628 (DEDFIBERCO)
+# DedFiberCo
+#
+2602:ffbc::/48

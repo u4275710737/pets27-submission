@@ -1,0 +1,16 @@
+{
+  "asn": 137071,
+  "metadata": {
+    "handle": "AIRTELAUSTRALIA-AS-AP",
+    "description": "Airtel Australia",
+    "countryCode": "AU",
+    "country": "Australia",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "163.128.95.0/24" ],
+    "ipv6": [ ]
+  }
+}

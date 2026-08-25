@@ -1,0 +1,14 @@
+{
+  "asn": 24346,
+  "metadata": {
+    "handle": "CROSSCITY-MOTORWAY-AP",
+    "description": "CrossCity Motorway",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

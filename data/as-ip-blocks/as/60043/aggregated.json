@@ -1,0 +1,14 @@
+{
+  "asn": 60043,
+  "metadata": {
+    "handle": "CENTRODOM-AS",
+    "description": "JSC ER-Telecom Holding",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

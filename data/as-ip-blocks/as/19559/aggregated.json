@@ -1,0 +1,14 @@
+{
+  "asn": 19559,
+  "metadata": {
+    "handle": "MC-3254",
+    "description": "Maximus Canada",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

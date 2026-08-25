@@ -1,0 +1,14 @@
+{
+  "asn": 398857,
+  "metadata": {
+    "handle": "NUAGE-ASN-01",
+    "description": "Nuage Logic, Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

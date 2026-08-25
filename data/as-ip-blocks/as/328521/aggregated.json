@@ -1,0 +1,14 @@
+{
+  "asn": 328521,
+  "metadata": {
+    "handle": "WISELINK-BROADBAND",
+    "description": "Wiselink Broadband",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

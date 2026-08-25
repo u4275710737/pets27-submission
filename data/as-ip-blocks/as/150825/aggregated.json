@@ -1,0 +1,14 @@
+{
+  "asn": 150825,
+  "metadata": {
+    "handle": "CODETAY-VN",
+    "description": "CODETAY SOFTWARE LIMITED LIABILITY COMPANY",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

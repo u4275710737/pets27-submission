@@ -1,0 +1,14 @@
+{
+  "asn": 200564,
+  "metadata": {
+    "handle": "CHP-CONSULTING",
+    "description": "Alfa Financial Software Limited",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

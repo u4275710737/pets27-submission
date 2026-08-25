@@ -1,0 +1,14 @@
+{
+  "asn": 27230,
+  "metadata": {
+    "handle": "MEIKO",
+    "description": "Meiko America, Inc",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 55166,
+  "metadata": {
+    "handle": "HPC-ASR",
+    "description": "Hood Packaging Corporation",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

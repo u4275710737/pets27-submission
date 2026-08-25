@@ -1,0 +1,14 @@
+{
+  "asn": 54154,
+  "metadata": {
+    "handle": "FIBERSPHERE",
+    "description": "GiGstreem",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 6280,
+  "metadata": {
+    "handle": "SYNAPSE",
+    "description": "Babillard Synapse Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

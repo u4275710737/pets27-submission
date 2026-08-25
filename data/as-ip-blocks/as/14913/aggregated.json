@@ -1,0 +1,14 @@
+{
+  "asn": 14913,
+  "metadata": {
+    "handle": "MEDIA-NEWS-GROUP",
+    "description": "MEDIA NEWS GROUP",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

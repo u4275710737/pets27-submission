@@ -1,0 +1,16 @@
+{
+  "asn": 208831,
+  "metadata": {
+    "handle": "AFZALCLOUD-AS",
+    "description": "Afzal Cloud Technologies LLC",
+    "countryCode": "UZ",
+    "country": "Uzbekistan",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "77.83.192.0/24" ],
+    "ipv6": [ ]
+  }
+}

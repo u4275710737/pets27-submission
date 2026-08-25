@@ -1,0 +1,14 @@
+{
+  "asn": 62451,
+  "metadata": {
+    "handle": "KABELSEEFELD",
+    "description": "T-Mobile Austria GmbH",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,4 @@
+# AS48809 (HOSTEUR-ANYCAST)
+# Hosteur SAS
+#
+185.148.78.0/24

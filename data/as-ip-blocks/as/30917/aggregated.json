@@ -1,0 +1,14 @@
+{
+  "asn": 30917,
+  "metadata": {
+    "handle": "MBHBANK-AS",
+    "description": "MBH Bank Nyrt.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

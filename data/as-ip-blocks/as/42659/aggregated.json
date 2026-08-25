@@ -1,0 +1,14 @@
+{
+  "asn": 42659,
+  "metadata": {
+    "handle": "WELLTEC",
+    "description": "WELLTEC A/S",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

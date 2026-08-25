@@ -1,0 +1,14 @@
+{
+  "asn": 133829,
+  "metadata": {
+    "handle": "DELTAULI-ID",
+    "description": "PT DELTAULI TEKNIKARYA UTAMA",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

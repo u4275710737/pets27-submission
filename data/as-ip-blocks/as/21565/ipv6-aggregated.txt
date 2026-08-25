@@ -1,0 +1,4 @@
+# AS21565 (AS21565)
+# Horry Telephone Cooperative Inc.
+#
+2606:8400::/32

@@ -1,0 +1,16 @@
+{
+  "asn": 265680,
+  "metadata": {
+    "handle": "HNTELCO-AS",
+    "description": "HNTELCO S.A",
+    "countryCode": "HN",
+    "country": "Honduras",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "midsize_transit"
+  },
+  "prefixes": {
+    "ipv4": [ "45.5.76.0/22" ],
+    "ipv6": [ "2803:21c0::/32" ]
+  }
+}

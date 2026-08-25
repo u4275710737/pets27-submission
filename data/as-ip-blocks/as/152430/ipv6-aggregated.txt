@@ -1,0 +1,3 @@
+# AS152430 (IDNIC-CITRAMETADATA-AS-ID)
+# PT Citra Meta Data
+#

@@ -1,0 +1,16 @@
+{
+  "asn": 197871,
+  "metadata": {
+    "handle": "CROBE",
+    "description": "MOBILIN TEKNOLOJI VE BILISIM LIMITED SIRKETI",
+    "countryCode": "TR",
+    "country": "Türkiye",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ "2a06:9801:2f1::/48", "2a10:fa80::/47" ]
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 137336,
+  "metadata": {
+    "handle": "IDNIC-OVO-ID",
+    "description": "PT. VISIONET INTERNASIONAL",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

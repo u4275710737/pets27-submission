@@ -1,0 +1,14 @@
+{
+  "asn": 41509,
+  "metadata": {
+    "handle": "EQUIT",
+    "description": "Patria Finance, a.s.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

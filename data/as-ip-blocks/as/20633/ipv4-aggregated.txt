@@ -1,0 +1,5 @@
+# AS20633 (UNIFFM-NET)
+# Johann Wolfgang Goethe-Universitat Frankfurt am Main
+#
+141.2.0.0/16
+185.193.228.0/22

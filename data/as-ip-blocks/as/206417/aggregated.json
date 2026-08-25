@@ -1,0 +1,14 @@
+{
+  "asn": 206417,
+  "metadata": {
+    "handle": "FRESHMAIL-PL",
+    "description": "VERCOM S.A.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

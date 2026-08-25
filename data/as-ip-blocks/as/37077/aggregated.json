@@ -1,0 +1,16 @@
+{
+  "asn": 37077,
+  "metadata": {
+    "handle": "AUN-AS",
+    "description": "AUN Autonomous System",
+    "countryCode": "NG",
+    "country": "Nigeria",
+    "origin": "authoritative",
+    "category": "education_research",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ ]
+  }
+}

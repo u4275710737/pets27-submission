@@ -1,0 +1,14 @@
+{
+  "asn": 149079,
+  "metadata": {
+    "handle": "CUONGKHANG-AS-VN",
+    "description": "CUONG KHANG INFORMATICS COMPANY LIMITED",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

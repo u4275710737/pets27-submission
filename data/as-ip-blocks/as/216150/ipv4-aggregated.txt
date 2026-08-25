@@ -1,0 +1,4 @@
+# AS216150 (KZ-NURMUKANZHAN-20260508)
+# Nurmukan Zhantorin
+#
+217.60.24.0/24

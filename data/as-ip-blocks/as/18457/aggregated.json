@@ -1,0 +1,14 @@
+{
+  "asn": 18457,
+  "metadata": {
+    "handle": "DIGITAL-MINUS",
+    "description": "Feather IT LLC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

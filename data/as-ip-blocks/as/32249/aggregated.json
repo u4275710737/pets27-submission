@@ -1,0 +1,14 @@
+{
+  "asn": 32249,
+  "metadata": {
+    "handle": "TECHVAULT-VT",
+    "description": "TECH VAULT INC.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

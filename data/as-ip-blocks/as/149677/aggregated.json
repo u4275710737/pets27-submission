@@ -1,0 +1,16 @@
+{
+  "asn": 149677,
+  "metadata": {
+    "handle": "IDNIC-TEPIANTEKNOLOGI-AS-ID",
+    "description": "CV Tepian Teknologi",
+    "countryCode": "ID",
+    "country": "Indonesia",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "103.180.116.0/23" ],
+    "ipv6": [ ]
+  }
+}

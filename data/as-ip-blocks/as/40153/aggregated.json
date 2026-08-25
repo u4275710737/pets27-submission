@@ -1,0 +1,14 @@
+{
+  "asn": 40153,
+  "metadata": {
+    "handle": "INTERAMERICAN-TECH",
+    "description": "INTERAMERICAN TECHNOLOGY SERVICES, INC.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

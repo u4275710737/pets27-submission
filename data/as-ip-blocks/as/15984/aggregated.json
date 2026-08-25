@@ -1,0 +1,16 @@
+{
+  "asn": 15984,
+  "metadata": {
+    "handle": "CENTROCREDIT-BANK-MOSCOW-JSC",
+    "description": "CentroCredit Bank Moscow JSC",
+    "countryCode": "RU",
+    "country": "Russia",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "217.67.0.0/20" ],
+    "ipv6": [ ]
+  }
+}

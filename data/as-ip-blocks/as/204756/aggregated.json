@@ -1,0 +1,16 @@
+{
+  "asn": 204756,
+  "metadata": {
+    "handle": "TIMACA",
+    "description": "TIMACA SARL",
+    "countryCode": "FR",
+    "country": "France",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "185.240.36.0/22" ],
+    "ipv6": [ ]
+  }
+}

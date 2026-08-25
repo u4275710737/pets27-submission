@@ -1,0 +1,14 @@
+{
+  "asn": 43479,
+  "metadata": {
+    "handle": "TELCOBT",
+    "description": "TELCOBT BILGI TEKNOLOJILERI SAN. VE TIC. LTD. STI.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

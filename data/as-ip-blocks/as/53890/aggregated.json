@@ -1,0 +1,14 @@
+{
+  "asn": 53890,
+  "metadata": {
+    "handle": "VITU-49",
+    "description": "Virtuoso, Ltd.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

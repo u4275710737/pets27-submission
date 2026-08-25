@@ -1,0 +1,14 @@
+{
+  "asn": 135006,
+  "metadata": {
+    "handle": "BHICL-AS-AP",
+    "description": "Bit Huitong (Beijing) Information Co. Ltd.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

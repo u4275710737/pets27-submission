@@ -1,0 +1,5 @@
+# AS396086 (HAMPSHIRE-CAMPUS)
+# Hampshire College
+#
+192.33.12.0/24
+192.101.188.0/24

@@ -1,0 +1,14 @@
+{
+  "asn": 203308,
+  "metadata": {
+    "handle": "PACI-DR-SITE",
+    "description": "Public Authority for Civil Information",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

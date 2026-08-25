@@ -1,0 +1,14 @@
+{
+  "asn": 26618,
+  "metadata": {
+    "handle": "BANCO-MERCANTIL-NORTE",
+    "description": "Banco Mercantil del Norte S.A., Institucion de Banca Multiple, Grupo Financiero Banorte",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

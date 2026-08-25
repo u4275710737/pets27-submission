@@ -1,0 +1,14 @@
+{
+  "asn": 203122,
+  "metadata": {
+    "handle": "YELLOWNET",
+    "description": "YellowNET s.r.o",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

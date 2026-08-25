@@ -1,0 +1,14 @@
+{
+  "asn": 42282,
+  "metadata": {
+    "handle": "GNX",
+    "description": "GNX B.V.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

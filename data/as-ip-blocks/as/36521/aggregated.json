@@ -1,0 +1,16 @@
+{
+  "asn": 36521,
+  "metadata": {
+    "handle": "3DS-IN-01",
+    "description": "3ds Communications LLC",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "199.66.208.0/24", "208.69.16.0/22", "208.79.172.0/22" ],
+    "ipv6": [ ]
+  }
+}

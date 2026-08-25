@@ -1,0 +1,3 @@
+# AS61083 (DEGIRO-AS)
+# flatexDEGIRO Bank SE
+#

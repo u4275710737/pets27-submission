@@ -1,0 +1,14 @@
+{
+  "asn": 393595,
+  "metadata": {
+    "handle": "IPVISION-CA",
+    "description": "IPvision",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,4 @@
+# AS142165 (BOSCHCORPORATION-AS-AP)
+# Bosch Corporation
+#
+2401:bfe0::/32

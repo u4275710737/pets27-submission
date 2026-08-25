@@ -1,0 +1,14 @@
+{
+  "asn": 151421,
+  "metadata": {
+    "handle": "YNC-AS-AP",
+    "description": "Yes Net Communication",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

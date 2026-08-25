@@ -1,0 +1,16 @@
+{
+  "asn": 42789,
+  "metadata": {
+    "handle": "GVDNET",
+    "description": "GVD Antenneforening",
+    "countryCode": "DK",
+    "country": "Denmark",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "193.33.190.0/23" ],
+    "ipv6": [ ]
+  }
+}

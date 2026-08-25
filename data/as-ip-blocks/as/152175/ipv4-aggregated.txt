@@ -1,0 +1,5 @@
+# AS152175 (SOGPL-AS-AP)
+# Sat One Global Pty Ltd
+#
+36.50.98.0/23
+203.29.114.0/23

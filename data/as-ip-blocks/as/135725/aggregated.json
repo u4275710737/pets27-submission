@@ -1,0 +1,14 @@
+{
+  "asn": 135725,
+  "metadata": {
+    "handle": "NISPLMTR",
+    "description": "Navin Internet Services Pvt. Ltd.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

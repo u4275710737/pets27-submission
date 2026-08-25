@@ -1,0 +1,14 @@
+{
+  "asn": 395371,
+  "metadata": {
+    "handle": "FNASN",
+    "description": "Fortress Networks, Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 213762,
+  "metadata": {
+    "handle": "ASTRALHOST",
+    "description": "Sochan Serafino trading as AstralHost",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

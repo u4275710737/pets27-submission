@@ -1,0 +1,14 @@
+{
+  "asn": 150604,
+  "metadata": {
+    "handle": "GLOBALSOL-IN",
+    "description": "Global Site Solution",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

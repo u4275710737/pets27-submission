@@ -1,0 +1,14 @@
+{
+  "asn": 16048,
+  "metadata": {
+    "handle": "NOKIA-SOLUTIONS",
+    "description": "Nokia Solutions and Networks Oy",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

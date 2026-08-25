@@ -1,0 +1,14 @@
+{
+  "asn": 216370,
+  "metadata": {
+    "handle": "VLANBG",
+    "description": "VLAN Network EOOD",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

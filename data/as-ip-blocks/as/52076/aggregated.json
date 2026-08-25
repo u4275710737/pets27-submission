@@ -1,0 +1,14 @@
+{
+  "asn": 52076,
+  "metadata": {
+    "handle": "ALGOSPAN",
+    "description": "PICO GLOBAL LTD.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

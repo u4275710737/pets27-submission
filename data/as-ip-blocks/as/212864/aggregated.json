@@ -1,0 +1,14 @@
+{
+  "asn": 212864,
+  "metadata": {
+    "handle": "MICHAELS",
+    "description": "Lukas Michaels",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 140001,
+  "metadata": {
+    "handle": "IDNIC-BALITBANKLHK-AS-ID",
+    "description": "SEKRETARIAT BADAN LITBANG DAN INOVASI KEMENTRIAN LINGKUNGAN HIDUP DAN KEHUTANAN",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

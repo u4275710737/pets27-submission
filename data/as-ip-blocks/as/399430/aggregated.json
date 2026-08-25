@@ -1,0 +1,14 @@
+{
+  "asn": 399430,
+  "metadata": {
+    "handle": "PENGUIN-GOVPOD",
+    "description": "PENGUIN COMPUTING INC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 49931,
+  "metadata": {
+    "handle": "SITKOM",
+    "description": "SITKOM spol. s r.o.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

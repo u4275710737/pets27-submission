@@ -1,0 +1,14 @@
+{
+  "asn": 32185,
+  "metadata": {
+    "handle": "TRCOFMD",
+    "description": "Transplant Resource Center of Maryland, Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

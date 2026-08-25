@@ -1,0 +1,14 @@
+{
+  "asn": 8343,
+  "metadata": {
+    "handle": "DORIS-AS",
+    "description": "Private joint-stock company (PrJSC) DORIS",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

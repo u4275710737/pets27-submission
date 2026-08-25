@@ -1,0 +1,16 @@
+{
+  "asn": 13447,
+  "metadata": {
+    "handle": "QYRUS-INC",
+    "description": "QYRUS INC.",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ ]
+  }
+}

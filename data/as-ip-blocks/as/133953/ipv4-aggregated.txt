@@ -1,0 +1,6 @@
+# AS133953 (MTCL-AS-AP)
+# Mega Target Communication Limited
+#
+103.49.246.0/23
+103.252.244.0/24
+210.211.30.0/23

@@ -1,0 +1,16 @@
+{
+  "asn": 215185,
+  "metadata": {
+    "handle": "ENTROPIA-EVENT",
+    "description": "Entropia e.V.",
+    "countryCode": "DE",
+    "country": "Germany",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ ]
+  }
+}

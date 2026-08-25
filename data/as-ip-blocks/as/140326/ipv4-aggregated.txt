@@ -1,0 +1,7 @@
+# AS140326 (TC-AS-AP)
+# Symphony Communication Public Company Limited for TC
+#
+58.137.177.0/24
+147.50.72.0/24
+161.82.178.0/23
+203.146.198.0/24

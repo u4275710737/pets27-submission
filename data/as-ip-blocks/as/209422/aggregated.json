@@ -1,0 +1,16 @@
+{
+  "asn": 209422,
+  "metadata": {
+    "handle": "AYDINLI",
+    "description": "AYDINLI HAZIR GIYIM SANAYI VE TICARET ANONIM SIRKETI",
+    "countryCode": "TR",
+    "country": "Türkiye",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "5.253.248.0/23" ],
+    "ipv6": [ ]
+  }
+}

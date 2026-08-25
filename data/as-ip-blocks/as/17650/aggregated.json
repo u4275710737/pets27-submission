@@ -1,0 +1,14 @@
+{
+  "asn": 17650,
+  "metadata": {
+    "handle": "OBS-OCB-HONEY",
+    "description": "Equant Inc",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

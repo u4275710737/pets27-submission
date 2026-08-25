@@ -1,0 +1,14 @@
+{
+  "asn": 33946,
+  "metadata": {
+    "handle": "OTPBANK-AS",
+    "description": "OTP BANK ROMANIA SA",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

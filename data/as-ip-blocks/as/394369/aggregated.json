@@ -1,0 +1,14 @@
+{
+  "asn": 394369,
+  "metadata": {
+    "handle": "CANADA151DC",
+    "description": "Whipcord Edge Data Centers Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

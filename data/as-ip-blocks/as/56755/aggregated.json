@@ -1,0 +1,14 @@
+{
+  "asn": 56755,
+  "metadata": {
+    "handle": "SBIX",
+    "description": "Securebit AG",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

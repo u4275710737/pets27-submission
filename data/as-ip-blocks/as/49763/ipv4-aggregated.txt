@@ -1,0 +1,4 @@
+# AS49763 (ADEVINTA-FRANCE)
+# Adevinta France SAS
+#
+193.164.196.0/23

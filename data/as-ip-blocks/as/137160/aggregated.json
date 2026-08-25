@@ -1,0 +1,16 @@
+{
+  "asn": 137160,
+  "metadata": {
+    "handle": "BDSPLIN-AS-IN",
+    "description": "BHARAT DATA SERVICES PVT LTD",
+    "countryCode": "IN",
+    "country": "India",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "103.107.172.0/22" ],
+    "ipv6": [ ]
+  }
+}

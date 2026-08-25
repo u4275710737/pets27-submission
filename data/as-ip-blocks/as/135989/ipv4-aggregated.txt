@@ -1,0 +1,4 @@
+# AS135989 (TAYNINH-VN)
+# Department of Science and Technology of Tay Ninh Province
+#
+103.143.202.0/23

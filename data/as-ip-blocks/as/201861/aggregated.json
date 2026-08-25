@@ -1,0 +1,16 @@
+{
+  "asn": 201861,
+  "metadata": {
+    "handle": "GEODEMA-AS",
+    "description": "Aleksejs Pinajevs",
+    "countryCode": "LV",
+    "country": "Latvia",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "89.106.85.0/24", "191.44.90.0/24" ],
+    "ipv6": [ "2a0d:d940:110::/44" ]
+  }
+}

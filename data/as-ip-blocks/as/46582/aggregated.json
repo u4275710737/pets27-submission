@@ -1,0 +1,14 @@
+{
+  "asn": 46582,
+  "metadata": {
+    "handle": "IT-MOTHERSHIP",
+    "description": "IT Mothership",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

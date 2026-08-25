@@ -1,0 +1,4 @@
+# AS52230 (MAPFRE-COMPANIA-SEGUROS)
+# Mapfre Compañia de Seguros
+#
+200.54.115.0/24

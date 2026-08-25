@@ -1,0 +1,14 @@
+{
+  "asn": 5794,
+  "metadata": {
+    "handle": "NWREGION-ESD",
+    "description": "Northwest Regional ESD",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

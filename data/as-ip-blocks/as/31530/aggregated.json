@@ -1,0 +1,14 @@
+{
+  "asn": 31530,
+  "metadata": {
+    "handle": "DWL-NET",
+    "description": "GHOSTnet GmbH",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 135625,
+  "metadata": {
+    "handle": "FDMSAPL-AP",
+    "description": "FUJIFILM Data Management Solutions Australia Pty Ltd",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

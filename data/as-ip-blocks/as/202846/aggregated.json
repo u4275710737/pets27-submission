@@ -1,0 +1,16 @@
+{
+  "asn": 202846,
+  "metadata": {
+    "handle": "RKGIS-MNT",
+    "description": "RKG Installationssysteme GmbH",
+    "countryCode": "AT",
+    "country": "Austria",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ "2a13:9500:128::/48" ]
+  }
+}

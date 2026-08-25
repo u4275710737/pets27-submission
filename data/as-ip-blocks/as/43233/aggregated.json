@@ -1,0 +1,14 @@
+{
+  "asn": 43233,
+  "metadata": {
+    "handle": "FARANET",
+    "description": "Fara Negar Pardaz Noor Khuzestan Co.JSP",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

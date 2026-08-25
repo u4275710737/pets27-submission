@@ -1,0 +1,14 @@
+{
+  "asn": 206253,
+  "metadata": {
+    "handle": "S48-AS",
+    "description": "Stephan Jauernick",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

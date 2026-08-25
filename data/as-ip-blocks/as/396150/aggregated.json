@@ -1,0 +1,14 @@
+{
+  "asn": 396150,
+  "metadata": {
+    "handle": "NBBJ-GLOBAL",
+    "description": "NBBJ LP",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

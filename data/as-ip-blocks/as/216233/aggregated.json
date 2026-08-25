@@ -1,0 +1,16 @@
+{
+  "asn": 216233,
+  "metadata": {
+    "handle": "AS-LUCASNEUBER",
+    "description": "Lucas Neuber",
+    "countryCode": "DE",
+    "country": "Germany",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ "2001:67c:d3c::/48" ]
+  }
+}

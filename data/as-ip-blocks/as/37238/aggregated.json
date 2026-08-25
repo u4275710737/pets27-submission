@@ -1,0 +1,14 @@
+{
+  "asn": 37238,
+  "metadata": {
+    "handle": "IWAY-AFRICA",
+    "description": "Africa Online Operations (Mauritius) Limited",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

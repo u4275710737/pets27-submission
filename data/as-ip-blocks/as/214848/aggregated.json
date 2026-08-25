@@ -1,0 +1,16 @@
+{
+  "asn": 214848,
+  "metadata": {
+    "handle": "COMPATIBLENETWORK",
+    "description": "Tianjin Compatible Network Technology Co. Ltd.",
+    "countryCode": "CN",
+    "country": "China",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "5.253.39.0/24" ],
+    "ipv6": [ "2602:f486:fe::/48", "2a0f:6282:d000::/47", "2a14:67c2:800::/40", "2a14:67c3:d0::/44" ]
+  }
+}

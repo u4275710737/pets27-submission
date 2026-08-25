@@ -1,0 +1,14 @@
+{
+  "asn": 154120,
+  "metadata": {
+    "handle": "PHPCOMPUTER-AS-AP",
+    "description": "PHP Computer",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

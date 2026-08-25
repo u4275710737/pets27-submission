@@ -1,0 +1,14 @@
+{
+  "asn": 3570,
+  "metadata": {
+    "handle": "FMC-1",
+    "description": "FMC Corporation",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

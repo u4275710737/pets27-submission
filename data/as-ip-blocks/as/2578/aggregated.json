@@ -1,0 +1,16 @@
+{
+  "asn": 2578,
+  "metadata": {
+    "handle": "AS2578",
+    "description": "Demos Moscow Russia",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "131.222.129.0/24", "138.124.179.0/24", "145.249.108.0/24", "153.56.137.0/24" ],
+    "ipv6": [ ]
+  }
+}

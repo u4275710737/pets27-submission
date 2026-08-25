@@ -1,0 +1,14 @@
+{
+  "asn": 211082,
+  "metadata": {
+    "handle": "ASTEHNO",
+    "description": "Tekhno Ltd",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

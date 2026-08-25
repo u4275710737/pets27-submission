@@ -1,0 +1,16 @@
+{
+  "asn": 11856,
+  "metadata": {
+    "handle": "XCONNECT",
+    "description": "XConnect auth-num",
+    "countryCode": "GB",
+    "country": "United Kingdom",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "208.76.16.0/22" ],
+    "ipv6": [ ]
+  }
+}

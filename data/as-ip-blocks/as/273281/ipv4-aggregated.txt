@@ -1,0 +1,5 @@
+# AS273281 (GOBIERNO-NUEVO-LEON)
+# Gobierno del Estado de Nuevo Leon
+#
+200.23.40.0/22
+200.33.182.0/24

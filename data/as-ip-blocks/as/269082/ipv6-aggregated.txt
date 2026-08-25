@@ -1,0 +1,4 @@
+# AS269082 (FONSECA-TELECOMUNICACOES)
+# Fonseca Telecomunicacoes ME
+#
+2804:5f30::/32

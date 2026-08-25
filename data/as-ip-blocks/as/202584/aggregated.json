@@ -1,0 +1,14 @@
+{
+  "asn": 202584,
+  "metadata": {
+    "handle": "FLEXSERV",
+    "description": "Daniel Krisciunas",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

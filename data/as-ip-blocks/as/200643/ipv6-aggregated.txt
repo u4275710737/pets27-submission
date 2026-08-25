@@ -1,0 +1,4 @@
+# AS200643 (LABOR-SPB-RU)
+# Osinovaya Roshcha JSC
+#
+2001:67c:780::/48

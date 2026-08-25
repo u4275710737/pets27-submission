@@ -1,0 +1,14 @@
+{
+  "asn": 51820,
+  "metadata": {
+    "handle": "SBC-NET",
+    "description": "Swisscom Broadcast Ltd",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

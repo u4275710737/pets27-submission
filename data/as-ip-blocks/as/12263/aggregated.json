@@ -1,0 +1,14 @@
+{
+  "asn": 12263,
+  "metadata": {
+    "handle": "STBH",
+    "description": "Saint Bernard Hospital",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

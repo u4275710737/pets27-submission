@@ -1,0 +1,14 @@
+{
+  "asn": 398348,
+  "metadata": {
+    "handle": "NYC-DC-02",
+    "description": "Exiger LLC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

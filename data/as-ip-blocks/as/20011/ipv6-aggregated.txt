@@ -1,0 +1,4 @@
+# AS20011 (NTT-DATA-INC)
+# Dimension Data
+#
+2001:4308::/32

@@ -1,0 +1,16 @@
+{
+  "asn": 46373,
+  "metadata": {
+    "handle": "CONCENTUSNET",
+    "description": "Concentus.net",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "38.129.106.0/24", "64.94.64.0/22" ],
+    "ipv6": [ ]
+  }
+}

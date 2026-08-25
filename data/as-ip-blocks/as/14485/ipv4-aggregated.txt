@@ -1,0 +1,4 @@
+# AS14485 (RURAL-CONNECTION-MANITOBA)
+# Rural Connections Manitoba Ltd
+#
+104.224.56.0/22

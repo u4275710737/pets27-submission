@@ -1,0 +1,14 @@
+{
+  "asn": 138228,
+  "metadata": {
+    "handle": "RUHIIINFO-AS-IN",
+    "description": "RUHI INFOTECH",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

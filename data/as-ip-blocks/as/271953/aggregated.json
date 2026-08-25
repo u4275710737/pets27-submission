@@ -1,0 +1,14 @@
+{
+  "asn": 271953,
+  "metadata": {
+    "handle": "DIEGO-WALTER-PONS",
+    "description": "DIEGO WALTER PONS",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

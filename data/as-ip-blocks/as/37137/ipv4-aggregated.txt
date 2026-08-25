@@ -1,0 +1,5 @@
+# AS37137 (ASGWCOMMSKENYA)
+# AS Gatewaycomms Kenya
+#
+41.79.252.0/23
+41.79.254.0/24

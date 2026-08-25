@@ -1,0 +1,5 @@
+# AS393600 (RELIANCE-01)
+# Reliance Standard Life Insurance Company
+#
+38.98.204.0/24
+202.181.250.0/23

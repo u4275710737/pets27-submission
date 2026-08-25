@@ -1,0 +1,4 @@
+# AS133323 (AYANNETWORK-AS-AP)
+# Ayan Network
+#
+138.252.0.0/23

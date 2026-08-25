@@ -1,0 +1,14 @@
+{
+  "asn": 394039,
+  "metadata": {
+    "handle": "BJCHE-2",
+    "description": "Memorial Hospital",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

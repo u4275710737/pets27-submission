@@ -1,0 +1,4 @@
+# AS39061 (LAYKA-LTD-AS)
+# Ray-Svyaz Ltd.
+#
+195.110.32.0/23

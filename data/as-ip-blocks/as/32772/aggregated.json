@@ -1,0 +1,14 @@
+{
+  "asn": 32772,
+  "metadata": {
+    "handle": "TAFS-TRANSIT-ASN",
+    "description": "TRANS AMERICAS FIBER",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

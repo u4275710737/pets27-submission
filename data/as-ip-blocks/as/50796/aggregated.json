@@ -1,0 +1,14 @@
+{
+  "asn": 50796,
+  "metadata": {
+    "handle": "CLEVERNETWORK",
+    "description": "KEYYO SA",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "asn": 198607,
+  "metadata": {
+    "handle": "HALOAGENCY",
+    "description": "HaloAgency SAS",
+    "countryCode": "FR",
+    "country": "France",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ "2a06:9801:283::/48" ]
+  }
+}

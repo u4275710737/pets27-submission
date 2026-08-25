@@ -1,0 +1,16 @@
+{
+  "asn": 197339,
+  "metadata": {
+    "handle": "FR-DYLANPACQUES-20260515",
+    "description": "Dylan PACQUES trading as Plennyx",
+    "countryCode": "FR",
+    "country": "France",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ "2a0c:b641:ba0::/44" ]
+  }
+}

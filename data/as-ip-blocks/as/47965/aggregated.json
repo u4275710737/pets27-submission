@@ -1,0 +1,14 @@
+{
+  "asn": 47965,
+  "metadata": {
+    "handle": "SATLYNX-AG",
+    "description": "Signalhorn Trusted Networks GmbH",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

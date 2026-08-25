@@ -1,0 +1,16 @@
+{
+  "asn": 36881,
+  "metadata": {
+    "handle": "MULTITEL",
+    "description": "MULTITEL Autonomous System",
+    "countryCode": "AO",
+    "country": "Angola",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "169.239.108.0/22", "196.32.192.0/21" ],
+    "ipv6": [ ]
+  }
+}

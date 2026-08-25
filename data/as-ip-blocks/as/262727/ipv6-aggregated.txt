@@ -1,0 +1,11 @@
+# AS262727 (ATUALNET-PROVEDOR-INTERNET)
+# AtualNet Provedor de Internet Ltda
+#
+2804:a1c:fef0::/44
+2804:a1c:ff10::/44
+2804:a1c:ff30::/44
+2804:a1c:ff70::/44
+2804:a1c:ff80::/44
+2804:a1c:ffb0::/44
+2804:a1c:fff0::/44
+2804:7fd4:8000::/33

@@ -1,0 +1,14 @@
+{
+  "asn": 394296,
+  "metadata": {
+    "handle": "ACCELLION",
+    "description": "Accellion, Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

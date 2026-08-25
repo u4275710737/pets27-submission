@@ -1,0 +1,16 @@
+{
+  "asn": 142212,
+  "metadata": {
+    "handle": "IDNIC-DISKOMINFOKOBAR-ID",
+    "description": "Dinas Komunikasi Informatika Statistik dan Persandian Kabupaten Kotawaringin Barat",
+    "countryCode": "ID",
+    "country": "Indonesia",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "192.42.84.0/24" ],
+    "ipv6": [ ]
+  }
+}

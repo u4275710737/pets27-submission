@@ -1,0 +1,4 @@
+# AS137376 (TELE-NET-AS-ID)
+# PT Tele Net
+#
+2403:31c0::/32

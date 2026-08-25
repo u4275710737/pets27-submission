@@ -1,0 +1,14 @@
+{
+  "asn": 36144,
+  "metadata": {
+    "handle": "TRAPP-CONNECT",
+    "description": "Trapp Connect, LLC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

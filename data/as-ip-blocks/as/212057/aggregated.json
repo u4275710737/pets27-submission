@@ -1,0 +1,16 @@
+{
+  "asn": 212057,
+  "metadata": {
+    "handle": "NODESCRAPE",
+    "description": "Pascal Stattmann trading as Nodescrape",
+    "countryCode": "DE",
+    "country": "Germany",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ ]
+  }
+}

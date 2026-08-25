@@ -1,0 +1,16 @@
+{
+  "asn": 274383,
+  "metadata": {
+    "handle": "LIDER-TELECOM",
+    "description": "LIDER TELECOM",
+    "countryCode": "BR",
+    "country": "Brazil",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "45.234.205.0/24" ],
+    "ipv6": [ "2804:9714::/32" ]
+  }
+}

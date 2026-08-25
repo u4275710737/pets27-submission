@@ -1,0 +1,14 @@
+{
+  "asn": 150758,
+  "metadata": {
+    "handle": "ND-SECURE-TW",
+    "description": "Next Digital Security Cluster",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

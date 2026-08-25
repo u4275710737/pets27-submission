@@ -1,0 +1,14 @@
+{
+  "asn": 204437,
+  "metadata": {
+    "handle": "ETHZ-NSG",
+    "description": "Federal Institute of Technology Zurich (ETHZ)",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

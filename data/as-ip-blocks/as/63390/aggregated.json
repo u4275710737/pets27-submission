@@ -1,0 +1,14 @@
+{
+  "asn": 63390,
+  "metadata": {
+    "handle": "NOPKT",
+    "description": "NoPKT LLC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

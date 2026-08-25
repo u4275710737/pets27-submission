@@ -1,0 +1,16 @@
+{
+  "asn": 215538,
+  "metadata": {
+    "handle": "GIVAUDAN-INTERNATIONAL-SA",
+    "description": "Givaudan International SA",
+    "countryCode": "CH",
+    "country": "Switzerland",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "193.16.241.0/24", "193.58.242.0/24" ],
+    "ipv6": [ ]
+  }
+}

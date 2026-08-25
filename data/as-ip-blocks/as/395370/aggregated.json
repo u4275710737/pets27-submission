@@ -1,0 +1,14 @@
+{
+  "asn": 395370,
+  "metadata": {
+    "handle": "MCKINSEY-US-AMP",
+    "description": "McKinsey & Company Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

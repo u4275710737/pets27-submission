@@ -1,0 +1,14 @@
+{
+  "asn": 206370,
+  "metadata": {
+    "handle": "NGTECHNOLOGIES",
+    "description": "Next Generation Technologies Ltd",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

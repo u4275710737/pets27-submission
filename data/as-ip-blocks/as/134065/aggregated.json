@@ -1,0 +1,14 @@
+{
+  "asn": 134065,
+  "metadata": {
+    "handle": "ENSYST-AP",
+    "description": "Ensyst Pty Ltd",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

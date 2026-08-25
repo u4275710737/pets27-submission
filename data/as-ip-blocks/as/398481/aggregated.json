@@ -1,0 +1,14 @@
+{
+  "asn": 398481,
+  "metadata": {
+    "handle": "REDMERCURY",
+    "description": "RedMercury LTD",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

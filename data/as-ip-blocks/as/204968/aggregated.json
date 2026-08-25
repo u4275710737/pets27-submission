@@ -1,0 +1,16 @@
+{
+  "asn": 204968,
+  "metadata": {
+    "handle": "VAV-AS",
+    "description": "Volkov Andrey Vladimirovich",
+    "countryCode": "RU",
+    "country": "Russia",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ "2a0d:ad40::/32", "2a0d:ad47::/32", "2a0d:b843::/32", "2a0d:b845::/32", "2a12:8780::/32", "2a12:a503::/32" ]
+  }
+}

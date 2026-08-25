@@ -1,0 +1,16 @@
+{
+  "asn": 136346,
+  "metadata": {
+    "handle": "SANISHTH-AS-IN",
+    "description": "Sanishth Internet Services Private Limited",
+    "countryCode": "IN",
+    "country": "India",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ ]
+  }
+}

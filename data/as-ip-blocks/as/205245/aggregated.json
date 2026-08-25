@@ -1,0 +1,14 @@
+{
+  "asn": 205245,
+  "metadata": {
+    "handle": "KASETTY",
+    "description": "Anantha Kasetty",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

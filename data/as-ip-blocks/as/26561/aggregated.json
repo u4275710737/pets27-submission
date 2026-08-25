@@ -1,0 +1,16 @@
+{
+  "asn": 26561,
+  "metadata": {
+    "handle": "NETRIDGE",
+    "description": "NetRidge LLC",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "67.220.89.0/24" ],
+    "ipv6": [ ]
+  }
+}

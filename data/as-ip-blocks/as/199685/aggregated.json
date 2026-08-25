@@ -1,0 +1,16 @@
+{
+  "asn": 199685,
+  "metadata": {
+    "handle": "FIRST-SERVER-EU-WEST",
+    "description": "FIRST SERVER SOCIEDAD LIMITADA",
+    "countryCode": "ES",
+    "country": "Spain",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "83.147.242.0/23" ],
+    "ipv6": [ "2a0c:5d00:3003::/48", "2a0c:5d00:3006::/48" ]
+  }
+}

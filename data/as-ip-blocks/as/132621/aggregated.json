@@ -1,0 +1,14 @@
+{
+  "asn": 132621,
+  "metadata": {
+    "handle": "CBA-AP",
+    "description": "Commonwealth Bank of Australia",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "asn": 131611,
+  "metadata": {
+    "handle": "GLOBALTRANSIT-AS-SDTV",
+    "description": "San Da Cable TV Co. Ltd.",
+    "countryCode": "TW",
+    "country": "Taiwan",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "60.198.191.0/24" ],
+    "ipv6": [ ]
+  }
+}

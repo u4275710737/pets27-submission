@@ -1,0 +1,14 @@
+{
+  "asn": 398859,
+  "metadata": {
+    "handle": "KIWI-IPTV",
+    "description": "KIWISAT",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

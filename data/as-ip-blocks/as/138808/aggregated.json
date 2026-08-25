@@ -1,0 +1,14 @@
+{
+  "asn": 138808,
+  "metadata": {
+    "handle": "INTECHMANDIRI-ID",
+    "description": "PT. Intech Esa Mandiri",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

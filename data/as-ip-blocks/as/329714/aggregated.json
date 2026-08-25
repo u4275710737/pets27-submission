@@ -1,0 +1,16 @@
+{
+  "asn": 329714,
+  "metadata": {
+    "handle": "IMARA-HOME-FIBRE-LTD",
+    "description": "IMARA HOME FIBRE LTD",
+    "countryCode": "KE",
+    "country": "Kenya",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "102.203.3.0/24" ],
+    "ipv6": [ ]
+  }
+}

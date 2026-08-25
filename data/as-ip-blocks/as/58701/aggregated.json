@@ -1,0 +1,14 @@
+{
+  "asn": 58701,
+  "metadata": {
+    "handle": "MSASIANET-BD",
+    "description": "M/S. Asia Net",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

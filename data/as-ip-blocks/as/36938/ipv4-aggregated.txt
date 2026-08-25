@@ -1,0 +1,4 @@
+# AS36938 (AMSCOTELECOMS)
+# Amsco Telecommunications Nigeria Limited
+#
+41.222.78.0/23

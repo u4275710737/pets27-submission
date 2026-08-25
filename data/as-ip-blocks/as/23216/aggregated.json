@@ -1,0 +1,14 @@
+{
+  "asn": 23216,
+  "metadata": {
+    "handle": "MEGADATOS",
+    "description": "MEGADATOS S.A.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

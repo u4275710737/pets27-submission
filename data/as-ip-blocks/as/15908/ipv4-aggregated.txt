@@ -1,0 +1,4 @@
+# AS15908 (AS-MEDBANK)
+# UAB Urbo bankas
+#
+193.41.40.0/24

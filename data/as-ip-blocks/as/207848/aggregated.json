@@ -1,0 +1,14 @@
+{
+  "asn": 207848,
+  "metadata": {
+    "handle": "MKONLINE",
+    "description": "FOP Kolesov K.O.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

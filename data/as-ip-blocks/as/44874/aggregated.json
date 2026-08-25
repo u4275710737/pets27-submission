@@ -1,0 +1,14 @@
+{
+  "asn": 44874,
+  "metadata": {
+    "handle": "PARKBROADBAND",
+    "description": "Park Broadband Limited",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

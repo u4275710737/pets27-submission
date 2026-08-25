@@ -1,0 +1,14 @@
+{
+  "asn": 139805,
+  "metadata": {
+    "handle": "ZEYOND-LIMITED",
+    "description": "Zeyond Limited",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

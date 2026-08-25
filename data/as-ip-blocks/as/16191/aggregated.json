@@ -1,0 +1,14 @@
+{
+  "asn": 16191,
+  "metadata": {
+    "handle": "ICANET",
+    "description": "B.B.Bell SPA",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

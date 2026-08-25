@@ -1,0 +1,16 @@
+{
+  "asn": 28119,
+  "metadata": {
+    "handle": "LACNIC-SERVERS-ANYCAST",
+    "description": "LACNIC - Latin American and Caribbean IP address",
+    "countryCode": "UY",
+    "country": "Uruguay",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ "2804:5848::/32" ]
+  }
+}

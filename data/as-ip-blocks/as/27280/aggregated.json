@@ -1,0 +1,14 @@
+{
+  "asn": 27280,
+  "metadata": {
+    "handle": "ITS",
+    "description": "International Telecom Solutions, Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

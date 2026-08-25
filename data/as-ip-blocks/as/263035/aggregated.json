@@ -1,0 +1,16 @@
+{
+  "asn": 263035,
+  "metadata": {
+    "handle": "PORTAL-QUEOPS-TELECOMUNICACOES",
+    "description": "PORTAL QUEOPS TELECOMUNICACOES LTDA",
+    "countryCode": "BR",
+    "country": "Brazil",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "access_provider"
+  },
+  "prefixes": {
+    "ipv4": [ "177.20.176.0/21" ],
+    "ipv6": [ "2804:a38::/32" ]
+  }
+}

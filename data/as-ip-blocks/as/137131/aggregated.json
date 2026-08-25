@@ -1,0 +1,14 @@
+{
+  "asn": 137131,
+  "metadata": {
+    "handle": "DNET-IN",
+    "description": "Dnet E Solutions Pvt Ltd",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

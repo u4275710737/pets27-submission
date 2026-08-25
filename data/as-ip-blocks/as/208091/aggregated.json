@@ -1,0 +1,14 @@
+{
+  "asn": 208091,
+  "metadata": {
+    "handle": "WOLFSEC-AS3",
+    "description": "Stephan Roland Wolf",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

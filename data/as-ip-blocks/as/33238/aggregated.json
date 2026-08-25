@@ -1,0 +1,14 @@
+{
+  "asn": 33238,
+  "metadata": {
+    "handle": "IPACE",
+    "description": "iPacesetters LLC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

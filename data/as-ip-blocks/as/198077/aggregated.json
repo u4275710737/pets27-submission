@@ -1,0 +1,16 @@
+{
+  "asn": 198077,
+  "metadata": {
+    "handle": "NEEDTG-AS",
+    "description": "Need L.L.C.-FZ",
+    "countryCode": "AE",
+    "country": "United Arab Emirates",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "192.142.8.0/24", "192.142.12.0/24", "192.142.21.0/24" ],
+    "ipv6": [ ]
+  }
+}

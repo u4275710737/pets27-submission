@@ -1,0 +1,4 @@
+# AS202995 (ZHETISU-M-TELECOM-AS)
+# Zhetisu-M-Telecom LLP
+#
+93.171.234.0/24

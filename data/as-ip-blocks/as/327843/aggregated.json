@@ -1,0 +1,14 @@
+{
+  "asn": 327843,
+  "metadata": {
+    "handle": "PAN-ATLANTIC-UNIVERSITY",
+    "description": "Pan Atlantic University",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

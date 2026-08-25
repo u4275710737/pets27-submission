@@ -1,0 +1,14 @@
+{
+  "asn": 3602,
+  "metadata": {
+    "handle": "AS3602-ROGERS-COM",
+    "description": "Rogers Communications Canada Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 400120,
+  "metadata": {
+    "handle": "SPACELINK",
+    "description": "Spacelink, Inc",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

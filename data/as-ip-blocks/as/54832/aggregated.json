@@ -1,0 +1,14 @@
+{
+  "asn": 54832,
+  "metadata": {
+    "handle": "CITY-OF-CARLSBAD-CA",
+    "description": "City of Carlsbad",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,4 @@
+# AS63971 (WALLIBI-ISP)
+# wallibi isp belgium
+#
+103.55.116.0/22

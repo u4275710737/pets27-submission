@@ -1,0 +1,14 @@
+{
+  "asn": 393543,
+  "metadata": {
+    "handle": "IMPAQ-INTERNATIONAL",
+    "description": "IMPAQ International LLC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

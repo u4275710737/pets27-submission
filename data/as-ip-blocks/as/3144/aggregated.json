@@ -1,0 +1,16 @@
+{
+  "asn": 3144,
+  "metadata": {
+    "handle": "HEPTA-SKY",
+    "description": "HeptaSky LLC",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ ]
+  }
+}

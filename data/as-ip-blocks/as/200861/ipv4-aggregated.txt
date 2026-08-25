@@ -1,0 +1,4 @@
+# AS200861 (RIEGE)
+# Riege Software International GmbH
+#
+193.111.89.0/24

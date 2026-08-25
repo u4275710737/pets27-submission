@@ -1,0 +1,4 @@
+# AS37133 (ZAIN-TANZANIA-AS)
+# Zain Tanzania AS
+#
+2c0f:f2f8::/32

@@ -1,0 +1,14 @@
+{
+  "asn": 328892,
+  "metadata": {
+    "handle": "ATIMA-CREATIONS-AS",
+    "description": "Atima Creations LTD",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

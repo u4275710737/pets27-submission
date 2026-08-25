@@ -1,0 +1,14 @@
+{
+  "asn": 151793,
+  "metadata": {
+    "handle": "AUDATEXCOMAU-AS-AP",
+    "description": "AUDATEX AUSTRALIA PTY LTD",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

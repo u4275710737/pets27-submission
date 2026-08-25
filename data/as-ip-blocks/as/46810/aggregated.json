@@ -1,0 +1,14 @@
+{
+  "asn": 46810,
+  "metadata": {
+    "handle": "TWINDISC",
+    "description": "Twin Disc Incorporated",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

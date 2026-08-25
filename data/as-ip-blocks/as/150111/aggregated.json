@@ -1,0 +1,16 @@
+{
+  "asn": 150111,
+  "metadata": {
+    "handle": "BLARHOST-AS-AP",
+    "description": "Blar Host",
+    "countryCode": "BD",
+    "country": "Bangladesh",
+    "origin": "authoritative",
+    "category": null,
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ ]
+  }
+}

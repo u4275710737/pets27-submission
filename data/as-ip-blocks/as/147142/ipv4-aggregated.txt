@@ -1,0 +1,5 @@
+# AS147142 (IDNIC-TELENUSA-AS-ID)
+# PT Sarana Telemedia Nusantara
+#
+103.177.60.0/24
+115.84.174.0/24

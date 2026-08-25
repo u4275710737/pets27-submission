@@ -1,0 +1,14 @@
+{
+  "asn": 3832,
+  "metadata": {
+    "handle": "CINE-NET",
+    "description": "Cinenet Communications",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

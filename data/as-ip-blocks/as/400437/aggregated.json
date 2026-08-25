@@ -1,0 +1,14 @@
+{
+  "asn": 400437,
+  "metadata": {
+    "handle": "SHAPETX-CORPNET-01",
+    "description": "Shape Therapeutics Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

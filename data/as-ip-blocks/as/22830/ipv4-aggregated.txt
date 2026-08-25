@@ -1,0 +1,5 @@
+# AS22830 (UNIV-DC)
+# University of the District of Columbia
+#
+38.105.72.0/22
+38.118.3.0/24

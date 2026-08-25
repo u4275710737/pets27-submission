@@ -1,0 +1,16 @@
+{
+  "asn": 28149,
+  "metadata": {
+    "handle": "ASSOCIACAO-ENSINO-MARILIA",
+    "description": "ASSOCIACAO DE ENSINO DE MARILIA",
+    "countryCode": "BR",
+    "country": "Brazil",
+    "origin": "authoritative",
+    "category": "education_research",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "187.60.0.0/24" ],
+    "ipv6": [ ]
+  }
+}

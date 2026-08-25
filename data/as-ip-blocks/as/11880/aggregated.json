@@ -1,0 +1,14 @@
+{
+  "asn": 11880,
+  "metadata": {
+    "handle": "TICKE-19",
+    "description": "Tickets.com, Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,5 @@
+# AS31050 (FRAMESTORE)
+# The Framestore Limited
+#
+103.110.131.0/24
+185.101.12.0/22

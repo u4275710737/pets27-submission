@@ -1,0 +1,14 @@
+{
+  "asn": 200854,
+  "metadata": {
+    "handle": "ALLITUDE-2",
+    "description": "Allitude S.p.A.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

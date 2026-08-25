@@ -1,0 +1,14 @@
+{
+  "asn": 35736,
+  "metadata": {
+    "handle": "WUK-AS",
+    "description": "EE Limited",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

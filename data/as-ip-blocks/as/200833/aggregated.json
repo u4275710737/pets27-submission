@@ -1,0 +1,16 @@
+{
+  "asn": 200833,
+  "metadata": {
+    "handle": "NODE-CATCH",
+    "description": "FURKAN AYDINLI",
+    "countryCode": "TR",
+    "country": "Türkiye",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "151.246.175.0/24" ],
+    "ipv6": [ ]
+  }
+}

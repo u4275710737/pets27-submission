@@ -1,0 +1,14 @@
+{
+  "asn": 215535,
+  "metadata": {
+    "handle": "JAHAN-AS",
+    "description": "JAHAN NIK PENDAR CO.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

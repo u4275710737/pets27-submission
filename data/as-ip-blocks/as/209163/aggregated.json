@@ -1,0 +1,16 @@
+{
+  "asn": 209163,
+  "metadata": {
+    "handle": "AUCHAN-IT-AS",
+    "description": "Auchan Retail International SA",
+    "countryCode": "FR",
+    "country": "France",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "185.204.162.0/24", "193.109.250.0/23" ],
+    "ipv6": [ ]
+  }
+}

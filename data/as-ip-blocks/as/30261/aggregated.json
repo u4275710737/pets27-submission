@@ -1,0 +1,14 @@
+{
+  "asn": 30261,
+  "metadata": {
+    "handle": "TREASURE-STATE-INTERNET",
+    "description": "Treasure State Internet",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

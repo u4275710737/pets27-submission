@@ -1,0 +1,14 @@
+{
+  "asn": 135514,
+  "metadata": {
+    "handle": "UTCNET-AP-HK",
+    "description": "United Technologies Corporation",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

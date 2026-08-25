@@ -1,0 +1,14 @@
+{
+  "asn": 16795,
+  "metadata": {
+    "handle": "VI",
+    "description": "Sangoma US Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

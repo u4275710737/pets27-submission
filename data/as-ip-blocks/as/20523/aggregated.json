@@ -1,0 +1,14 @@
+{
+  "asn": 20523,
+  "metadata": {
+    "handle": "INVITECH-ICT-SERVICES-KFT",
+    "description": "Invitech ICT Services Kft.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

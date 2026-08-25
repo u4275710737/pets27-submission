@@ -1,0 +1,14 @@
+{
+  "asn": 149996,
+  "metadata": {
+    "handle": "AWN-CIGNA-DCSITE-AP",
+    "description": "Cigna Insurance PCL-The Nation",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

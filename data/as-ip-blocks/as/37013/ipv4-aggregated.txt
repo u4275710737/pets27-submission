@@ -1,0 +1,4 @@
+# AS37013 (SNAL-AS)
+# SatCom Networks Africa Ltd.
+#
+41.223.228.0/22

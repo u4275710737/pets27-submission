@@ -1,0 +1,14 @@
+{
+  "asn": 399623,
+  "metadata": {
+    "handle": "OSCAR",
+    "description": "Software Answers, Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

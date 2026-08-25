@@ -1,0 +1,14 @@
+{
+  "asn": 272773,
+  "metadata": {
+    "handle": "BOA-CONEXAO-TELECOMUNICACAO",
+    "description": "BOA CONEXAO TELECOMUNICACAO LTDA",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

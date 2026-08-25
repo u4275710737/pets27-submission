@@ -1,0 +1,14 @@
+{
+  "asn": 197872,
+  "metadata": {
+    "handle": "EA-NL-AMSTERDAM-DC",
+    "description": "Electronic Arts Limited",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

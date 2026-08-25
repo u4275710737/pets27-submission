@@ -1,0 +1,4 @@
+# AS52304 (ANYCAST-A-NIC-CL)
+# NIC Chile
+#
+190.124.27.0/24

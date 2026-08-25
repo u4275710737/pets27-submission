@@ -1,0 +1,14 @@
+{
+  "asn": 397447,
+  "metadata": {
+    "handle": "ARCOTX1",
+    "description": "ARANSAS COUNTY",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

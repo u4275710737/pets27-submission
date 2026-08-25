@@ -1,0 +1,14 @@
+{
+  "asn": 27007,
+  "metadata": {
+    "handle": "ADPSLC",
+    "description": "Automatic Data Processing, Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

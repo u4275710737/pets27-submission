@@ -1,0 +1,16 @@
+{
+  "asn": 28717,
+  "metadata": {
+    "handle": "GLOBALCONNECT-AS28717",
+    "description": "GlobalConnect A/S",
+    "countryCode": "DK",
+    "country": "Denmark",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ ]
+  }
+}

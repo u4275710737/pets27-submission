@@ -1,0 +1,16 @@
+{
+  "asn": 402252,
+  "metadata": {
+    "handle": "FSTCLOUD-2",
+    "description": "FSTcloud",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "199.235.181.0/24" ],
+    "ipv6": [ ]
+  }
+}

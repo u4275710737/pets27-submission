@@ -1,0 +1,14 @@
+{
+  "asn": 133703,
+  "metadata": {
+    "handle": "DALMIA",
+    "description": "Dalmia Bharat Limited",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

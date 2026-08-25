@@ -1,0 +1,4 @@
+# AS202018 (SERVINET)
+# Servinet Sistemas y Comunicacion S.L.
+#
+201.49.188.0/24

@@ -1,0 +1,4 @@
+# AS142242 (LAL-AS-AP)
+# Lindsay Australia Limited
+#
+151.158.98.0/23

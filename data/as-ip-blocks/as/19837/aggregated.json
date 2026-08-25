@@ -1,0 +1,14 @@
+{
+  "asn": 19837,
+  "metadata": {
+    "handle": "STOCK-BUILDING-SUPPLY",
+    "description": "Stock Building Supply",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

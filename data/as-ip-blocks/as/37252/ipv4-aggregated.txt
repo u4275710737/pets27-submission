@@ -1,0 +1,4 @@
+# AS37252 (GHABBOUR-AS)
+# Ghabbour Aut-num object
+#
+196.223.16.0/23

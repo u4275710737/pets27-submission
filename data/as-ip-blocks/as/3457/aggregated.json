@@ -1,0 +1,14 @@
+{
+  "asn": 3457,
+  "metadata": {
+    "handle": "ORACLE-4",
+    "description": "Oracle Corporation",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 137650,
+  "metadata": {
+    "handle": "MITSPLH-IN",
+    "description": "Micronet It Services Private Limited",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

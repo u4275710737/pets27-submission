@@ -1,0 +1,16 @@
+{
+  "asn": 152141,
+  "metadata": {
+    "handle": "RWIS-AS-AP",
+    "description": "R-NET Wired Internet Services",
+    "countryCode": "PH",
+    "country": "Philippines",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "38.58.234.0/24", "38.147.14.0/24", "38.147.128.0/24", "38.150.16.0/24", "210.79.178.0/24" ],
+    "ipv6": [ ]
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 149039,
+  "metadata": {
+    "handle": "BAZARGHAT-AS-AP",
+    "description": "BAZAR GHAT",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

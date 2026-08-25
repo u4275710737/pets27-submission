@@ -1,0 +1,14 @@
+{
+  "asn": 200300,
+  "metadata": {
+    "handle": "NTISOD",
+    "description": "NTI Gymnasiet Ellips AB",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

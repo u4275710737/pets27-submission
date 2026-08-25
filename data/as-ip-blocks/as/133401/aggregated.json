@@ -1,0 +1,14 @@
+{
+  "asn": 133401,
+  "metadata": {
+    "handle": "FREEDOM-INTERNET-AU",
+    "description": "Devoli LTD",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

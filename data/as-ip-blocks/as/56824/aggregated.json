@@ -1,0 +1,14 @@
+{
+  "asn": 56824,
+  "metadata": {
+    "handle": "VIVA",
+    "description": "VIVA LLC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

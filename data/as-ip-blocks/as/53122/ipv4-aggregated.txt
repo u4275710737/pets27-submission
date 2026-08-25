@@ -1,0 +1,4 @@
+# AS53122 (SUPER-MIDIA-TV-CABO)
+# Super Midia Serviços em Gestão Ltda
+#
+187.111.176.0/20

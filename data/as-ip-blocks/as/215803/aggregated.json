@@ -1,0 +1,14 @@
+{
+  "asn": 215803,
+  "metadata": {
+    "handle": "EGEENSAR",
+    "description": "Ege Ensar",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

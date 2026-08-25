@@ -1,0 +1,14 @@
+{
+  "asn": 134710,
+  "metadata": {
+    "handle": "IMAC-AS-AP",
+    "description": "Interlink Management and Consultancy",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

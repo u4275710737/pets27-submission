@@ -1,0 +1,14 @@
+{
+  "asn": 57963,
+  "metadata": {
+    "handle": "LYNET-INTERNETT",
+    "description": "GLOBALCONNECT AS",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

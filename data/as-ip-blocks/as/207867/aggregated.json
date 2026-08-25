@@ -1,0 +1,14 @@
+{
+  "asn": 207867,
+  "metadata": {
+    "handle": "BIA-TECH-ASN",
+    "description": "BIA-Technologies LLC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

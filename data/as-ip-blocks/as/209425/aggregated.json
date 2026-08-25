@@ -1,0 +1,16 @@
+{
+  "asn": 209425,
+  "metadata": {
+    "handle": "KOI-AS",
+    "description": "KOI CLOUD SERVICES (Pty) Ltd",
+    "countryCode": "ZA",
+    "country": "South Africa",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "81.30.98.0/24" ],
+    "ipv6": [ ]
+  }
+}

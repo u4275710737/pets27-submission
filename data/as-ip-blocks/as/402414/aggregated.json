@@ -1,0 +1,16 @@
+{
+  "asn": 402414,
+  "metadata": {
+    "handle": "NWCUD-ASN-01",
+    "description": "Northwest Fiberworx",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "23.157.60.0/24" ],
+    "ipv6": [ "2606:1500::/32" ]
+  }
+}

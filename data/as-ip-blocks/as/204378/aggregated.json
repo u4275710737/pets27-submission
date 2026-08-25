@@ -1,0 +1,14 @@
+{
+  "asn": 204378,
+  "metadata": {
+    "handle": "WAVESQUID",
+    "description": "James Callahan-Robarts",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

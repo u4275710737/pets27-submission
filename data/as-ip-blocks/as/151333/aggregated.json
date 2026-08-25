@@ -1,0 +1,16 @@
+{
+  "asn": 151333,
+  "metadata": {
+    "handle": "ASCONTEL-AS-AP",
+    "description": "ASCON TEL (PRIVATE) LIMITED",
+    "countryCode": "PK",
+    "country": "Pakistan",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "103.199.140.0/23" ],
+    "ipv6": [ "2001:df2:70c0::/48" ]
+  }
+}

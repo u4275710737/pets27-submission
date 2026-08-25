@@ -1,0 +1,6 @@
+# AS215960 (HOLLANDER-JACOBSEN)
+# Hollander & Jacobsen UG (haftungsbeschraenkt)
+#
+185.153.55.0/24
+195.72.60.0/23
+195.72.62.0/24

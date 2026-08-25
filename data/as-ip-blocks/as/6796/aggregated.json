@@ -1,0 +1,16 @@
+{
+  "asn": 6796,
+  "metadata": {
+    "handle": "SERVIER-AS",
+    "description": "Servier Pharma SRL",
+    "countryCode": "RO",
+    "country": "Romania",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "86.105.16.0/24" ],
+    "ipv6": [ ]
+  }
+}

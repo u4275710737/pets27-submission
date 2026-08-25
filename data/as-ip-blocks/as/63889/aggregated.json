@@ -1,0 +1,14 @@
+{
+  "asn": 63889,
+  "metadata": {
+    "handle": "CLOUDIVLIMITED",
+    "description": "Cloud Iv Limited",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

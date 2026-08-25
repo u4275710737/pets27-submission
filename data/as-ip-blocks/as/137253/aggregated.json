@@ -1,0 +1,14 @@
+{
+  "asn": 137253,
+  "metadata": {
+    "handle": "PRINCETON-AP",
+    "description": "Princeton Digital Group (Singapore) SG1 Pte. Ltd.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

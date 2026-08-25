@@ -1,0 +1,4 @@
+# AS147118 (IDNIC-AMEERA-AS-ID)
+# PT Ameera Mega Buana
+#
+2001:df3:bc0::/48

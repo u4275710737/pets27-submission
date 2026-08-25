@@ -1,0 +1,14 @@
+{
+  "asn": 27547,
+  "metadata": {
+    "handle": "ARCHMI-AS1",
+    "description": "Arch Capital Services LLC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

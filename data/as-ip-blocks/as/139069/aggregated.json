@@ -1,0 +1,14 @@
+{
+  "asn": 139069,
+  "metadata": {
+    "handle": "AUSCO-AP",
+    "description": "AUSCO MODULAR PTY LIMITED",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

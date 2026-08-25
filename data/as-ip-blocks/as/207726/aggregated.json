@@ -1,0 +1,14 @@
+{
+  "asn": 207726,
+  "metadata": {
+    "handle": "NUNO-DE-MATOS-FLORA",
+    "description": "Nuno de Matos Flora",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

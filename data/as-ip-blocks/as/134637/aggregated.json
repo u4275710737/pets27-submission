@@ -1,0 +1,14 @@
+{
+  "asn": 134637,
+  "metadata": {
+    "handle": "VELTRA-AS-ID",
+    "description": "PT.VELTRATEL",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

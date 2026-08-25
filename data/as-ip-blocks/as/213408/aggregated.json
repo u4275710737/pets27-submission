@@ -1,0 +1,14 @@
+{
+  "asn": 213408,
+  "metadata": {
+    "handle": "KFB-ASN",
+    "description": "Lars Schmidgall",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

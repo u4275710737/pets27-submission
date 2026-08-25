@@ -1,0 +1,5 @@
+# AS205848 (SERVER-NETWORK-POHL)
+# Dominik Pohl
+#
+2a06:1282::/42
+2a06:1282:50::/44

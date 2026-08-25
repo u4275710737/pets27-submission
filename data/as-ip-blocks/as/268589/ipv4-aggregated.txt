@@ -1,0 +1,6 @@
+# AS268589 (BRDRIVE-DATACENTER-|)
+# BRDrive Datacenter | Cloud | Ti
+#
+45.163.12.0/22
+177.84.252.0/24
+177.84.254.0/24

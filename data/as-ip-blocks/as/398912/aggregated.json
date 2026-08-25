@@ -1,0 +1,14 @@
+{
+  "asn": 398912,
+  "metadata": {
+    "handle": "OMEGA-1-COMMUNICATIONS-OKC",
+    "description": "Chisholm Broadband LLC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

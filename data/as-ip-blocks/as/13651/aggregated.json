@@ -1,0 +1,14 @@
+{
+  "asn": 13651,
+  "metadata": {
+    "handle": "BUCKLANDBGP",
+    "description": "Hanson Communications, Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

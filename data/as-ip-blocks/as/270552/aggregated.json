@@ -1,0 +1,14 @@
+{
+  "asn": 270552,
+  "metadata": {
+    "handle": "LANZA-TELECOM",
+    "description": "LANZA TELECOM LTDA",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

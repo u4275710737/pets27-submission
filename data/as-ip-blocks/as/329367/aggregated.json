@@ -1,0 +1,16 @@
+{
+  "asn": 329367,
+  "metadata": {
+    "handle": "TAWALA-NETWORKS-LIMITED",
+    "description": "Tawala Networks Limited",
+    "countryCode": "KE",
+    "country": "Kenya",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "102.210.152.0/22" ],
+    "ipv6": [ ]
+  }
+}

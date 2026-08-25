@@ -1,0 +1,14 @@
+{
+  "asn": 35941,
+  "metadata": {
+    "handle": "MOSAICDATA-US",
+    "description": "Mosaic Data Services Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

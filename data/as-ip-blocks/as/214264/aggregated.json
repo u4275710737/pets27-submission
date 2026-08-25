@@ -1,0 +1,14 @@
+{
+  "asn": 214264,
+  "metadata": {
+    "handle": "BITRION",
+    "description": "Bitrion LLC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

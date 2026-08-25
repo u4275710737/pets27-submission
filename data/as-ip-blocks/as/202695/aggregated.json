@@ -1,0 +1,14 @@
+{
+  "asn": 202695,
+  "metadata": {
+    "handle": "MODERN-UK",
+    "description": "Modern Networks Services Ltd",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

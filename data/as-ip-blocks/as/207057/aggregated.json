@@ -1,0 +1,16 @@
+{
+  "asn": 207057,
+  "metadata": {
+    "handle": "ALIUS",
+    "description": "Murtazali Ustarov trading as Alius",
+    "countryCode": "GE",
+    "country": "Georgia",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "167.17.191.0/24", "195.226.93.0/24", "213.182.216.0/24" ],
+    "ipv6": [ ]
+  }
+}

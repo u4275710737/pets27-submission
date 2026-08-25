@@ -1,0 +1,16 @@
+{
+  "asn": 202400,
+  "metadata": {
+    "handle": "TAIPEI101-NETWORK-LLC",
+    "description": "TAIPEI101 NETWORK LTD",
+    "countryCode": "GB",
+    "country": "United Kingdom",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "85.149.222.0/24" ],
+    "ipv6": [ "2602:faa8:89::/48", "2602:faa8:204::/48", "2a14:7dc0:530::/46" ]
+  }
+}

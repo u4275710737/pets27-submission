@@ -1,0 +1,4 @@
+# AS28859 (ZUGERNET)
+# Convotis Schweiz AG
+#
+212.94.32.0/19

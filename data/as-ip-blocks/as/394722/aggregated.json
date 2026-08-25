@@ -1,0 +1,14 @@
+{
+  "asn": 394722,
+  "metadata": {
+    "handle": "NIMBIX-1",
+    "description": "Nimbix Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

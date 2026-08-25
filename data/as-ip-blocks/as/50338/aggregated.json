@@ -1,0 +1,16 @@
+{
+  "asn": 50338,
+  "metadata": {
+    "handle": "GAMERHOST",
+    "description": "GamerHost s.r.o.",
+    "countryCode": "CZ",
+    "country": "Czechia",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "access_provider"
+  },
+  "prefixes": {
+    "ipv4": [ "5.39.202.0/23", "77.67.59.0/24", "77.67.88.0/24", "151.243.10.0/24", "151.243.136.0/24" ],
+    "ipv6": [ "2a04:7bc1::/32" ]
+  }
+}

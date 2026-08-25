@@ -1,0 +1,14 @@
+{
+  "asn": 152654,
+  "metadata": {
+    "handle": "XTS-AP",
+    "description": "XIAOXI TECH (MALAYSIA) SDN.BHD.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

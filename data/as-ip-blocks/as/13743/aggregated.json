@@ -1,0 +1,14 @@
+{
+  "asn": 13743,
+  "metadata": {
+    "handle": "REGULUS",
+    "description": "HOV Services, Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

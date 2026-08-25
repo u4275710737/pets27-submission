@@ -1,0 +1,14 @@
+{
+  "asn": 141331,
+  "metadata": {
+    "handle": "TRIVENI",
+    "description": "Triveniview Enterprises Private Limited",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

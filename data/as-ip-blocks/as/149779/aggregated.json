@@ -1,0 +1,14 @@
+{
+  "asn": 149779,
+  "metadata": {
+    "handle": "FIBMESH-AS-AP",
+    "description": "FIBMESH IN LIMITED",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

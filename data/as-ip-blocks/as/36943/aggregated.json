@@ -1,0 +1,16 @@
+{
+  "asn": 36943,
+  "metadata": {
+    "handle": "WA-AS",
+    "description": "Web Africa",
+    "countryCode": "ZA",
+    "country": "South Africa",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "41.61.0.0/16", "41.185.0.0/16", "196.43.195.0/24", "196.220.32.0/19" ],
+    "ipv6": [ "2c0f:fe90::/32" ]
+  }
+}

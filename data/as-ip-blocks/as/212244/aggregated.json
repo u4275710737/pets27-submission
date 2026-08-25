@@ -1,0 +1,14 @@
+{
+  "asn": 212244,
+  "metadata": {
+    "handle": "IP6NET",
+    "description": "IP6net Ltd",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

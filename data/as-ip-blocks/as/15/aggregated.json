@@ -1,0 +1,14 @@
+{
+  "asn": 15,
+  "metadata": {
+    "handle": "NET-DYNAMICS-EXP",
+    "description": "DYNAMICS",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

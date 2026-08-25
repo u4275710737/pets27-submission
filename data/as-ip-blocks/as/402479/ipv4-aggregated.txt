@@ -1,0 +1,4 @@
+# AS402479 (DECENTRA)
+# Decentra Cloud
+#
+191.44.100.0/24

@@ -1,0 +1,14 @@
+{
+  "asn": 199066,
+  "metadata": {
+    "handle": "DATA8-AS",
+    "description": "Data8 Limited",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

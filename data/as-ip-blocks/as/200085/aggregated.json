@@ -1,0 +1,16 @@
+{
+  "asn": 200085,
+  "metadata": {
+    "handle": "WEILNET",
+    "description": "WeilNet LLC",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ "2a06:9801:241::/48", "2a06:9801:242::/47", "2a06:9801:24a::/47" ]
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 10200,
+  "metadata": {
+    "handle": "TDL2L-AS-AP",
+    "description": "The Digital Lab 2007 Limited",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

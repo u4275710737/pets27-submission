@@ -1,0 +1,14 @@
+{
+  "asn": 49405,
+  "metadata": {
+    "handle": "MOTTO-VOIP",
+    "description": "Motto VoIP B.V.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

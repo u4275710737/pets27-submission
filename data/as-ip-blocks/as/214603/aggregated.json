@@ -1,0 +1,14 @@
+{
+  "asn": 214603,
+  "metadata": {
+    "handle": "BAHNASAWY",
+    "description": "Henry Bahnasawy",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

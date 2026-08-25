@@ -1,0 +1,4 @@
+# AS142375 (IDNIC-HTI-AS-ID)
+# PT Hayat Teknologi Informatika
+#
+2001:df3:a240::/48

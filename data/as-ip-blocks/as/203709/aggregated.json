@@ -1,0 +1,14 @@
+{
+  "asn": 203709,
+  "metadata": {
+    "handle": "SCHEDIA",
+    "description": "XFERA Moviles S.A.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

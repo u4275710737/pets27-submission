@@ -1,0 +1,14 @@
+{
+  "asn": 205817,
+  "metadata": {
+    "handle": "VANTIVA-AS",
+    "description": "Vantiva SA",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

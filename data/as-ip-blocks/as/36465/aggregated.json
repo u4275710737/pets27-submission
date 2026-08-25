@@ -1,0 +1,16 @@
+{
+  "asn": 36465,
+  "metadata": {
+    "handle": "ST-TAMMANY-PARISH-HOSPITAL",
+    "description": "St. Tammany Parish Hospital",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "overlaid",
+    "category": null,
+    "networkRole": null
+  },
+  "prefixes": {
+    "ipv4": [ "74.254.171.0/24" ],
+    "ipv6": [ ]
+  }
+}

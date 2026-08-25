@@ -1,0 +1,14 @@
+{
+  "asn": 199079,
+  "metadata": {
+    "handle": "IST",
+    "description": "i.s.t. GmbH Informations-Systeme und Technologien",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

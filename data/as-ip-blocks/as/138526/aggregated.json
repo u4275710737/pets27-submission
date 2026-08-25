@@ -1,0 +1,14 @@
+{
+  "asn": 138526,
+  "metadata": {
+    "handle": "DMPL-AP",
+    "description": "Direct Media Pvt. Ltd",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

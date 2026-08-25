@@ -1,0 +1,16 @@
+{
+  "asn": 206995,
+  "metadata": {
+    "handle": "MOVITY-AS",
+    "description": "movity Srl",
+    "countryCode": "IT",
+    "country": "Italy",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ "2a0f:85c1:cf9::/48" ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "asn": 402091,
+  "metadata": {
+    "handle": "HELPFUL-OKNUM-01",
+    "description": "oknumbers inc",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "131.143.174.0/24", "207.174.131.0/24" ],
+    "ipv6": [ ]
+  }
+}

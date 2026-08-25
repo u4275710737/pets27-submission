@@ -1,0 +1,4 @@
+# AS397766 (FDU-CA)
+# Fairleigh Dickinson University
+#
+81.28.144.0/20

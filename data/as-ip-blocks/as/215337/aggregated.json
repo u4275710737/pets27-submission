@@ -1,0 +1,16 @@
+{
+  "asn": 215337,
+  "metadata": {
+    "handle": "IT-CONNECTO",
+    "description": "Connecto s.r.l.",
+    "countryCode": "IT",
+    "country": "Italy",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "193.177.246.0/24", "212.102.104.0/24" ],
+    "ipv6": [ "2a0d:58c0::/29" ]
+  }
+}

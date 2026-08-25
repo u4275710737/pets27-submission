@@ -1,0 +1,14 @@
+{
+  "asn": 57454,
+  "metadata": {
+    "handle": "NOICOM",
+    "description": "Noicom Srls",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

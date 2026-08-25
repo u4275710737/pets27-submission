@@ -1,0 +1,14 @@
+{
+  "asn": 205006,
+  "metadata": {
+    "handle": "HOLLANDANDBARRETT",
+    "description": "Holland & Barrett International Limited",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

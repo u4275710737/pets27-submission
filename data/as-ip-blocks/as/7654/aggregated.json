@@ -1,0 +1,14 @@
+{
+  "asn": 7654,
+  "metadata": {
+    "handle": "ISSP-AS-AP",
+    "description": "Internet Solution & Service Provider Co. Ltd.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

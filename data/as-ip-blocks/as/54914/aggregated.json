@@ -1,0 +1,16 @@
+{
+  "asn": 54914,
+  "metadata": {
+    "handle": "AVERYDENNISON-AS",
+    "description": "Avery Dennison Corporation",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "72.46.228.0/23", "144.93.4.0/22" ],
+    "ipv6": [ ]
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 42257,
+  "metadata": {
+    "handle": "MANZ",
+    "description": "MANZ'sche Verlags- und Universitaetsbuchhandlung GmbH",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "asn": 152144,
+  "metadata": {
+    "handle": "LAPL-AS-AP",
+    "description": "LIGHTSTORM ASIA PTE. LTD.",
+    "countryCode": "SG",
+    "country": "Singapore",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "access_provider"
+  },
+  "prefixes": {
+    "ipv4": [ "210.87.106.0/23" ],
+    "ipv6": [ "2401:5760::/32" ]
+  }
+}

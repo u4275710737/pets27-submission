@@ -1,0 +1,16 @@
+{
+  "asn": 21105,
+  "metadata": {
+    "handle": "RTK-TRANZIT",
+    "description": "Alexander Sbezhnev",
+    "countryCode": "RU",
+    "country": "Russia",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "access_provider"
+  },
+  "prefixes": {
+    "ipv4": [ "80.89.8.0/22", "193.8.201.0/24" ],
+    "ipv6": [ ]
+  }
+}

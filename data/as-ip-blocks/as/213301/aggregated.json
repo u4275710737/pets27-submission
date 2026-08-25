@@ -1,0 +1,16 @@
+{
+  "asn": 213301,
+  "metadata": {
+    "handle": "SURVIVOR",
+    "description": "SURVIVOR Bilisim Teknolojileri A.S.",
+    "countryCode": "TR",
+    "country": "Türkiye",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "185.78.84.0/23", "185.174.68.0/24" ],
+    "ipv6": [ ]
+  }
+}

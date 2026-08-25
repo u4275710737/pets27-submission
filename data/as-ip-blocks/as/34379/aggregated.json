@@ -1,0 +1,14 @@
+{
+  "asn": 34379,
+  "metadata": {
+    "handle": "TNS-AS2",
+    "description": "OOO Telecomunikacionnye Nezavisimye Systemy",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

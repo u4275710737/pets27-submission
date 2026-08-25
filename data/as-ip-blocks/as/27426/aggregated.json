@@ -1,0 +1,15 @@
+{
+  "asn": 27426,
+  "metadata": {
+    "countryCode": null,
+    "country": null,
+    "origin": "none"
+  },
+  "prefixes": {
+    "ipv4": [
+      "12.196.199.0/24",
+      "64.58.173.0/24"
+    ],
+    "ipv6": []
+  }
+}

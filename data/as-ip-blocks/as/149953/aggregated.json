@@ -1,0 +1,14 @@
+{
+  "asn": 149953,
+  "metadata": {
+    "handle": "IDNIC-PEDJOEANGDIGITAL-ID",
+    "description": "PT Pedjoeang Digital Networks",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

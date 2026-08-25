@@ -1,0 +1,16 @@
+{
+  "asn": 30155,
+  "metadata": {
+    "handle": "LLSA-SKILOUISE-01",
+    "description": "The Lake Louise Ski Area Ltd.",
+    "countryCode": "CA",
+    "country": "Canada",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ "2604:320::/32" ]
+  }
+}

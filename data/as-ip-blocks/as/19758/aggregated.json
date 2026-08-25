@@ -1,0 +1,14 @@
+{
+  "asn": 19758,
+  "metadata": {
+    "handle": "NYEC-3",
+    "description": "New York eHealth Collaborative",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,4 @@
+# AS216083 (PRVAINTERNETOVA)
+# Prva internetova s.r.o
+#
+2a14:1a00::/29

@@ -1,0 +1,14 @@
+{
+  "asn": 398494,
+  "metadata": {
+    "handle": "RM-817",
+    "description": "Ruoff Mortgage",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

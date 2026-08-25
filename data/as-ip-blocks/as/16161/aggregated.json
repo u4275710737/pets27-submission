@@ -1,0 +1,14 @@
+{
+  "asn": 16161,
+  "metadata": {
+    "handle": "BANCALOMBARDA",
+    "description": "Intesa Sanpaolo S.p.A.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 135940,
+  "metadata": {
+    "handle": "NICETECHCENTER-VN",
+    "description": "Nice Tech Center Vietnam Limited Company",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

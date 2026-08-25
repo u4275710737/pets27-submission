@@ -1,0 +1,14 @@
+{
+  "asn": 22239,
+  "metadata": {
+    "handle": "TRADINGTECH-CORP",
+    "description": "Trading Technologies Intl, Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

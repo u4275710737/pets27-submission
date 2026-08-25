@@ -1,0 +1,16 @@
+{
+  "asn": 203710,
+  "metadata": {
+    "handle": "FRESH-DEV-LTD",
+    "description": "Fresh Dev Ltd",
+    "countryCode": "GB",
+    "country": "United Kingdom",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ ]
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 139399,
+  "metadata": {
+    "handle": "IDNIC-PNN-ID",
+    "description": "PT Palapa Network Nusantara",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

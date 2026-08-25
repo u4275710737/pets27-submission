@@ -1,0 +1,16 @@
+{
+  "asn": 273751,
+  "metadata": {
+    "handle": "MNET-TELECOM",
+    "description": "Mnet Telecom",
+    "countryCode": "BR",
+    "country": "Brazil",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "216.28.246.0/23" ],
+    "ipv6": [ "2804:8bb0::/32" ]
+  }
+}

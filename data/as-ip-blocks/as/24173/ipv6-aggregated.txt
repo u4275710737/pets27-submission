@@ -1,0 +1,4 @@
+# AS24173 (NETNAM-AS-AP)
+# Netnam Company
+#
+2401:e800::/32

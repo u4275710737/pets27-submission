@@ -1,0 +1,14 @@
+{
+  "asn": 40883,
+  "metadata": {
+    "handle": "AVALARA-SALES-TAX",
+    "description": "Avalara, Inc",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

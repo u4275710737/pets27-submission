@@ -1,0 +1,14 @@
+{
+  "asn": 19004,
+  "metadata": {
+    "handle": "SCHWAB-RETIREMENT",
+    "description": "Charles Schwab & Co., Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

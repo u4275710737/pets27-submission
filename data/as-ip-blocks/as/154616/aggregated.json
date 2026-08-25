@@ -1,0 +1,16 @@
+{
+  "asn": 154616,
+  "metadata": {
+    "handle": "IDNIC-IOASE-ID",
+    "description": "PT INFOMATICS OASE",
+    "countryCode": "ID",
+    "country": "Indonesia",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "45.198.63.0/24", "163.128.212.0/23" ],
+    "ipv6": [ ]
+  }
+}

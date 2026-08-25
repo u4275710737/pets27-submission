@@ -1,0 +1,14 @@
+{
+  "asn": 199207,
+  "metadata": {
+    "handle": "EURID-ANYCAST",
+    "description": "EURid vzw",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

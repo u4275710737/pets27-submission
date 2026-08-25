@@ -1,0 +1,16 @@
+{
+  "asn": 215285,
+  "metadata": {
+    "handle": "IRHOSTING",
+    "description": "Bonyan Sepehr Kasir PJSC",
+    "countryCode": "IR",
+    "country": "Iran",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "37.32.40.0/24", "185.215.228.0/24" ],
+    "ipv6": [ ]
+  }
+}

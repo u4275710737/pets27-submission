@@ -1,0 +1,4 @@
+# AS29469 (GTU)
+# Global Technologies of Ukraine LLC
+#
+185.38.174.0/24

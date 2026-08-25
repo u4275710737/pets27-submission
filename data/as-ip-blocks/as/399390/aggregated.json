@@ -1,0 +1,14 @@
+{
+  "asn": 399390,
+  "metadata": {
+    "handle": "GTN-GSASH01-2021",
+    "description": "SES Government Solutions Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

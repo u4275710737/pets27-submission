@@ -1,0 +1,3 @@
+# AS210072 (RESERVED)
+# RIPE NCC ASN block
+#

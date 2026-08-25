@@ -1,0 +1,14 @@
+{
+  "asn": 395313,
+  "metadata": {
+    "handle": "BRAINTREE-2",
+    "description": "PayPal Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

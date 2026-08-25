@@ -1,0 +1,14 @@
+{
+  "asn": 23337,
+  "metadata": {
+    "handle": "ATCE-ASN",
+    "description": "Alfa Tech Consulting Engineers Inc",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

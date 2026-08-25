@@ -1,0 +1,14 @@
+{
+  "asn": 54524,
+  "metadata": {
+    "handle": "INETUASN2",
+    "description": "Flexential iNETu Corp.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

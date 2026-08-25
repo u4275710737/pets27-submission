@@ -1,0 +1,16 @@
+{
+  "asn": 402298,
+  "metadata": {
+    "handle": "CXIX-RS-AS",
+    "description": "HYW GLOBAL LLC",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "45.8.217.0/24" ],
+    "ipv6": [ ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "asn": 843,
+  "metadata": {
+    "handle": "F5-XC-NAE",
+    "description": "F5 Inc.",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "107.162.222.0/24" ],
+    "ipv6": [ ]
+  }
+}

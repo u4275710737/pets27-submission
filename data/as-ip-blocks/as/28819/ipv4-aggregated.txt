@@ -1,0 +1,4 @@
+# AS28819 (IMS-DENTSU-BG)
+# Merkle EOOD
+#
+82.112.172.0/24

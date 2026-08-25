@@ -1,0 +1,14 @@
+{
+  "asn": 215732,
+  "metadata": {
+    "handle": "BSC-DIWANIA-WIRELESS",
+    "description": "Intelligent Zone for General trading, Communications Services, Real State Investments & Commercial agencies Co Ltd",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

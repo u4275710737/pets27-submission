@@ -1,0 +1,16 @@
+{
+  "asn": 211063,
+  "metadata": {
+    "handle": "ABCD",
+    "description": "NOVINKOR LLC",
+    "countryCode": "RU",
+    "country": "Russia",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "132.243.227.0/24" ],
+    "ipv6": [ ]
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 50434,
+  "metadata": {
+    "handle": "DEVONSTUDIO",
+    "description": "DevonStudio Sp. z o.o.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

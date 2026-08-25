@@ -1,0 +1,14 @@
+{
+  "asn": 132381,
+  "metadata": {
+    "handle": "FUTURENETSOLUTION-AP",
+    "description": "Future Net Solution",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

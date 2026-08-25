@@ -1,0 +1,14 @@
+{
+  "asn": 3083,
+  "metadata": {
+    "handle": "CREDITSUISSEGROUP-AS",
+    "description": "Credit Suisse Group",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

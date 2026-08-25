@@ -1,0 +1,14 @@
+{
+  "asn": 31840,
+  "metadata": {
+    "handle": "HAVENS",
+    "description": "Havens Advisors",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

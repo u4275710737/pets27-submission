@@ -1,0 +1,14 @@
+{
+  "asn": 132508,
+  "metadata": {
+    "handle": "EGS-PL-AP",
+    "description": "Philippine Long Distance Telephone Co.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

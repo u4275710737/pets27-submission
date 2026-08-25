@@ -1,0 +1,16 @@
+{
+  "asn": 50361,
+  "metadata": {
+    "handle": "IIBHQ-AS",
+    "description": "JOINT STOCK COMPANY MIZHNARODNYI INVESTYTSIINYI BANK",
+    "countryCode": "UA",
+    "country": "Ukraine",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "193.104.242.0/24" ],
+    "ipv6": [ ]
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 21542,
+  "metadata": {
+    "handle": "ENERGYSERVICESGROUP",
+    "description": "Energy Services Group",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

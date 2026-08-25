@@ -1,0 +1,16 @@
+{
+  "asn": 273728,
+  "metadata": {
+    "handle": "Z-M-LISBOA-SANTOS-EIRELI",
+    "description": "LIFE&LIFE TELECOM LTDA",
+    "countryCode": "BR",
+    "country": "Brazil",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "access_provider"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ "2804:8b5c::/32" ]
+  }
+}

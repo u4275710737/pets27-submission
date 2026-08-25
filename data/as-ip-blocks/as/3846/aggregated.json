@@ -1,0 +1,14 @@
+{
+  "asn": 3846,
+  "metadata": {
+    "handle": "PAYTRONI",
+    "description": "Paytronix Systems, Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

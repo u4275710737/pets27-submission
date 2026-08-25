@@ -1,0 +1,4 @@
+# AS202598 (SOPRASTERIABE)
+# Sopra Steria Belgium SA
+#
+185.156.56.0/22

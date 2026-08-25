@@ -1,0 +1,14 @@
+{
+  "asn": 139503,
+  "metadata": {
+    "handle": "ASWS-IN",
+    "description": "Aniruddha skyline web service",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

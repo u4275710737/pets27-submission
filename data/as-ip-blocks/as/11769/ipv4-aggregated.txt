@@ -1,0 +1,4 @@
+# AS11769 (RJ-SCHINNER)
+# RJ Schinner Co
+#
+8.37.27.0/24

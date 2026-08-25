@@ -1,0 +1,14 @@
+{
+  "asn": 271994,
+  "metadata": {
+    "handle": "INTERNET-SUR-LAGO-CA",
+    "description": "INTERNET SUR DEL LAGO, C.A.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

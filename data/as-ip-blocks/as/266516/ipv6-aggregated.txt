@@ -1,0 +1,4 @@
+# AS266516 (NAVEGANET-COMERCIO-SERVICOS)
+# Naveganet Comercio e Serviços Eirele
+#
+2804:38fc::/32

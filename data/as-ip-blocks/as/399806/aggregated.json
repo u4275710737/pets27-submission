@@ -1,0 +1,14 @@
+{
+  "asn": 399806,
+  "metadata": {
+    "handle": "RECOVERY-POINT-SYSTEMS",
+    "description": "Recovery Point Systems Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

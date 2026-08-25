@@ -1,0 +1,16 @@
+{
+  "asn": 139514,
+  "metadata": {
+    "handle": "IRINN-JAIN1-AS-IN",
+    "description": "JAIN BROADBAND SOLUTIONS PRIVATE LIMITED",
+    "countryCode": "IN",
+    "country": "India",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "103.145.54.0/23", "165.101.50.0/23" ],
+    "ipv6": [ ]
+  }
+}

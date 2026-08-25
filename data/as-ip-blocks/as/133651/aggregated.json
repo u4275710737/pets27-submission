@@ -1,0 +1,14 @@
+{
+  "asn": 133651,
+  "metadata": {
+    "handle": "OASIS-IN",
+    "description": "oasis cable pvt. ltd.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 44292,
+  "metadata": {
+    "handle": "SPINVOX",
+    "description": "NUANCE COMMUNICATIONS LIMITED",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

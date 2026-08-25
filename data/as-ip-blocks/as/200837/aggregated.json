@@ -1,0 +1,14 @@
+{
+  "asn": 200837,
+  "metadata": {
+    "handle": "PCEXTREME-MIA-UNUSED",
+    "description": "CLDIN B.V.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

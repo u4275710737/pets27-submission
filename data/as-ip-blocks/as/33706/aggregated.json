@@ -1,0 +1,14 @@
+{
+  "asn": 33706,
+  "metadata": {
+    "handle": "USA-INFINITY",
+    "description": "USA INFINITY BROADBAND LLC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

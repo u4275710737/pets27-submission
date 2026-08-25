@@ -1,0 +1,5 @@
+# AS35505 (PRONETIT-AS)
+# Pronet Solutii IT SRL
+#
+81.181.181.0/24
+193.187.149.0/24

@@ -1,0 +1,4 @@
+# AS269180 (VIPNET-CONEXAO)
+# VIPNET Conexão
+#
+2804:609c::/32

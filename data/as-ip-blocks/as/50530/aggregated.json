@@ -1,0 +1,14 @@
+{
+  "asn": 50530,
+  "metadata": {
+    "handle": "SHABDIZ",
+    "description": "Shabdiz Telecom Network PJSC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

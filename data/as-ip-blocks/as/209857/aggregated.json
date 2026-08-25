@@ -1,0 +1,16 @@
+{
+  "asn": 209857,
+  "metadata": {
+    "handle": "WGC-SYSTEMS",
+    "description": "WGC-Systems UG (haftungsbeschraenkt)",
+    "countryCode": "DE",
+    "country": "Germany",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "91.197.55.0/24" ],
+    "ipv6": [ "2a06:8ac0::/44" ]
+  }
+}

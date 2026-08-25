@@ -1,0 +1,14 @@
+{
+  "asn": 27601,
+  "metadata": {
+    "handle": "MCA",
+    "description": "MCA",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

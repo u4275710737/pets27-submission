@@ -1,0 +1,14 @@
+{
+  "asn": 396371,
+  "metadata": {
+    "handle": "FOR-DRL-CLE",
+    "description": "AmeriMark Direct LLC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

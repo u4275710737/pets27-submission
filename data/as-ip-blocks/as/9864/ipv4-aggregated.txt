@@ -1,0 +1,5 @@
+# AS9864 (KSDNET-AS)
+# Korea Securities Depository
+#
+58.102.135.0/24
+203.24.188.0/24

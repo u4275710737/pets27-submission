@@ -1,0 +1,14 @@
+{
+  "asn": 58191,
+  "metadata": {
+    "handle": "DEVELOPONBOX",
+    "description": "OOO DevelopOnBox",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

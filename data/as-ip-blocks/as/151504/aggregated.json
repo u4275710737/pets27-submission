@@ -1,0 +1,14 @@
+{
+  "asn": 151504,
+  "metadata": {
+    "handle": "IDNIC-MSN-MAMURA-ID",
+    "description": "CV Mamura Sarana Media",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

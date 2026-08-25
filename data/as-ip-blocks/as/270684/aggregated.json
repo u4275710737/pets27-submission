@@ -1,0 +1,16 @@
+{
+  "asn": 270684,
+  "metadata": {
+    "handle": "WEB-KONECT-TELECOM-FRUTAL",
+    "description": "SOLUCOES SOUZA WEB LTDA",
+    "countryCode": "BR",
+    "country": "Brazil",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "200.187.104.0/22" ],
+    "ipv6": [ "2804:6fc8::/36", "2804:6fc8:e000::/36" ]
+  }
+}

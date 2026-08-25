@@ -1,0 +1,14 @@
+{
+  "asn": 136320,
+  "metadata": {
+    "handle": "WORLDVIS-IN",
+    "description": "World Vision Networks Private Limited",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

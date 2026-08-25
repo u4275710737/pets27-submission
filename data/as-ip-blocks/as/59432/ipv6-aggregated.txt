@@ -1,0 +1,5 @@
+# AS59432 (GINERNET)
+# GINERNET S.L.
+#
+2a03:c7c0::/31
+2a03:c7c2::/32

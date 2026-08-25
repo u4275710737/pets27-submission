@@ -1,0 +1,16 @@
+{
+  "asn": 18490,
+  "metadata": {
+    "handle": "VIRTELA-NET-VTXDAL1",
+    "description": "Virtela Communications",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "64.254.105.0/24", "64.254.115.0/24", "74.84.168.0/24", "207.179.26.0/24" ],
+    "ipv6": [ ]
+  }
+}

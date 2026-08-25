@@ -1,0 +1,16 @@
+{
+  "asn": 154641,
+  "metadata": {
+    "handle": "DSMARTIT-AS-AP",
+    "description": "DSmart IT",
+    "countryCode": "BD",
+    "country": "Bangladesh",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "162.4.22.0/23" ],
+    "ipv6": [ ]
+  }
+}

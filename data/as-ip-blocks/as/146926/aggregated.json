@@ -1,0 +1,16 @@
+{
+  "asn": 146926,
+  "metadata": {
+    "handle": "LOTUSWT-AS-IN",
+    "description": "LOTUS WIRELESS TECHNOLOGIES INDIA PRIVATE LIMITED",
+    "countryCode": "IN",
+    "country": "India",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "103.171.198.0/24" ],
+    "ipv6": [ ]
+  }
+}

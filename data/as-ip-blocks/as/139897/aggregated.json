@@ -1,0 +1,14 @@
+{
+  "asn": 139897,
+  "metadata": {
+    "handle": "TECH99-AP",
+    "description": "TECH99",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

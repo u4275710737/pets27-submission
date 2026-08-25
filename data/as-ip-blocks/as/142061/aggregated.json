@@ -1,0 +1,16 @@
+{
+  "asn": 142061,
+  "metadata": {
+    "handle": "CWCTB-AS-AP",
+    "description": "CORE WINNER CO. LIMITED",
+    "countryCode": "TW",
+    "country": "Taiwan",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ ]
+  }
+}

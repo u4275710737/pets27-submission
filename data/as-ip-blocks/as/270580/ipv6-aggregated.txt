@@ -1,0 +1,4 @@
+# AS270580 (VIANET-TELECOM)
+# ViaNet Telecom
+#
+2804:6e2c::/32

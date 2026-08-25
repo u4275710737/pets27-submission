@@ -1,0 +1,16 @@
+{
+  "asn": 215037,
+  "metadata": {
+    "handle": "DATARUCLOUD",
+    "description": "DATARU OBLAKO LLC",
+    "countryCode": "RU",
+    "country": "Russia",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "access_provider"
+  },
+  "prefixes": {
+    "ipv4": [ "81.177.208.0/22", "194.117.65.0/24" ],
+    "ipv6": [ ]
+  }
+}

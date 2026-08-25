@@ -1,0 +1,14 @@
+{
+  "asn": 45762,
+  "metadata": {
+    "handle": "ACCESS-NETWORKS",
+    "description": "Access Networks and Communications",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

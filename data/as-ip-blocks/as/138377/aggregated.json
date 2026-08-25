@@ -1,0 +1,16 @@
+{
+  "asn": 138377,
+  "metadata": {
+    "handle": "CNGI-XNN-IX-AS-AP",
+    "description": "China Education and Research Network (CERNET)",
+    "countryCode": "CN",
+    "country": "China",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ "2001:250:1e00::/45", "2001:250:1e08::/46", "2001:250:1e0c::/47", "2001:250:1e0e::/48", "2001:da8:c1::/48", "240c:c381::/32" ]
+  }
+}

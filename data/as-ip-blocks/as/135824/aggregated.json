@@ -1,0 +1,14 @@
+{
+  "asn": 135824,
+  "metadata": {
+    "handle": "HANIRA-AS-IN",
+    "description": "HANIRA BROADBAND SERVICES PRIVATE LIMITED",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

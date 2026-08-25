@@ -1,0 +1,14 @@
+{
+  "asn": 262331,
+  "metadata": {
+    "handle": "DURATEX",
+    "description": "Duratex S/A",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

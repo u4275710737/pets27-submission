@@ -1,0 +1,14 @@
+{
+  "asn": 204037,
+  "metadata": {
+    "handle": "QERNAL",
+    "description": "Qernal LTD",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

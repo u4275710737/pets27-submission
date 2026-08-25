@@ -1,0 +1,4 @@
+# AS5548 (RUT-MIIT-AS)
+# Federalnoe gosudarstvennoe avtonomnoe obrazovatelnoe uchrezhdenie vysshego obrazovaniya Rossiyskiy Universitet Transporta
+#
+195.245.205.0/24

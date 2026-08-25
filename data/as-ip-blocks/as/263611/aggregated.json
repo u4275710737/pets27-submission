@@ -1,0 +1,16 @@
+{
+  "asn": 263611,
+  "metadata": {
+    "handle": "ZUM-TELECOM",
+    "description": "ZUM TELECOM LTDA- ME",
+    "countryCode": "BR",
+    "country": "Brazil",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "access_provider"
+  },
+  "prefixes": {
+    "ipv4": [ "179.124.16.0/20" ],
+    "ipv6": [ "2804:ff8::/33", "2804:ff8:a000::/35", "2804:ff8:c000::/34" ]
+  }
+}

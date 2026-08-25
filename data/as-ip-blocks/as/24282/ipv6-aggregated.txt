@@ -1,0 +1,4 @@
+# AS24282 (KIR)
+# KAGOYA JAPAN Inc.
+#
+2406:8c00::/32

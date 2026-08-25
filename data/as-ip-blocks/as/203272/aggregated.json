@@ -1,0 +1,14 @@
+{
+  "asn": 203272,
+  "metadata": {
+    "handle": "NETSERVICE-AS",
+    "description": "Maciej Zukowski trading as Netkom Uslugi informatyczne",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

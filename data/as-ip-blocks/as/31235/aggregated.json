@@ -1,0 +1,16 @@
+{
+  "asn": 31235,
+  "metadata": {
+    "handle": "SKIWEBCENTER-AS",
+    "description": "Skiwebcenter SARL",
+    "countryCode": "FR",
+    "country": "France",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "193.25.195.0/24", "193.200.116.0/23" ],
+    "ipv6": [ ]
+  }
+}

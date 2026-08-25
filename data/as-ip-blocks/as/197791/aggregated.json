@@ -1,0 +1,16 @@
+{
+  "asn": 197791,
+  "metadata": {
+    "handle": "DANYLO-TERESHCHENKO",
+    "description": "Danylo Tereshchenko",
+    "countryCode": "CH",
+    "country": "Switzerland",
+    "origin": "authoritative",
+    "category": null,
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "132.243.200.0/24" ],
+    "ipv6": [ ]
+  }
+}

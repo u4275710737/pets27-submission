@@ -1,0 +1,14 @@
+{
+  "asn": 52334,
+  "metadata": {
+    "handle": "PROTECCION",
+    "description": "Proteccion S.A.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,7 @@
+# AS56153 (LUUTRUSO-AS-VN)
+# Digital Storage Company Limited
+#
+61.14.232.0/22
+103.97.124.0/22
+103.255.236.0/23
+103.255.238.0/24

@@ -1,0 +1,14 @@
+{
+  "asn": 211975,
+  "metadata": {
+    "handle": "WOHLERT",
+    "description": "Sascha Wohlert",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

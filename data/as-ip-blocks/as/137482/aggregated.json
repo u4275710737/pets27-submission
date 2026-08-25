@@ -1,0 +1,14 @@
+{
+  "asn": 137482,
+  "metadata": {
+    "handle": "METROTEL-AS-AP",
+    "description": "Metro Tel",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

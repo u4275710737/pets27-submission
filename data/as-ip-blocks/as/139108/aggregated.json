@@ -1,0 +1,14 @@
+{
+  "asn": 139108,
+  "metadata": {
+    "handle": "BECKMAN",
+    "description": "Beckman Coulter Commercial Enterprise(China)Co.,Ltd.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

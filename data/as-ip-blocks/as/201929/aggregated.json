@@ -1,0 +1,14 @@
+{
+  "asn": 201929,
+  "metadata": {
+    "handle": "SIPTELECOM",
+    "description": "Sip-Telecom LLC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

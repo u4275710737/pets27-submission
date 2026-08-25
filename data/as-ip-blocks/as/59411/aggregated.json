@@ -1,0 +1,16 @@
+{
+  "asn": 59411,
+  "metadata": {
+    "handle": "DIEN8-CORE",
+    "description": "Dien8 GmbH",
+    "countryCode": "DE",
+    "country": "Germany",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ "2a11:fe87::/32" ]
+  }
+}

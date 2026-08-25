@@ -1,0 +1,16 @@
+{
+  "asn": 31856,
+  "metadata": {
+    "handle": "YO-AS31856",
+    "description": "YoAfricaCore",
+    "countryCode": "ZW",
+    "country": "Zimbabwe",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "41.190.32.0/20", "41.190.48.0/22", "41.190.54.0/23", "41.190.56.0/23", "168.253.32.0/19", "196.44.176.0/23", "196.44.180.0/22", "196.44.184.0/24", "196.44.186.0/23", "196.44.188.0/22" ],
+    "ipv6": [ "2c0f:f4a0::/32" ]
+  }
+}

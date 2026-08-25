@@ -1,0 +1,16 @@
+{
+  "asn": 33597,
+  "metadata": {
+    "handle": "ATLANTIC-METRO-COMMUNICATIONS-II-INC",
+    "description": "Atlantic Metro Communications II Inc.",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "midsize_transit"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ ]
+  }
+}

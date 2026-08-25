@@ -1,0 +1,14 @@
+{
+  "asn": 139192,
+  "metadata": {
+    "handle": "ZOOMONLINE-AP",
+    "description": "Zoom Online",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

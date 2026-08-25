@@ -1,0 +1,16 @@
+{
+  "asn": 197996,
+  "metadata": {
+    "handle": "ONLINEGATEWAY",
+    "description": "ONLINE GATEWAY ApS",
+    "countryCode": "DK",
+    "country": "Denmark",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "185.24.168.0/23", "185.24.170.0/24" ],
+    "ipv6": [ "2a05:f3c0::/48" ]
+  }
+}

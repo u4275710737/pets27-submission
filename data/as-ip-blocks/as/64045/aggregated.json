@@ -1,0 +1,14 @@
+{
+  "asn": 64045,
+  "metadata": {
+    "handle": "BJC-TH-AP",
+    "description": "Berli Jucker Public Company Limited",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

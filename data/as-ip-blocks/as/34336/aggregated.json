@@ -1,0 +1,14 @@
+{
+  "asn": 34336,
+  "metadata": {
+    "handle": "SCB2-AS",
+    "description": "PJSC Sovkombank",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

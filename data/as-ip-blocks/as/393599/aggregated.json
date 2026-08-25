@@ -1,0 +1,14 @@
+{
+  "asn": 393599,
+  "metadata": {
+    "handle": "PCMA-CHI",
+    "description": "PCMA",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

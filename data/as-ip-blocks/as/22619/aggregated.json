@@ -1,0 +1,16 @@
+{
+  "asn": 22619,
+  "metadata": {
+    "handle": "COLOGIX-CGY",
+    "description": "Cologix Canada Inc.",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "216.171.224.0/24", "216.171.226.0/23", "216.171.231.0/24", "216.171.232.0/22", "216.171.237.0/24" ],
+    "ipv6": [ "2605:c580::/32" ]
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 151902,
+  "metadata": {
+    "handle": "VASS-VN",
+    "description": "Center for Information Technology Application - Vietnam Academy of Social Sciences",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

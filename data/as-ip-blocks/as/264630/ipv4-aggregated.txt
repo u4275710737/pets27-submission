@@ -1,0 +1,4 @@
+# AS264630 (UNIVERSIDAD-NACIONAL-JUJUY)
+# Universidad Nacional de Jujuy
+#
+200.106.248.0/21

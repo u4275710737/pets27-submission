@@ -1,0 +1,14 @@
+{
+  "asn": 53064,
+  "metadata": {
+    "handle": "CURUPIRA",
+    "description": "Curupira S/A",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

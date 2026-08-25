@@ -1,0 +1,4 @@
+# AS10109 (TOPNET-AS-MN-AP)
+# Topica Co. Ltd
+#
+119.40.96.0/21

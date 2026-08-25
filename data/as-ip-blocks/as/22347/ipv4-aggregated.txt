@@ -1,0 +1,4 @@
+# AS22347 (DORSEY-WHITNEY)
+# Dorsey & Whitney LLP
+#
+170.112.0.0/19

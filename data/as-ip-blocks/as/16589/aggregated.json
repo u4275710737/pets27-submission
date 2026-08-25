@@ -1,0 +1,16 @@
+{
+  "asn": 16589,
+  "metadata": {
+    "handle": "ELV-ANYCAST-NET",
+    "description": "ANYCAST-AS",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": null,
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ ]
+  }
+}

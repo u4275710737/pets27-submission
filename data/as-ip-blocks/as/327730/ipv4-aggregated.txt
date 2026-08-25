@@ -1,0 +1,4 @@
+# AS327730 (AS-PPFTZ)
+# AUT-NUM object for PPFTZ
+#
+196.11.255.0/24

@@ -1,0 +1,14 @@
+{
+  "asn": 39411,
+  "metadata": {
+    "handle": "XNS",
+    "description": "XNS MEDIA SRL",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

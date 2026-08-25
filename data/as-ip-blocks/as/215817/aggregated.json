@@ -1,0 +1,14 @@
+{
+  "asn": 215817,
+  "metadata": {
+    "handle": "SANDHILL-UK",
+    "description": "Sandhill Solution (UK) Limited",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 11505,
+  "metadata": {
+    "handle": "TUPNET",
+    "description": "DART INDUSTRIES INC.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

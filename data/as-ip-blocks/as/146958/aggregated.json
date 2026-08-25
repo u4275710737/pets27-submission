@@ -1,0 +1,14 @@
+{
+  "asn": 146958,
+  "metadata": {
+    "handle": "GOOGUGE-AP",
+    "description": "Shenzhen Googuge Network Technology Ltd",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

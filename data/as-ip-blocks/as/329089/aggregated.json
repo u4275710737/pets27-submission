@@ -1,0 +1,16 @@
+{
+  "asn": 329089,
+  "metadata": {
+    "handle": "BN2-AS",
+    "description": "Boost Networks Pty Ltd",
+    "countryCode": "ZA",
+    "country": "South Africa",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "38.211.255.0/24", "102.215.112.0/22" ],
+    "ipv6": [ ]
+  }
+}

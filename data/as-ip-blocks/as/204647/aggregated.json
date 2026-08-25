@@ -1,0 +1,16 @@
+{
+  "asn": 204647,
+  "metadata": {
+    "handle": "MIXNET-AS",
+    "description": "MIXNET TELEKOMUNIKASYON HIZMETLERI AS",
+    "countryCode": "TR",
+    "country": "Türkiye",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "185.244.116.0/22" ],
+    "ipv6": [ "2a0d:2c80::/29" ]
+  }
+}

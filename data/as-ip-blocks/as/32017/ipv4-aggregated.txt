@@ -1,0 +1,4 @@
+# AS32017 (SATCOM-AS)
+# Satcom Mozambique
+#
+41.223.124.0/22

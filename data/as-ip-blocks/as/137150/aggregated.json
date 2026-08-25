@@ -1,0 +1,16 @@
+{
+  "asn": 137150,
+  "metadata": {
+    "handle": "WINGSNET-AS",
+    "description": "Wingsnet Internet Pvt. Ltd.",
+    "countryCode": "IN",
+    "country": "India",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "access_provider"
+  },
+  "prefixes": {
+    "ipv4": [ "103.108.98.0/23" ],
+    "ipv6": [ "2001:df1:2840::/48" ]
+  }
+}

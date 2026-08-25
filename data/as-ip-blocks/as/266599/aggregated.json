@@ -1,0 +1,16 @@
+{
+  "asn": 266599,
+  "metadata": {
+    "handle": "CR-TECHNOLOGIE",
+    "description": "CR Technologie",
+    "countryCode": "BR",
+    "country": "Brazil",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "45.7.180.0/24", "45.7.182.0/23" ],
+    "ipv6": [ "2804:3e7c:7::/48" ]
+  }
+}

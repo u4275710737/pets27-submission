@@ -1,0 +1,14 @@
+{
+  "asn": 30649,
+  "metadata": {
+    "handle": "PRINCIPALS",
+    "description": "National Association of Secondary School Principals",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

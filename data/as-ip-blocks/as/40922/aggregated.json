@@ -1,0 +1,14 @@
+{
+  "asn": 40922,
+  "metadata": {
+    "handle": "MEDAVANTE-HAMILTON-CORPORATE",
+    "description": "MedAvante, Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

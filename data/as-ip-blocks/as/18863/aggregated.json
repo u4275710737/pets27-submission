@@ -1,0 +1,14 @@
+{
+  "asn": 18863,
+  "metadata": {
+    "handle": "BPL-232",
+    "description": "Barbary Partners",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

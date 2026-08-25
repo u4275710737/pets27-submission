@@ -1,0 +1,14 @@
+{
+  "asn": 20316,
+  "metadata": {
+    "handle": "THE-SUPERIOR-GROUP",
+    "description": "The Superior Group",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "asn": 11314,
+  "metadata": {
+    "handle": "LIKEWHOA-WEST",
+    "description": "Like Whoa Inc.",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "38.21.136.0/21", "162.213.131.0/24" ],
+    "ipv6": [ ]
+  }
+}

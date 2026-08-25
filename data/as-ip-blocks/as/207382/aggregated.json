@@ -1,0 +1,16 @@
+{
+  "asn": 207382,
+  "metadata": {
+    "handle": "JK-WIRELESS",
+    "description": "JEREMIAH KEANE",
+    "countryCode": "IE",
+    "country": "Ireland",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "185.191.159.0/24" ],
+    "ipv6": [ ]
+  }
+}

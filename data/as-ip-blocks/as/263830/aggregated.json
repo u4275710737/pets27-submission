@@ -1,0 +1,16 @@
+{
+  "asn": 263830,
+  "metadata": {
+    "handle": "SERVICIOS",
+    "description": "Servicios S.A.",
+    "countryCode": "AR",
+    "country": "Argentina",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "138.186.244.0/22", "186.125.221.0/24", "190.136.48.0/24" ],
+    "ipv6": [ ]
+  }
+}

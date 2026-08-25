@@ -1,0 +1,14 @@
+{
+  "asn": 7098,
+  "metadata": {
+    "handle": "FTDATA",
+    "description": "FT DATA, LLC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

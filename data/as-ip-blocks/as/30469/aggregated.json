@@ -1,0 +1,14 @@
+{
+  "asn": 30469,
+  "metadata": {
+    "handle": "VONAGE-03",
+    "description": "Vonage Holdings Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

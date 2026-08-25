@@ -1,0 +1,14 @@
+{
+  "asn": 397820,
+  "metadata": {
+    "handle": "NGPVAN-001",
+    "description": "NGP VAN Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

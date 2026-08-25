@@ -1,0 +1,14 @@
+{
+  "asn": 40915,
+  "metadata": {
+    "handle": "PC-HELPLINE",
+    "description": "Premier Cloud Inc",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

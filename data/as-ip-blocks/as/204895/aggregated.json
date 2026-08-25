@@ -1,0 +1,14 @@
+{
+  "asn": 204895,
+  "metadata": {
+    "handle": "SANTAPLUS",
+    "description": "Yury Dolin",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

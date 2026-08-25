@@ -1,0 +1,14 @@
+{
+  "asn": 21655,
+  "metadata": {
+    "handle": "BTR",
+    "description": "Blogtalkradio Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

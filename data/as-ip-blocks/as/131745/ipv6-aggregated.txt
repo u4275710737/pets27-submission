@@ -1,0 +1,7 @@
+# AS131745 (IDNIC-CYBERTECHTONIC-AS-ID)
+# PT. Cybertechtonic Pratama
+#
+2400:85e0::/45
+2400:85e0:8::/47
+2400:85e0:804::/48
+2400:85e0:807::/48

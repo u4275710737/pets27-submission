@@ -1,0 +1,4 @@
+# AS266232 (ARTINET-TELECOM)
+# Artinet Telecom
+#
+2804:3cc0::/32

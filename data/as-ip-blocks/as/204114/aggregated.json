@@ -1,0 +1,14 @@
+{
+  "asn": 204114,
+  "metadata": {
+    "handle": "ITENCORE-TVR",
+    "description": "IT ENCORE TECNOLOGIA SL",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

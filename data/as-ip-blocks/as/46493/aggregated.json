@@ -1,0 +1,14 @@
+{
+  "asn": 46493,
+  "metadata": {
+    "handle": "NIKON-UPS-KENTUCKY",
+    "description": "Nikon, Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

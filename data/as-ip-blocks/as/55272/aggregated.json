@@ -1,0 +1,14 @@
+{
+  "asn": 55272,
+  "metadata": {
+    "handle": "ATGTECH",
+    "description": "PATLive",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

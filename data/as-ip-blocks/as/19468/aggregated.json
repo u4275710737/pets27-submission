@@ -1,0 +1,14 @@
+{
+  "asn": 19468,
+  "metadata": {
+    "handle": "ELYSIA-2",
+    "description": "Valex Cloud LLC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

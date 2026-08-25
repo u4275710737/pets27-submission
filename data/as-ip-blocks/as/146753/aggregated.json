@@ -1,0 +1,14 @@
+{
+  "asn": 146753,
+  "metadata": {
+    "handle": "KGNET",
+    "description": "kgzxnet",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

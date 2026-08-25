@@ -1,0 +1,14 @@
+{
+  "asn": 21297,
+  "metadata": {
+    "handle": "OSE",
+    "description": "Oslo Bors ASA",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

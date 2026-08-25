@@ -1,0 +1,14 @@
+{
+  "asn": 149731,
+  "metadata": {
+    "handle": "IDNIC-RADJANET-ID",
+    "description": "PT. Radja Telcon Utama",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

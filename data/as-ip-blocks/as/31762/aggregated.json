@@ -1,0 +1,14 @@
+{
+  "asn": 31762,
+  "metadata": {
+    "handle": "KIOSWIRELESSLLC",
+    "description": "KIOSK WIRELESS",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

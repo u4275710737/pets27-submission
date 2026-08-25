@@ -1,0 +1,16 @@
+{
+  "asn": 21739,
+  "metadata": {
+    "handle": "AFRICAINX-OBJECT-FOR-MAJUBA-INTERNET-TECHNOLOGIES",
+    "description": "MAJUBA TECHNOLOGIES(PTY) Limited t/a T-SOL",
+    "countryCode": "ZA",
+    "country": "South Africa",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "196.202.248.0/22" ],
+    "ipv6": [ "2c0f:980::/32" ]
+  }
+}

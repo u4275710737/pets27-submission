@@ -1,0 +1,14 @@
+{
+  "asn": 213002,
+  "metadata": {
+    "handle": "DOMAINHIZMETLERI-COM",
+    "description": "DH Bulut Bilisim Anonim Sirketi",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

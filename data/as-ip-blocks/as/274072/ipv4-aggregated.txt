@@ -1,0 +1,4 @@
+# AS274072 (SUMATECH)
+# SumaTech SRL
+#
+38.150.115.0/24

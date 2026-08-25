@@ -1,0 +1,14 @@
+{
+  "asn": 59447,
+  "metadata": {
+    "handle": "ISTANBULDC2",
+    "description": "GEOCOM LLC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "asn": 262841,
+  "metadata": {
+    "handle": "MA-INFORMATICA",
+    "description": "PTI TELECOMUNICACOES LTDA",
+    "countryCode": "BR",
+    "country": "Brazil",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "access_provider"
+  },
+  "prefixes": {
+    "ipv4": [ "168.228.76.0/22", "177.10.24.0/21", "177.136.216.0/21", "186.250.60.0/22" ],
+    "ipv6": [ "2804:7534::/32" ]
+  }
+}

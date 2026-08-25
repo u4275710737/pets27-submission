@@ -1,0 +1,16 @@
+{
+  "asn": 197256,
+  "metadata": {
+    "handle": "RENEWINKLER-AS",
+    "description": "Rene Winkler",
+    "countryCode": "CZ",
+    "country": "Czechia",
+    "origin": "authoritative",
+    "category": null,
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "191.44.93.0/24", "217.60.71.0/24" ],
+    "ipv6": [ ]
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 137547,
+  "metadata": {
+    "handle": "HGTHC-AP",
+    "description": "HK GALAXY TELECOM HOLDING CO.,LIMITED",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

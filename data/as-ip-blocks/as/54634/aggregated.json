@@ -1,0 +1,16 @@
+{
+  "asn": 54634,
+  "metadata": {
+    "handle": "SNAP-INTERNET",
+    "description": "Snap Internet LLC",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "199.182.224.0/21" ],
+    "ipv6": [ ]
+  }
+}

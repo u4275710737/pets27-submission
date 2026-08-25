@@ -1,0 +1,14 @@
+{
+  "asn": 50634,
+  "metadata": {
+    "handle": "PPG-NET",
+    "description": "Parsek d.o.o.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 397930,
+  "metadata": {
+    "handle": "LUFSD",
+    "description": "Lynbrook Public Schools",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

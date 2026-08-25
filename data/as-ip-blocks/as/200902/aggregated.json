@@ -1,0 +1,16 @@
+{
+  "asn": 200902,
+  "metadata": {
+    "handle": "HOSTING-MINECRAFT",
+    "description": "Dmitriy Naumov",
+    "countryCode": "RU",
+    "country": "Russia",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "31.57.117.0/24", "195.58.152.0/24" ],
+    "ipv6": [ "2a13:d201:4::/48" ]
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 8201,
+  "metadata": {
+    "handle": "EVONET",
+    "description": "Destiny N.V",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

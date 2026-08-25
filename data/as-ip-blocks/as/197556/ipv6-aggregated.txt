@@ -1,0 +1,4 @@
+# AS197556 (KAR-TEL)
+# Kar-Tel LLC
+#
+2a0d:b200::/31

@@ -1,0 +1,14 @@
+{
+  "asn": 396444,
+  "metadata": {
+    "handle": "OSI-CENTURY-205",
+    "description": "OSI Industries, LLC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

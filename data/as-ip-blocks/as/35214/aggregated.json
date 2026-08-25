@@ -1,0 +1,14 @@
+{
+  "asn": 35214,
+  "metadata": {
+    "handle": "CZ-NORDICTELECOMREGIONAL",
+    "description": "O2 Czech Republic a.s.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

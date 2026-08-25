@@ -1,0 +1,14 @@
+{
+  "asn": 212387,
+  "metadata": {
+    "handle": "ALSTRASOLUTIONS",
+    "description": "Alstra Solutions Ltd.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 213656,
+  "metadata": {
+    "handle": "BASTION-LLC",
+    "description": "Bastion LLC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

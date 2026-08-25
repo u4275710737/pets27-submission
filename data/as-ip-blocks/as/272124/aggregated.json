@@ -1,0 +1,14 @@
+{
+  "asn": 272124,
+  "metadata": {
+    "handle": "TELCO-3",
+    "description": "TELCO 3 S.R.L.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 31450,
+  "metadata": {
+    "handle": "CCD1",
+    "description": "BNP PARIBAS S.A.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

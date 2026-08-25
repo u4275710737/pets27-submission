@@ -1,0 +1,6 @@
+# AS23534 (PRMSA-ASEMNET-ASN)
+# Puerto Rico Medical Services Administration
+#
+200.5.2.0/23
+200.5.4.0/22
+204.27.224.0/24

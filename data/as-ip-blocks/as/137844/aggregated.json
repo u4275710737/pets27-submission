@@ -1,0 +1,14 @@
+{
+  "asn": 137844,
+  "metadata": {
+    "handle": "SIGMAHEALTHCARE-AP",
+    "description": "Sigma Healthcare",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

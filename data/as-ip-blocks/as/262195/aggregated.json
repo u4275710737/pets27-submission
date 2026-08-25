@@ -1,0 +1,14 @@
+{
+  "asn": 262195,
+  "metadata": {
+    "handle": "TRANSAMERICAN-TELECOMUNICATION",
+    "description": "Transamerican Telecomunication S.A.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

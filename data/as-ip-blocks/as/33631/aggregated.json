@@ -1,0 +1,14 @@
+{
+  "asn": 33631,
+  "metadata": {
+    "handle": "PARC-ASN",
+    "description": "Palo Alto Research Center Incorporated",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

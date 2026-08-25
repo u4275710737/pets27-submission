@@ -1,0 +1,16 @@
+{
+  "asn": 29854,
+  "metadata": {
+    "handle": "WESTHOST-US",
+    "description": "WH-ASN-29854-US",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ "2607:fc98::/32" ]
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 40101,
+  "metadata": {
+    "handle": "FBHS",
+    "description": "FBHS",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

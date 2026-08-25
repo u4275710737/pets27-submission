@@ -1,0 +1,14 @@
+{
+  "asn": 1350,
+  "metadata": {
+    "handle": "SEARSNET",
+    "description": "Sears Technology Services Incorporated",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

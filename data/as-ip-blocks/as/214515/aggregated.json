@@ -1,0 +1,16 @@
+{
+  "asn": 214515,
+  "metadata": {
+    "handle": "DIGITALVPS",
+    "description": "Amir Mohammad Masoudi",
+    "countryCode": "IR",
+    "country": "Iran",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "37.32.41.0/24", "109.122.244.0/24", "185.243.51.0/24" ],
+    "ipv6": [ ]
+  }
+}

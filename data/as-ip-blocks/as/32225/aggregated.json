@@ -1,0 +1,16 @@
+{
+  "asn": 32225,
+  "metadata": {
+    "handle": "MCGRAW-BCM",
+    "description": "BCM One Inc.",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "136.228.181.0/24", "136.228.182.0/24" ],
+    "ipv6": [ ]
+  }
+}

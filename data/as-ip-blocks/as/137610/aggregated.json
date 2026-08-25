@@ -1,0 +1,14 @@
+{
+  "asn": 137610,
+  "metadata": {
+    "handle": "WINUXC-AS",
+    "description": "Winux Communications Pvt. Ltd.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

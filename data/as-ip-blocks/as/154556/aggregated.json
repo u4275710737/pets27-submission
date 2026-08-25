@@ -1,0 +1,16 @@
+{
+  "asn": 154556,
+  "metadata": {
+    "handle": "IDNIC-TNTNET-ID",
+    "description": "PT Tori Network Teknologi",
+    "countryCode": "ID",
+    "country": "Indonesia",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "163.128.18.0/23" ],
+    "ipv6": [ ]
+  }
+}

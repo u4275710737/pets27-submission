@@ -1,0 +1,4 @@
+# AS28917 (FIORD-AS)
+# Fiord Networks UAB
+#
+2a11:ca40::/29

@@ -1,0 +1,14 @@
+{
+  "asn": 15170,
+  "metadata": {
+    "handle": "MATCHNET",
+    "description": "Spark Networks Limited",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

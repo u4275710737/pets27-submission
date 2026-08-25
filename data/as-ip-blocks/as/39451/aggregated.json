@@ -1,0 +1,14 @@
+{
+  "asn": 39451,
+  "metadata": {
+    "handle": "IOMART-AS",
+    "description": "IOMART MANAGED SERVICES LIMITED",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

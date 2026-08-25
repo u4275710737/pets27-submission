@@ -1,0 +1,14 @@
+{
+  "asn": 214305,
+  "metadata": {
+    "handle": "YALINHOST",
+    "description": "YUNUS EMRE OZEREN",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

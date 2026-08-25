@@ -1,0 +1,16 @@
+{
+  "asn": 205268,
+  "metadata": {
+    "handle": "AS-DIOMAR",
+    "description": "Diomar sp. z o.o.",
+    "countryCode": "PL",
+    "country": "Poland",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "195.90.103.0/24" ],
+    "ipv6": [ "2001:678:10e4::/48" ]
+  }
+}

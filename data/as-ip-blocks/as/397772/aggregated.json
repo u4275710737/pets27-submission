@@ -1,0 +1,16 @@
+{
+  "asn": 397772,
+  "metadata": {
+    "handle": "NTS-MCALLEN-01",
+    "description": "Vexus Fiber",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "38.50.216.0/22", "38.158.148.0/24", "72.59.172.0/23", "72.59.236.0/22" ],
+    "ipv6": [ ]
+  }
+}

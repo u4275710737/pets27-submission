@@ -1,0 +1,4 @@
+# AS271677 (WSIM-INFORMATICA)
+# Wsim Informática Ltda. ME
+#
+170.231.224.0/23

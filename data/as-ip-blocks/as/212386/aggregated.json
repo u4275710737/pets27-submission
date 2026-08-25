@@ -1,0 +1,16 @@
+{
+  "asn": 212386,
+  "metadata": {
+    "handle": "CDCTELCO",
+    "description": "Pankkih Oy",
+    "countryCode": "FI",
+    "country": "Finland",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "176.119.199.0/24" ],
+    "ipv6": [ "2a01:ac0::/41", "2a01:ac0:80::/42" ]
+  }
+}

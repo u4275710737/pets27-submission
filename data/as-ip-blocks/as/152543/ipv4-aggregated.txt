@@ -1,0 +1,5 @@
+# AS152543 (NET6584-AS-IN)
+# Net2secure Private Limited
+#
+160.25.62.0/24
+160.187.87.0/24

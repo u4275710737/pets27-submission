@@ -1,0 +1,14 @@
+{
+  "asn": 42883,
+  "metadata": {
+    "handle": "STARLINE",
+    "description": "Private Enterprise Ogienko Roman Volodymyrovich",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

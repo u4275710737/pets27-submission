@@ -1,0 +1,14 @@
+{
+  "asn": 33289,
+  "metadata": {
+    "handle": "MB-2",
+    "description": "The Market Builder, Inc",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

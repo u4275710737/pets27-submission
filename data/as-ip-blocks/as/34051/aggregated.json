@@ -1,0 +1,14 @@
+{
+  "asn": 34051,
+  "metadata": {
+    "handle": "AMADEUS-TN",
+    "description": "Amadeus Data Processing GmbH",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

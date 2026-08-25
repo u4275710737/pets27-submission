@@ -1,0 +1,4 @@
+# AS269358 (NET-TURBO-TELECOM)
+# Net Turbo Telecom
+#
+45.185.48.0/22

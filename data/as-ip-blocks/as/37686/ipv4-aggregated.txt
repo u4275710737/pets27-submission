@@ -1,0 +1,4 @@
+# AS37686 (ABU-AS)
+# ABU Zaria Autonomus System
+#
+196.220.66.0/23

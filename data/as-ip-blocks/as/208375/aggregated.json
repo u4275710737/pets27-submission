@@ -1,0 +1,14 @@
+{
+  "asn": 208375,
+  "metadata": {
+    "handle": "VEELVO",
+    "description": "Veelvo Communications Limited",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

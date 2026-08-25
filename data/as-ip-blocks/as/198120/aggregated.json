@@ -1,0 +1,16 @@
+{
+  "asn": 198120,
+  "metadata": {
+    "handle": "SMART-HOST",
+    "description": "Smart Host Teknoloji Ithalat Ihracat Limited Sirketi",
+    "countryCode": "TR",
+    "country": "Türkiye",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "178.236.226.0/24" ],
+    "ipv6": [ "2a0d:2500::/32" ]
+  }
+}

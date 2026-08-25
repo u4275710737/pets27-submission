@@ -1,0 +1,14 @@
+{
+  "asn": 18730,
+  "metadata": {
+    "handle": "CYBERSOURCE-SC4",
+    "description": "VISA INTERNATIONAL SERVICE ASSOCIATION",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

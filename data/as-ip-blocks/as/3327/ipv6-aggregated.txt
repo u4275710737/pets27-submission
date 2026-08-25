@@ -1,0 +1,5 @@
+# AS3327 (CITIC)
+# CITIC Telecom CPC Netherlands B.V.
+#
+2001:ad0::/32
+2a01:80::/48

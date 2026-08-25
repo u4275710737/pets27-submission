@@ -1,0 +1,14 @@
+{
+  "asn": 35329,
+  "metadata": {
+    "handle": "GD-EMEA-DC-CGN3",
+    "description": "Host Europe GmbH",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

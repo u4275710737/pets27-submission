@@ -1,0 +1,14 @@
+{
+  "asn": 149818,
+  "metadata": {
+    "handle": "CONPL-AP",
+    "description": "COCOA ORIENTAL NETWORK (SINGAPORE) PTE. LTD.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

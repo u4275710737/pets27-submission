@@ -1,0 +1,14 @@
+{
+  "asn": 46028,
+  "metadata": {
+    "handle": "PACNET-ID",
+    "description": "Transkon Jaya, PT",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,5 @@
+# AS327923 (PAYINC-SA)
+# South African Bankers Services Company Limited
+#
+196.13.107.0/24
+197.157.240.0/23

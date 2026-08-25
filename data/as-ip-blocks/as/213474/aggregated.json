@@ -1,0 +1,16 @@
+{
+  "asn": 213474,
+  "metadata": {
+    "handle": "HOMELINE-AS",
+    "description": "HomeLine Broadband LLC",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "85.239.147.0/24", "138.226.239.0/24" ],
+    "ipv6": [ ]
+  }
+}

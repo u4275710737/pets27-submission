@@ -1,0 +1,4 @@
+# AS398213 (POINT5-MANAGED-SVCS)
+# Point5 Managed Services LLC
+#
+38.97.66.0/24

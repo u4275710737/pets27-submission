@@ -1,0 +1,16 @@
+{
+  "asn": 275715,
+  "metadata": {
+    "handle": "C-B-SANTOS-BRAGA",
+    "description": "C B DOS SANTOS BRAGA ME",
+    "countryCode": "BR",
+    "country": "Brazil",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ "2804:9878::/32" ]
+  }
+}

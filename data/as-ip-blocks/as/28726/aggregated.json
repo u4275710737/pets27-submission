@@ -1,0 +1,14 @@
+{
+  "asn": 28726,
+  "metadata": {
+    "handle": "ASN-EVRY-UNIGRID",
+    "description": "Vivicta AB",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

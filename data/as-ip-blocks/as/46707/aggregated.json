@@ -1,0 +1,14 @@
+{
+  "asn": 46707,
+  "metadata": {
+    "handle": "MAGNA-HOLLAND",
+    "description": "Magna Donnelly Corporation",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

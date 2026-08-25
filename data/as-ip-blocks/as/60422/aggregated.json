@@ -1,0 +1,14 @@
+{
+  "asn": 60422,
+  "metadata": {
+    "handle": "PH",
+    "description": "DLX A/S",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

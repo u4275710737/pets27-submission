@@ -1,0 +1,14 @@
+{
+  "asn": 27510,
+  "metadata": {
+    "handle": "HPE-15",
+    "description": "HEWLETT PACKARD ENTERPRISE COMPANY",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

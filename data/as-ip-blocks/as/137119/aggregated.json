@@ -1,0 +1,14 @@
+{
+  "asn": 137119,
+  "metadata": {
+    "handle": "SAARTHISOFTWARE-AS",
+    "description": "Saarthi Software Technologies Pvt. Ltd.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

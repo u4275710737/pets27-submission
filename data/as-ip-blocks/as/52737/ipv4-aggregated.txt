@@ -1,0 +1,4 @@
+# AS52737 (FLORIANI-SERVICOS-TELECOMUNICACAO)
+# Floriani Serviços de Telecomunicação Ltda ME
+#
+177.85.56.0/21

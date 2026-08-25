@@ -1,0 +1,16 @@
+{
+  "asn": 215103,
+  "metadata": {
+    "handle": "SOZONOVGROUP-AS",
+    "description": "Sozonov Matvei Andreevich",
+    "countryCode": "RU",
+    "country": "Russia",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "2.26.120.0/24", "2.27.3.0/24", "77.239.115.0/24", "144.31.202.0/24" ],
+    "ipv6": [ ]
+  }
+}

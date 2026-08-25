@@ -1,0 +1,16 @@
+{
+  "asn": 274176,
+  "metadata": {
+    "handle": "CHICAIZA-NAULA-MARIA-UMBELINA",
+    "description": "CHICAIZA NAULA MARIA UMBELINA (Mega Compu ISP)",
+    "countryCode": "EC",
+    "country": "Ecuador",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ "2803:15d0::/32" ]
+  }
+}

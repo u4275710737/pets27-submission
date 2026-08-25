@@ -1,0 +1,14 @@
+{
+  "asn": 42413,
+  "metadata": {
+    "handle": "AS42413",
+    "description": "Address Limited",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 50150,
+  "metadata": {
+    "handle": "COLT",
+    "description": "Colt Technology Services RO SRL",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

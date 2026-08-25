@@ -1,0 +1,7 @@
+# AS39892 (XPOUNDIT)
+# Frank Scholl trading as xpoundit GmbH & Co. KG
+#
+2001:678:300::/48
+2001:67c:1098::/48
+2a05:7780::/32
+2a05:7782::/32

@@ -1,0 +1,14 @@
+{
+  "asn": 46387,
+  "metadata": {
+    "handle": "BVS-AS",
+    "description": "BVS Performance Systems",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

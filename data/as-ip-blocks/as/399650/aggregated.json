@@ -1,0 +1,14 @@
+{
+  "asn": 399650,
+  "metadata": {
+    "handle": "INTELLIWEATHER",
+    "description": "Innovative Tech Works, IT Works",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

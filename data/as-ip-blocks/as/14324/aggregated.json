@@ -1,0 +1,14 @@
+{
+  "asn": 14324,
+  "metadata": {
+    "handle": "XEVPS",
+    "description": "XeVPS L.L.C",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

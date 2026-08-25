@@ -1,0 +1,16 @@
+{
+  "asn": 208357,
+  "metadata": {
+    "handle": "PRIMANET-ASN",
+    "description": "Bredbaandsforeningen Primanet",
+    "countryCode": "DK",
+    "country": "Denmark",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "89.186.176.0/20" ],
+    "ipv6": [ ]
+  }
+}

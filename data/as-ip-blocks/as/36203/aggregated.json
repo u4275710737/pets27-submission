@@ -1,0 +1,14 @@
+{
+  "asn": 36203,
+  "metadata": {
+    "handle": "STELLAR-ASSOCIATION",
+    "description": "Stellar Association LLC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

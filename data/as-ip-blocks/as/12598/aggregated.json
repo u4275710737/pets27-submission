@@ -1,0 +1,14 @@
+{
+  "asn": 12598,
+  "metadata": {
+    "handle": "HBM-MUC-HH",
+    "description": "TEC The Enabling Company GmbH",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

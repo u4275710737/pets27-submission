@@ -1,0 +1,16 @@
+{
+  "asn": 212045,
+  "metadata": {
+    "handle": "UNISCALE",
+    "description": "Selskabet af 4. November ApS",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [
+      "85.117.228.0/23"
+    ],
+    "ipv6": []
+  }
+}

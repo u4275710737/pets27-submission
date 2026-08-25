@@ -1,0 +1,14 @@
+{
+  "asn": 212870,
+  "metadata": {
+    "handle": "ZEHOST",
+    "description": "Ze Host Ltd",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

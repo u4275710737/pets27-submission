@@ -1,0 +1,14 @@
+{
+  "asn": 18802,
+  "metadata": {
+    "handle": "MUT-AMER",
+    "description": "Mutual of America Life Insurance Company",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

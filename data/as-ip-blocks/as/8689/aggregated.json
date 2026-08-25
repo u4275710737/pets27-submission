@@ -1,0 +1,14 @@
+{
+  "asn": 8689,
+  "metadata": {
+    "handle": "POWERNETUK",
+    "description": "Digital Space Group Limited",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

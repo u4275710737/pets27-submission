@@ -1,0 +1,14 @@
+{
+  "asn": 206895,
+  "metadata": {
+    "handle": "PRIMONET-RESEARCH-AS",
+    "description": "Ashley Primo",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

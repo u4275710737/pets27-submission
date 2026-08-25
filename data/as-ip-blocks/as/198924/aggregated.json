@@ -1,0 +1,16 @@
+{
+  "asn": 198924,
+  "metadata": {
+    "handle": "SUGAILO-AS",
+    "description": "Sugailo Raitis",
+    "countryCode": "LV",
+    "country": "Latvia",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ ]
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 18755,
+  "metadata": {
+    "handle": "ASPECT-SERVICE",
+    "description": "Aspect Software, Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

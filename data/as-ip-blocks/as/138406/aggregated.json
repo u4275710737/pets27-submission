@@ -1,0 +1,14 @@
+{
+  "asn": 138406,
+  "metadata": {
+    "handle": "NAHID-AP",
+    "description": "Nahid Internet Services",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

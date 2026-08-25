@@ -1,0 +1,14 @@
+{
+  "asn": 59155,
+  "metadata": {
+    "handle": "IDNIC-INETKU-ID",
+    "description": "PT. Pemuda Berkarya Manunggal",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

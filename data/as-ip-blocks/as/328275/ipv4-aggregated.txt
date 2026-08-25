@@ -1,0 +1,4 @@
+# AS328275 (BDC-WIRELESS)
+# BDC Wireless Solutions CC
+#
+102.165.120.0/22

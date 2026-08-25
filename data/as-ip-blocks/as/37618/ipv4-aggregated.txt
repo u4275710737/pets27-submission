@@ -1,0 +1,4 @@
+# AS37618 (TELEMEDIAZA-AS)
+# TelemediaZA
+#
+154.73.0.0/22

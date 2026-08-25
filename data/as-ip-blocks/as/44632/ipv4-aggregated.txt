@@ -1,0 +1,4 @@
+# AS44632 (AS-KONTRON-1)
+# KRONTRON d.o.o.
+#
+194.8.94.0/23

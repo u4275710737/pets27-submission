@@ -1,0 +1,14 @@
+{
+  "asn": 56224,
+  "metadata": {
+    "handle": "PRISAC-AS-AP",
+    "description": "PRISAC AVIATION TECHNOLOGIES PRIVATE LIMITED",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

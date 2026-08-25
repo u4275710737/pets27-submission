@@ -1,0 +1,14 @@
+{
+  "asn": 2534,
+  "metadata": {
+    "handle": "ROCHE-RSN",
+    "description": "Hoffmann LaRoche, Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 206923,
+  "metadata": {
+    "handle": "SPOTRIX",
+    "description": "NBI SIA",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

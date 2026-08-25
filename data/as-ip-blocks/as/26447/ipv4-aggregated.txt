@@ -1,0 +1,5 @@
+# AS26447 (SHUTTERFLY)
+# Shutterfly LLC
+#
+74.121.38.0/23
+206.25.71.0/24

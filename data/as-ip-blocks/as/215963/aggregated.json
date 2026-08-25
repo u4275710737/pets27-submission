@@ -1,0 +1,14 @@
+{
+  "asn": 215963,
+  "metadata": {
+    "handle": "TORIN",
+    "description": "Torin Storkey",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

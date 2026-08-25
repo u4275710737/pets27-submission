@@ -1,0 +1,4 @@
+# AS213267 (LUMINORLV)
+# Luminor Bank AS
+#
+87.246.160.0/24

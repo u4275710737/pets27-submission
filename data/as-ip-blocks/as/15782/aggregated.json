@@ -1,0 +1,14 @@
+{
+  "asn": 15782,
+  "metadata": {
+    "handle": "TELECOM3-AS",
+    "description": "Bredband2 AB",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

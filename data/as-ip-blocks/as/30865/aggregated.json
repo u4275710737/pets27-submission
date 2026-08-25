@@ -1,0 +1,14 @@
+{
+  "asn": 30865,
+  "metadata": {
+    "handle": "TAS-IX",
+    "description": "TAS-IX NGO Center for interoperability data",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

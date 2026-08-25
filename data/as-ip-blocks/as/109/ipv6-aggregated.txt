@@ -1,0 +1,4 @@
+# AS109 (CISCO-EU-109)
+# Cisco Systems Global ASN - ARIN Assigned
+#
+2001:420::/32

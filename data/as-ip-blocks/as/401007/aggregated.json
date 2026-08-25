@@ -1,0 +1,14 @@
+{
+  "asn": 401007,
+  "metadata": {
+    "handle": "GIGANET-WIRELESS-PUERTO-RICO",
+    "description": "C&C Wireless Puerto Rico",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

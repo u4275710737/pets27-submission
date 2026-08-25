@@ -1,0 +1,14 @@
+{
+  "asn": 400562,
+  "metadata": {
+    "handle": "ATOM",
+    "description": "Atom Networks, LLC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

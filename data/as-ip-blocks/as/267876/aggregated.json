@@ -1,0 +1,16 @@
+{
+  "asn": 267876,
+  "metadata": {
+    "handle": "RAMIREZ-CABLE-VISION",
+    "description": "RAMIREZ CABLE VISION SRL",
+    "countryCode": "AR",
+    "country": "Argentina",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "45.178.8.0/22", "190.103.231.0/24" ],
+    "ipv6": [ ]
+  }
+}

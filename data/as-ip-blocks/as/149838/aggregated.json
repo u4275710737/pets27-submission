@@ -1,0 +1,14 @@
+{
+  "asn": 149838,
+  "metadata": {
+    "handle": "CIIPL-AP",
+    "description": "Cyble",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

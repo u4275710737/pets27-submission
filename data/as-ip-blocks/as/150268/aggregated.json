@@ -1,0 +1,14 @@
+{
+  "asn": 150268,
+  "metadata": {
+    "handle": "IDNIC-HEXA-ID",
+    "description": "PT Hexa Media Sarana",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

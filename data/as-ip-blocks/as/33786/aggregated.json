@@ -1,0 +1,16 @@
+{
+  "asn": 33786,
+  "metadata": {
+    "handle": "KNET",
+    "description": "KNet Managed Networks",
+    "countryCode": "GH",
+    "country": "Ghana",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "41.75.48.0/20", "196.29.224.0/20" ],
+    "ipv6": [ ]
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 142580,
+  "metadata": {
+    "handle": "EOPL-AP",
+    "description": "Edgevirt",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 198987,
+  "metadata": {
+    "handle": "SYSIQ-UA",
+    "description": "Astound Commerce LLC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

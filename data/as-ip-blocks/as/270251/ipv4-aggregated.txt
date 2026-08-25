@@ -1,0 +1,4 @@
+# AS270251 (GHOST-TELECOM)
+# Ghost Telecom
+#
+200.110.96.0/22

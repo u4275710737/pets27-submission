@@ -1,0 +1,16 @@
+{
+  "asn": 401254,
+  "metadata": {
+    "handle": "NETSOLV-NETSOLV-01",
+    "description": "NETSOLVE NETWORK TECHNOLOGY LIMITED",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "103.251.236.0/22" ],
+    "ipv6": [ ]
+  }
+}

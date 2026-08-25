@@ -1,0 +1,14 @@
+{
+  "asn": 63358,
+  "metadata": {
+    "handle": "ACS-PUBLIC",
+    "description": "Ascensus College Savings, Inc",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

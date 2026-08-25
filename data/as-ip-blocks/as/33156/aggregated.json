@@ -1,0 +1,14 @@
+{
+  "asn": 33156,
+  "metadata": {
+    "handle": "SSC",
+    "description": "SecureSysCom, Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,4 @@
+# AS136268 (QSRSYSTEMSLTD-AS-AP)
+# QSR Systems Ltd.
+#
+103.85.216.0/22

@@ -1,0 +1,14 @@
+{
+  "asn": 61409,
+  "metadata": {
+    "handle": "PITER-IX-WARZAVA",
+    "description": "Piter-IX Co. Ltd.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

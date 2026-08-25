@@ -1,0 +1,16 @@
+{
+  "asn": 202155,
+  "metadata": {
+    "handle": "ALONEGROUP",
+    "description": "ALONE SOFTWARE TEKNOLOJI LIMITED SIRKETI",
+    "countryCode": "TR",
+    "country": "Türkiye",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "91.216.36.0/24" ],
+    "ipv6": [ ]
+  }
+}

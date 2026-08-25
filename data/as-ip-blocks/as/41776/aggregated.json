@@ -1,0 +1,14 @@
+{
+  "asn": 41776,
+  "metadata": {
+    "handle": "BRIGHTBLUE",
+    "description": "Deutsche Glasfaser Business GmbH",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

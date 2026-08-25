@@ -1,0 +1,14 @@
+{
+  "asn": 32767,
+  "metadata": {
+    "handle": "SAPIOTERRA",
+    "description": "SAPIOTERRA, LLC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

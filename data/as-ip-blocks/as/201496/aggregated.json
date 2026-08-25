@@ -1,0 +1,14 @@
+{
+  "asn": 201496,
+  "metadata": {
+    "handle": "ENTELE",
+    "description": "ENERGO-TELECOM LLC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

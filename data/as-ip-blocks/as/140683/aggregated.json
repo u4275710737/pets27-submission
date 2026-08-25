@@ -1,0 +1,14 @@
+{
+  "asn": 140683,
+  "metadata": {
+    "handle": "STARBOWLTD-AS-AP",
+    "description": "Starbow Ltd.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

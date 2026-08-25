@@ -1,0 +1,4 @@
+# AS29340 (AFOL-GH)
+# AS number for Africa Online Ghana
+#
+212.85.192.0/19

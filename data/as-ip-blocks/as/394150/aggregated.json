@@ -1,0 +1,14 @@
+{
+  "asn": 394150,
+  "metadata": {
+    "handle": "WH01",
+    "description": "Wex Health, Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

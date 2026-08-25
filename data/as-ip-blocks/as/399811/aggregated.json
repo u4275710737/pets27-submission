@@ -1,0 +1,14 @@
+{
+  "asn": 399811,
+  "metadata": {
+    "handle": "LAER-AMS1",
+    "description": "UnitedLayer, LLC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

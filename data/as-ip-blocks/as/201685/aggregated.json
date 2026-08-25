@@ -1,0 +1,16 @@
+{
+  "asn": 201685,
+  "metadata": {
+    "handle": "LANXESS2",
+    "description": "LANXESS Deutschland GmbH",
+    "countryCode": "DE",
+    "country": "Germany",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "access_provider"
+  },
+  "prefixes": {
+    "ipv4": [ "195.242.226.0/23" ],
+    "ipv6": [ ]
+  }
+}

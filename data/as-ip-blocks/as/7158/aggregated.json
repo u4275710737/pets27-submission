@@ -1,0 +1,14 @@
+{
+  "asn": 7158,
+  "metadata": {
+    "handle": "NETFEED",
+    "description": "NetEx Online Services",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

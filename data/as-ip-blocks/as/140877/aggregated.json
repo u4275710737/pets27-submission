@@ -1,0 +1,14 @@
+{
+  "asn": 140877,
+  "metadata": {
+    "handle": "ROZANETWORKBD-AS-AP",
+    "description": "Roza Network BD",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

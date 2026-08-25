@@ -1,0 +1,16 @@
+{
+  "asn": 137387,
+  "metadata": {
+    "handle": "HUALONG3-AS-AP",
+    "description": "HUALONG TECHNOLOGY DEVELOPMENT CO. LIMITED",
+    "countryCode": "HK",
+    "country": "Hong Kong SAR China",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ "2402:4b40::/32" ]
+  }
+}

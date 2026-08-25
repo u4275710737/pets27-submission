@@ -1,0 +1,14 @@
+{
+  "asn": 12151,
+  "metadata": {
+    "handle": "LEARNING-TREE-INTL-OPERATIONS",
+    "description": "Learning Tree International, Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

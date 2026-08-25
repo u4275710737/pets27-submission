@@ -1,0 +1,16 @@
+{
+  "asn": 401174,
+  "metadata": {
+    "handle": "CA-CDT-MMBI-01",
+    "description": "State of California Department of Technology",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "government_admin",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "68.69.4.0/22", "192.77.98.0/23", "192.77.100.0/23" ],
+    "ipv6": [ "2607:bbc0::/32" ]
+  }
+}

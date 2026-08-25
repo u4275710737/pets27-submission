@@ -1,0 +1,16 @@
+{
+  "asn": 209100,
+  "metadata": {
+    "handle": "TPNET",
+    "description": "TP NET Plus s.r.o",
+    "countryCode": "SK",
+    "country": "Slovakia",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "188.190.100.0/22" ],
+    "ipv6": [ ]
+  }
+}

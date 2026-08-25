@@ -1,0 +1,14 @@
+{
+  "asn": 206316,
+  "metadata": {
+    "handle": "AS-XERVERS",
+    "description": "Xervers Unipessoal Lda.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

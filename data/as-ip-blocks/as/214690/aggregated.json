@@ -1,0 +1,16 @@
+{
+  "asn": 214690,
+  "metadata": {
+    "handle": "UAB-GINETAS",
+    "description": "UAB Ginetas",
+    "countryCode": "LT",
+    "country": "Lithuania",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ "2a06:9801:2fd::/48" ]
+  }
+}

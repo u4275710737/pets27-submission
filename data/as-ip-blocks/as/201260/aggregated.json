@@ -1,0 +1,14 @@
+{
+  "asn": 201260,
+  "metadata": {
+    "handle": "ARIES",
+    "description": "UAB Porenta",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "asn": 52789,
+  "metadata": {
+    "handle": "76-FIBRA",
+    "description": "MARIA TEREZA BRANCAGLION PELIZON PROVEDOR DE INTER",
+    "countryCode": "BR",
+    "country": "Brazil",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "45.183.32.0/22", "177.38.76.0/22" ],
+    "ipv6": [ "2804:62a8::/32" ]
+  }
+}

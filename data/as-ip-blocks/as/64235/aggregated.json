@@ -1,0 +1,14 @@
+{
+  "asn": 64235,
+  "metadata": {
+    "handle": "ZIMAGE-01",
+    "description": "zImage LLC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

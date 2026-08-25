@@ -1,0 +1,14 @@
+{
+  "asn": 19339,
+  "metadata": {
+    "handle": "DIDATA-NE",
+    "description": "Dimension Data North America, Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

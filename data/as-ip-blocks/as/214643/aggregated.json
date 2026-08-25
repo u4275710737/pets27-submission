@@ -1,0 +1,16 @@
+{
+  "asn": 214643,
+  "metadata": {
+    "handle": "NOPKT-LLC",
+    "description": "NoPKT LLC",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "inferred",
+    "category": null,
+    "networkRole": null
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ ]
+  }
+}

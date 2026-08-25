@@ -1,0 +1,14 @@
+{
+  "asn": 131315,
+  "metadata": {
+    "handle": "RACP-AU",
+    "description": "The Royal Australasian College of Physicians",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

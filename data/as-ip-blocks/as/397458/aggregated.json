@@ -1,0 +1,14 @@
+{
+  "asn": 397458,
+  "metadata": {
+    "handle": "SFOPERA-ASN",
+    "description": "San Francisco Opera",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

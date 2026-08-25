@@ -1,0 +1,14 @@
+{
+  "asn": 272604,
+  "metadata": {
+    "handle": "WAN-INTERNET",
+    "description": "WAN INTERNET",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

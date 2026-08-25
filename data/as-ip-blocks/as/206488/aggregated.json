@@ -1,0 +1,14 @@
+{
+  "asn": 206488,
+  "metadata": {
+    "handle": "AS1-SELECTASTERISCO",
+    "description": "Select Asterisco S.L.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

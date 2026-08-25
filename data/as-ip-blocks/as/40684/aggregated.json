@@ -1,0 +1,16 @@
+{
+  "asn": 40684,
+  "metadata": {
+    "handle": "STCLAIRCCC-AS",
+    "description": "St. Clair County Community College",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "education_research",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "68.67.121.0/24" ],
+    "ipv6": [ ]
+  }
+}

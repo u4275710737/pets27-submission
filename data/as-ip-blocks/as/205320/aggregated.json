@@ -1,0 +1,14 @@
+{
+  "asn": 205320,
+  "metadata": {
+    "handle": "CC-CUSTOMER-IPV4-RANGES",
+    "description": "GWY IT PTY LTD",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

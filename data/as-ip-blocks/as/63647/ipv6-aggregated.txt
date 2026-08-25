@@ -1,0 +1,7 @@
+# AS63647 (WJHTEDU)
+# Beijing WangJu Interworking Information Technology Co. LTD
+#
+2400:a860:1::/48
+2400:a860:2::/47
+2400:a860:4::/47
+2400:a860:6::/48

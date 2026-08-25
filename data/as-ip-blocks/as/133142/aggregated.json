@@ -1,0 +1,14 @@
+{
+  "asn": 133142,
+  "metadata": {
+    "handle": "TRIVAGO-AP",
+    "description": "Trivago Hong Kong Limited",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 42976,
+  "metadata": {
+    "handle": "TELEFONICA",
+    "description": "TELEFONICA DIGITAL ESPANA, S.L.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

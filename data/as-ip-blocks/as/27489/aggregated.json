@@ -1,0 +1,14 @@
+{
+  "asn": 27489,
+  "metadata": {
+    "handle": "LAUREATE",
+    "description": "Laureate Education Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

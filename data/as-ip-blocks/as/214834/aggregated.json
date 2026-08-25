@@ -1,0 +1,14 @@
+{
+  "asn": 214834,
+  "metadata": {
+    "handle": "REKADE-NETWORKS",
+    "description": "Rekade LTD",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

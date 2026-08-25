@@ -1,0 +1,4 @@
+# AS132370 (CIVICA-NET6-AS-AP)
+# Civica Pty Limited
+#
+103.88.180.0/23

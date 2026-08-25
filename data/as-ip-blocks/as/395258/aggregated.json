@@ -1,0 +1,14 @@
+{
+  "asn": 395258,
+  "metadata": {
+    "handle": "DHISCO",
+    "description": "DHISCO",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

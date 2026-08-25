@@ -1,0 +1,4 @@
+# AS397185 (LACU)
+# Corda Credit Union
+#
+161.199.0.0/24

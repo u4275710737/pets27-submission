@@ -1,0 +1,14 @@
+{
+  "asn": 25726,
+  "metadata": {
+    "handle": "CHINA-TELECOM",
+    "description": "China Telecom South Africa (Pty) Ltd.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

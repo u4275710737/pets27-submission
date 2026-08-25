@@ -1,0 +1,14 @@
+{
+  "asn": 152812,
+  "metadata": {
+    "handle": "IDNIC-MIDNET-AS-ID",
+    "description": "PT Mitra Indo Data",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

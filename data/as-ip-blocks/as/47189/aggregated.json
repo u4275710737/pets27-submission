@@ -1,0 +1,14 @@
+{
+  "asn": 47189,
+  "metadata": {
+    "handle": "NAVOTECH",
+    "description": "JANUSZ LYSON",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

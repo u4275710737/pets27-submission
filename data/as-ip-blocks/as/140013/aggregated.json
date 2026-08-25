@@ -1,0 +1,14 @@
+{
+  "asn": 140013,
+  "metadata": {
+    "handle": "IDNIC-GLOBALMEDIAVISUAL-ID",
+    "description": "PT Global Media Visual",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

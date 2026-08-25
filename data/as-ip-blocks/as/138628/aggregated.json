@@ -1,0 +1,14 @@
+{
+  "asn": 138628,
+  "metadata": {
+    "handle": "GDI-AP",
+    "description": "Globaldata Investments INC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

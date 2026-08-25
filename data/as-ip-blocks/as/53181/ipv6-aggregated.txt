@@ -1,0 +1,5 @@
+# AS53181 (K2-TELECOM-MULTIMIDIA)
+# Avanca Telecom e Servicos LTDA
+#
+2804:113c::/32
+2804:53e4::/32

@@ -1,0 +1,14 @@
+{
+  "asn": 205388,
+  "metadata": {
+    "handle": "SERVERDISCOUNTER",
+    "description": "Marcel Andrew Zaiser trading as Metaliance ISP Systems e.k",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

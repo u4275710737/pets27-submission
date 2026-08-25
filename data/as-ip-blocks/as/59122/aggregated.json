@@ -1,0 +1,16 @@
+{
+  "asn": 59122,
+  "metadata": {
+    "handle": "R-SYS",
+    "description": "Ranger-Systems Co. Ltd.",
+    "countryCode": "JP",
+    "country": "Japan",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "103.215.56.0/22", "219.100.232.0/22" ],
+    "ipv6": [ ]
+  }
+}

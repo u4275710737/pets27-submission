@@ -1,0 +1,16 @@
+{
+  "asn": 132017,
+  "metadata": {
+    "handle": "N-AS-AP",
+    "description": "N. Net Pvt. Ltd.",
+    "countryCode": "NP",
+    "country": "Nepal",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "144.79.238.0/23" ],
+    "ipv6": [ "2402:4420::/32" ]
+  }
+}

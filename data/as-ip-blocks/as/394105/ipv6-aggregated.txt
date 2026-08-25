@@ -1,0 +1,3 @@
+# AS394105 (AMTRUST-INTERNET-ASN)
+# AmTrust Internet Facing ASN
+#

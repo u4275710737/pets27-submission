@@ -1,0 +1,14 @@
+{
+  "asn": 30488,
+  "metadata": {
+    "handle": "SPRINGS",
+    "description": "Springs Industries, Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

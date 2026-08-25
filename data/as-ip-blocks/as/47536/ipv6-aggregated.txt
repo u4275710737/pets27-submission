@@ -1,0 +1,5 @@
+# AS47536 (PATHCONNECT)
+# PathConnect GmbH
+#
+2a12:79c0::/36
+2a12:79c1::/43

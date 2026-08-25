@@ -1,0 +1,4 @@
+# AS262645 (BRASILNET-TELECOMUNICACOES-PARANA)
+# BrasilNET Telecomunicações do Parana LTDA
+#
+2804:23b0::/32

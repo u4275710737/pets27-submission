@@ -1,0 +1,14 @@
+{
+  "asn": 14022,
+  "metadata": {
+    "handle": "BBCOM",
+    "description": "Backbone Communications Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

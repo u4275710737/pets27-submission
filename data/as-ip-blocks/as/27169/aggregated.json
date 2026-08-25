@@ -1,0 +1,16 @@
+{
+  "asn": 27169,
+  "metadata": {
+    "handle": "RYAN-AS",
+    "description": "Ryan LLC",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "131.143.196.0/22" ],
+    "ipv6": [ ]
+  }
+}

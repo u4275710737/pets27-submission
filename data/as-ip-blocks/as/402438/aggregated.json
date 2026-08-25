@@ -1,0 +1,16 @@
+{
+  "asn": 402438,
+  "metadata": {
+    "handle": "VIYU-NETWORK-SOLUTIONS",
+    "description": "Viyu Network Solutions",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "64.136.93.0/24", "64.136.94.0/23" ],
+    "ipv6": [ ]
+  }
+}

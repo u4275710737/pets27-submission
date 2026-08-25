@@ -1,0 +1,14 @@
+{
+  "asn": 395867,
+  "metadata": {
+    "handle": "DSAC",
+    "description": "Dassault Systemes Americas Corp.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

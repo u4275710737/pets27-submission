@@ -1,0 +1,14 @@
+{
+  "asn": 19544,
+  "metadata": {
+    "handle": "WINTERSBROADBAND",
+    "description": "Cal.net, Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

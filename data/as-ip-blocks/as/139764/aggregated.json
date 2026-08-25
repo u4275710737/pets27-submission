@@ -1,0 +1,14 @@
+{
+  "asn": 139764,
+  "metadata": {
+    "handle": "WEB-XPRESS-AP",
+    "description": "Tiger Telecommunication Co. Ltd.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

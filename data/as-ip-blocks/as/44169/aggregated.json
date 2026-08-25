@@ -1,0 +1,14 @@
+{
+  "asn": 44169,
+  "metadata": {
+    "handle": "SEML-2",
+    "description": "Spy Ego Media LLC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

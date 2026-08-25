@@ -1,0 +1,14 @@
+{
+  "asn": 395941,
+  "metadata": {
+    "handle": "EAGLE-TECH",
+    "description": "Eagle Technologies Incorporated",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

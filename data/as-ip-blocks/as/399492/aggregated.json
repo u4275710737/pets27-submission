@@ -1,0 +1,14 @@
+{
+  "asn": 399492,
+  "metadata": {
+    "handle": "NEVADA-RENO",
+    "description": "Sierra Pacific Power Co.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

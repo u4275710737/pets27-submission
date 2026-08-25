@@ -1,0 +1,14 @@
+{
+  "asn": 400837,
+  "metadata": {
+    "handle": "GD-BGP",
+    "description": "Gordon-Darby Inc",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

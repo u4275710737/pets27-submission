@@ -1,0 +1,4 @@
+# AS138211 (TUPLENET-AS-AP)
+# TupleTech Corporation
+#
+2406:840:f889::/48

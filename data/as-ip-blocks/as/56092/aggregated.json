@@ -1,0 +1,14 @@
+{
+  "asn": 56092,
+  "metadata": {
+    "handle": "MUDAH-MY",
+    "description": "Mudah.my Sdn Bhd",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

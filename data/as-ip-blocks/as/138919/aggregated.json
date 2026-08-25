@@ -1,0 +1,14 @@
+{
+  "asn": 138919,
+  "metadata": {
+    "handle": "FUBUKINETWORK-HK",
+    "description": "NimaQu's Shirakami Fubuki Network",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

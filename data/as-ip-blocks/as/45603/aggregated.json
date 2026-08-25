@@ -1,0 +1,14 @@
+{
+  "asn": 45603,
+  "metadata": {
+    "handle": "IPSTAR-AP",
+    "description": "IPSTAR Australia Pty. Ltd.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

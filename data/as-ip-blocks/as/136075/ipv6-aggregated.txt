@@ -1,0 +1,4 @@
+# AS136075 (CINOXMEDIANET-AS-ID)
+# PT Cinoxmedia Network Indonesia
+#
+2400:a340::/32

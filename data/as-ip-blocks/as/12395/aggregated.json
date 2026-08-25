@@ -1,0 +1,14 @@
+{
+  "asn": 12395,
+  "metadata": {
+    "handle": "PANDEMONIUM",
+    "description": "ADISTA SAS",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

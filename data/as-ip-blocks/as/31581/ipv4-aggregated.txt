@@ -1,0 +1,4 @@
+# AS31581 (KOPINT-AS)
+# NISZ National Infocommunications Service Provider Private Limited
+#
+84.206.0.0/16

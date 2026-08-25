@@ -1,0 +1,16 @@
+{
+  "asn": 197178,
+  "metadata": {
+    "handle": "CLARKZJW-NETWORK",
+    "description": "Jinwei Zhao",
+    "countryCode": "CA",
+    "country": "Canada",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ "2a14:7581:fec::/48" ]
+  }
+}

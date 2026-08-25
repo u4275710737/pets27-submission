@@ -1,0 +1,16 @@
+{
+  "asn": 270253,
+  "metadata": {
+    "handle": "SICONECT-TELECOMUNICACOES-EIRELI",
+    "description": "SICONECT TELECOMUNICACOES EIRELI",
+    "countryCode": "BR",
+    "country": "Brazil",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "midsize_transit"
+  },
+  "prefixes": {
+    "ipv4": [ "200.110.204.0/22" ],
+    "ipv6": [ "2804:692c::/32" ]
+  }
+}

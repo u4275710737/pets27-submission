@@ -1,0 +1,14 @@
+{
+  "asn": 61107,
+  "metadata": {
+    "handle": "UCDN",
+    "description": "Servers.com B.V.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

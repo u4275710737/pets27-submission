@@ -1,0 +1,14 @@
+{
+  "asn": 29529,
+  "metadata": {
+    "handle": "ITECOM-ASN",
+    "description": "iTecom bv",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

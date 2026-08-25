@@ -1,0 +1,14 @@
+{
+  "asn": 213132,
+  "metadata": {
+    "handle": "GEMEENTEVLISSINGEN",
+    "description": "Gemeente Vlissingen",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

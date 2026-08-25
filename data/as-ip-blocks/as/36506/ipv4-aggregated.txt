@@ -1,0 +1,4 @@
+# AS36506 (WA-ASN)
+# Woodward Academy
+#
+199.204.92.0/23

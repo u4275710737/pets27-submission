@@ -1,0 +1,14 @@
+{
+  "asn": 51131,
+  "metadata": {
+    "handle": "DDOS-MITIGATION-NETWORK",
+    "description": "Wieske's Crew GmbH",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

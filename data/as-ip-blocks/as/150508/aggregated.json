@@ -1,0 +1,14 @@
+{
+  "asn": 150508,
+  "metadata": {
+    "handle": "IDNIC-NET2I-ID",
+    "description": "PT Network Interbridge Indonesia",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

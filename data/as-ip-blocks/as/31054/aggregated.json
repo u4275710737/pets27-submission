@@ -1,0 +1,14 @@
+{
+  "asn": 31054,
+  "metadata": {
+    "handle": "I-SEC-AS",
+    "description": "TUEV Rheinland i-sec GmbH",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

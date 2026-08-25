@@ -1,0 +1,14 @@
+{
+  "asn": 264802,
+  "metadata": {
+    "handle": "COMUNICACIONES-NODONET-CHILE",
+    "description": "COMUNICACIONES NODONET CHILE Spa.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

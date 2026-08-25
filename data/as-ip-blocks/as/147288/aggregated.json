@@ -1,0 +1,14 @@
+{
+  "asn": 147288,
+  "metadata": {
+    "handle": "SPIDERNT-IN",
+    "description": "SPIDER NET",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 210380,
+  "metadata": {
+    "handle": "PTL",
+    "description": "Quantum CJSC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

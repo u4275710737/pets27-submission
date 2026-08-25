@@ -1,0 +1,5 @@
+# AS35266 (EXN-AS)
+# EX Networks Limited
+#
+2a01:b000::/32
+2a04:6380::/29

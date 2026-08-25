@@ -1,0 +1,16 @@
+{
+  "asn": 268399,
+  "metadata": {
+    "handle": "ARAUJO-SILVA",
+    "description": "UP PROVEDOR DE INTERNET LTDA",
+    "countryCode": "BR",
+    "country": "Brazil",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "45.160.60.0/22" ],
+    "ipv6": [ "2804:509c::/32" ]
+  }
+}

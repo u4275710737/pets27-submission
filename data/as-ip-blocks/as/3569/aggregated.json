@@ -1,0 +1,14 @@
+{
+  "asn": 3569,
+  "metadata": {
+    "handle": "ANDERSEN",
+    "description": "Andersen Worldwide S.C.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

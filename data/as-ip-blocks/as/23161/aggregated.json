@@ -1,0 +1,16 @@
+{
+  "asn": 23161,
+  "metadata": {
+    "handle": "VIRTELA-CUST-VNYNYC1-GABROBINS",
+    "description": "Virtela Communications",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "content_network"
+  },
+  "prefixes": {
+    "ipv4": [ "89.117.31.0/24" ],
+    "ipv6": [ "2602:fa85:10::/48" ]
+  }
+}

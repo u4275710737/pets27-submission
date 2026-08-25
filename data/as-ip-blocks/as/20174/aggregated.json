@@ -1,0 +1,14 @@
+{
+  "asn": 20174,
+  "metadata": {
+    "handle": "WU",
+    "description": "THE WESTERN UNION COMPANY",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

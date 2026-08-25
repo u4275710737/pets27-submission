@@ -1,0 +1,14 @@
+{
+  "asn": 395492,
+  "metadata": {
+    "handle": "IOVATION3",
+    "description": "iovation, Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

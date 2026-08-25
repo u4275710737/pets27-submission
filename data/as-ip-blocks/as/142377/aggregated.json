@@ -1,0 +1,14 @@
+{
+  "asn": 142377,
+  "metadata": {
+    "handle": "IDNIC-AMANDANET-ID",
+    "description": "AMANDANET",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

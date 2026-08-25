@@ -1,0 +1,14 @@
+{
+  "asn": 56794,
+  "metadata": {
+    "handle": "NAUKANET-AS",
+    "description": "LLC Nauka-Svyaz",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

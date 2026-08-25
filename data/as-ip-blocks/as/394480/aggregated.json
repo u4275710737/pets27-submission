@@ -1,0 +1,14 @@
+{
+  "asn": 394480,
+  "metadata": {
+    "handle": "EMA-SD",
+    "description": "eMoney Advisor",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

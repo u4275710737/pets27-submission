@@ -1,0 +1,16 @@
+{
+  "asn": 23225,
+  "metadata": {
+    "handle": "NORTH-CAROLINA-WIRELESS",
+    "description": "RiverStreet Networks",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "74.114.120.0/23", "208.78.184.0/22" ],
+    "ipv6": [ ]
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 152170,
+  "metadata": {
+    "handle": "SAJIBWEBHOST-AP",
+    "description": "Sajib Web Host",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

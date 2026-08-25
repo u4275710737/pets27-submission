@@ -1,0 +1,16 @@
+{
+  "asn": 400965,
+  "metadata": {
+    "handle": "CYPRESS-FIBER-01",
+    "description": "Cypress Fiber",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ ]
+  }
+}

@@ -1,0 +1,4 @@
+# AS12230 (TABLEBOUND)
+# Tablebound LLC
+#
+2602:f478::/40

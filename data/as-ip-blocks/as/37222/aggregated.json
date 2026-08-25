@@ -1,0 +1,16 @@
+{
+  "asn": 37222,
+  "metadata": {
+    "handle": "ICN-AS",
+    "description": "INTCONNECT CLEARINGHOUSE NIGERIA",
+    "countryCode": "NG",
+    "country": "Nigeria",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "102.209.224.0/23", "102.209.227.0/24", "196.13.112.0/24", "196.216.253.0/24" ],
+    "ipv6": [ ]
+  }
+}

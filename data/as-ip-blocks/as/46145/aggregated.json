@@ -1,0 +1,18 @@
+{
+  "asn": 46145,
+  "metadata": {
+    "handle": "HELMERICH-AND-PAYNE-INC",
+    "description": "Helmerich & Payne, Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [
+      "12.30.20.0/24",
+      "24.248.240.0/24",
+      "75.77.31.0/24"
+    ],
+    "ipv6": []
+  }
+}

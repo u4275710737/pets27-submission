@@ -1,0 +1,14 @@
+{
+  "asn": 14218,
+  "metadata": {
+    "handle": "TREMBLANT",
+    "description": "Tremblant Capital Group",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

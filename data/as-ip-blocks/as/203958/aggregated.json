@@ -1,0 +1,16 @@
+{
+  "asn": 203958,
+  "metadata": {
+    "handle": "KUL-EDU-AS",
+    "description": "Katolicki Uniwersytet Lubelski Jana Pawla II",
+    "countryCode": "PL",
+    "country": "Poland",
+    "origin": "authoritative",
+    "category": "education_research",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "194.187.54.0/23" ],
+    "ipv6": [ ]
+  }
+}

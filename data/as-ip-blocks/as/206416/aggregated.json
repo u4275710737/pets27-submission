@@ -1,0 +1,14 @@
+{
+  "asn": 206416,
+  "metadata": {
+    "handle": "SSFNO",
+    "description": "Sparebank 1 Sogn og Fjordane",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

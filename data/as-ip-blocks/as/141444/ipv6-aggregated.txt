@@ -1,0 +1,4 @@
+# AS141444 (WICKED-AS-AP)
+# Wicked Networks Limited
+#
+2406:d340::/32

@@ -1,0 +1,5 @@
+# AS53560 (ENDO)
+# Endo Pharmaceuticals Inc
+#
+8.33.65.0/24
+209.120.247.0/24

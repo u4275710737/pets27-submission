@@ -1,0 +1,5 @@
+# AS207462 (LUXENET)
+# Al-Jeel Al-Sabei Internet Services Co. Ltd
+#
+45.143.28.0/24
+91.205.42.0/24

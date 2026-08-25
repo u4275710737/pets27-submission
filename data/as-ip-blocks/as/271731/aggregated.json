@@ -1,0 +1,16 @@
+{
+  "asn": 271731,
+  "metadata": {
+    "handle": "INET-TELECOMUNICACAO-EIRELI",
+    "description": "INET TELECOMUNICAÇÃO EIRELI",
+    "countryCode": "BR",
+    "country": "Brazil",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "177.23.216.0/22" ],
+    "ipv6": [ "2804:8020::/32" ]
+  }
+}

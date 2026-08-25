@@ -1,0 +1,14 @@
+{
+  "asn": 58920,
+  "metadata": {
+    "handle": "IPSECPTYLTD-AP",
+    "description": "IPSec Pty Ltd",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

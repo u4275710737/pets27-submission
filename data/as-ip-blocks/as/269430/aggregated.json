@@ -1,0 +1,16 @@
+{
+  "asn": 269430,
+  "metadata": {
+    "handle": "TERA-TELECOM",
+    "description": "TERA TELECOM LTDA ME",
+    "countryCode": "BR",
+    "country": "Brazil",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "45.186.84.0/22" ],
+    "ipv6": [ "2804:647c:f900::/40", "2804:647c:fb00::/40", "2804:647c:ff00::/40" ]
+  }
+}

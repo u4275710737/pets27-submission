@@ -1,0 +1,14 @@
+{
+  "asn": 136790,
+  "metadata": {
+    "handle": "ICL-AP",
+    "description": "INTENSE COMMUNICATION (PRIVATE) LIMITED.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

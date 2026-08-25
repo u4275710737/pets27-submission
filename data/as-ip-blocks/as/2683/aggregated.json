@@ -1,0 +1,16 @@
+{
+  "asn": 2683,
+  "metadata": {
+    "handle": "RADIO-MSU",
+    "description": "Federal State Budgetary Educational Institution of Higher Education Lomonosov Moscow State University",
+    "countryCode": "RU",
+    "country": "Russia",
+    "origin": "authoritative",
+    "category": "education_research",
+    "networkRole": "access_provider"
+  },
+  "prefixes": {
+    "ipv4": [ "158.250.0.0/17", "213.131.3.0/24" ],
+    "ipv6": [ "2a13:22c0::/29" ]
+  }
+}

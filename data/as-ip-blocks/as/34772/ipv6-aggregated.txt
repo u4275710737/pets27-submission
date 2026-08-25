@@ -1,0 +1,4 @@
+# AS34772 (NEOTEL-AS-MK)
+# NEOTEL AD Skopje
+#
+2a00:1218::/32

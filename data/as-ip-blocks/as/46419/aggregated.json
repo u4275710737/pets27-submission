@@ -1,0 +1,14 @@
+{
+  "asn": 46419,
+  "metadata": {
+    "handle": "BAKER-CADILLAC",
+    "description": "Baker College",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "asn": 24232,
+  "metadata": {
+    "handle": "VIRTELA-NET-VDLFRN1",
+    "description": "Virtela Communications",
+    "countryCode": "IN",
+    "country": "India",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "46.235.104.0/22", "46.235.110.0/24", "77.247.2.0/23", "77.247.6.0/23", "77.247.12.0/24", "207.179.6.0/24", "207.179.31.0/24", "212.11.80.0/24" ],
+    "ipv6": [ ]
+  }
+}

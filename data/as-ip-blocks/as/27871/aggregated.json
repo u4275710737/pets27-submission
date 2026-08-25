@@ -1,0 +1,14 @@
+{
+  "asn": 27871,
+  "metadata": {
+    "handle": "TELECOM-ARGENTINA-SA",
+    "description": "Telecom Argentina S.A.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

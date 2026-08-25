@@ -1,0 +1,16 @@
+{
+  "asn": 270657,
+  "metadata": {
+    "handle": "FNET-TELECOM",
+    "description": "FNET TELECOM",
+    "countryCode": "BR",
+    "country": "Brazil",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "179.191.40.0/22" ],
+    "ipv6": [ "2804:6f64::/34", "2804:6f64:8000::/34" ]
+  }
+}

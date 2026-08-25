@@ -1,0 +1,16 @@
+{
+  "asn": 154552,
+  "metadata": {
+    "handle": "XYLENTIS-VN",
+    "description": "XYLENTIS COMPANY LIMITED",
+    "countryCode": "VN",
+    "country": "Vietnam",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "103.199.10.0/23", "103.216.125.0/24", "103.216.126.0/23", "163.128.60.0/23" ],
+    "ipv6": [ "2001:df6:d440::/48" ]
+  }
+}

@@ -1,0 +1,4 @@
+# AS10122 (NETSTAR-AS-AP)
+# NETSTAR (SG) PTE. LTD.
+#
+2404:efc0::/32

@@ -1,0 +1,16 @@
+{
+  "asn": 135067,
+  "metadata": {
+    "handle": "LOGICOM-AS-AP",
+    "description": "LOGICOM TECHNOLOGY CO. LIMITED",
+    "countryCode": "HK",
+    "country": "Hong Kong SAR China",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "access_provider"
+  },
+  "prefixes": {
+    "ipv4": [ "27.254.8.0/24", "27.254.14.0/24", "134.168.239.0/24" ],
+    "ipv6": [ "2001:df3:bc80::/48", "2405:9800:ca08::/47" ]
+  }
+}

@@ -1,0 +1,4 @@
+# AS52966 (RAUFER-INFORMATICA)
+# Raufer Informática Ltda
+#
+177.38.16.0/22

@@ -1,0 +1,16 @@
+{
+  "asn": 213648,
+  "metadata": {
+    "handle": "YORIZON-AS",
+    "description": "Yorizon Verwaltungs GmbH",
+    "countryCode": "DE",
+    "country": "Germany",
+    "origin": "authoritative",
+    "category": "government_admin",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "5.182.232.0/22", "94.142.164.0/22", "193.23.115.0/24", "194.93.78.0/24" ],
+    "ipv6": [ "2a14:8700::/29" ]
+  }
+}

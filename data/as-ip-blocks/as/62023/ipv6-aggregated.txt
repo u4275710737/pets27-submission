@@ -1,0 +1,4 @@
+# AS62023 (NYNEX)
+# NYNEX satellite OHG
+#
+2a00:e60::/32

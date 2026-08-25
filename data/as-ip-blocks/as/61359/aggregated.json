@@ -1,0 +1,16 @@
+{
+  "asn": 61359,
+  "metadata": {
+    "handle": "KT-IX",
+    "description": "OOO KT-IX",
+    "countryCode": "RU",
+    "country": "Russia",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ ]
+  }
+}

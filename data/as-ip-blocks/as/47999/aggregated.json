@@ -1,0 +1,14 @@
+{
+  "asn": 47999,
+  "metadata": {
+    "handle": "TCL",
+    "description": "Verint Systems UK Limited",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

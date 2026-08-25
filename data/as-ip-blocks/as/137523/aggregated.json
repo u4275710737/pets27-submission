@@ -1,0 +1,14 @@
+{
+  "asn": 137523,
+  "metadata": {
+    "handle": "YUNDUNETWORK-AP",
+    "description": "HONGKONG CLOUD NETWORK TECHNOLOGY CO., LIMITED",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

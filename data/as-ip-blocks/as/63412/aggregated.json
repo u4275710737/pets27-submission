@@ -1,0 +1,14 @@
+{
+  "asn": 63412,
+  "metadata": {
+    "handle": "EFS-AS1",
+    "description": "Edelman Financial Services LLC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

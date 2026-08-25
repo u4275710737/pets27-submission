@@ -1,0 +1,16 @@
+{
+  "asn": 271348,
+  "metadata": {
+    "handle": "MECNET-INTERNET",
+    "description": "MECNET INTERNET",
+    "countryCode": "BR",
+    "country": "Brazil",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "131.72.64.0/22" ],
+    "ipv6": [ ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "asn": 22282,
+  "metadata": {
+    "handle": "COSMOPOLITAN-LAS-VEGAS",
+    "description": "The Cosmopolitan of Las Vegas",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "overlaid",
+    "category": null,
+    "networkRole": null
+  },
+  "prefixes": {
+    "ipv4": [ "108.164.0.0/20", "108.164.128.0/17" ],
+    "ipv6": [ ]
+  }
+}

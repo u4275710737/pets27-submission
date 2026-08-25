@@ -1,0 +1,16 @@
+{
+  "asn": 10764,
+  "metadata": {
+    "handle": "STARTAP",
+    "description": "University of Illinois",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "education_research",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "74.114.98.0/23" ],
+    "ipv6": [ ]
+  }
+}

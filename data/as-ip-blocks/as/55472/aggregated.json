@@ -1,0 +1,14 @@
+{
+  "asn": 55472,
+  "metadata": {
+    "handle": "APNGTSNET-AS-AP",
+    "description": "APN News & Media",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

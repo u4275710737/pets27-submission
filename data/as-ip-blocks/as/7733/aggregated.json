@@ -1,0 +1,16 @@
+{
+  "asn": 7733,
+  "metadata": {
+    "handle": "FRZRMTN",
+    "description": "Frazier Mountain Internet Service",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "199.167.184.0/23" ],
+    "ipv6": [ ]
+  }
+}

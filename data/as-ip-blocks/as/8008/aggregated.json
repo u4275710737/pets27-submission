@@ -1,0 +1,14 @@
+{
+  "asn": 8008,
+  "metadata": {
+    "handle": "ETC-60",
+    "description": "Great Plains Communications LLC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 139061,
+  "metadata": {
+    "handle": "SGHKB-AS-AP",
+    "description": "Societe Generale",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 201465,
+  "metadata": {
+    "handle": "WESTROSTA-AS",
+    "description": "JSC ROSTA",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

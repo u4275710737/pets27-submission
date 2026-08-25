@@ -1,0 +1,14 @@
+{
+  "asn": 10736,
+  "metadata": {
+    "handle": "ITLTD",
+    "description": "International Telcom, Ltd.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

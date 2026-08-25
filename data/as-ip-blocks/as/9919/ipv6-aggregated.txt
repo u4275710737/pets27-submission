@@ -1,0 +1,5 @@
+# AS9919 (NCIC-TW)
+# New Century InfoComm Tech Co. Ltd.
+#
+2401:8000::/26
+2401:a040:11::/48

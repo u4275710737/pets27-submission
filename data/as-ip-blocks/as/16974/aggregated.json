@@ -1,0 +1,14 @@
+{
+  "asn": 16974,
+  "metadata": {
+    "handle": "WESTSTAR-PHX-001",
+    "description": "WestStar Multimedia Entertainment, Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 40363,
+  "metadata": {
+    "handle": "AAS-OMAHA-NE",
+    "description": "Asset Appraisal Services, Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 59140,
+  "metadata": {
+    "handle": "IDNIC-GBN-ID",
+    "description": "PT Global Borneo Nusantara",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

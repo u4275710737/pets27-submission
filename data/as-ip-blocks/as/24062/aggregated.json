@@ -1,0 +1,16 @@
+{
+  "asn": 24062,
+  "metadata": {
+    "handle": "NTL-125-24062",
+    "description": "Nexus Telecom LLC",
+    "countryCode": "MY",
+    "country": "Malaysia",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "23.156.116.0/24", "23.156.132.0/24", "23.156.148.0/24" ],
+    "ipv6": [ ]
+  }
+}

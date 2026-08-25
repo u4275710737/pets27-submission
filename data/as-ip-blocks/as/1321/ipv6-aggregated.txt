@@ -1,0 +1,8 @@
+# AS1321 (ANSBB-ASNNET-1)
+# Verizon Business
+#
+2600:40ff:fc04::/48
+2600:40ff:fc20::/46
+2600:40ff:fc24::/48
+2600:40ff:ff12::/47
+2600:40ff:ff92::/47

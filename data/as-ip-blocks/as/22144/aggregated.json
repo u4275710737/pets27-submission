@@ -1,0 +1,14 @@
+{
+  "asn": 22144,
+  "metadata": {
+    "handle": "CHAPMAN",
+    "description": "Chapman and Cutler",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

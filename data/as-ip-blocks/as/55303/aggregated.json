@@ -1,0 +1,14 @@
+{
+  "asn": 55303,
+  "metadata": {
+    "handle": "EAGLENET-AP",
+    "description": "Eagle Sky Co., Lt",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 139699,
+  "metadata": {
+    "handle": "BRISBANETECHSERVICES-AP",
+    "description": "Brisbane Tech Services",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

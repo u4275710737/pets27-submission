@@ -1,0 +1,14 @@
+{
+  "asn": 29969,
+  "metadata": {
+    "handle": "PROTOCOL",
+    "description": "BI Incorporated",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

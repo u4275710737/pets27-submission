@@ -1,0 +1,14 @@
+{
+  "asn": 53412,
+  "metadata": {
+    "handle": "VSD-CMH",
+    "description": "Victoria's Secret",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

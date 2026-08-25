@@ -1,0 +1,14 @@
+{
+  "asn": 19144,
+  "metadata": {
+    "handle": "UPMC-SUSQ",
+    "description": "UPMC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

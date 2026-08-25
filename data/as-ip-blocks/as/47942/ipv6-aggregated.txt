@@ -1,0 +1,4 @@
+# AS47942 (REGB-AS)
+# Regional Telecom Ltd
+#
+2a06:f980::/29

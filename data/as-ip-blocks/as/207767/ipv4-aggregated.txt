@@ -1,0 +1,7 @@
+# AS207767 (AS-FERMORITE)
+# FERMORITE Systems Applications and Services on IT and Technology IKE
+#
+176.119.209.0/24
+185.90.44.0/22
+185.254.217.0/24
+185.254.219.0/24

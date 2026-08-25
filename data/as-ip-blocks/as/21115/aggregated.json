@@ -1,0 +1,14 @@
+{
+  "asn": 21115,
+  "metadata": {
+    "handle": "AS-NESTLE",
+    "description": "Nestle' Italiana s.p.a",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

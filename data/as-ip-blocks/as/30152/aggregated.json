@@ -1,0 +1,16 @@
+{
+  "asn": 30152,
+  "metadata": {
+    "handle": "PALA-BAND-OF-MISSION-INDIANS",
+    "description": "Pala Band Of Mission Indians",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "66.71.222.0/23" ],
+    "ipv6": [ ]
+  }
+}

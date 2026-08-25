@@ -1,0 +1,4 @@
+# AS24589 (TELENETSIA-AS)
+# Telenet SIA
+#
+2a01:8ca0::/32

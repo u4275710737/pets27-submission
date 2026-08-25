@@ -1,0 +1,14 @@
+{
+  "asn": 8457,
+  "metadata": {
+    "handle": "INDEXSCOPE-LIMITED",
+    "description": "INDEXSCOPE LIMITED",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

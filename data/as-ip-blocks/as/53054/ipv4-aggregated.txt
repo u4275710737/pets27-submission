@@ -1,0 +1,4 @@
+# AS53054 (COMPANHIA-ITABIRANA-TELECOMUNICACOES)
+# Companhia Itabirana Telecomunicações Ltda
+#
+187.73.192.0/19

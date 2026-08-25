@@ -1,0 +1,16 @@
+{
+  "asn": 21214,
+  "metadata": {
+    "handle": "GEONET-AS",
+    "description": "Geonet Ltd.",
+    "countryCode": "GE",
+    "country": "Georgia",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "80.83.128.0/20", "185.174.96.0/22" ],
+    "ipv6": [ "2a0b:8900::/32" ]
+  }
+}

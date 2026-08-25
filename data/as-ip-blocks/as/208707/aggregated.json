@@ -1,0 +1,14 @@
+{
+  "asn": 208707,
+  "metadata": {
+    "handle": "WATANIA",
+    "description": "WATANIA LTD",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

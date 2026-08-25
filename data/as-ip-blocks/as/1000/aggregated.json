@@ -1,0 +1,16 @@
+{
+  "asn": 1000,
+  "metadata": {
+    "handle": "LINK-AMERICAN",
+    "description": "LINK AMERICAN",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "access_provider"
+  },
+  "prefixes": {
+    "ipv4": [ "192.131.141.0/24" ],
+    "ipv6": [ ]
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 135369,
+  "metadata": {
+    "handle": "EBDC-AP",
+    "description": "ENTERPRISE & BUSINESS DATE CENTRE (HK) LIMITED",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "asn": 41102,
+  "metadata": {
+    "handle": "ZRTELECOM-AS",
+    "description": "ZR-Telecom plus Ltd.",
+    "countryCode": "RU",
+    "country": "Russia",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "93.170.218.0/24" ],
+    "ipv6": [ ]
+  }
+}

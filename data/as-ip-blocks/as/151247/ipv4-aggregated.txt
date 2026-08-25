@@ -1,0 +1,4 @@
+# AS151247 (HSDC-CN)
+# HSBC Software Development (Guangdong) Limited Shanghai Branch
+#
+144.79.54.0/23

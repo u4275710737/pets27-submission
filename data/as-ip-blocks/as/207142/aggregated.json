@@ -1,0 +1,14 @@
+{
+  "asn": 207142,
+  "metadata": {
+    "handle": "YENPIN-KUO",
+    "description": "YenPin Kuo",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 10765,
+  "metadata": {
+    "handle": "CLOUDNET",
+    "description": "CloudNet",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

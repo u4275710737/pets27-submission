@@ -1,0 +1,14 @@
+{
+  "asn": 398896,
+  "metadata": {
+    "handle": "PRIVACY-01",
+    "description": "Magnusson Institute",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

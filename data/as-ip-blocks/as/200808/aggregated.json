@@ -1,0 +1,16 @@
+{
+  "asn": 200808,
+  "metadata": {
+    "handle": "DIALO",
+    "description": "Dialo sp. z o. o.",
+    "countryCode": "PL",
+    "country": "Poland",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "217.180.54.0/24" ],
+    "ipv6": [ ]
+  }
+}

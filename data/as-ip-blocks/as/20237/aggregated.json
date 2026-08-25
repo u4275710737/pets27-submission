@@ -1,0 +1,14 @@
+{
+  "asn": 20237,
+  "metadata": {
+    "handle": "KUBRA",
+    "description": "Kubra",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

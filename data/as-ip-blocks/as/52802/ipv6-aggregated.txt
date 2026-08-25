@@ -1,0 +1,4 @@
+# AS52802 (LINKMAX-SOLUCOES-ACESSO)
+# Linkmax Soluções de Acesso a Internet Ltda
+#
+2804:3134::/32

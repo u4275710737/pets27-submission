@@ -1,0 +1,16 @@
+{
+  "asn": 53336,
+  "metadata": {
+    "handle": "BSQL-AS-01",
+    "description": "BSQL Networking",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "23.135.236.0/24", "155.103.252.0/23" ],
+    "ipv6": [ "2602:f6c3::/40" ]
+  }
+}

@@ -1,0 +1,5 @@
+# AS211215 (FIBERNET)
+# Fibernet Finland Oy
+#
+45.95.8.0/24
+164.5.216.0/21

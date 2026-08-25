@@ -1,0 +1,8 @@
+# AS215330 (CDE-AS)
+# Chernenko Denis Evgenevich
+#
+2a0d:ad43::/32
+2a11:9045::/32
+2a11:e2c3::/32
+2a12:a500::/32
+2a12:cf80::/32

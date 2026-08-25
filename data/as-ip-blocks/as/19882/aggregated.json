@@ -1,0 +1,14 @@
+{
+  "asn": 19882,
+  "metadata": {
+    "handle": "LL",
+    "description": "Acuity Brands, Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

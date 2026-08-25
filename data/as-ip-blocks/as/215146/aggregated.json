@@ -1,0 +1,16 @@
+{
+  "asn": 215146,
+  "metadata": {
+    "handle": "ASROB",
+    "description": "Roberto Santo",
+    "countryCode": "IT",
+    "country": "Italy",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ "2602:f9ba:a4::/48", "2a0b:4e07:ef::/48", "2a0d:b287:da00::/48" ]
+  }
+}

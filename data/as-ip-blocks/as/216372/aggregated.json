@@ -1,0 +1,14 @@
+{
+  "asn": 216372,
+  "metadata": {
+    "handle": "RSMIZ-AS",
+    "description": "Republika Slovenija Ministrstvo za Infrastrukturo",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

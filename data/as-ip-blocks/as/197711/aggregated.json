@@ -1,0 +1,14 @@
+{
+  "asn": 197711,
+  "metadata": {
+    "handle": "NYNEX",
+    "description": "NYNEX satellite OHG",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

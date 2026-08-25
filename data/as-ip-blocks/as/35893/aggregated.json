@@ -1,0 +1,14 @@
+{
+  "asn": 35893,
+  "metadata": {
+    "handle": "ACP",
+    "description": "AirComPlus Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

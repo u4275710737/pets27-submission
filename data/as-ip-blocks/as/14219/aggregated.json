@@ -1,0 +1,14 @@
+{
+  "asn": 14219,
+  "metadata": {
+    "handle": "ENTRYWAN",
+    "description": "ENTRYWAN LLC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

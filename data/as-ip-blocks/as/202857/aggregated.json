@@ -1,0 +1,16 @@
+{
+  "asn": 202857,
+  "metadata": {
+    "handle": "CZ-AS",
+    "description": "INIZIO Internet Media s.r.o.",
+    "countryCode": "CZ",
+    "country": "Czechia",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "193.169.212.0/24" ],
+    "ipv6": [ ]
+  }
+}

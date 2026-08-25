@@ -1,0 +1,14 @@
+{
+  "asn": 207566,
+  "metadata": {
+    "handle": "LD007-AS",
+    "description": "Chang Way Technologies Co. Limited",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

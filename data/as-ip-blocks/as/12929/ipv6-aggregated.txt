@@ -1,0 +1,3 @@
+# AS12929 (NETCOM-AS)
+# Telia Norge AS
+#

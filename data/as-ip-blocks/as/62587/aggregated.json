@@ -1,0 +1,14 @@
+{
+  "asn": 62587,
+  "metadata": {
+    "handle": "ANT-CLOUD",
+    "description": "QFISP LLC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

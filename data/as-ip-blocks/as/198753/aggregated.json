@@ -1,0 +1,16 @@
+{
+  "asn": 198753,
+  "metadata": {
+    "handle": "STEPAN-ODINTSOV-PR-BEOGRAD-AS",
+    "description": "Stepan Odintsov trading as STEPAN ODINTSOV PR BEOGRAD",
+    "countryCode": "RS",
+    "country": "Serbia",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "104.222.176.0/24", "155.133.86.0/24" ],
+    "ipv6": [ ]
+  }
+}

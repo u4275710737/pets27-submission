@@ -1,0 +1,14 @@
+{
+  "asn": 4298,
+  "metadata": {
+    "handle": "CENTURYLINK-LEGACY-SAVVIS-MERRILL-USAGE",
+    "description": "CenturyLink Communications, LLC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

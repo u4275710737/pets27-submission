@@ -1,0 +1,14 @@
+{
+  "asn": 397647,
+  "metadata": {
+    "handle": "BOLDPENGUIN-1",
+    "description": "Bold Penguin Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

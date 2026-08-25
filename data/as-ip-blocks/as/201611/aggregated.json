@@ -1,0 +1,14 @@
+{
+  "asn": 201611,
+  "metadata": {
+    "handle": "SMARTLYNX-AS",
+    "description": "SmartLynx Airlines",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

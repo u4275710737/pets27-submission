@@ -1,0 +1,14 @@
+{
+  "asn": 18686,
+  "metadata": {
+    "handle": "INCO-1",
+    "description": "INCOGNITO SOFTWARE INC.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

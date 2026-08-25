@@ -1,0 +1,16 @@
+{
+  "asn": 270086,
+  "metadata": {
+    "handle": "FIRTEL",
+    "description": "FIRTEL S.A.C.",
+    "countryCode": "PE",
+    "country": "Peru",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "177.128.202.0/23" ],
+    "ipv6": [ "2803:3be0::/32" ]
+  }
+}

@@ -1,0 +1,4 @@
+# AS39838 (AS-PEERING-LATAM)
+# Valor Information Technologies S.L.
+#
+141.136.56.0/21

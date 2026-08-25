@@ -1,0 +1,16 @@
+{
+  "asn": 200113,
+  "metadata": {
+    "handle": "AS60721",
+    "description": "Global Servers LTD",
+    "countryCode": "GB",
+    "country": "United Kingdom",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "149.18.96.0/24" ],
+    "ipv6": [ ]
+  }
+}

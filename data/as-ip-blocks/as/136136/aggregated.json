@@ -1,0 +1,14 @@
+{
+  "asn": 136136,
+  "metadata": {
+    "handle": "AMGL-AP",
+    "description": "Avant Mutual Group Limited",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

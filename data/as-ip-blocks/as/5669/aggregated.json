@@ -1,0 +1,16 @@
+{
+  "asn": 5669,
+  "metadata": {
+    "handle": "VIA-NET-WORKS-AS",
+    "description": "PSINet Europe / VIA NET.WORKS international AS",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ "2001:aa0:e00::/40" ]
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 23682,
+  "metadata": {
+    "handle": "PACENET",
+    "description": "Broadband Pacenet Pvt. Ltd",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

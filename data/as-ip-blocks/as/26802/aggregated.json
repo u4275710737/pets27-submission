@@ -1,0 +1,14 @@
+{
+  "asn": 26802,
+  "metadata": {
+    "handle": "OTN",
+    "description": "Ontario Telemedicine Network",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

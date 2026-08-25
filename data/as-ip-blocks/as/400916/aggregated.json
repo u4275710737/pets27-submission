@@ -1,0 +1,14 @@
+{
+  "asn": 400916,
+  "metadata": {
+    "handle": "SILVER-HOSTING-NETWORK",
+    "description": "Silver Hosting Network LLC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

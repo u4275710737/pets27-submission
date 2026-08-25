@@ -1,0 +1,4 @@
+# AS21531 (QLRASN-1)
+# Quantum Leap Research LLC
+#
+192.219.29.0/24

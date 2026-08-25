@@ -1,0 +1,14 @@
+{
+  "asn": 142062,
+  "metadata": {
+    "handle": "HQTC-AS-AP",
+    "description": "qlhost",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

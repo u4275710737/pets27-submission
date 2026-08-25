@@ -1,0 +1,14 @@
+{
+  "asn": 212448,
+  "metadata": {
+    "handle": "TURKBIL",
+    "description": "Turkbil Teknoloji Ltd. Sti.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "asn": 394818,
+  "metadata": {
+    "handle": "Y-E-C-1",
+    "description": "YRCI",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [
+      "192.227.0.0/24"
+    ],
+    "ipv6": []
+  }
+}

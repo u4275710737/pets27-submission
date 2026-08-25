@@ -1,0 +1,14 @@
+{
+  "asn": 399472,
+  "metadata": {
+    "handle": "FLEX-STRUT-01",
+    "description": "Flex-Strut Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

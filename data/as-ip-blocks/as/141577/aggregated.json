@@ -1,0 +1,14 @@
+{
+  "asn": 141577,
+  "metadata": {
+    "handle": "IDNIC-MDNUSANTARA-ID",
+    "description": "PT Meta Data Nusantara",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

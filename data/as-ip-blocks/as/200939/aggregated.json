@@ -1,0 +1,16 @@
+{
+  "asn": 200939,
+  "metadata": {
+    "handle": "LME-IRAQ",
+    "description": "Neobitint GmbH",
+    "countryCode": "AT",
+    "country": "Austria",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "185.42.142.0/23" ],
+    "ipv6": [ ]
+  }
+}

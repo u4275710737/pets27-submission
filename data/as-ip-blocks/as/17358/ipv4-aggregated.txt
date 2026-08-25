@@ -1,0 +1,4 @@
+# AS17358 (MOZGROUP-CAMPAIGNER)
+# J2 Global Ventures, LLC
+#
+216.24.239.0/24

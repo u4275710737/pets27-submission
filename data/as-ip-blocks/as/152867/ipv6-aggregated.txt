@@ -1,0 +1,4 @@
+# AS152867 (TCNET)
+# Takaoka cable network
+#
+2406:2800:6000::/36

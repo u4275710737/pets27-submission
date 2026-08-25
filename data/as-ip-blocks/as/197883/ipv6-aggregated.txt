@@ -1,0 +1,4 @@
+# AS197883 (ASN-FR-SERINYA)
+# Serinya Telecom SAS
+#
+2a01:9d80::/32

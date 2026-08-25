@@ -1,0 +1,4 @@
+# AS22966 (GOSHEN-COLLEGE)
+# Goshen College
+#
+2001:18e8:408::/48

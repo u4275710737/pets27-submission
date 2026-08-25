@@ -1,0 +1,14 @@
+{
+  "asn": 15915,
+  "metadata": {
+    "handle": "IBERCOM",
+    "description": "MASMOVIL IBERCOM SA",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

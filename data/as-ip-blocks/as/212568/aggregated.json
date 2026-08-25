@@ -1,0 +1,16 @@
+{
+  "asn": 212568,
+  "metadata": {
+    "handle": "AS-LUXNET",
+    "description": "David Moes",
+    "countryCode": "LU",
+    "country": "Luxembourg",
+    "origin": "authoritative",
+    "category": null,
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ ]
+  }
+}

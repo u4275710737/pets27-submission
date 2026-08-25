@@ -1,0 +1,14 @@
+{
+  "asn": 48570,
+  "metadata": {
+    "handle": "AURIGAKORE",
+    "description": "Auriga Kore Limited",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

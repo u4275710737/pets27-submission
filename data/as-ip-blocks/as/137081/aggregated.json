@@ -1,0 +1,16 @@
+{
+  "asn": 137081,
+  "metadata": {
+    "handle": "TMAPL-AS-AP",
+    "description": "TESLA MOTORS AUSTRALIA PTY LTD",
+    "countryCode": "AU",
+    "country": "Australia",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "149.106.212.0/23" ],
+    "ipv6": [ ]
+  }
+}

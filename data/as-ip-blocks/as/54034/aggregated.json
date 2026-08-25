@@ -1,0 +1,14 @@
+{
+  "asn": 54034,
+  "metadata": {
+    "handle": "LEGACY-INFOGIX",
+    "description": "Precisely Software Incorporated",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

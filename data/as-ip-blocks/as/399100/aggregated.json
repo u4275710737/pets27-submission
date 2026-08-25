@@ -1,0 +1,14 @@
+{
+  "asn": 399100,
+  "metadata": {
+    "handle": "GMA-GOBOUNDLESS",
+    "description": "Selectronics Corp.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

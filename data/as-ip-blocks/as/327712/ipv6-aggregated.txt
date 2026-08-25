@@ -1,0 +1,4 @@
+# AS327712 (MOBILIS-AS)
+# Mobilis AS Number
+#
+2c0f:e8b0::/32

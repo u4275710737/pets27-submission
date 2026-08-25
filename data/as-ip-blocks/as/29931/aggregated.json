@@ -1,0 +1,16 @@
+{
+  "asn": 29931,
+  "metadata": {
+    "handle": "ACE-ISP-BROADBAND",
+    "description": "Ace Data Centers II L.L.C.",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "144.225.62.0/24" ],
+    "ipv6": [ ]
+  }
+}

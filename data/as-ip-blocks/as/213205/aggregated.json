@@ -1,0 +1,16 @@
+{
+  "asn": 213205,
+  "metadata": {
+    "handle": "COOOLBE-CA",
+    "description": "COOOLBE LTD",
+    "countryCode": "MH",
+    "country": "Marshall Islands",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ "2a13:2380::/29" ]
+  }
+}

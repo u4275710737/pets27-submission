@@ -1,0 +1,14 @@
+{
+  "asn": 140011,
+  "metadata": {
+    "handle": "IDNIC-KRISNAINVESTINDO-ID",
+    "description": "PT. KRISNA BERKAT INVESTINDO",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

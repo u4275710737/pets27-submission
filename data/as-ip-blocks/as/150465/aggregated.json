@@ -1,0 +1,14 @@
+{
+  "asn": 150465,
+  "metadata": {
+    "handle": "IDNIC-AB3-AS-ID",
+    "description": "CV Ab Three Multimedia",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

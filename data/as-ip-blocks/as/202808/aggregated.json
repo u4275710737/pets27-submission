@@ -1,0 +1,16 @@
+{
+  "asn": 202808,
+  "metadata": {
+    "handle": "LOGIENET",
+    "description": "Blairlogie Community and Heritage Trust",
+    "countryCode": "GB",
+    "country": "United Kingdom",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "198.52.45.0/24" ],
+    "ipv6": [ ]
+  }
+}

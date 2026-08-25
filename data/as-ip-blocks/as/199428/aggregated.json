@@ -1,0 +1,16 @@
+{
+  "asn": 199428,
+  "metadata": {
+    "handle": "ALVARONAVAS",
+    "description": "Alvaro Navas",
+    "countryCode": "ES",
+    "country": "Spain",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "87.121.79.0/24" ],
+    "ipv6": [ "2a14:c380:280::/44" ]
+  }
+}

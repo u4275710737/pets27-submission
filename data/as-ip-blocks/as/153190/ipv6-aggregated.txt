@@ -1,0 +1,6 @@
+# AS153190 (ZHANGCHONG-AS-AP)
+# Zhang Chong
+#
+2406:840:fc70::/47
+2406:840:fc72::/48
+2406:840:fedc::/48

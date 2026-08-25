@@ -1,0 +1,14 @@
+{
+  "asn": 47108,
+  "metadata": {
+    "handle": "AVERNIS-NET",
+    "description": "Avernis Communications GmbH",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

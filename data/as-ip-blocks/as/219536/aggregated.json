@@ -1,0 +1,16 @@
+{
+  "asn": 219536,
+  "metadata": {
+    "handle": "TEVIODATACENTER",
+    "description": "TEVIO DATACENTER NO BRASIL LTDA",
+    "countryCode": "BR",
+    "country": "Brazil",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ "2a0c:b641:c10::/44" ]
+  }
+}

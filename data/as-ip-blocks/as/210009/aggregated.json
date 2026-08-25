@@ -1,0 +1,14 @@
+{
+  "asn": 210009,
+  "metadata": {
+    "handle": "UNKNOWN",
+    "description": "MadCats OU",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

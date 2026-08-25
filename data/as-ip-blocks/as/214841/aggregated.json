@@ -1,0 +1,16 @@
+{
+  "asn": 214841,
+  "metadata": {
+    "handle": "RAYNETWORK",
+    "description": "RUI PIN LAI",
+    "countryCode": "TW",
+    "country": "Taiwan",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ "2a14:7581:6fe0::/44" ]
+  }
+}

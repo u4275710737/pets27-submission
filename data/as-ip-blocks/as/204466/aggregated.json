@@ -1,0 +1,14 @@
+{
+  "asn": 204466,
+  "metadata": {
+    "handle": "EVAN-PRATTEN",
+    "description": "Evan Warren Pratten",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

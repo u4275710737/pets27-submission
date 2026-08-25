@@ -1,0 +1,14 @@
+{
+  "asn": 400174,
+  "metadata": {
+    "handle": "ATLAS-BROADBAND-01",
+    "description": "Atlas Broadband",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

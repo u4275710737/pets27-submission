@@ -1,0 +1,16 @@
+{
+  "asn": 133112,
+  "metadata": {
+    "handle": "SPECTRA1-AS-AP",
+    "description": "Spectra Technologies Limited",
+    "countryCode": "BD",
+    "country": "Bangladesh",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "midsize_transit"
+  },
+  "prefixes": {
+    "ipv4": [ "103.72.136.0/23" ],
+    "ipv6": [ "2001:df1:d8c0::/48" ]
+  }
+}

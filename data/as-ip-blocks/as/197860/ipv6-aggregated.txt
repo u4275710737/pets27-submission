@@ -1,0 +1,6 @@
+# AS197860 (NET-HARUKA)
+# Haruka Network Limited
+#
+2a12:bec0:390::/44
+2a12:bec4:1010::/44
+2a12:bec4:2020::/48

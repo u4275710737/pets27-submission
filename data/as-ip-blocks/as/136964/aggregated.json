@@ -1,0 +1,16 @@
+{
+  "asn": 136964,
+  "metadata": {
+    "handle": "WISNL-AS-AP",
+    "description": "NZ Safety Blackwoods",
+    "countryCode": "NZ",
+    "country": "New Zealand",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "103.183.142.0/23", "167.179.2.0/24", "167.179.208.0/23" ],
+    "ipv6": [ ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "asn": 48932,
+  "metadata": {
+    "handle": "SV-TAMKEEN",
+    "description": "Saudi Arabian Airlines",
+    "countryCode": "SA",
+    "country": "Saudi Arabia",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "217.12.224.0/22", "217.12.230.0/23", "217.12.232.0/22" ],
+    "ipv6": [ ]
+  }
+}

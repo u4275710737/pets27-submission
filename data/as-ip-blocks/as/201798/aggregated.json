@@ -1,0 +1,14 @@
+{
+  "asn": 201798,
+  "metadata": {
+    "handle": "ABINTERNET",
+    "description": "Bogons Ltd",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

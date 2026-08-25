@@ -1,0 +1,14 @@
+{
+  "asn": 150813,
+  "metadata": {
+    "handle": "MINHTHOIPC-VN",
+    "description": "Thoi MMO Company Limited",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

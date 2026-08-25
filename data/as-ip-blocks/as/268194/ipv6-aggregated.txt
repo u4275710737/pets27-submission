@@ -1,0 +1,4 @@
+# AS268194 (TELECOMUNICACOES-S-GONCALVES)
+# Telecomunicações S. Gonçalves ltda-ME
+#
+2804:4d68::/32

@@ -1,0 +1,14 @@
+{
+  "asn": 401275,
+  "metadata": {
+    "handle": "AIRBYTES-NET",
+    "description": "AIRBYTES COMMUNICATIONS LLC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

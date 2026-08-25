@@ -1,0 +1,4 @@
+# AS139757 (TALUKDERNET-AS-AP)
+# Talukder net
+#
+103.144.198.0/24

@@ -1,0 +1,14 @@
+{
+  "asn": 60020,
+  "metadata": {
+    "handle": "HLC",
+    "description": "Sara Piacentino",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 28021,
+  "metadata": {
+    "handle": "ASEGLOB",
+    "description": "ASEGLOB S.A.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

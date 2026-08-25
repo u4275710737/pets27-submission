@@ -1,0 +1,14 @@
+{
+  "asn": 41350,
+  "metadata": {
+    "handle": "RSU-AS",
+    "description": "JSC BANK FORWARD",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

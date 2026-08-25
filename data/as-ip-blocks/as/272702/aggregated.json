@@ -1,0 +1,14 @@
+{
+  "asn": 272702,
+  "metadata": {
+    "handle": "VIPNET-SERVICOS-INFORMATICA",
+    "description": "Vipnet Servicos de Informatica Ltda",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

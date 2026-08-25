@@ -1,0 +1,14 @@
+{
+  "asn": 208489,
+  "metadata": {
+    "handle": "NEXTWIRE",
+    "description": "NEXTWIRE Cezary Grotowski",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

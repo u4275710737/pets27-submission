@@ -1,0 +1,16 @@
+{
+  "asn": 13974,
+  "metadata": {
+    "handle": "OL-ASN",
+    "description": "NetCrew",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "23.176.200.0/24", "131.143.180.0/22" ],
+    "ipv6": [ "2602:f91a::/40" ]
+  }
+}

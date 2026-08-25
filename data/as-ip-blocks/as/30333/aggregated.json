@@ -1,0 +1,14 @@
+{
+  "asn": 30333,
+  "metadata": {
+    "handle": "ASCD",
+    "description": "ASCD",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

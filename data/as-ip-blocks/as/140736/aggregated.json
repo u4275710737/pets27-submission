@@ -1,0 +1,16 @@
+{
+  "asn": 140736,
+  "metadata": {
+    "handle": "LEDC-AS-AP",
+    "description": "Edge Data Centres Pty Ltd",
+    "countryCode": "AU",
+    "country": "Australia",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "access_provider"
+  },
+  "prefixes": {
+    "ipv4": [ "103.152.64.0/23" ],
+    "ipv6": [ "2406:2ac0::/32" ]
+  }
+}

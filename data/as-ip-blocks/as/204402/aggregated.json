@@ -1,0 +1,14 @@
+{
+  "asn": 204402,
+  "metadata": {
+    "handle": "COMPANY",
+    "description": "Saeed Boroumandfar",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

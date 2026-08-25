@@ -1,0 +1,16 @@
+{
+  "asn": 142263,
+  "metadata": {
+    "handle": "NETINFINIUM-AS-AP",
+    "description": "NETINFINIUM SOLUTIONS SDN BHD",
+    "countryCode": "MY",
+    "country": "Malaysia",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "144.79.123.0/24" ],
+    "ipv6": [ ]
+  }
+}

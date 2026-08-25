@@ -1,0 +1,14 @@
+{
+  "asn": 45846,
+  "metadata": {
+    "handle": "FSW-SHIGA-POP",
+    "description": "Foresightwave INC.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "asn": 37452,
+  "metadata": {
+    "handle": "CBN-AS",
+    "description": "CENTRAL BANK OF NIGERIA AS NUMBER",
+    "countryCode": "NG",
+    "country": "Nigeria",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "196.216.200.0/22" ],
+    "ipv6": [ ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "asn": 272405,
+  "metadata": {
+    "handle": "JAIR-LOZANO",
+    "description": "Jair Lozano",
+    "countryCode": "MX",
+    "country": "Mexico",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "38.210.176.0/22" ],
+    "ipv6": [ "2806:429::/32" ]
+  }
+}

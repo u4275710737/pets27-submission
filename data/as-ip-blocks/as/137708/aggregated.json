@@ -1,0 +1,16 @@
+{
+  "asn": 137708,
+  "metadata": {
+    "handle": "IRINN-BTNL-AS-IN",
+    "description": "BANGALORE TECHNOLOGY NETWORK PRIVATE LIMITED",
+    "countryCode": "IN",
+    "country": "India",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "162.4.24.0/23" ],
+    "ipv6": [ ]
+  }
+}

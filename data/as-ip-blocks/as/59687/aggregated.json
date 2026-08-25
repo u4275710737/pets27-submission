@@ -1,0 +1,14 @@
+{
+  "asn": 59687,
+  "metadata": {
+    "handle": "KOMTELEKOM",
+    "description": "Metropolitan Telecommunications Company Komtelekom LLC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

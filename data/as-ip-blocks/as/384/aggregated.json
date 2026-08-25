@@ -1,0 +1,16 @@
+{
+  "asn": 384,
+  "metadata": {
+    "handle": "AFCONC-BLOCK1-AS",
+    "description": "Air Force Systems Networking",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "government_admin",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "134.165.4.0/24" ],
+    "ipv6": [ ]
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 395649,
+  "metadata": {
+    "handle": "SCHWARTZNET-B",
+    "description": "Schwartz Networks Limited Liability Company",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

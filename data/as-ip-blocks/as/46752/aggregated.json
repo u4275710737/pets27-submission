@@ -1,0 +1,14 @@
+{
+  "asn": 46752,
+  "metadata": {
+    "handle": "AMILGA-BHM",
+    "description": "Air Medical Group Holdings",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

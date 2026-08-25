@@ -1,0 +1,16 @@
+{
+  "asn": 133233,
+  "metadata": {
+    "handle": "SNBNCBS-AS",
+    "description": "SNBNCBS Autonomous System",
+    "countryCode": "IN",
+    "country": "India",
+    "origin": "authoritative",
+    "category": "education_research",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "103.230.166.0/24" ],
+    "ipv6": [ ]
+  }
+}

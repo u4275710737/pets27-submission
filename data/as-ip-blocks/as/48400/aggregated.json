@@ -1,0 +1,14 @@
+{
+  "asn": 48400,
+  "metadata": {
+    "handle": "TRUNK-AS",
+    "description": "MTS PJSC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

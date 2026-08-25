@@ -1,0 +1,14 @@
+{
+  "asn": 200501,
+  "metadata": {
+    "handle": "FOURTELECOM",
+    "description": "Four Telecom Services GmbH & Co KG",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

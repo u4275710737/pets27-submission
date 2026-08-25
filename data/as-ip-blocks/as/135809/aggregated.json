@@ -1,0 +1,14 @@
+{
+  "asn": 135809,
+  "metadata": {
+    "handle": "DNYANU",
+    "description": "Sanjeevan Networks Services Pvt Ltd",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

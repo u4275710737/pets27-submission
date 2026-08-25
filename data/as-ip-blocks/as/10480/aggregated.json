@@ -1,0 +1,14 @@
+{
+  "asn": 10480,
+  "metadata": {
+    "handle": "RA-N002",
+    "description": "HIVELOCITY, Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

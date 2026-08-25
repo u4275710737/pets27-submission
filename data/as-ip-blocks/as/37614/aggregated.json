@@ -1,0 +1,16 @@
+{
+  "asn": 37614,
+  "metadata": {
+    "handle": "STOI",
+    "description": "STOI",
+    "countryCode": "YT",
+    "country": "Mayotte",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "41.242.116.0/22" ],
+    "ipv6": [ ]
+  }
+}

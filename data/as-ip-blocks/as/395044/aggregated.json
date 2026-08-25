@@ -1,0 +1,14 @@
+{
+  "asn": 395044,
+  "metadata": {
+    "handle": "APTLABS-NET",
+    "description": "Apt Labs",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 5079,
+  "metadata": {
+    "handle": "DIAL-CALL",
+    "description": "T-Mobile USA Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

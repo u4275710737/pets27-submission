@@ -1,0 +1,14 @@
+{
+  "asn": 399068,
+  "metadata": {
+    "handle": "MUSKOKA-WIFI",
+    "description": "Muskoka Wifi",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

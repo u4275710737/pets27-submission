@@ -1,0 +1,7 @@
+# AS24137 (HNPCNET)
+# KuanggongLu Pingdingshan Henan China
+#
+110.76.192.0/18
+110.77.0.0/17
+119.31.192.0/19
+210.76.0.0/19

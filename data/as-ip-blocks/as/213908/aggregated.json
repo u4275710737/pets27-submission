@@ -1,0 +1,14 @@
+{
+  "asn": 213908,
+  "metadata": {
+    "handle": "NETZONE-TR",
+    "description": "NETZONE TEKNOLOJI ve SAVUNMA SANAYI TICARET ANONIM SIRKETI",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

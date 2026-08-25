@@ -1,0 +1,14 @@
+{
+  "asn": 21733,
+  "metadata": {
+    "handle": "GHC-ASN-01",
+    "description": "HARPY TC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

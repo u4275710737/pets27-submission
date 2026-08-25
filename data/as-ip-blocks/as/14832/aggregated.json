@@ -1,0 +1,14 @@
+{
+  "asn": 14832,
+  "metadata": {
+    "handle": "NETWORKUSA",
+    "description": "Conterra",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

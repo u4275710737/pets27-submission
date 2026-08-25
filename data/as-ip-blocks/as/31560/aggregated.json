@@ -1,0 +1,14 @@
+{
+  "asn": 31560,
+  "metadata": {
+    "handle": "LOGINOV",
+    "description": "FOP Loginov Andrey Vyacheslavovich",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

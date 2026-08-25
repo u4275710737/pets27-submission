@@ -1,0 +1,14 @@
+{
+  "asn": 139071,
+  "metadata": {
+    "handle": "MNCL-AS-AP",
+    "description": "MK Networks Co. Ltd.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

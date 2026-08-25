@@ -1,0 +1,16 @@
+{
+  "asn": 197158,
+  "metadata": {
+    "handle": "RIVILE",
+    "description": "RIVILE UAB",
+    "countryCode": "LT",
+    "country": "Lithuania",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "45.95.32.0/24" ],
+    "ipv6": [ ]
+  }
+}

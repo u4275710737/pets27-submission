@@ -1,0 +1,16 @@
+{
+  "asn": 27865,
+  "metadata": {
+    "handle": "TWKO",
+    "description": "Tecnologia WorkOut S.A.",
+    "countryCode": "AR",
+    "country": "Argentina",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "access_provider"
+  },
+  "prefixes": {
+    "ipv4": [ "170.239.28.0/22", "190.103.80.0/22" ],
+    "ipv6": [ "2803:4a80::/32" ]
+  }
+}

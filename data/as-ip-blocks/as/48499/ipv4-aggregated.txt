@@ -1,0 +1,4 @@
+# AS48499 (AEROCLUB-AS)
+# JSC Aeroclub
+#
+195.162.10.0/23

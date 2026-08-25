@@ -1,0 +1,16 @@
+{
+  "asn": 7832,
+  "metadata": {
+    "handle": "PCI-FIBER-ASN-1",
+    "description": "PCI Fiber LLC",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "72.13.192.0/20", "209.177.128.0/20", "216.229.32.0/20" ],
+    "ipv6": [ ]
+  }
+}

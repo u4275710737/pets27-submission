@@ -1,0 +1,14 @@
+{
+  "asn": 15255,
+  "metadata": {
+    "handle": "BISK",
+    "description": "Bisk - Totaltape Publishing",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 24160,
+  "metadata": {
+    "handle": "CHIMEI",
+    "description": "Chi Mei Corporation",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

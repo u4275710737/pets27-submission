@@ -1,0 +1,5 @@
+# AS18291 (VFAU-NET-AS)
+# Vodafone Australia Pty Ltd
+#
+101.115.32.0/19
+120.18.251.0/24

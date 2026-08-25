@@ -1,0 +1,14 @@
+{
+  "asn": 57014,
+  "metadata": {
+    "handle": "METROSWITCH",
+    "description": "4on LTD",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

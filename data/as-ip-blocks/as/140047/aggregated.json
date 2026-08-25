@@ -1,0 +1,14 @@
+{
+  "asn": 140047,
+  "metadata": {
+    "handle": "QIGL-AP",
+    "description": "QBE Insurance Group Ltd",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

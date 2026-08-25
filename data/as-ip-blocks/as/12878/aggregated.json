@@ -1,0 +1,14 @@
+{
+  "asn": 12878,
+  "metadata": {
+    "handle": "COLT-MANAGED-DC-CLOUD-CUSTOMERS",
+    "description": "COLT Technology Services Group Limited",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

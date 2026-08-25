@@ -1,0 +1,16 @@
+{
+  "asn": 153927,
+  "metadata": {
+    "handle": "IRINN-ICSIMUM-AS-IN",
+    "description": "INVESTEC CAPITAL SERVICES (INDIA) PVT LTD",
+    "countryCode": "IN",
+    "country": "India",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "165.99.158.0/23" ],
+    "ipv6": [ ]
+  }
+}

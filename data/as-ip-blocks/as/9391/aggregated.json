@@ -1,0 +1,14 @@
+{
+  "asn": 9391,
+  "metadata": {
+    "handle": "GUANGDONG-HIGHWAY-BROADBAND",
+    "description": "GUANGDONG HIGHWAY BROADBAND NETWORK SERVICE CENTE",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

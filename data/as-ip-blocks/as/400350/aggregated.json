@@ -1,0 +1,14 @@
+{
+  "asn": 400350,
+  "metadata": {
+    "handle": "APOG-TSU",
+    "description": "Apogee Telecom Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "asn": 203075,
+  "metadata": {
+    "handle": "ORG-LFL9-RIPE",
+    "description": "LocalLink Fibre Ltd",
+    "countryCode": "GB",
+    "country": "United Kingdom",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ ]
+  }
+}

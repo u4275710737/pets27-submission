@@ -1,0 +1,14 @@
+{
+  "asn": 141677,
+  "metadata": {
+    "handle": "NATHOSTS-AP",
+    "description": "Gem Cloud Limited",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

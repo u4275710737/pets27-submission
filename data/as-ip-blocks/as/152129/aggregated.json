@@ -1,0 +1,16 @@
+{
+  "asn": 152129,
+  "metadata": {
+    "handle": "EXCLOUD-AS-AP",
+    "description": "EXCLOUD INDIA PRIVATE LIMITED",
+    "countryCode": "IN",
+    "country": "India",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "210.79.128.0/23" ],
+    "ipv6": [ "2401:5420::/32" ]
+  }
+}

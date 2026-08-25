@@ -1,0 +1,14 @@
+{
+  "asn": 396143,
+  "metadata": {
+    "handle": "OCEAN-SPRAY",
+    "description": "Ocean Spray Cranberries, Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

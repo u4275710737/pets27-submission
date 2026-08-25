@@ -1,0 +1,14 @@
+{
+  "asn": 45601,
+  "metadata": {
+    "handle": "UNIWAREMS-AS-AP",
+    "description": "Uniware Managed Services Pty Ltd",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

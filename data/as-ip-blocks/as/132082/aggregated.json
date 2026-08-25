@@ -1,0 +1,14 @@
+{
+  "asn": 132082,
+  "metadata": {
+    "handle": "SUMMITCOMMUNICATIONS-AP",
+    "description": "Summit Communication Limited",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

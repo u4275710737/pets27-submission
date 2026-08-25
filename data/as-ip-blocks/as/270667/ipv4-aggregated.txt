@@ -1,0 +1,4 @@
+# AS270667 (OMEGA-TECH-INTERNET)
+# Omega Tech Internet
+#
+177.10.132.0/22

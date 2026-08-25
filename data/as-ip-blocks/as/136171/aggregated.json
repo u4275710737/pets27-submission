@@ -1,0 +1,16 @@
+{
+  "asn": 136171,
+  "metadata": {
+    "handle": "MEDHAHOSTING-AS-AP",
+    "description": "MEDHA HOSTING (OPC) PRIVATE LIMITED",
+    "countryCode": "IN",
+    "country": "India",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "103.83.36.0/22", "103.157.224.0/23" ],
+    "ipv6": [ "2400:8dc0::/32" ]
+  }
+}

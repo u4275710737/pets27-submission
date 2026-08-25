@@ -1,0 +1,16 @@
+{
+  "asn": 30677,
+  "metadata": {
+    "handle": "VALLEY-HEALTH-SYSTEM",
+    "description": "Valley Health System",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "136.143.198.0/24", "192.77.126.0/24", "204.10.104.0/24" ],
+    "ipv6": [ ]
+  }
+}

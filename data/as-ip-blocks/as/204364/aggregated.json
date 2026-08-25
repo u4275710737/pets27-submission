@@ -1,0 +1,14 @@
+{
+  "asn": 204364,
+  "metadata": {
+    "handle": "DIGITAL-RESOURCES-MANAGEMENT",
+    "description": "Digital Resources Management S.L.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

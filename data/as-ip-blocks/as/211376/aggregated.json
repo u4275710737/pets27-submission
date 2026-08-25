@@ -1,0 +1,14 @@
+{
+  "asn": 211376,
+  "metadata": {
+    "handle": "SERVERSCITY",
+    "description": "Kaan Girgin",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

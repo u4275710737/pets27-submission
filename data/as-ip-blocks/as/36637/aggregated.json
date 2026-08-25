@@ -1,0 +1,14 @@
+{
+  "asn": 36637,
+  "metadata": {
+    "handle": "FF-AS01",
+    "description": "Flying Horse Holdings LLC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

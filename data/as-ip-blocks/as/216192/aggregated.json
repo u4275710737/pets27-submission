@@ -1,0 +1,16 @@
+{
+  "asn": 216192,
+  "metadata": {
+    "handle": "HIPERONLINE",
+    "description": "hiperonline iletisim hizmetleri san. tic. ltd. sti.",
+    "countryCode": "TR",
+    "country": "Türkiye",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "85.159.89.0/24" ],
+    "ipv6": [ ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "asn": 327728,
+  "metadata": {
+    "handle": "CTV",
+    "description": "Cable Television Network Ltd.",
+    "countryCode": "TZ",
+    "country": "Tanzania",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "access_provider"
+  },
+  "prefixes": {
+    "ipv4": [ "154.72.20.0/22" ],
+    "ipv6": [ ]
+  }
+}

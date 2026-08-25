@@ -1,0 +1,6 @@
+# AS201378 (ZAJIL02)
+# Zajil International Telecom Company KSCC
+#
+80.184.196.0/22
+168.187.72.0/24
+168.187.225.0/24

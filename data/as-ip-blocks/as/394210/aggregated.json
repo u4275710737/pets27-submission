@@ -1,0 +1,16 @@
+{
+  "asn": 394210,
+  "metadata": {
+    "handle": "SYMBOTAS-1",
+    "description": "Symbotic LLC",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "192.156.238.0/24" ],
+    "ipv6": [ ]
+  }
+}

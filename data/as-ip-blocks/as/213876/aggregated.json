@@ -1,0 +1,16 @@
+{
+  "asn": 213876,
+  "metadata": {
+    "handle": "LANGYA-AS",
+    "description": "Qiyuan Chen",
+    "countryCode": "CN",
+    "country": "China",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ "2a0f:1cc5:2000::/40" ]
+  }
+}

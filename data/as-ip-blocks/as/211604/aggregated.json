@@ -1,0 +1,16 @@
+{
+  "asn": 211604,
+  "metadata": {
+    "handle": "MARIO-GUZMAN",
+    "description": "Mario Enrique Lopez Guzman",
+    "countryCode": "GT",
+    "country": "Guatemala",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ ]
+  }
+}

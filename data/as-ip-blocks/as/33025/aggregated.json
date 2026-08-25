@@ -1,0 +1,14 @@
+{
+  "asn": 33025,
+  "metadata": {
+    "handle": "QE-ASN-01",
+    "description": "Quinn Emanuel Urquhart Oliver & Hedges LLP",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

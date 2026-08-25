@@ -1,0 +1,14 @@
+{
+  "asn": 138971,
+  "metadata": {
+    "handle": "YLINX-AP",
+    "description": "Y LINX (PVT.) LIMITED",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

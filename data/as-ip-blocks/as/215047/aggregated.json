@@ -1,0 +1,16 @@
+{
+  "asn": 215047,
+  "metadata": {
+    "handle": "THEONEBROADBAND",
+    "description": "DSV Communications Limited",
+    "countryCode": "GB",
+    "country": "United Kingdom",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "45.129.74.0/24", "89.31.212.0/23", "185.218.225.0/24", "217.180.52.0/23" ],
+    "ipv6": [ "2a14:5fc0::/29" ]
+  }
+}

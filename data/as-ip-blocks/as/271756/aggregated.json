@@ -1,0 +1,16 @@
+{
+  "asn": 271756,
+  "metadata": {
+    "handle": "EQUIPNET-TELECOM",
+    "description": "EQUIPNET TELECOM",
+    "countryCode": "BR",
+    "country": "Brazil",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ ]
+  }
+}

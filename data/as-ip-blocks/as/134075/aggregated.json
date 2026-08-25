@@ -1,0 +1,14 @@
+{
+  "asn": 134075,
+  "metadata": {
+    "handle": "PROBAX1-PBX",
+    "description": "PROBAX PTY LTD",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

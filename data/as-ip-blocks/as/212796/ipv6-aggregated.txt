@@ -1,0 +1,4 @@
+# AS212796 (SMARTFIBER-AS)
+# SmartFiber GmbH
+#
+2a0a:67c0::/29

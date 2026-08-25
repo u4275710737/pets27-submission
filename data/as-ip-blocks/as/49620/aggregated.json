@@ -1,0 +1,14 @@
+{
+  "asn": 49620,
+  "metadata": {
+    "handle": "GOLDENLINKS",
+    "description": "Gigabit-Online LLC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

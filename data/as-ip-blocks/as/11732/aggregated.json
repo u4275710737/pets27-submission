@@ -1,0 +1,14 @@
+{
+  "asn": 11732,
+  "metadata": {
+    "handle": "IEI-LVGN-INET",
+    "description": "INGRAM ENTERTAINMENT INC.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "asn": 141097,
+  "metadata": {
+    "handle": "IDNIC-LCA-AS-ID",
+    "description": "PT Lintas Citra Abadi",
+    "countryCode": "ID",
+    "country": "Indonesia",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "103.156.224.0/23" ],
+    "ipv6": [ ]
+  }
+}

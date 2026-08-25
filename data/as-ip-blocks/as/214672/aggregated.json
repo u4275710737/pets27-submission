@@ -1,0 +1,16 @@
+{
+  "asn": 214672,
+  "metadata": {
+    "handle": "VIRTOX",
+    "description": "VIRTOX SOLUTIONS LTD",
+    "countryCode": "GB",
+    "country": "United Kingdom",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ ]
+  }
+}

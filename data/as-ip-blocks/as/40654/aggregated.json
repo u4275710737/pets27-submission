@@ -1,0 +1,14 @@
+{
+  "asn": 40654,
+  "metadata": {
+    "handle": "TKC-KM-ASN01",
+    "description": "Catawba Two Kings Casino",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

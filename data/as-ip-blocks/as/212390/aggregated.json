@@ -1,0 +1,14 @@
+{
+  "asn": 212390,
+  "metadata": {
+    "handle": "CENTRALNIC-ANYCAST-J",
+    "description": "CentralNic Ltd",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

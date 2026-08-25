@@ -1,0 +1,16 @@
+{
+  "asn": 272081,
+  "metadata": {
+    "handle": "WISPCORE-CA",
+    "description": "WISPCORE C.A.",
+    "countryCode": "VE",
+    "country": "Venezuela",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "181.189.56.0/24" ],
+    "ipv6": [ ]
+  }
+}

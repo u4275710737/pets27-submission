@@ -1,0 +1,14 @@
+{
+  "asn": 397357,
+  "metadata": {
+    "handle": "WCIP-SPRINGCREEK-EX-1",
+    "description": "WELLS COMMUNITY INTERNET PROJECT",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

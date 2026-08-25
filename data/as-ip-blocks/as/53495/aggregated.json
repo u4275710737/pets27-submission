@@ -1,0 +1,14 @@
+{
+  "asn": 53495,
+  "metadata": {
+    "handle": "SICOM-ASN",
+    "description": "SICOM Systems Inc",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

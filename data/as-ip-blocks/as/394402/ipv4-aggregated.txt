@@ -1,0 +1,4 @@
+# AS394402 (CHURCH-SCIENTOLOGY-INTL)
+# Church of Scientology International
+#
+192.195.0.0/24

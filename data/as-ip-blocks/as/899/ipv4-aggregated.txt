@@ -1,0 +1,4 @@
+# AS899 (INTRTEL)
+# Intrepid Telecom Inc.
+#
+199.245.200.0/24

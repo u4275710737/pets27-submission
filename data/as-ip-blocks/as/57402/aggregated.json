@@ -1,0 +1,16 @@
+{
+  "asn": 57402,
+  "metadata": {
+    "handle": "PCCWGLOBAL",
+    "description": "Gateway Communications",
+    "countryCode": "BE",
+    "country": "Belgium",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ ]
+  }
+}

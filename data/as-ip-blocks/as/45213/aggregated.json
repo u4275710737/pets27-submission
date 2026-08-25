@@ -1,0 +1,16 @@
+{
+  "asn": 45213,
+  "metadata": {
+    "handle": "USQNET-AS-AP",
+    "description": "University of Southern Queensland",
+    "countryCode": "AU",
+    "country": "Australia",
+    "origin": "authoritative",
+    "category": "education_research",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "139.86.0.0/16" ],
+    "ipv6": [ "2402:6780::/32" ]
+  }
+}

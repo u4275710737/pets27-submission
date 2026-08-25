@@ -1,0 +1,14 @@
+{
+  "asn": 10943,
+  "metadata": {
+    "handle": "AS-ORT2",
+    "description": "OLD REPUBLIC NATIONAL TITLE INSURANCE CO.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

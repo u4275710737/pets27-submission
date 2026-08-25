@@ -1,0 +1,16 @@
+{
+  "asn": 202833,
+  "metadata": {
+    "handle": "BSABADELL2",
+    "description": "Banco de Sabadell SA",
+    "countryCode": "ES",
+    "country": "Spain",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "81.90.102.0/24", "81.90.105.0/24" ],
+    "ipv6": [ ]
+  }
+}

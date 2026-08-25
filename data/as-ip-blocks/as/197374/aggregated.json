@@ -1,0 +1,16 @@
+{
+  "asn": 197374,
+  "metadata": {
+    "handle": "DSTS",
+    "description": "OOO CIFROVYE RESHENIYA",
+    "countryCode": "RU",
+    "country": "Russia",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "195.58.153.0/24" ],
+    "ipv6": [ "2a13:d201:5::/48" ]
+  }
+}

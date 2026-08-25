@@ -1,0 +1,14 @@
+{
+  "asn": 45622,
+  "metadata": {
+    "handle": "SKYBB-PILIPINOCABLE-AS-AP",
+    "description": "SkyBroadband Provincial Network",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 59899,
+  "metadata": {
+    "handle": "OMNIX",
+    "description": "Megaport (Bulgaria) EAD",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

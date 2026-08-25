@@ -1,0 +1,14 @@
+{
+  "asn": 394197,
+  "metadata": {
+    "handle": "GAZETTE-RECORD-INTERNET",
+    "description": "T.H.E. CORPORATION",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "asn": 50882,
+  "metadata": {
+    "handle": "MAXNETT",
+    "description": "Maxnett Ltd.",
+    "countryCode": "GB",
+    "country": "United Kingdom",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "194.28.8.0/22" ],
+    "ipv6": [ ]
+  }
+}

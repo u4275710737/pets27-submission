@@ -1,0 +1,16 @@
+{
+  "asn": 264354,
+  "metadata": {
+    "handle": "TOP-FIBRA",
+    "description": "TOP FIBRA (CARRENHO E PELEGRINO LTDA ME)",
+    "countryCode": "BR",
+    "country": "Brazil",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "131.108.128.0/22" ],
+    "ipv6": [ "2804:1d34::/32" ]
+  }
+}

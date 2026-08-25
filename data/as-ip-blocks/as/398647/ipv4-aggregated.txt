@@ -1,0 +1,4 @@
+# AS398647 (TRITECH-FIBER)
+# Tritech Fiber
+#
+199.73.92.0/22

@@ -1,0 +1,16 @@
+{
+  "asn": 200579,
+  "metadata": {
+    "handle": "HOSTRULLC-AS",
+    "description": "Merenyuk Nikita Vladimirovich",
+    "countryCode": "RU",
+    "country": "Russia",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "23.26.253.0/24", "115.167.96.0/22" ],
+    "ipv6": [ ]
+  }
+}

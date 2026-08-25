@@ -1,0 +1,5 @@
+# AS141600 (IDNIC-VIRIYA-AS-ID)
+# PT Viriya Surya Abadi
+#
+103.160.201.0/24
+160.19.86.0/24

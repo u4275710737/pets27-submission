@@ -1,0 +1,14 @@
+{
+  "asn": 211044,
+  "metadata": {
+    "handle": "SCDN",
+    "description": "Scott Clewlow",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

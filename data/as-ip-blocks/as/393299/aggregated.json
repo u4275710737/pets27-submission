@@ -1,0 +1,14 @@
+{
+  "asn": 393299,
+  "metadata": {
+    "handle": "GOFIBER-SGU",
+    "description": "InfoWest",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

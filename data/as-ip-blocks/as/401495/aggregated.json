@@ -1,0 +1,16 @@
+{
+  "asn": 401495,
+  "metadata": {
+    "handle": "IVA-ASN-1",
+    "description": "IVA",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "198.35.56.0/24" ],
+    "ipv6": [ ]
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 18301,
+  "metadata": {
+    "handle": "DSNET-AS",
+    "description": "ILINKKOREA",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

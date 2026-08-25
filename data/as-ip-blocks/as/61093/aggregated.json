@@ -1,0 +1,16 @@
+{
+  "asn": 61093,
+  "metadata": {
+    "handle": "SC",
+    "description": "Solution Computers Ltd",
+    "countryCode": "GB",
+    "country": "United Kingdom",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "185.19.90.0/23" ],
+    "ipv6": [ ]
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 152132,
+  "metadata": {
+    "handle": "PURESOFT-AP",
+    "description": "Hotmix Group",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "asn": 219496,
+  "metadata": {
+    "handle": "NEROSERV",
+    "description": "neroserv UG (haftungsbeschraenkt)",
+    "countryCode": "DE",
+    "country": "Germany",
+    "origin": "authoritative",
+    "category": null,
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "94.249.241.0/24" ],
+    "ipv6": [ "2a09:3f00:1000::/48" ]
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 149378,
+  "metadata": {
+    "handle": "IDNIC-CNN-AS-ID",
+    "description": "PT Cakrawala Net Nusantara",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

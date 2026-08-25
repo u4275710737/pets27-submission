@@ -1,0 +1,20 @@
+{
+  "asn": 45682,
+  "metadata": {
+    "handle": "EXCITE",
+    "description": "Excite Japan Co.,Ltd.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [
+      "180.189.10.0/24",
+      "180.235.96.0/21"
+    ],
+    "ipv6": [
+      "2402:dc00::/32",
+      "2407:b000:4011::/48"
+    ]
+  }
+}

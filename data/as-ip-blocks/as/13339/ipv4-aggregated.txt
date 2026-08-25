@@ -1,0 +1,4 @@
+# AS13339 (ONGAME-SERVICES-AB)
+# Ongame Services AB
+#
+50.204.152.0/24

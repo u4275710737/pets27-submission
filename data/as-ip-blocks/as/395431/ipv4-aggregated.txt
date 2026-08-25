@@ -1,0 +1,4 @@
+# AS395431 (IGTCANSOL)
+# IGT Canada Solutions
+#
+198.164.10.0/24

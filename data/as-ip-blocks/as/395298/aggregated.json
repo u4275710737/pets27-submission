@@ -1,0 +1,14 @@
+{
+  "asn": 395298,
+  "metadata": {
+    "handle": "HAPPIERIT",
+    "description": "Happier IT Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

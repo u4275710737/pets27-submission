@@ -1,0 +1,16 @@
+{
+  "asn": 62586,
+  "metadata": {
+    "handle": "TRACEONE-ASN",
+    "description": "Trace One Ltd",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "162.217.244.0/22" ],
+    "ipv6": [ ]
+  }
+}

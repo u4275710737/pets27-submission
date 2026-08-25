@@ -1,0 +1,14 @@
+{
+  "asn": 32571,
+  "metadata": {
+    "handle": "TLSNET-A",
+    "description": "tls.net, Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

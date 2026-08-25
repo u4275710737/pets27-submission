@@ -1,0 +1,16 @@
+{
+  "asn": 200310,
+  "metadata": {
+    "handle": "EMESSAGE",
+    "description": "SILICON VALLET SARL",
+    "countryCode": "FR",
+    "country": "France",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "5.45.40.0/22" ],
+    "ipv6": [ ]
+  }
+}

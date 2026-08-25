@@ -1,0 +1,5 @@
+# AS136189 (ASIA-OPERA)
+# Opera Software Technology (Beijing) Co. Ltd.
+#
+103.83.120.0/22
+203.89.100.0/22

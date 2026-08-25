@@ -1,0 +1,16 @@
+{
+  "asn": 62917,
+  "metadata": {
+    "handle": "GIGABIT-FIBER",
+    "description": "Gigabit Fiber LLC",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "access_provider"
+  },
+  "prefixes": {
+    "ipv4": [ "162.249.32.0/22", "172.83.32.0/21", "199.87.248.0/22" ],
+    "ipv6": [ "2604:82c0::/40", "2604:82c0:400::/38", "2604:82c0:1000::/40" ]
+  }
+}

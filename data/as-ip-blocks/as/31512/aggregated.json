@@ -1,0 +1,16 @@
+{
+  "asn": 31512,
+  "metadata": {
+    "handle": "LOGICA-AS",
+    "description": "OJSC Telecommunications FEZ Nakhodka",
+    "countryCode": "RU",
+    "country": "Russia",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "217.149.20.0/24", "217.149.27.0/24", "217.149.28.0/24" ],
+    "ipv6": [ ]
+  }
+}

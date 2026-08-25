@@ -1,0 +1,14 @@
+{
+  "asn": 40894,
+  "metadata": {
+    "handle": "INSOL-ASN-01",
+    "description": "Insol",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "asn": 213832,
+  "metadata": {
+    "handle": "LAYERSENTRY-AS",
+    "description": "LayerSentry LLC",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "195.162.245.0/24" ],
+    "ipv6": [ ]
+  }
+}

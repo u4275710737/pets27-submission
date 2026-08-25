@@ -1,0 +1,4 @@
+# AS21308 (ITMUA-AS)
+# Synapse Ukraine LLC
+#
+2001:67c:e00::/48

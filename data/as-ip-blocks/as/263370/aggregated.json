@@ -1,0 +1,14 @@
+{
+  "asn": 263370,
+  "metadata": {
+    "handle": "B-B-INFORMATICA",
+    "description": "B B INFORMATICA LTDA",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

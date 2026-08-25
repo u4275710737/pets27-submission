@@ -1,0 +1,14 @@
+{
+  "asn": 50823,
+  "metadata": {
+    "handle": "PBXHOSTING",
+    "description": "PBX Hosting Ltd",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

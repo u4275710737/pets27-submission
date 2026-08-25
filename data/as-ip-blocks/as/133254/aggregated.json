@@ -1,0 +1,14 @@
+{
+  "asn": 133254,
+  "metadata": {
+    "handle": "DELTATNJ-IN",
+    "description": "DELTA LIGHT ENTERPRISES",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,4 @@
+# AS272775 (COSTA-RODRIGUES-SERVICO)
+# costa & rodrigues serviço de telecomunicações ltda
+#
+38.56.81.0/24

@@ -1,0 +1,6 @@
+# AS139345 (HYVEMANAGEDHOSTINGCORPINC-AS-AP)
+# Hyve Managed Hosting Corp Inc
+#
+2001:df0:fd80::/48
+2402:53e0:2::/47
+2a0b:3540:10::/47

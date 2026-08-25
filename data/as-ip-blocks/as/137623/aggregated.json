@@ -1,0 +1,14 @@
+{
+  "asn": 137623,
+  "metadata": {
+    "handle": "BSTPL-IN",
+    "description": "Bloodstone Technologies Pvt. Ltd.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

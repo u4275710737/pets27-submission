@@ -1,0 +1,14 @@
+{
+  "asn": 52051,
+  "metadata": {
+    "handle": "OXI",
+    "description": "Opteamax GmbH",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

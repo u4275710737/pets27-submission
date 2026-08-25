@@ -1,0 +1,14 @@
+{
+  "asn": 263817,
+  "metadata": {
+    "handle": "REDCA-RED-CENTROAMERICANA",
+    "description": "REDCA - RED CENTROAMERICANA DE TELECOMUNICACIONES",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

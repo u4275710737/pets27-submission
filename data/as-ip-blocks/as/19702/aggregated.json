@@ -1,0 +1,14 @@
+{
+  "asn": 19702,
+  "metadata": {
+    "handle": "FITCH-COLO-01",
+    "description": "FITCH INC.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

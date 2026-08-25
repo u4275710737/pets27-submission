@@ -1,0 +1,14 @@
+{
+  "asn": 151533,
+  "metadata": {
+    "handle": "IDNIC-OPTIMA-ID",
+    "description": "PT. Sarana Optima Berdikari",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

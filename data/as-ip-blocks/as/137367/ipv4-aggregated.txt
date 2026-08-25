@@ -1,0 +1,4 @@
+# AS137367 (IFORTE-NAP-AS-ID)
+# PT iForte Solusi Infotek
+#
+103.116.219.0/24

@@ -1,0 +1,14 @@
+{
+  "asn": 15829,
+  "metadata": {
+    "handle": "EUTELSAT",
+    "description": "Eutelsat S.A.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

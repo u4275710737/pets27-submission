@@ -1,0 +1,5 @@
+# AS152384 (IDNIC-DIGINESIA-AS-ID)
+# PT Digitama Network Indonesia
+#
+157.15.80.0/24
+163.223.37.0/24

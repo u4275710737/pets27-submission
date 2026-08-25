@@ -1,0 +1,14 @@
+{
+  "asn": 204087,
+  "metadata": {
+    "handle": "PLAYSTAR",
+    "description": "Playstar",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

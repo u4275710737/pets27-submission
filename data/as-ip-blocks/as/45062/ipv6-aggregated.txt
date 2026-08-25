@@ -1,0 +1,6 @@
+# AS45062 (NETEASY-AS)
+# Guangzhou NetEasy Computer System Co. Ltd.
+#
+2403:c80::/32
+2407:ad80::/32
+2407:ae80::/32

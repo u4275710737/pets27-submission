@@ -1,0 +1,4 @@
+# AS18792 (MEME)
+# Meme Holdings LLC
+#
+2602:80b:5000::/48

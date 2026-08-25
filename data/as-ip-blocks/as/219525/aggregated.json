@@ -1,0 +1,16 @@
+{
+  "asn": 219525,
+  "metadata": {
+    "handle": "DALENETWORKS",
+    "description": "Jevin Dale",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ "2a06:9801:2f8::/48" ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "asn": 272087,
+  "metadata": {
+    "handle": "INSTITUTO-FINANCIAMIENTO-PROMOCION",
+    "description": "INSTITUTO DE FINANCIAMIENTO PROMOCION Y DESARROLLO DE MANIZALES",
+    "countryCode": "CO",
+    "country": "Colombia",
+    "origin": "authoritative",
+    "category": "education_research",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ ]
+  }
+}

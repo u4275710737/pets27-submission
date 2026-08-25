@@ -1,0 +1,14 @@
+{
+  "asn": 62530,
+  "metadata": {
+    "handle": "MEDQUEST",
+    "description": "MedQuest Pharmacy",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 40023,
+  "metadata": {
+    "handle": "ARBONNEINTERNATIONAL",
+    "description": "Arbonne International, Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

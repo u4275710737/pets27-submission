@@ -1,0 +1,4 @@
+# AS137883 (SKCOMMUNICATION-AS-AP)
+# SK Communication
+#
+202.37.104.0/23

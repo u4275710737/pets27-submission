@@ -1,0 +1,16 @@
+{
+  "asn": 52280,
+  "metadata": {
+    "handle": "INTERNEXA-CHILE",
+    "description": "INTERNEXA Chile S.A.",
+    "countryCode": "CL",
+    "country": "Chile",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "190.211.160.0/20" ],
+    "ipv6": [ ]
+  }
+}

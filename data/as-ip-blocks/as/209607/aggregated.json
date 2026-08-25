@@ -1,0 +1,14 @@
+{
+  "asn": 209607,
+  "metadata": {
+    "handle": "WHIRL",
+    "description": "LLC Whirl Software Ukraine",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

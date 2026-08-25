@@ -1,0 +1,14 @@
+{
+  "asn": 60626,
+  "metadata": {
+    "handle": "LEASEWEB",
+    "description": "LeaseWeb Network B.V.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

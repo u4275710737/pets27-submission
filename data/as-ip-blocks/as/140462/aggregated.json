@@ -1,0 +1,14 @@
+{
+  "asn": 140462,
+  "metadata": {
+    "handle": "MANDALANET-ID",
+    "description": "PT Mandala Desa Warnana",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

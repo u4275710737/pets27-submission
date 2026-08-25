@@ -1,0 +1,4 @@
+# AS11269 (LINK-BERMUDA-AS)
+# LinkBermuda
+#
+2605:e80::/32

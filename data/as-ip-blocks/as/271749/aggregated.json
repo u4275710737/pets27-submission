@@ -1,0 +1,16 @@
+{
+  "asn": 271749,
+  "metadata": {
+    "handle": "ARKATEL-SERVICOS-EM",
+    "description": "ARKATEL SERVICOS EM TELECOMUNICACOES EIRELI",
+    "countryCode": "BR",
+    "country": "Brazil",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "179.0.194.0/23", "200.10.236.0/23" ],
+    "ipv6": [ "2804:806c::/32" ]
+  }
+}

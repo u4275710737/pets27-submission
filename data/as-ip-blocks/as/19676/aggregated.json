@@ -1,0 +1,14 @@
+{
+  "asn": 19676,
+  "metadata": {
+    "handle": "SWIFT-GLOBAL",
+    "description": "Liquid Telecommunications Operations Limited",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,4 @@
+# AS199810 (UMBB-INET)
+# Miasto Bielsko-Biala
+#
+185.43.136.0/22

@@ -1,0 +1,14 @@
+{
+  "asn": 14683,
+  "metadata": {
+    "handle": "WILSHIREASSOCIATESINC",
+    "description": "Wilshire Associates Incorporated",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

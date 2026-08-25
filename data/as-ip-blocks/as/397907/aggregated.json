@@ -1,0 +1,14 @@
+{
+  "asn": 397907,
+  "metadata": {
+    "handle": "865",
+    "description": "AEG",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

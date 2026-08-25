@@ -1,0 +1,16 @@
+{
+  "asn": 153737,
+  "metadata": {
+    "handle": "CLOUD4-AS-AP",
+    "description": "Cloud View",
+    "countryCode": "BD",
+    "country": "Bangladesh",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "210.56.145.0/24" ],
+    "ipv6": [ ]
+  }
+}

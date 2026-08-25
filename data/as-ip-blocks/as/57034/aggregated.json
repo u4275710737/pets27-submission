@@ -1,0 +1,14 @@
+{
+  "asn": 57034,
+  "metadata": {
+    "handle": "FIBER-SPACE",
+    "description": "Fiber Space Solutions SRL",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

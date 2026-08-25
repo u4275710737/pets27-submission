@@ -1,0 +1,14 @@
+{
+  "asn": 136778,
+  "metadata": {
+    "handle": "AIJIASU-AS-AP",
+    "description": "HONGKONG AI JIA SU NETWORK CO. LIMITED",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 136444,
+  "metadata": {
+    "handle": "CHTSECURITY-AP",
+    "description": "Chung Hwa Zi An International Co., Limited",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

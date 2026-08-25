@@ -1,0 +1,4 @@
+# AS131866 (DEK-AS)
+# Digital Edge Korea
+#
+2400:fd60::/48

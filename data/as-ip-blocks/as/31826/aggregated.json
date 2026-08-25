@@ -1,0 +1,14 @@
+{
+  "asn": 31826,
+  "metadata": {
+    "handle": "MICRO-CENTER",
+    "description": "Micro Center",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

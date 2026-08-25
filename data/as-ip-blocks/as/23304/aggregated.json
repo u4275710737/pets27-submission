@@ -1,0 +1,16 @@
+{
+  "asn": 23304,
+  "metadata": {
+    "handle": "DATOTEL-STL-AS",
+    "description": "Datotel LLC a NetLabs LLC Company",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "access_provider"
+  },
+  "prefixes": {
+    "ipv4": [ "8.21.51.0/24", "199.30.241.0/24", "208.75.80.0/21", "208.82.144.0/21" ],
+    "ipv6": [ ]
+  }
+}

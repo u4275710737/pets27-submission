@@ -1,0 +1,16 @@
+{
+  "asn": 328357,
+  "metadata": {
+    "handle": "CASTLENET-AS",
+    "description": "Castlenet Consulting Limited",
+    "countryCode": "NG",
+    "country": "Nigeria",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "102.131.36.0/23" ],
+    "ipv6": [ ]
+  }
+}

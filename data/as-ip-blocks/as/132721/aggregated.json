@@ -1,0 +1,16 @@
+{
+  "asn": 132721,
+  "metadata": {
+    "handle": "GNADS-AS-AP",
+    "description": "Gartech Network and Data Solution",
+    "countryCode": "PH",
+    "country": "Philippines",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "162.4.0.0/23" ],
+    "ipv6": [ ]
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 63143,
+  "metadata": {
+    "handle": "GSRTP01",
+    "description": "Green Shoot Group LLC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

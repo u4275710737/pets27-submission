@@ -1,0 +1,16 @@
+{
+  "asn": 327774,
+  "metadata": {
+    "handle": "TPB-AS",
+    "description": "Tanzania Postal Bank",
+    "countryCode": "TZ",
+    "country": "Tanzania",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "196.13.133.0/24" ],
+    "ipv6": [ ]
+  }
+}

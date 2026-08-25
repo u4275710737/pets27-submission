@@ -1,0 +1,16 @@
+{
+  "asn": 206611,
+  "metadata": {
+    "handle": "PROVIDER-ISP",
+    "description": "ScopeSky for communications internet and technology services LLC",
+    "countryCode": "IQ",
+    "country": "Iraq",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "185.98.157.0/24" ],
+    "ipv6": [ ]
+  }
+}

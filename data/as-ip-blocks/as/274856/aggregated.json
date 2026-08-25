@@ -1,0 +1,16 @@
+{
+  "asn": 274856,
+  "metadata": {
+    "handle": "ONETEL-ONE-TELECOM",
+    "description": "ONETEL ONE TELECOM S.A.",
+    "countryCode": "EC",
+    "country": "Ecuador",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "access_provider"
+  },
+  "prefixes": {
+    "ipv4": [ "123.200.255.0/24" ],
+    "ipv6": [ "2803:e230::/32" ]
+  }
+}

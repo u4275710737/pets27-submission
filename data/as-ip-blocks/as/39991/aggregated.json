@@ -1,0 +1,14 @@
+{
+  "asn": 39991,
+  "metadata": {
+    "handle": "CORELOCATED-CORP",
+    "description": "Core Located Global LLC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

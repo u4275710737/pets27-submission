@@ -1,0 +1,16 @@
+{
+  "asn": 274651,
+  "metadata": {
+    "handle": "HC4W-SOLUCOES-EM",
+    "description": "HC4W - SOLUCOES EM TECNOLOGIA E HOSPEDAGEM LTDA",
+    "countryCode": "BR",
+    "country": "Brazil",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "200.9.22.0/24" ],
+    "ipv6": [ "2801:81:70::/48" ]
+  }
+}

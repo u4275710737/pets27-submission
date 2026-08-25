@@ -1,0 +1,4 @@
+# AS147009 (ADINANET-AS-AP)
+# Adina Net
+#
+2001:df3:2e40::/48

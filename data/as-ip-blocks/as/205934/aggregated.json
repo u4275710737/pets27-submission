@@ -1,0 +1,16 @@
+{
+  "asn": 205934,
+  "metadata": {
+    "handle": "IM-AS",
+    "description": "Instytut Mechaniki Sp. z o.o.",
+    "countryCode": "PL",
+    "country": "Poland",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "195.245.235.0/24" ],
+    "ipv6": [ "2a0b:a340::/32" ]
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 47805,
+  "metadata": {
+    "handle": "MCIT",
+    "description": "Ministry of Communications and Information Technology",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

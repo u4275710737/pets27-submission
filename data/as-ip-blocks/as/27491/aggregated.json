@@ -1,0 +1,14 @@
+{
+  "asn": 27491,
+  "metadata": {
+    "handle": "NATIONAL-FINANCIAL-PARTNERS-CORP",
+    "description": "NATIONAL FINANCIAL PARTNERS CORP.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

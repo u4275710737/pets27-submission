@@ -1,0 +1,14 @@
+{
+  "asn": 3785,
+  "metadata": {
+    "handle": "ASN1",
+    "description": "Dr. Leonard's Healthcare Corp.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,5 @@
+# AS138550 (JAGANNATHUNI-AS-AP)
+# Jagannath University
+#
+103.132.184.0/24
+103.148.250.0/24

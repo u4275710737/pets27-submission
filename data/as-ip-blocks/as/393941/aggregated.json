@@ -1,0 +1,16 @@
+{
+  "asn": 393941,
+  "metadata": {
+    "handle": "PRIMARY-AS393941",
+    "description": "Flying Man Studio LLC.",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "198.29.64.0/23" ],
+    "ipv6": [ "2602:80b:4000::/44", "2620:11f:d001::/48", "2620:11f:d002::/47", "2620:11f:d00a::/47", "2620:11f:d00c::/48", "2620:11f:d00e::/47" ]
+  }
+}

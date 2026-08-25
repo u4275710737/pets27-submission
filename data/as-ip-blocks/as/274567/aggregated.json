@@ -1,0 +1,16 @@
+{
+  "asn": 274567,
+  "metadata": {
+    "handle": "MS-MARQUES-SERVICOS",
+    "description": "Ms marques serviços de banda larga eireli",
+    "countryCode": "BR",
+    "country": "Brazil",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ "2804:9614::/32" ]
+  }
+}

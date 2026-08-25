@@ -1,0 +1,4 @@
+# AS138035 (NVS-INHY-AS-AP)
+# Novartis Singapore Pte Ltd
+#
+103.187.183.0/24

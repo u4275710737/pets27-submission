@@ -1,0 +1,16 @@
+{
+  "asn": 215892,
+  "metadata": {
+    "handle": "POOYESHAXE-IR",
+    "description": "Pooyesh Axe Information and Communication Technology PJS",
+    "countryCode": "IR",
+    "country": "Iran",
+    "origin": "authoritative",
+    "category": null,
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ ]
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 202432,
+  "metadata": {
+    "handle": "AS202432",
+    "description": "IT Service Profit OOO",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

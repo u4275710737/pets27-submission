@@ -1,0 +1,5 @@
+# AS45168 (NINET-AS-NF-AP)
+# Norfolk Telecom
+#
+103.43.204.0/23
+203.142.221.0/24

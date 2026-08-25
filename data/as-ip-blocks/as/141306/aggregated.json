@@ -1,0 +1,14 @@
+{
+  "asn": 141306,
+  "metadata": {
+    "handle": "CDIT-AS",
+    "description": "Centre For Development Of Imaging Technology",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

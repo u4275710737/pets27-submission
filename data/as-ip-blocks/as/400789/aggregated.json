@@ -1,0 +1,14 @@
+{
+  "asn": 400789,
+  "metadata": {
+    "handle": "STREAMLINE",
+    "description": "Streamline",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,4 @@
+# AS1547 (IDK-NETWORK)
+# INTERDNESTRKOM Sovmestnoe Zakrytoe Aktsionernoe Obshchestvo
+#
+2a03:f680::/32

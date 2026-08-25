@@ -1,0 +1,14 @@
+{
+  "asn": 140615,
+  "metadata": {
+    "handle": "HONGLEONGBANK-AP",
+    "description": "Hong Leong Bank Berhad",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

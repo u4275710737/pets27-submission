@@ -1,0 +1,14 @@
+{
+  "asn": 141661,
+  "metadata": {
+    "handle": "IDNIC-M2NET-ID",
+    "description": "PT Madiun Multimedia",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

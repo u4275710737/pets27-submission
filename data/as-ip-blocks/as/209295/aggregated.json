@@ -1,0 +1,16 @@
+{
+  "asn": 209295,
+  "metadata": {
+    "handle": "AS-TSUKERU",
+    "description": "Romain Lecat",
+    "countryCode": "FR",
+    "country": "France",
+    "origin": "authoritative",
+    "category": "education_research",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ ]
+  }
+}

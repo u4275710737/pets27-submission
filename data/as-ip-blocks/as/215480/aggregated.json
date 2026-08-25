@@ -1,0 +1,14 @@
+{
+  "asn": 215480,
+  "metadata": {
+    "handle": "TAKANET",
+    "description": "Mehrdad Roshanaei",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "asn": 138550,
+  "metadata": {
+    "handle": "JAGANNATHUNI-AS-AP",
+    "description": "Jagannath University",
+    "countryCode": "BD",
+    "country": "Bangladesh",
+    "origin": "authoritative",
+    "category": "education_research",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "103.132.184.0/24", "103.148.250.0/24" ],
+    "ipv6": [ ]
+  }
+}

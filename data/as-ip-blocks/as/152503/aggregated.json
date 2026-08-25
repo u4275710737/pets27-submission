@@ -1,0 +1,14 @@
+{
+  "asn": 152503,
+  "metadata": {
+    "handle": "ACTIVETE-IN",
+    "description": "ACTIVETELE COMMUNICATION",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 136770,
+  "metadata": {
+    "handle": "LKGPL-AP",
+    "description": "Liquid Knowledge Group (LKG) Pty Ltd",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

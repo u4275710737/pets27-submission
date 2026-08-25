@@ -1,0 +1,14 @@
+{
+  "asn": 27497,
+  "metadata": {
+    "handle": "CENTURYLINK-RESERVED-IPADMIN",
+    "description": "CenturyLink Communications LLC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

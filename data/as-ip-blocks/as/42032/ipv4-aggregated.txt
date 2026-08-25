@@ -1,0 +1,6 @@
+# AS42032 (ASCOMMUNITY)
+# Sandro Bolliger trading as Bolliger Network Solutions
+#
+45.14.60.0/22
+185.119.105.0/24
+185.119.106.0/24

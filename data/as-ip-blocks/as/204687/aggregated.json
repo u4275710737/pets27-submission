@@ -1,0 +1,14 @@
+{
+  "asn": 204687,
+  "metadata": {
+    "handle": "A2NET",
+    "description": "A2 Networks Inc",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 63761,
+  "metadata": {
+    "handle": "MAXDATA-VN",
+    "description": "Cong ty TNHH Dich vu truc tuyen Maxdata",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

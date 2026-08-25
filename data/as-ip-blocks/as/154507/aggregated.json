@@ -1,0 +1,16 @@
+{
+  "asn": 154507,
+  "metadata": {
+    "handle": "NEXAROOT-AS-AP",
+    "description": "NEXAROOT TECHNOLOGY INDIA PRIVATE LIMITED",
+    "countryCode": "IN",
+    "country": "India",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "151.158.180.0/23" ],
+    "ipv6": [ ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "asn": 401390,
+  "metadata": {
+    "handle": "ROUTEX",
+    "description": "USA PERFORMANCE PRODUCTS INC.",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "149.112.131.0/24" ],
+    "ipv6": [ ]
+  }
+}

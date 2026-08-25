@@ -1,0 +1,14 @@
+{
+  "asn": 57690,
+  "metadata": {
+    "handle": "INTERPHONE",
+    "description": "INTERPHONE GROUP LLC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

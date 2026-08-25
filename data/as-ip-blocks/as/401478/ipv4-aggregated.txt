@@ -1,0 +1,5 @@
+# AS401478 (WABASH-MUTUAL-TELEPHONE)
+# Wabash Mutual Telephone Company
+#
+140.235.148.0/22
+155.103.200.0/22

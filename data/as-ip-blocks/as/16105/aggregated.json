@@ -1,0 +1,14 @@
+{
+  "asn": 16105,
+  "metadata": {
+    "handle": "DIAMOND-DOGS",
+    "description": "diamond dogs web consulting GmbH",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

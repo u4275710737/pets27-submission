@@ -1,0 +1,14 @@
+{
+  "asn": 394014,
+  "metadata": {
+    "handle": "SSASN-01",
+    "description": "Solutionstar Settlement Service LLC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "asn": 5994,
+  "metadata": {
+    "handle": "DNIC-ASBLK-0-06055",
+    "description": "DoD Network Information Center",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [
+      "214.25.86.0/23",
+      "214.25.88.0/21",
+      "214.27.200.0/21"
+    ],
+    "ipv6": []
+  }
+}

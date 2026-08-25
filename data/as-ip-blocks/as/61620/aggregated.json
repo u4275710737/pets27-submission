@@ -1,0 +1,16 @@
+{
+  "asn": 61620,
+  "metadata": {
+    "handle": "FLOWSPEC-SOLUTIONS",
+    "description": "FLOWSPEC SOLUTIONS",
+    "countryCode": "BR",
+    "country": "Brazil",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "access_provider"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ "2804:90d0::/32" ]
+  }
+}

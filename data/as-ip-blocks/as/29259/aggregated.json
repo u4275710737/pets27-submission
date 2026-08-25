@@ -1,0 +1,16 @@
+{
+  "asn": 29259,
+  "metadata": {
+    "handle": "DE-IABG-TELEPORT",
+    "description": "IABG Teleport GmbH",
+    "countryCode": "DE",
+    "country": "Germany",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "83.170.0.0/18", "84.11.0.0/16" ],
+    "ipv6": [ "2001:1b10::/32" ]
+  }
+}

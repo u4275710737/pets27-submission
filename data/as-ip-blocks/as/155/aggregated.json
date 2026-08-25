@@ -1,0 +1,16 @@
+{
+  "asn": 155,
+  "metadata": {
+    "handle": "DNIC-AS-00155",
+    "description": "United States Department of Defense (DoD)",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "government_admin",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "131.77.247.0/24", "205.64.0.0/24" ],
+    "ipv6": [ ]
+  }
+}

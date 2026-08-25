@@ -1,0 +1,16 @@
+{
+  "asn": 137633,
+  "metadata": {
+    "handle": "GIGALINE-AS",
+    "description": "Gigaline Teleservices Opc Private Limited",
+    "countryCode": "IN",
+    "country": "India",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "103.49.167.0/24", "103.171.55.0/24", "103.189.244.0/24" ],
+    "ipv6": [ ]
+  }
+}

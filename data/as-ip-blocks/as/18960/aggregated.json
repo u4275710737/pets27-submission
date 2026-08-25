@@ -1,0 +1,14 @@
+{
+  "asn": 18960,
+  "metadata": {
+    "handle": "HORNELL-INTERNET-PRIMARY",
+    "description": "Hornell Brewing Co. Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 35659,
+  "metadata": {
+    "handle": "GN-AS",
+    "description": "GERMAN NETWORK GMBH",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

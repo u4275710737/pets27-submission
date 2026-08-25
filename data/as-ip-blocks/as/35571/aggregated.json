@@ -1,0 +1,14 @@
+{
+  "asn": 35571,
+  "metadata": {
+    "handle": "COMSERVICE",
+    "description": "JSC MultiLine",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

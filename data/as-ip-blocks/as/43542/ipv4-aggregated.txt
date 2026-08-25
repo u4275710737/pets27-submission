@@ -1,0 +1,4 @@
+# AS43542 (OPTONET-AS)
+# OptoNet Communication spol. s.r.o.
+#
+78.156.128.0/19

@@ -1,0 +1,4 @@
+# AS133226 (RURIC-AS-IN)
+# Ruric Private Limited
+#
+2400:8180:31::/48

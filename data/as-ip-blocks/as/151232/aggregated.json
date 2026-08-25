@@ -1,0 +1,16 @@
+{
+  "asn": 151232,
+  "metadata": {
+    "handle": "SCRUISU",
+    "description": "Sichuan Ruisu Technology Co. LTD",
+    "countryCode": "CN",
+    "country": "China",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "103.45.129.0/24", "103.45.144.0/24", "103.213.144.0/23", "140.210.0.0/24" ],
+    "ipv6": [ ]
+  }
+}

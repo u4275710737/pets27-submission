@@ -1,0 +1,14 @@
+{
+  "asn": 329343,
+  "metadata": {
+    "handle": "SOMOTT",
+    "description": "SOMOTT",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

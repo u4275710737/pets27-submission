@@ -1,0 +1,14 @@
+{
+  "asn": 394338,
+  "metadata": {
+    "handle": "EDMENTUM",
+    "description": "Edmentum, Inc",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

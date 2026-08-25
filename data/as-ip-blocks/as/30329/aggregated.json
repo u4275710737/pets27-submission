@@ -1,0 +1,14 @@
+{
+  "asn": 30329,
+  "metadata": {
+    "handle": "SPARKPLUG-SOUTHWEST-LLC",
+    "description": "Sparkplug Southwest, LLC.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

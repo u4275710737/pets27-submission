@@ -1,0 +1,16 @@
+{
+  "asn": 211092,
+  "metadata": {
+    "handle": "UCOM-Q",
+    "description": "Ucom CJSC",
+    "countryCode": "AM",
+    "country": "Armenia",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "185.213.241.0/24" ],
+    "ipv6": [ ]
+  }
+}

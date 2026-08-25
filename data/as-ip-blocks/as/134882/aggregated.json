@@ -1,0 +1,14 @@
+{
+  "asn": 134882,
+  "metadata": {
+    "handle": "FIBRETALK-IN",
+    "description": "FIBRE TALK PRIVATE LIMITED",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

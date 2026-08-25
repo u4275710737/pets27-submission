@@ -1,0 +1,14 @@
+{
+  "asn": 47706,
+  "metadata": {
+    "handle": "PRINOVIS-NET",
+    "description": "Prinovis Verwaltungs GmbH",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 30407,
+  "metadata": {
+    "handle": "VELCOM",
+    "description": "Velcom",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

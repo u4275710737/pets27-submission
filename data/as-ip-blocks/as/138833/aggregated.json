@@ -1,0 +1,14 @@
+{
+  "asn": 138833,
+  "metadata": {
+    "handle": "IDNIC-AIG-AS-ID",
+    "description": "PT Andi Internet Globalindo",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

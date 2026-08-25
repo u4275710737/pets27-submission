@@ -1,0 +1,16 @@
+{
+  "asn": 211040,
+  "metadata": {
+    "handle": "MS2001",
+    "description": "MS 2001 Aps",
+    "countryCode": "DK",
+    "country": "Denmark",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "87.238.254.0/23", "195.190.31.0/24" ],
+    "ipv6": [ ]
+  }
+}

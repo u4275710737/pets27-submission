@@ -1,0 +1,14 @@
+{
+  "asn": 63339,
+  "metadata": {
+    "handle": "AS-VLAYER",
+    "description": "Netrouting Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 9910,
+  "metadata": {
+    "handle": "REMOTEISPPTYLTD-AP",
+    "description": "RemoteISP Pty Ltd",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

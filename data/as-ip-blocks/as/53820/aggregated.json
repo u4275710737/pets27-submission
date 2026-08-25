@@ -1,0 +1,16 @@
+{
+  "asn": 53820,
+  "metadata": {
+    "handle": "CSUR",
+    "description": "Coop de solidarite du Suroit-CSUR",
+    "countryCode": "CA",
+    "country": "Canada",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "74.114.16.0/21", "165.140.172.0/22" ],
+    "ipv6": [ ]
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 211578,
+  "metadata": {
+    "handle": "OKSUMTELEKOMUNIKASYON",
+    "description": "Emrecan Oksum",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 272633,
+  "metadata": {
+    "handle": "SR-COMUNICACOES",
+    "description": "SR COMUNICA\u00c7\u00d5ES LTDA",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

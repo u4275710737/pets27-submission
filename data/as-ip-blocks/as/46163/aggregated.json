@@ -1,0 +1,14 @@
+{
+  "asn": 46163,
+  "metadata": {
+    "handle": "MOODYS",
+    "description": "Moody's Corp.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

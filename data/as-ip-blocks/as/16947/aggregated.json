@@ -1,0 +1,14 @@
+{
+  "asn": 16947,
+  "metadata": {
+    "handle": "MIMEOCOMINC",
+    "description": "Mimeo.com, INC.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

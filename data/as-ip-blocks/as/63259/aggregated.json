@@ -1,0 +1,14 @@
+{
+  "asn": 63259,
+  "metadata": {
+    "handle": "WCAPITAL",
+    "description": "W Capital Management LLC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

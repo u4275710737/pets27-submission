@@ -1,0 +1,16 @@
+{
+  "asn": 199756,
+  "metadata": {
+    "handle": "DPWORLDBE",
+    "description": "DP World Antwerp Ports & Terminals NV",
+    "countryCode": "BE",
+    "country": "Belgium",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "185.47.68.0/23" ],
+    "ipv6": [ ]
+  }
+}

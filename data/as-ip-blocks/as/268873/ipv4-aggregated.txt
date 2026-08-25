@@ -1,0 +1,4 @@
+# AS268873 (SINDELAR-SERVICOS-INTERNET)
+# Sindelar Serviços de Internet Ltda
+#
+45.174.236.0/22

@@ -1,0 +1,14 @@
+{
+  "asn": 134159,
+  "metadata": {
+    "handle": "NMSTL-AP",
+    "description": "NMS TECHNOLOGIES LTD",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

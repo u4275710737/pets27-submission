@@ -1,0 +1,16 @@
+{
+  "asn": 266989,
+  "metadata": {
+    "handle": "ETH-ENTERPRISE-TECNOLOGIA",
+    "description": "ETH ENTERPRISE TECNOLOGIA LTDA",
+    "countryCode": "BR",
+    "country": "Brazil",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "access_provider"
+  },
+  "prefixes": {
+    "ipv4": [ "45.226.80.0/22" ],
+    "ipv6": [ "2804:4670::/32" ]
+  }
+}

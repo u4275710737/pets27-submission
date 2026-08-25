@@ -1,0 +1,14 @@
+{
+  "asn": 54872,
+  "metadata": {
+    "handle": "PMHALLIANCE",
+    "description": "Pennsylvania Mountains Healthcare Alliance LLC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

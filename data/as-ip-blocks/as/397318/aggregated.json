@@ -1,0 +1,14 @@
+{
+  "asn": 397318,
+  "metadata": {
+    "handle": "CALIX-UT-SLC",
+    "description": "Calix, Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

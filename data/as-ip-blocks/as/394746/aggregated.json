@@ -1,0 +1,14 @@
+{
+  "asn": 394746,
+  "metadata": {
+    "handle": "AMERICAN-HOME-SHIELD",
+    "description": "American Home Shield Corporation",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "asn": 198798,
+  "metadata": {
+    "handle": "OFLI-AS",
+    "description": "OFFICE LIMITED",
+    "countryCode": "GB",
+    "country": "United Kingdom",
+    "origin": "authoritative",
+    "category": "government_admin",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "45.135.140.0/22" ],
+    "ipv6": [ ]
+  }
+}

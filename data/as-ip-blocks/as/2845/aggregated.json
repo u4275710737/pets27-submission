@@ -1,0 +1,14 @@
+{
+  "asn": 2845,
+  "metadata": {
+    "handle": "LUND-UNIVERSITY",
+    "description": "Lund University",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

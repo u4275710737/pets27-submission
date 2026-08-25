@@ -1,0 +1,14 @@
+{
+  "asn": 150250,
+  "metadata": {
+    "handle": "IDNIC-AIYESNET-ID",
+    "description": "PT Sarana Jaringan Indonesia",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

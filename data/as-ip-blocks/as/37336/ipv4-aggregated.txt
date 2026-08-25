@@ -1,0 +1,4 @@
+# AS37336 (UCOM-WIC)
+# UCOM Burundi
+#
+41.79.44.0/22

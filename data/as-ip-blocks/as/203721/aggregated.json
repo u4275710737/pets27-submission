@@ -1,0 +1,16 @@
+{
+  "asn": 203721,
+  "metadata": {
+    "handle": "GS1-DATA-SYSTEMS",
+    "description": "GS1 DATA SYSTEMS SRL",
+    "countryCode": "RO",
+    "country": "Romania",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "217.156.15.0/24" ],
+    "ipv6": [ ]
+  }
+}

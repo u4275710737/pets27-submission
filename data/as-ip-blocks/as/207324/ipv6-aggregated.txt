@@ -1,0 +1,4 @@
+# AS207324 (TIERSBOX)
+# Tiersbox SCOP
+#
+2a10:6c0::/29

@@ -1,0 +1,16 @@
+{
+  "asn": 19453,
+  "metadata": {
+    "handle": "TWRS-RI",
+    "description": "Towerstream I Inc.",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "64.17.230.0/24", "64.17.232.0/21" ],
+    "ipv6": [ ]
+  }
+}

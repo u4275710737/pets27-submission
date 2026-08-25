@@ -1,0 +1,14 @@
+{
+  "asn": 24043,
+  "metadata": {
+    "handle": "DATAPIPE-HK-AP",
+    "description": "DataPipe",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

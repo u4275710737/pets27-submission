@@ -1,0 +1,16 @@
+{
+  "asn": 208355,
+  "metadata": {
+    "handle": "YAMNET",
+    "description": "YAM DIGITAL ALTYAPI VE VERI HIZMETLERI A.S.",
+    "countryCode": "TR",
+    "country": "Türkiye",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "95.133.139.0/24" ],
+    "ipv6": [ ]
+  }
+}

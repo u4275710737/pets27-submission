@@ -1,0 +1,14 @@
+{
+  "asn": 133488,
+  "metadata": {
+    "handle": "SERVICE-AS-AP",
+    "description": "service limited",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

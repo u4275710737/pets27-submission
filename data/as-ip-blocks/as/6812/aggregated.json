@@ -1,0 +1,14 @@
+{
+  "asn": 6812,
+  "metadata": {
+    "handle": "VS-VGN-EMEA",
+    "description": "EMC Information Systems International PUC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

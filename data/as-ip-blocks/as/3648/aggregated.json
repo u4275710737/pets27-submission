@@ -1,0 +1,14 @@
+{
+  "asn": 3648,
+  "metadata": {
+    "handle": "SPRINT-BB3",
+    "description": "Sprint",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,4 @@
+# AS31952 (ASN-CAM-US)
+# Calamos US Autonomous System
+#
+192.52.162.0/24

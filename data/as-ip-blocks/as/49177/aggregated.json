@@ -1,0 +1,14 @@
+{
+  "asn": 49177,
+  "metadata": {
+    "handle": "TR-GROUPAMA",
+    "description": "AXA SIGORTA A.S.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

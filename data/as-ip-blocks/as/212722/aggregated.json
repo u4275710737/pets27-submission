@@ -1,0 +1,14 @@
+{
+  "asn": 212722,
+  "metadata": {
+    "handle": "HOOP7MOBTELECOM",
+    "description": "7HOOP MOB TELECOM LLC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

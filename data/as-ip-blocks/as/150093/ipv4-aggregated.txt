@@ -1,0 +1,5 @@
+# AS150093 (BHAWANI-AS-IN)
+# Bhawani Technologies
+#
+103.74.65.0/24
+160.22.235.0/24

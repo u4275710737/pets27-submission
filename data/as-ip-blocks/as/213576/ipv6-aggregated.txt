@@ -1,0 +1,14 @@
+# AS213576 (ERTIUS-NET)
+# Robert Weir
+#
+2a05:dfc3:fe00::/48
+2a05:dfc3:fe05::/48
+2a05:dfc3:fe10::/47
+2a05:dfc3:fe13::/48
+2a05:dfc3:fe15::/48
+2a05:dfc3:fe17::/48
+2a05:dfc3:fe22::/48
+2a05:dfc3:fe30::/47
+2a05:dfc3:fe32::/48
+2a05:dfc3:fefe::/48
+2a0f:b240:f00::/48

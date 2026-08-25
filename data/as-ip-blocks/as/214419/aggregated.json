@@ -1,0 +1,14 @@
+{
+  "asn": 214419,
+  "metadata": {
+    "handle": "DAMASH-AS",
+    "description": "Damash Software Computer Services LTD",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

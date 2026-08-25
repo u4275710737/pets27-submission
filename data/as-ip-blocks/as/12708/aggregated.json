@@ -1,0 +1,14 @@
+{
+  "asn": 12708,
+  "metadata": {
+    "handle": "ONETEL-AS",
+    "description": "TalkTalk Communications Limited",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

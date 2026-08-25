@@ -1,0 +1,14 @@
+{
+  "asn": 394546,
+  "metadata": {
+    "handle": "BLUESTEM-GROUP-MN",
+    "description": "BLST Holding Company LLC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

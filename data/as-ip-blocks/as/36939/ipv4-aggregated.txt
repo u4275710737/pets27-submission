@@ -1,0 +1,4 @@
+# AS36939 (COMORES)
+# comores telecom
+#
+197.255.224.0/20

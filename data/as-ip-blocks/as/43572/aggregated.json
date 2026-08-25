@@ -1,0 +1,14 @@
+{
+  "asn": 43572,
+  "metadata": {
+    "handle": "HEILSARMEE-NET",
+    "description": "Stiftung Heilsarmee Schweiz",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

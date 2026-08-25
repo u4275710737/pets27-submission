@@ -1,0 +1,14 @@
+{
+  "asn": 393742,
+  "metadata": {
+    "handle": "CONCENTRICSKY",
+    "description": "Concentric Sky Inc",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

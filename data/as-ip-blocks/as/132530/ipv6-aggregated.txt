@@ -1,0 +1,4 @@
+# AS132530 (INFONALSDNBHD-AS-AP)
+# Infonal Sdn Bhd
+#
+2001:df3:b2c0::/48

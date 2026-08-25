@@ -1,0 +1,14 @@
+{
+  "asn": 149323,
+  "metadata": {
+    "handle": "IDNIC-HBN-ID",
+    "description": "PT Hobin Nauli Multimedia",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

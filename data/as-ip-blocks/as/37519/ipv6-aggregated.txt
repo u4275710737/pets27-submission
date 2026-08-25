@@ -1,0 +1,4 @@
+# AS37519 (XTRANET-AS)
+# Xtranet Autonomous System Number
+#
+2c0f:f668::/32

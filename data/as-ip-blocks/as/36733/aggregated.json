@@ -1,0 +1,14 @@
+{
+  "asn": 36733,
+  "metadata": {
+    "handle": "DNEO-OSP7",
+    "description": "Comcast Cable Communications, LLC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 36341,
+  "metadata": {
+    "handle": "TRINETAS1",
+    "description": "TriNet HR Corporation",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

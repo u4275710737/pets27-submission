@@ -1,0 +1,14 @@
+{
+  "asn": 401585,
+  "metadata": {
+    "handle": "FLAPJACKS-01",
+    "description": "Prime Security Corp.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

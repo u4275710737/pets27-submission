@@ -1,0 +1,14 @@
+{
+  "asn": 32529,
+  "metadata": {
+    "handle": "CGI-FEDERAL-ASN-1",
+    "description": "CGI Federal",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

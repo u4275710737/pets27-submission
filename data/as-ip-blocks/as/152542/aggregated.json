@@ -1,0 +1,16 @@
+{
+  "asn": 152542,
+  "metadata": {
+    "handle": "MEGAPRIM-AS-IN",
+    "description": "MEGAPRIME NETWORK PVT LTED",
+    "countryCode": "IN",
+    "country": "India",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "103.201.136.0/24", "103.201.138.0/23", "160.25.191.0/24" ],
+    "ipv6": [ "2001:df6:f180::/48" ]
+  }
+}

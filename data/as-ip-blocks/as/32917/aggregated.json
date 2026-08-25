@@ -1,0 +1,16 @@
+{
+  "asn": 32917,
+  "metadata": {
+    "handle": "SYNYGY-EUROPA",
+    "description": "SC SYNYGY EUROPA SRL",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "205.211.128.0/24" ],
+    "ipv6": [ ]
+  }
+}

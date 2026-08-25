@@ -1,0 +1,4 @@
+# AS208279 (AS-ATB)
+# AzerTurkBank OJSC
+#
+109.175.133.0/24

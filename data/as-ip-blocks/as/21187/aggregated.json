@@ -1,0 +1,14 @@
+{
+  "asn": 21187,
+  "metadata": {
+    "handle": "ABCDATA-POLAND",
+    "description": "VICIS NEW INVESTMENTS S.A.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "asn": 264917,
+  "metadata": {
+    "handle": "PKNET-PROVEDOR-ACESSO",
+    "description": "PKNET PROVEDOR DE ACESSO A INTERNET LTDA - ME",
+    "countryCode": "BR",
+    "country": "Brazil",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "168.228.112.0/22" ],
+    "ipv6": [ "2804:2fdc::/32" ]
+  }
+}

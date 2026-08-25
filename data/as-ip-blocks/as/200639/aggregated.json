@@ -1,0 +1,14 @@
+{
+  "asn": 200639,
+  "metadata": {
+    "handle": "CROSS-COMPUTING-SERVICES",
+    "description": "Cross Computing Services Limited",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

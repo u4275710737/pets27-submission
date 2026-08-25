@@ -1,0 +1,14 @@
+{
+  "asn": 133734,
+  "metadata": {
+    "handle": "MCKINSEY-AS-HK",
+    "description": "McKinsey & Company",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

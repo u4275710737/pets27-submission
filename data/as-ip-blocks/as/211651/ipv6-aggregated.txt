@@ -1,0 +1,4 @@
+# AS211651 (STUTTGART)
+# Landeshauptstadt Stuttgart
+#
+2a13:1700::/29

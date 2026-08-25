@@ -1,0 +1,14 @@
+{
+  "asn": 27567,
+  "metadata": {
+    "handle": "GRAY",
+    "description": "Gray & Company, Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

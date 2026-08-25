@@ -1,0 +1,14 @@
+{
+  "asn": 215183,
+  "metadata": {
+    "handle": "ZHAIKOV-AS",
+    "description": "ZHAIKOV AITOLKYN BEKBOLATKYZY",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

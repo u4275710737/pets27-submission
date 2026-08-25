@@ -1,0 +1,14 @@
+{
+  "asn": 38218,
+  "metadata": {
+    "handle": "MOBICOM-MN-AP",
+    "description": "MobiCom Corporation",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

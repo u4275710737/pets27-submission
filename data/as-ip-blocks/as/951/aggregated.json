@@ -1,0 +1,14 @@
+{
+  "asn": 951,
+  "metadata": {
+    "handle": "IOHARBOR",
+    "description": "ioHarbor",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

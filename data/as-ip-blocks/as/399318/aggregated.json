@@ -1,0 +1,14 @@
+{
+  "asn": 399318,
+  "metadata": {
+    "handle": "CANAD112",
+    "description": "12393239 Canada Inc",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

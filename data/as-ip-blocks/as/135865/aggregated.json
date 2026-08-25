@@ -1,0 +1,14 @@
+{
+  "asn": 135865,
+  "metadata": {
+    "handle": "GOAIRNET-IN",
+    "description": "Goairnet Wireless Broadband Pvt. Ltd",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

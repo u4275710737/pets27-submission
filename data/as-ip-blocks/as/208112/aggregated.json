@@ -1,0 +1,16 @@
+{
+  "asn": 208112,
+  "metadata": {
+    "handle": "ROMAN-EMPIRE",
+    "description": "ROMAN EMPIRE BV",
+    "countryCode": "BE",
+    "country": "Belgium",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "82.22.82.0/24" ],
+    "ipv6": [ ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "asn": 4613,
+  "metadata": {
+    "handle": "MOS-NP",
+    "description": "Mercantile Office Systems",
+    "countryCode": "NP",
+    "country": "Nepal",
+    "origin": "authoritative",
+    "category": "government_admin",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "27.111.16.0/20", "117.121.224.0/20" ],
+    "ipv6": [ "2400:a400::/32" ]
+  }
+}

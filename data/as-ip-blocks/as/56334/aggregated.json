@@ -1,0 +1,14 @@
+{
+  "asn": 56334,
+  "metadata": {
+    "handle": "MANPOWER",
+    "description": "ManpowerGroup AS",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

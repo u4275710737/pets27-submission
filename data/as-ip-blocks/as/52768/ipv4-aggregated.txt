@@ -1,0 +1,4 @@
+# AS52768 (ALSOL-PROVEDOR-INTERNET)
+# Alsol Provedor de Internet Ltda
+#
+177.39.168.0/21

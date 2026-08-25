@@ -1,0 +1,4 @@
+# AS147298 (STC-AS-AP)
+# Shibpur Technology Care
+#
+103.174.138.0/23

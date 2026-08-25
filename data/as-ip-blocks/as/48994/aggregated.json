@@ -1,0 +1,14 @@
+{
+  "asn": 48994,
+  "metadata": {
+    "handle": "GLOBALWIRE",
+    "description": "Globalwire AB",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

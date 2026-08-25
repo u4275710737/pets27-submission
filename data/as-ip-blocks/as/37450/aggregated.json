@@ -1,0 +1,14 @@
+{
+  "asn": 37450,
+  "metadata": {
+    "handle": "AL-AKHAWAYN",
+    "description": "Al'Akhawayn University",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

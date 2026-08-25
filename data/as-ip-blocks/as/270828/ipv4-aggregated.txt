@@ -1,0 +1,4 @@
+# AS270828 (FULL-TELECOM)
+# Full Telecom LTDA
+#
+190.115.220.0/22

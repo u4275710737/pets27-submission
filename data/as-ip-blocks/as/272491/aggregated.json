@@ -1,0 +1,16 @@
+{
+  "asn": 272491,
+  "metadata": {
+    "handle": "ALLPHA-TELECOM",
+    "description": "Allpha Telecom",
+    "countryCode": "BR",
+    "country": "Brazil",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ "2804:8200::/32" ]
+  }
+}

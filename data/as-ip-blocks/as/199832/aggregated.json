@@ -1,0 +1,14 @@
+{
+  "asn": 199832,
+  "metadata": {
+    "handle": "AS-KURAL-RESEARCH",
+    "description": "QUN LIN",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

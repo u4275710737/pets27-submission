@@ -1,0 +1,14 @@
+{
+  "asn": 397943,
+  "metadata": {
+    "handle": "CLRUS-BROADBAND-LLC-1",
+    "description": "Clarus Data INC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

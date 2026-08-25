@@ -1,0 +1,16 @@
+{
+  "asn": 16351,
+  "metadata": {
+    "handle": "JUNO-AS",
+    "description": "George Vorres",
+    "countryCode": "GB",
+    "country": "United Kingdom",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "193.104.92.0/24" ],
+    "ipv6": [ ]
+  }
+}

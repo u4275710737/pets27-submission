@@ -1,0 +1,14 @@
+{
+  "asn": 3421,
+  "metadata": {
+    "handle": "ATTIS",
+    "description": "AT&T Corp.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

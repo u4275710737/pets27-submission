@@ -1,0 +1,14 @@
+{
+  "asn": 133598,
+  "metadata": {
+    "handle": "AFIENTRP",
+    "description": "Afi Enterprises",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

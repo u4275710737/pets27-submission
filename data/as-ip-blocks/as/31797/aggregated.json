@@ -1,0 +1,14 @@
+{
+  "asn": 31797,
+  "metadata": {
+    "handle": "DATAVERGE-MSP",
+    "description": "Galaxyvisions Inc",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

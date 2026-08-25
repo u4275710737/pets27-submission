@@ -1,0 +1,16 @@
+{
+  "asn": 1410,
+  "metadata": {
+    "handle": "CELLONE-IP",
+    "description": "SMITH BAGLEY INC",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "access_provider"
+  },
+  "prefixes": {
+    "ipv4": [ "67.132.2.0/24", "67.222.64.0/20", "162.246.60.0/22", "192.199.224.0/20" ],
+    "ipv6": [ ]
+  }
+}

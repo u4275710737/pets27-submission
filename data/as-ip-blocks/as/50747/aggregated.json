@@ -1,0 +1,14 @@
+{
+  "asn": 50747,
+  "metadata": {
+    "handle": "IT-HOSTINGGROUP",
+    "description": "It Hosting Group",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

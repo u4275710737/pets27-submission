@@ -1,0 +1,14 @@
+{
+  "asn": 15009,
+  "metadata": {
+    "handle": "UNISYSASN15009",
+    "description": "Unisys Corporation",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

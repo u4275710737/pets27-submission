@@ -1,0 +1,14 @@
+{
+  "asn": 46310,
+  "metadata": {
+    "handle": "TSRI-FL",
+    "description": "The Scripps Research Institute",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

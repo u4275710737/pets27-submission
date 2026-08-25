@@ -1,0 +1,16 @@
+{
+  "asn": 212033,
+  "metadata": {
+    "handle": "ENBITCON-AS",
+    "description": "EnBITCon GmbH",
+    "countryCode": "DE",
+    "country": "Germany",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "193.3.45.0/24" ],
+    "ipv6": [ "2a10:5dc0::/32" ]
+  }
+}

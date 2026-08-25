@@ -1,0 +1,14 @@
+{
+  "asn": 134618,
+  "metadata": {
+    "handle": "GERBANGAKSES-ID",
+    "description": "PT Rabik Bangun Nusantara",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

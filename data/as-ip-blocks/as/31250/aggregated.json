@@ -1,0 +1,14 @@
+{
+  "asn": 31250,
+  "metadata": {
+    "handle": "ONLINEDIRECT",
+    "description": "Vivacom Bulgaria EAD",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

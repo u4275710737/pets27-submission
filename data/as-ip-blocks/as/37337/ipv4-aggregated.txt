@@ -1,0 +1,5 @@
+# AS37337 (HITS-EG-ASN)
+# Hits Equatorial Guinea ASN
+#
+41.79.48.0/22
+102.223.24.0/22

@@ -1,0 +1,14 @@
+{
+  "asn": 26497,
+  "metadata": {
+    "handle": "QXSNET",
+    "description": "Worldwide TechServices, LLC.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

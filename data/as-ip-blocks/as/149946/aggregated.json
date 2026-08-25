@@ -1,0 +1,16 @@
+{
+  "asn": 149946,
+  "metadata": {
+    "handle": "IDNIC-MPI-AS-ID",
+    "description": "PT Multinet Perkasa Indonesia",
+    "countryCode": "ID",
+    "country": "Indonesia",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "103.57.8.0/24", "103.57.10.0/23", "117.102.160.0/23", "175.184.248.0/22" ],
+    "ipv6": [ ]
+  }
+}

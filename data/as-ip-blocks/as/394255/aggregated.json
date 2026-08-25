@@ -1,0 +1,14 @@
+{
+  "asn": 394255,
+  "metadata": {
+    "handle": "BELLMTSDC-DC01",
+    "description": "Equinix, Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

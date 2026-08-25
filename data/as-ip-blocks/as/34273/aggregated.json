@@ -1,0 +1,14 @@
+{
+  "asn": 34273,
+  "metadata": {
+    "handle": "FISBS-AS",
+    "description": "Atos IT Solutions and Services Oy",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

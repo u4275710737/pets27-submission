@@ -1,0 +1,14 @@
+{
+  "asn": 36257,
+  "metadata": {
+    "handle": "CHEGG-AS",
+    "description": "Chegg Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

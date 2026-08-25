@@ -1,0 +1,14 @@
+{
+  "asn": 37331,
+  "metadata": {
+    "handle": "NUL",
+    "description": "National University of Lesotho",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

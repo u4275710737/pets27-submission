@@ -1,0 +1,16 @@
+{
+  "asn": 26483,
+  "metadata": {
+    "handle": "AMER-INST-ARCHITECTS",
+    "description": "The American Institute of Architects",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "overlaid",
+    "category": null,
+    "networkRole": null
+  },
+  "prefixes": {
+    "ipv4": [ "38.103.20.0/24" ],
+    "ipv6": [ ]
+  }
+}

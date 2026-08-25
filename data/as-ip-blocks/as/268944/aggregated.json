@@ -1,0 +1,16 @@
+{
+  "asn": 268944,
+  "metadata": {
+    "handle": "MARTINS-MARTINS-TELECOM",
+    "description": "Martins & Martins Telecom LTDA ME",
+    "countryCode": "BR",
+    "country": "Brazil",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "access_provider"
+  },
+  "prefixes": {
+    "ipv4": [ "45.176.140.0/22" ],
+    "ipv6": [ "2804:5cfc::/32" ]
+  }
+}

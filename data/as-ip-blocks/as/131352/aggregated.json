@@ -1,0 +1,14 @@
+{
+  "asn": 131352,
+  "metadata": {
+    "handle": "VNCERT-AS-VN",
+    "description": "Vietnam Cybersecurity Emergency Response Teams/Coordination Center",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

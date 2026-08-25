@@ -1,0 +1,16 @@
+{
+  "asn": 199154,
+  "metadata": {
+    "handle": "DESTACK-GMBH",
+    "description": "Destack GmbH",
+    "countryCode": "DE",
+    "country": "Germany",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "185.43.32.0/24" ],
+    "ipv6": [ "2a14:ae00:101::/48" ]
+  }
+}

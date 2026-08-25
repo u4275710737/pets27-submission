@@ -1,0 +1,16 @@
+{
+  "asn": 26769,
+  "metadata": {
+    "handle": "NC-1197-26769",
+    "description": "NetO Corp",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "151.240.26.0/24", "193.31.60.0/24", "216.75.147.0/24", "216.183.242.0/24" ],
+    "ipv6": [ ]
+  }
+}

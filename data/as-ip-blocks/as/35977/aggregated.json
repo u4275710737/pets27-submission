@@ -1,0 +1,14 @@
+{
+  "asn": 35977,
+  "metadata": {
+    "handle": "QPASS-1",
+    "description": "Amdocs Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

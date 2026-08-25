@@ -1,0 +1,14 @@
+{
+  "asn": 138925,
+  "metadata": {
+    "handle": "ROCKETONLINE-AP",
+    "description": "rocket online",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 30201,
+  "metadata": {
+    "handle": "VENDINI",
+    "description": "Vendini Tickets",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

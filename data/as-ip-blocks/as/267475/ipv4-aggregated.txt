@@ -1,0 +1,4 @@
+# AS267475 (LIG-TELECOM)
+# Lig Telecom
+#
+192.141.192.0/22

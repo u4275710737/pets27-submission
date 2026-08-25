@@ -1,0 +1,14 @@
+{
+  "asn": 13701,
+  "metadata": {
+    "handle": "MPTF",
+    "description": "Motion Picture and Television Fund",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

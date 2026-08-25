@@ -1,0 +1,14 @@
+{
+  "asn": 30421,
+  "metadata": {
+    "handle": "PRC-PA",
+    "description": "Placid Refining Company LLC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

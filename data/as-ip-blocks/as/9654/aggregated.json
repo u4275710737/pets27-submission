@@ -1,0 +1,14 @@
+{
+  "asn": 9654,
+  "metadata": {
+    "handle": "MMIX-AP",
+    "description": "MYANMAR INTERNET EXCHANGE ASSOCIATION INC.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

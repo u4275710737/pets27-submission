@@ -1,0 +1,14 @@
+{
+  "asn": 35895,
+  "metadata": {
+    "handle": "CMMG-LTD",
+    "description": "CMMG Ltd",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,4 @@
+# AS39455 (TLAPNET-SK-AS)
+# Jiri Tlapak
+#
+185.85.36.0/22

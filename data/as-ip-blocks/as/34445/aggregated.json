@@ -1,0 +1,16 @@
+{
+  "asn": 34445,
+  "metadata": {
+    "handle": "SCHECK-AS",
+    "description": "Robert Scheck",
+    "countryCode": "DE",
+    "country": "Germany",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "193.104.15.0/24" ],
+    "ipv6": [ ]
+  }
+}

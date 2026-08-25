@@ -1,0 +1,14 @@
+{
+  "asn": 138261,
+  "metadata": {
+    "handle": "SPEEDYQN-AS",
+    "description": "Speedyquick Network Private Limited",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

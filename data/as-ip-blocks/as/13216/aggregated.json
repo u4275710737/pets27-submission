@@ -1,0 +1,14 @@
+{
+  "asn": 13216,
+  "metadata": {
+    "handle": "SOG-AS",
+    "description": "States of Guernsey",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

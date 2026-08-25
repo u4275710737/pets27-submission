@@ -1,0 +1,14 @@
+{
+  "asn": 149233,
+  "metadata": {
+    "handle": "ZRNETPOPC-IN",
+    "description": "ZR NET OPC PRIVATE LIMITED",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

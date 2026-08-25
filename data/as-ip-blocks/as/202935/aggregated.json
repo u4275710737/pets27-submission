@@ -1,0 +1,16 @@
+{
+  "asn": 202935,
+  "metadata": {
+    "handle": "IT-PRO-AS",
+    "description": "IT PROTECTION LLC",
+    "countryCode": "UA",
+    "country": "Ukraine",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "176.111.41.0/24" ],
+    "ipv6": [ ]
+  }
+}

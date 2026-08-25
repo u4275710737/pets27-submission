@@ -1,0 +1,4 @@
+# AS41419 (KAZRENA-AS)
+# KazRENA
+#
+2a02:7300::/32

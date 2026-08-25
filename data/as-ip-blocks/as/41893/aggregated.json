@@ -1,0 +1,14 @@
+{
+  "asn": 41893,
+  "metadata": {
+    "handle": "CYBERPORT-AS41893",
+    "description": "Cyberport SE",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

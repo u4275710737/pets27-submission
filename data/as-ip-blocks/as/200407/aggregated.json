@@ -1,0 +1,14 @@
+{
+  "asn": 200407,
+  "metadata": {
+    "handle": "TELECABLECARTAYA2",
+    "description": "Telecable Cartaya S.L.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

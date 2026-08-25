@@ -1,0 +1,14 @@
+{
+  "asn": 203722,
+  "metadata": {
+    "handle": "UNIT4",
+    "description": "Infinitas Technology B.V",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

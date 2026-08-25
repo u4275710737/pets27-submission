@@ -1,0 +1,14 @@
+{
+  "asn": 214125,
+  "metadata": {
+    "handle": "GREENET",
+    "description": "Greenet Netwerk BV",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

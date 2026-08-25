@@ -1,0 +1,14 @@
+{
+  "asn": 63881,
+  "metadata": {
+    "handle": "MDI-AS-ID",
+    "description": "PT. Medianet Digital Indonesia",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

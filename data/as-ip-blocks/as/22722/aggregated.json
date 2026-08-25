@@ -1,0 +1,14 @@
+{
+  "asn": 22722,
+  "metadata": {
+    "handle": "SEVONE",
+    "description": "IBM",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 29717,
+  "metadata": {
+    "handle": "OMEDA",
+    "description": "Omeda Communications",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

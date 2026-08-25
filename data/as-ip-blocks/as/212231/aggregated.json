@@ -1,0 +1,14 @@
+{
+  "asn": 212231,
+  "metadata": {
+    "handle": "DOWD",
+    "description": "Harry Dowd",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

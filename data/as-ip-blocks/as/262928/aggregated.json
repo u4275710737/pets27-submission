@@ -1,0 +1,16 @@
+{
+  "asn": 262928,
+  "metadata": {
+    "handle": "CO-DICO15",
+    "description": "DIRECTV COLOMBIA",
+    "countryCode": "CO",
+    "country": "Colombia",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "access_provider"
+  },
+  "prefixes": {
+    "ipv4": [ "191.102.192.0/19", "191.102.224.0/20" ],
+    "ipv6": [ "2803:2a80::/32" ]
+  }
+}

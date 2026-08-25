@@ -1,0 +1,16 @@
+{
+  "asn": 198342,
+  "metadata": {
+    "handle": "NYANET",
+    "description": "Daniel Drozdz",
+    "countryCode": "PL",
+    "country": "Poland",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ ]
+  }
+}

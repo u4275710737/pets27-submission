@@ -1,0 +1,14 @@
+{
+  "asn": 142032,
+  "metadata": {
+    "handle": "HFTCL-AS-AP",
+    "description": "High Family Technology Co. Limited",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

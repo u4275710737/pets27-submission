@@ -1,0 +1,14 @@
+{
+  "asn": 34166,
+  "metadata": {
+    "handle": "ELECOM-AS",
+    "description": "New Communication Technologies LLC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

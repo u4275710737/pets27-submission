@@ -1,0 +1,5 @@
+# AS33161 (CHUMASH-ENTERPRISES)
+# Chumash Casino Resort
+#
+12.9.29.0/24
+192.65.138.0/24

@@ -1,0 +1,14 @@
+{
+  "asn": 202428,
+  "metadata": {
+    "handle": "ADVAILO",
+    "description": "Advailo SIA",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

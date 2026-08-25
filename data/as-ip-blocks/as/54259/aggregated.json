@@ -1,0 +1,14 @@
+{
+  "asn": 54259,
+  "metadata": {
+    "handle": "SKILLSOFT-CORPORATION",
+    "description": "SKILLSOFT CORPORATION",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

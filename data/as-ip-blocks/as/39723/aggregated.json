@@ -1,0 +1,14 @@
+{
+  "asn": 39723,
+  "metadata": {
+    "handle": "NETENSIA",
+    "description": "Netensia SARL",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

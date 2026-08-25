@@ -1,0 +1,14 @@
+{
+  "asn": 34002,
+  "metadata": {
+    "handle": "INTERXION-FR-TRANSIT-AS",
+    "description": "Interxion France S.A.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

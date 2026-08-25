@@ -1,0 +1,4 @@
+# AS26695 (BOGLETECH)
+# Bogle Networks LLC
+#
+2605:8bc0::/32

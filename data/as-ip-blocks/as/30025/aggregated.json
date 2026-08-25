@@ -1,0 +1,14 @@
+{
+  "asn": 30025,
+  "metadata": {
+    "handle": "RICHMOND-IX-CORPORATE-TRANSIT",
+    "description": "Richmond-IX Corporation",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

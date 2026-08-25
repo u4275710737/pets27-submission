@@ -1,0 +1,14 @@
+{
+  "asn": 61853,
+  "metadata": {
+    "handle": "WSCAN-TELECOM",
+    "description": "WSCAN TELECOM LTDA ME",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

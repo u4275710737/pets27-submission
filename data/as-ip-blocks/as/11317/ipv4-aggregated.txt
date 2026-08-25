@@ -1,0 +1,4 @@
+# AS11317 (GPN)
+# Great Plains Network
+#
+164.113.254.0/23

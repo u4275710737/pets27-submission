@@ -1,0 +1,4 @@
+# AS154454 (IDNIC-DETENET-ID)
+# PT Dikta Teknologi
+#
+144.79.128.0/24

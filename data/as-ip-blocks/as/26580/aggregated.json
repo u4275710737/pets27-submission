@@ -1,0 +1,14 @@
+{
+  "asn": 26580,
+  "metadata": {
+    "handle": "SIE-CGEI-ASN-2",
+    "description": "Sony Interactive Entertainment LLC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

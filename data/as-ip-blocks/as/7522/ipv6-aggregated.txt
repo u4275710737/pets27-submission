@@ -1,0 +1,4 @@
+# AS7522 (STCN)
+# STNet Incorporated
+#
+2001:318::/32

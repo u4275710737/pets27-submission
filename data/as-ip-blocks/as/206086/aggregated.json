@@ -1,0 +1,14 @@
+{
+  "asn": 206086,
+  "metadata": {
+    "handle": "RAYNET-AS",
+    "description": "Raynet SAS",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "asn": 197238,
+  "metadata": {
+    "handle": "DYCKERHOFF-PL",
+    "description": "Dyckerhoff Polska Sp. z o.o.",
+    "countryCode": "PL",
+    "country": "Poland",
+    "origin": "authoritative",
+    "category": null,
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "91.217.158.0/24" ],
+    "ipv6": [ ]
+  }
+}

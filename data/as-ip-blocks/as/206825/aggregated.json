@@ -1,0 +1,14 @@
+{
+  "asn": 206825,
+  "metadata": {
+    "handle": "SIEBNICH-COM",
+    "description": "Stiegeler Gaggenau GmbH",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

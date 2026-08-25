@@ -1,0 +1,14 @@
+{
+  "asn": 49768,
+  "metadata": {
+    "handle": "EXTLIKES",
+    "description": "Extlikes Solutions LTD",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

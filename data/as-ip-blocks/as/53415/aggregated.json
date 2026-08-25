@@ -1,0 +1,14 @@
+{
+  "asn": 53415,
+  "metadata": {
+    "handle": "TRB",
+    "description": "TRB Advisors LP",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

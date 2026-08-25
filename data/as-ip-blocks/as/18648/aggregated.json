@@ -1,0 +1,14 @@
+{
+  "asn": 18648,
+  "metadata": {
+    "handle": "HTRI",
+    "description": "Heat Transfer Research, Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

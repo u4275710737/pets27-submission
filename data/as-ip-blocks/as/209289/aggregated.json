@@ -1,0 +1,14 @@
+{
+  "asn": 209289,
+  "metadata": {
+    "handle": "TSK",
+    "description": "TSK LLC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

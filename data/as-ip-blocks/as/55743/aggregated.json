@@ -1,0 +1,14 @@
+{
+  "asn": 55743,
+  "metadata": {
+    "handle": "UBISOFT-SG",
+    "description": "UBISOFT SINGAPORE PTE. LTD.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

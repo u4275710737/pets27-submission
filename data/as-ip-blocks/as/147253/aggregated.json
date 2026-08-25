@@ -1,0 +1,14 @@
+{
+  "asn": 147253,
+  "metadata": {
+    "handle": "BEAURACKV-IN",
+    "description": "Beaurack Velocity Infocom Pvt Ltd",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

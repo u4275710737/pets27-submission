@@ -1,0 +1,16 @@
+{
+  "asn": 150447,
+  "metadata": {
+    "handle": "WOOFYINCORPORATED-AS-AP",
+    "description": "Woofy Incorporated",
+    "countryCode": "PH",
+    "country": "Philippines",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "38.72.88.0/21", "38.77.153.0/24", "103.17.148.0/23", "125.253.128.0/22" ],
+    "ipv6": [ ]
+  }
+}

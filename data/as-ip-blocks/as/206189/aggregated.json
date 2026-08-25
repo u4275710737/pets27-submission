@@ -1,0 +1,14 @@
+{
+  "asn": 206189,
+  "metadata": {
+    "handle": "CWELX",
+    "description": "Cable Aireworld S.A.U.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

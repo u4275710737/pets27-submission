@@ -1,0 +1,16 @@
+{
+  "asn": 273935,
+  "metadata": {
+    "handle": "CORPORACION-GIGA",
+    "description": "CORPORACION GIGA SAC",
+    "countryCode": "PE",
+    "country": "Peru",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "38.236.187.0/24" ],
+    "ipv6": [ "2803:3750::/32" ]
+  }
+}

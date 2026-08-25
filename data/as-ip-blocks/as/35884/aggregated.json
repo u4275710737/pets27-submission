@@ -1,0 +1,14 @@
+{
+  "asn": 35884,
+  "metadata": {
+    "handle": "SECUREDATA365-OH1",
+    "description": "Involta",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

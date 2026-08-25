@@ -1,0 +1,5 @@
+# AS24322 (INFININET-AS-AP)
+# Infininet Global Pty Ltd
+#
+2401:2060:2000::/48
+2401:2060:b002::/48

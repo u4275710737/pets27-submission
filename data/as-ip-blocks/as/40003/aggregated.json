@@ -1,0 +1,14 @@
+{
+  "asn": 40003,
+  "metadata": {
+    "handle": "PSI-CU-SOFTWARE",
+    "description": "Performance Systems International, Incorporated",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

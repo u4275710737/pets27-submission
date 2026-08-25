@@ -1,0 +1,16 @@
+{
+  "asn": 215665,
+  "metadata": {
+    "handle": "MARLONALKAN-AS",
+    "description": "Marlon Alkan",
+    "countryCode": "DE",
+    "country": "Germany",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ "2a07:54c1:4701::/48", "2a07:54c1:4702::/48" ]
+  }
+}

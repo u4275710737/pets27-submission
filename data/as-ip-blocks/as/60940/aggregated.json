@@ -1,0 +1,14 @@
+{
+  "asn": 60940,
+  "metadata": {
+    "handle": "CLOUDWATT",
+    "description": "Orange Business Services SA",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

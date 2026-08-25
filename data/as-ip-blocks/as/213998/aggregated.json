@@ -1,0 +1,16 @@
+{
+  "asn": 213998,
+  "metadata": {
+    "handle": "EQUITIA",
+    "description": "Piotr R. Antos trading as EQUITIA",
+    "countryCode": "NO",
+    "country": "Norway",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "89.28.206.0/24" ],
+    "ipv6": [ "2a14:1ec7:f600::/40" ]
+  }
+}

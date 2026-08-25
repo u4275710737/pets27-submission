@@ -1,0 +1,16 @@
+{
+  "asn": 152860,
+  "metadata": {
+    "handle": "GJW-KK",
+    "description": "GANJINGWORLD K.K.",
+    "countryCode": "JP",
+    "country": "Japan",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ "2401:a920:3011::/48" ]
+  }
+}

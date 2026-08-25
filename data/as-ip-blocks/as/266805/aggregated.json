@@ -1,0 +1,14 @@
+{
+  "asn": 266805,
+  "metadata": {
+    "handle": "NETI-SIEMPRE-CONECTADO",
+    "description": "NETI SIEMPRE CONECTADO",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "asn": 215652,
+  "metadata": {
+    "handle": "JB-PL-ROUTE",
+    "description": "Jakub Artur Bald",
+    "countryCode": "PL",
+    "country": "Poland",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "88.220.88.0/24" ],
+    "ipv6": [ ]
+  }
+}

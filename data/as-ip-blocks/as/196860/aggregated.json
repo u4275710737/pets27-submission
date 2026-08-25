@@ -1,0 +1,14 @@
+{
+  "asn": 196860,
+  "metadata": {
+    "handle": "X-LAN",
+    "description": "Bozhko Oleksandr Mykolajovych",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

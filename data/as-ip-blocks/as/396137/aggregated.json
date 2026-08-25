@@ -1,0 +1,14 @@
+{
+  "asn": 396137,
+  "metadata": {
+    "handle": "INFOR-AS-3",
+    "description": "Infor (US) LLC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

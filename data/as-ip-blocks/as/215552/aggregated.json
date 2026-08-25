@@ -1,0 +1,14 @@
+{
+  "asn": 215552,
+  "metadata": {
+    "handle": "ACD4",
+    "description": "Alexandru Cristian Dirman",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

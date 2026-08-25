@@ -1,0 +1,14 @@
+{
+  "asn": 47725,
+  "metadata": {
+    "handle": "TENETA",
+    "description": "Teneta LTD",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

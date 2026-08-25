@@ -1,0 +1,16 @@
+{
+  "asn": 206279,
+  "metadata": {
+    "handle": "BIRUANG-AS",
+    "description": "Jan Studzinski trading as Biruang IT KB",
+    "countryCode": "SE",
+    "country": "Sweden",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "185.189.84.0/24" ],
+    "ipv6": [ ]
+  }
+}

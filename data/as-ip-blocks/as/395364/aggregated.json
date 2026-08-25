@@ -1,0 +1,14 @@
+{
+  "asn": 395364,
+  "metadata": {
+    "handle": "IN-THE-SWIM",
+    "description": "In The Swim",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

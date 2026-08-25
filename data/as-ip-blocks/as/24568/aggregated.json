@@ -1,0 +1,16 @@
+{
+  "asn": 24568,
+  "metadata": {
+    "handle": "CITI-BANK",
+    "description": "Citigroup N.A.",
+    "countryCode": "HK",
+    "country": "Hong Kong SAR China",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "192.193.19.0/24", "192.193.82.0/24", "192.193.128.0/24", "192.193.130.0/24", "192.193.133.0/24", "192.193.134.0/24" ],
+    "ipv6": [ ]
+  }
+}

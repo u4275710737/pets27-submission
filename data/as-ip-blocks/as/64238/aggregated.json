@@ -1,0 +1,16 @@
+{
+  "asn": 64238,
+  "metadata": {
+    "handle": "ASN-OARC",
+    "description": "DNS-OARC",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "access_provider"
+  },
+  "prefixes": {
+    "ipv4": [ "64.191.0.0/23" ],
+    "ipv6": [ "2001:470:f8::/48", "2620:ff:c000::/48" ]
+  }
+}

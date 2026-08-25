@@ -1,0 +1,14 @@
+{
+  "asn": 139088,
+  "metadata": {
+    "handle": "KKNETWROK-AP",
+    "description": "KK Networks (Pvt) Ltd.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

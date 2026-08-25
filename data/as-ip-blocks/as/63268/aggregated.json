@@ -1,0 +1,14 @@
+{
+  "asn": 63268,
+  "metadata": {
+    "handle": "PETABIT-ARIN-1",
+    "description": "Petabit Scale Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

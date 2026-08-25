@@ -1,0 +1,16 @@
+{
+  "asn": 36332,
+  "metadata": {
+    "handle": "ASN-NA-XIPE2",
+    "description": "Xipe Networks",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "23.139.216.0/24" ],
+    "ipv6": [ "2620:ae:a001::/48" ]
+  }
+}

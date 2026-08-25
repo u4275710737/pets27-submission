@@ -1,0 +1,14 @@
+{
+  "asn": 394589,
+  "metadata": {
+    "handle": "B2BSOFT",
+    "description": "BTB Soft Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

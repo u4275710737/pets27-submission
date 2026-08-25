@@ -1,0 +1,14 @@
+{
+  "asn": 41709,
+  "metadata": {
+    "handle": "LDS-UA",
+    "description": "Lugansky Merezhy Ltd",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

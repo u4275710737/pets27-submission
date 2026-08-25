@@ -1,0 +1,16 @@
+{
+  "asn": 142015,
+  "metadata": {
+    "handle": "FOXPROTECHNOLOGY-AS-AP",
+    "description": "Foxpro Technology",
+    "countryCode": "BD",
+    "country": "Bangladesh",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "103.164.232.0/23" ],
+    "ipv6": [ "2407:41c0:10::/47", "2407:41c0:12::/48" ]
+  }
+}

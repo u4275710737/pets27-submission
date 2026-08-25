@@ -1,0 +1,7 @@
+# AS149522 (ONECUBITCOLTD-AS-AP)
+# OneCubit Co. Ltd.
+#
+2400:5ce0::/44
+2400:5ce0:10::/46
+2400:5ce0:18::/45
+2602:f829::/44

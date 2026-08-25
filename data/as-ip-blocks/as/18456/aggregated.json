@@ -1,0 +1,14 @@
+{
+  "asn": 18456,
+  "metadata": {
+    "handle": "GDIT-AS1",
+    "description": "General Dynamics Information Technology Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

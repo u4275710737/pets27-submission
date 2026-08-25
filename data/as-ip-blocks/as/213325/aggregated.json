@@ -1,0 +1,14 @@
+{
+  "asn": 213325,
+  "metadata": {
+    "handle": "SYSHEAD",
+    "description": "Denis Dokleja trading as Syshead",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

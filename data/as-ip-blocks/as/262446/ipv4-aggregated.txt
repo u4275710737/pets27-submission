@@ -1,0 +1,5 @@
+# AS262446 (LOCAWEB-SERVICOS-INTERNET)
+# Locaweb Serviços de Internet S/A
+#
+177.52.128.0/22
+177.52.152.0/21

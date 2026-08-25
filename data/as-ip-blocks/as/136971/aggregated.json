@@ -1,0 +1,14 @@
+{
+  "asn": 136971,
+  "metadata": {
+    "handle": "CITYOFWERRI-AP",
+    "description": "Wyndham City Council",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 55941,
+  "metadata": {
+    "handle": "CBOE-AU",
+    "description": "Cboe Australia Pty Ltd",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

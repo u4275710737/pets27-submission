@@ -1,0 +1,14 @@
+{
+  "asn": 154165,
+  "metadata": {
+    "handle": "IDNIC-UNICOM-AS-ID",
+    "description": "PT Unicom Muda Utama",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

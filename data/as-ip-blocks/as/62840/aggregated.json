@@ -1,0 +1,14 @@
+{
+  "asn": 62840,
+  "metadata": {
+    "handle": "FUTEMEDIA",
+    "description": "Fute Media Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "asn": 56343,
+  "metadata": {
+    "handle": "OUTSCALE-KSA",
+    "description": "Outscale SASU",
+    "countryCode": "FR",
+    "country": "France",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "146.183.24.0/21" ],
+    "ipv6": [ "2a02:2241::/32" ]
+  }
+}

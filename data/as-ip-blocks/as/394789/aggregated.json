@@ -1,0 +1,14 @@
+{
+  "asn": 394789,
+  "metadata": {
+    "handle": "WNMIAS",
+    "description": "Western National Mutual Insurance Company",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

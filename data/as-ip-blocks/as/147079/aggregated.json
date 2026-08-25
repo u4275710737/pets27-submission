@@ -1,0 +1,14 @@
+{
+  "asn": 147079,
+  "metadata": {
+    "handle": "IDNIC-DIAZA-ID",
+    "description": "PT Diaza Lintas Asia",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

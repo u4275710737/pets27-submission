@@ -1,0 +1,14 @@
+{
+  "asn": 40152,
+  "metadata": {
+    "handle": "UTAHIO",
+    "description": "Utah.io",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "asn": 394663,
+  "metadata": {
+    "handle": "ARTIFICIAL-LABS-AI-USA",
+    "description": "Artificial Labs Corp",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "149.112.10.0/24" ],
+    "ipv6": [ ]
+  }
+}

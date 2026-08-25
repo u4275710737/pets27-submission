@@ -1,0 +1,4 @@
+# AS398547 (KAT-NET-SERVERS)
+# Kat-Net Servers LLC
+#
+45.143.9.0/24

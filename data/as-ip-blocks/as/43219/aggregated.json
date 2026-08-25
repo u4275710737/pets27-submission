@@ -1,0 +1,14 @@
+{
+  "asn": 43219,
+  "metadata": {
+    "handle": "KRYSTAL",
+    "description": "Krystal Hosting Ltd",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 208696,
+  "metadata": {
+    "handle": "EVLLI",
+    "description": "Evelyn Alicke",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "asn": 153507,
+  "metadata": {
+    "handle": "VPBANKS-VN",
+    "description": "VPBANK SECURITIES JSC",
+    "countryCode": "VN",
+    "country": "Vietnam",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "161.248.148.0/23" ],
+    "ipv6": [ ]
+  }
+}

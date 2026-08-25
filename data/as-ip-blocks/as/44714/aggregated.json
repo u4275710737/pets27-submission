@@ -1,0 +1,16 @@
+{
+  "asn": 44714,
+  "metadata": {
+    "handle": "SERVUDC",
+    "description": "SERVUDC VERI MERKEZI A.S.",
+    "countryCode": "TR",
+    "country": "Türkiye",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "31.58.245.0/24", "77.83.37.0/24" ],
+    "ipv6": [ ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "asn": 38168,
+  "metadata": {
+    "handle": "WARPNET",
+    "description": "Wilton Arthur Poth",
+    "countryCode": "DE",
+    "country": "Germany",
+    "origin": "authoritative",
+    "category": null,
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ ]
+  }
+}

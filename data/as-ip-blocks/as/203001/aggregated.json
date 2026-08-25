@@ -1,0 +1,16 @@
+{
+  "asn": 203001,
+  "metadata": {
+    "handle": "GATEX",
+    "description": "GateX LIMITED",
+    "countryCode": "GB",
+    "country": "United Kingdom",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "185.29.123.0/24" ],
+    "ipv6": [ "2a04:4280:9a7e::/48" ]
+  }
+}

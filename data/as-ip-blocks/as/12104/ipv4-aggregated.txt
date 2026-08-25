@@ -1,0 +1,5 @@
+# AS12104 (CDE-ASN)
+# State Farm Mutual Automobile Insurance Company
+#
+12.16.196.0/24
+206.80.138.0/23

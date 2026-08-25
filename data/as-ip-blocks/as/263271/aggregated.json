@@ -1,0 +1,14 @@
+{
+  "asn": 263271,
+  "metadata": {
+    "handle": "ESTRELAR-WEB-SERVIOS",
+    "description": "Estrelar Web Servios de Internet LTDA",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

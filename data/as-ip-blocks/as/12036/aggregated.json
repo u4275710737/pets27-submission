@@ -1,0 +1,16 @@
+{
+  "asn": 12036,
+  "metadata": {
+    "handle": "POE",
+    "description": "Poe Foundation",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "142.248.190.0/24" ],
+    "ipv6": [ "2602:f4f9::/40" ]
+  }
+}

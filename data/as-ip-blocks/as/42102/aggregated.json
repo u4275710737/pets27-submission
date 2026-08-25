@@ -1,0 +1,14 @@
+{
+  "asn": 42102,
+  "metadata": {
+    "handle": "LRNC",
+    "description": "Ludigssoft Management GmbH trading as Ludigssoft RZ GmbH & Co. KG",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

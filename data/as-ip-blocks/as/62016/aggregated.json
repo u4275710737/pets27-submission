@@ -1,0 +1,16 @@
+{
+  "asn": 62016,
+  "metadata": {
+    "handle": "PSN",
+    "description": "Virgin Media Limited",
+    "countryCode": "GB",
+    "country": "United Kingdom",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ ]
+  }
+}

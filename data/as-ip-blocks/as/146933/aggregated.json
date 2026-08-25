@@ -1,0 +1,14 @@
+{
+  "asn": 146933,
+  "metadata": {
+    "handle": "ROYALBS-IN",
+    "description": "Royal Broadband Services",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 141543,
+  "metadata": {
+    "handle": "MITPV-IN",
+    "description": "Manas Internet Technology Private Limited",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

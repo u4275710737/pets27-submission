@@ -1,0 +1,14 @@
+{
+  "asn": 394184,
+  "metadata": {
+    "handle": "GSCMF",
+    "description": "Gannett Supply Corp. - Melbourne FL",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

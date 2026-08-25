@@ -1,0 +1,14 @@
+{
+  "asn": 137270,
+  "metadata": {
+    "handle": "PLANET-AP",
+    "description": "PLANET SATELLITE ISP Internet",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

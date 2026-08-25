@@ -1,0 +1,14 @@
+{
+  "asn": 25682,
+  "metadata": {
+    "handle": "FORKSYSTEMS",
+    "description": "FORK SYSTEMS",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

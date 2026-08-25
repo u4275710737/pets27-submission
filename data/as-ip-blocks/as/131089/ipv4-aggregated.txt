@@ -1,0 +1,4 @@
+# AS131089 (NTPCL-AS-AP)
+# National Telecom Public Company Limited
+#
+110.78.25.0/24

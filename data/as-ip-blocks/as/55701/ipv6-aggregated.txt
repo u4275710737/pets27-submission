@@ -1,0 +1,4 @@
+# AS55701 (ASNET-AS-ID)
+# PT. Usaha Adisanggoro
+#
+2405:b900::/32

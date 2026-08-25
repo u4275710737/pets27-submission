@@ -1,0 +1,14 @@
+{
+  "asn": 50541,
+  "metadata": {
+    "handle": "ZINCA",
+    "description": "ZINCA S.R.L.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

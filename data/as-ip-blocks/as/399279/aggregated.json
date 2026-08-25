@@ -1,0 +1,14 @@
+{
+  "asn": 399279,
+  "metadata": {
+    "handle": "HEY-BABBL-CA",
+    "description": "BABBL COMMUNICATIONS LTD",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

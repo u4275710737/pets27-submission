@@ -1,0 +1,16 @@
+{
+  "asn": 37294,
+  "metadata": {
+    "handle": "TNM-AS",
+    "description": "TNM",
+    "countryCode": "MW",
+    "country": "Malawi",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "access_provider"
+  },
+  "prefixes": {
+    "ipv4": [ "41.78.248.0/22", "41.222.184.0/21", "102.70.0.0/15", "168.253.224.0/19", "196.216.8.0/21" ],
+    "ipv6": [ "2c0f:fac0::/32", "2c0f:fc58::/32" ]
+  }
+}

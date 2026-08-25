@@ -1,0 +1,4 @@
+# AS24984 (LUMINORLT)
+# Luminor Bank AS
+#
+195.12.178.0/24

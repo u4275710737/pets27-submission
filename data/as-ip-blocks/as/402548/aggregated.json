@@ -1,0 +1,16 @@
+{
+  "asn": 402548,
+  "metadata": {
+    "handle": "MHS-NET",
+    "description": "MRPOO HOSTING SOCIETY",
+    "countryCode": "CA",
+    "country": "Canada",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "89.28.205.0/24", "178.83.120.0/24" ],
+    "ipv6": [ ]
+  }
+}

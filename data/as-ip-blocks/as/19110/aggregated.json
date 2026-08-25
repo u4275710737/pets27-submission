@@ -1,0 +1,14 @@
+{
+  "asn": 19110,
+  "metadata": {
+    "handle": "AUTOMATIC-DATA-PROCESSING-INC",
+    "description": "Automatic Data Processing, Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

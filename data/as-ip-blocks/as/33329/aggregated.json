@@ -1,0 +1,14 @@
+{
+  "asn": 33329,
+  "metadata": {
+    "handle": "GROUPEISM",
+    "description": "Groupe ISM",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

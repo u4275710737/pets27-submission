@@ -1,0 +1,16 @@
+{
+  "asn": 11339,
+  "metadata": {
+    "handle": "HAX-ASN-01",
+    "description": "Haxtun Telephone Company",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "67.223.196.0/24", "69.57.125.0/24", "69.57.126.0/24", "76.72.238.0/24" ],
+    "ipv6": [ ]
+  }
+}

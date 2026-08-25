@@ -1,0 +1,14 @@
+{
+  "asn": 56605,
+  "metadata": {
+    "handle": "UAZAES",
+    "description": "State Enterprise National Atomic Energy Generator Company ENERGOATOM",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

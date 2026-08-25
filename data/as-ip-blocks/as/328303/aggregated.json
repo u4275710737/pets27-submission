@@ -1,0 +1,14 @@
+{
+  "asn": 328303,
+  "metadata": {
+    "handle": "INETCOM",
+    "description": "iNET Communications Limited",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

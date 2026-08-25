@@ -1,0 +1,16 @@
+{
+  "asn": 25370,
+  "metadata": {
+    "handle": "BOUBYAN-AS",
+    "description": "Zajil International Telecom Company KSCC",
+    "countryCode": "KW",
+    "country": "Kuwait",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "158.94.180.0/23" ],
+    "ipv6": [ ]
+  }
+}

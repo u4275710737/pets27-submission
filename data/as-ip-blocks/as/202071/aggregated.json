@@ -1,0 +1,16 @@
+{
+  "asn": 202071,
+  "metadata": {
+    "handle": "XDAEMONLV",
+    "description": "xDaemon SIA",
+    "countryCode": "LV",
+    "country": "Latvia",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "5.199.9.0/24" ],
+    "ipv6": [ ]
+  }
+}

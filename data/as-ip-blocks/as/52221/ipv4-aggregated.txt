@@ -1,0 +1,4 @@
+# AS52221 (LEXPRECIA)
+# Lexprecia SARL
+#
+188.92.26.0/24

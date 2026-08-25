@@ -1,0 +1,14 @@
+{
+  "asn": 46311,
+  "metadata": {
+    "handle": "HDNETLLC-ASN01",
+    "description": "AXStv - HDNet - HDNet Movies",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

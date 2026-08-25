@@ -1,0 +1,14 @@
+{
+  "asn": 27774,
+  "metadata": {
+    "handle": "HAITI-NETWORKING-GROUP",
+    "description": "Haiti Networking Group S.A.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

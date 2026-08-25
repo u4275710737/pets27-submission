@@ -1,0 +1,16 @@
+{
+  "asn": 272841,
+  "metadata": {
+    "handle": "STAR-CONECT-ISP-TECNOLOGIES-CA",
+    "description": "STAR CONECT ISP TECNOLOGIES C.A.",
+    "countryCode": "VE",
+    "country": "Venezuela",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ ]
+  }
+}

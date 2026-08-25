@@ -1,0 +1,16 @@
+{
+  "asn": 53616,
+  "metadata": {
+    "handle": "ASYMPTOTE",
+    "description": "ASYMPTOTE NETWORK LLC",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "access_provider"
+  },
+  "prefixes": {
+    "ipv4": [ "204.235.243.0/24", "217.217.32.0/22" ],
+    "ipv6": [ ]
+  }
+}

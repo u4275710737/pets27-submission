@@ -1,0 +1,5 @@
+# AS38158 (CBN-ID)
+# Divinetworks for CBN
+#
+103.91.20.0/22
+121.100.0.0/21

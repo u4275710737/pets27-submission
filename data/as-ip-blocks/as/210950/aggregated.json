@@ -1,0 +1,14 @@
+{
+  "asn": 210950,
+  "metadata": {
+    "handle": "ERISHENNYA-ASN",
+    "description": "TOV E-RISHENNYA",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

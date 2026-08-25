@@ -1,0 +1,14 @@
+{
+  "asn": 149076,
+  "metadata": {
+    "handle": "CLOUDCOMPUTING-AS-VN",
+    "description": "Cloud Computing Server Solutions Co. Ltd",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

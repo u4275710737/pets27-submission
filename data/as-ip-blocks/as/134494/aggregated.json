@@ -1,0 +1,14 @@
+{
+  "asn": 134494,
+  "metadata": {
+    "handle": "CFHIL-AS-AP",
+    "description": "Code For Host Inc Ltd",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

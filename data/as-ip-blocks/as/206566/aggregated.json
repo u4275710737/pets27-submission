@@ -1,0 +1,14 @@
+{
+  "asn": 206566,
+  "metadata": {
+    "handle": "SAVANACZ",
+    "description": "Webglobe s.r.o.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

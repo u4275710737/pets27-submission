@@ -1,0 +1,14 @@
+{
+  "asn": 210540,
+  "metadata": {
+    "handle": "T-SYSTEMS-RUS-LLC",
+    "description": "LLC T-Systems RUS",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 142638,
+  "metadata": {
+    "handle": "PLANET5-AP",
+    "description": "PLANET COMMUNICATION",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

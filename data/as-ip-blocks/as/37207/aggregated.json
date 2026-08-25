@@ -1,0 +1,16 @@
+{
+  "asn": 37207,
+  "metadata": {
+    "handle": "NNPC-AS",
+    "description": "NNPC AS NUMBER",
+    "countryCode": "NG",
+    "country": "Nigeria",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "196.46.27.0/24" ],
+    "ipv6": [ ]
+  }
+}

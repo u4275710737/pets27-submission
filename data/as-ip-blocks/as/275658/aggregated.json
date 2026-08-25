@@ -1,0 +1,16 @@
+{
+  "asn": 275658,
+  "metadata": {
+    "handle": "CONECT-CANASTRA",
+    "description": "CONECT CANASTRA LTDA",
+    "countryCode": "BR",
+    "country": "Brazil",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "38.159.228.0/24" ],
+    "ipv6": [ "2804:97fc::/32" ]
+  }
+}

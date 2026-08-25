@@ -1,0 +1,14 @@
+{
+  "asn": 27534,
+  "metadata": {
+    "handle": "MUTUAL-OF-OMAHA",
+    "description": "Mutual of Omaha Insurance Company",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

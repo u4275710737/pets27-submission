@@ -1,0 +1,16 @@
+{
+  "asn": 29177,
+  "metadata": {
+    "handle": "ASCOTLC-AS",
+    "description": "HERABIT S.p.A.",
+    "countryCode": "IT",
+    "country": "Italy",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ ]
+  }
+}

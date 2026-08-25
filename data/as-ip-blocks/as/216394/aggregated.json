@@ -1,0 +1,14 @@
+{
+  "asn": 216394,
+  "metadata": {
+    "handle": "NETLEN",
+    "description": "Netlen Internet Hizmetleri Ltd. Sti.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

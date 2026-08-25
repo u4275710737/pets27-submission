@@ -1,0 +1,5 @@
+# AS52390 (ADMINISTRADORADEREDES)
+# Administradora de Redes S.A.
+#
+190.123.24.0/21
+200.75.184.0/21

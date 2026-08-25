@@ -1,0 +1,16 @@
+{
+  "asn": 20284,
+  "metadata": {
+    "handle": "INETUASN1",
+    "description": "Flexential iNETu Corp.",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "185.75.168.0/22" ],
+    "ipv6": [ ]
+  }
+}

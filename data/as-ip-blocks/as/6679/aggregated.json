@@ -1,0 +1,14 @@
+{
+  "asn": 6679,
+  "metadata": {
+    "handle": "IT-PARK",
+    "description": "IT PARK JSC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

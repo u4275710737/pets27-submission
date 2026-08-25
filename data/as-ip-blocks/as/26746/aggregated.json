@@ -1,0 +1,14 @@
+{
+  "asn": 26746,
+  "metadata": {
+    "handle": "HARVARD-PILGRIM-HEALTH-CARE",
+    "description": "Harvard Pilgrim Health Care Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

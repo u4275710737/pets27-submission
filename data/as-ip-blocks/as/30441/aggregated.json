@@ -1,0 +1,14 @@
+{
+  "asn": 30441,
+  "metadata": {
+    "handle": "SOUTHPOINT-1114-6TH-AVE",
+    "description": "Southpoint Capital Advisors LP",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 141668,
+  "metadata": {
+    "handle": "IDNIC-DISDIKKEPRI-ID",
+    "description": "Dinas Pendidikan Provinsi Kepulauan Riau",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,4 @@
+# AS214382 (HOSTLAYICI)
+# Bulent Aydin trading as Hostlayici
+#
+2a13:a440:8::/48

@@ -1,0 +1,4 @@
+# AS137669 (ASGTELE-AS)
+# Asg Telecom Pvt Ltd
+#
+103.121.152.0/23

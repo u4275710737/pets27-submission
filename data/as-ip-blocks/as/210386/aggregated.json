@@ -1,0 +1,14 @@
+{
+  "asn": 210386,
+  "metadata": {
+    "handle": "XING-CHEN",
+    "description": "Xing Chen",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

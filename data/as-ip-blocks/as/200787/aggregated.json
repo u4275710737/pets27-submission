@@ -1,0 +1,14 @@
+{
+  "asn": 200787,
+  "metadata": {
+    "handle": "SOKOL",
+    "description": "Sokol TRK LLC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

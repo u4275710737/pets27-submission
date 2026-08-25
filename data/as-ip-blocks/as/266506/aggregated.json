@@ -1,0 +1,16 @@
+{
+  "asn": 266506,
+  "metadata": {
+    "handle": "PONTO-COM-PROVEDOR-INTERNET",
+    "description": "PONTO COM PROVEDOR DE INTERNET",
+    "countryCode": "BR",
+    "country": "Brazil",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "170.244.180.0/23", "170.244.183.0/24" ],
+    "ipv6": [ "2804:38dc::/32" ]
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 24011,
+  "metadata": {
+    "handle": "HEALTHNEWZEALAND-AS-AP",
+    "description": "Health New Zealand",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

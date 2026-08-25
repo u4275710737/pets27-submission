@@ -1,0 +1,14 @@
+{
+  "asn": 135395,
+  "metadata": {
+    "handle": "HERTZ",
+    "description": "Hertz Global Network",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

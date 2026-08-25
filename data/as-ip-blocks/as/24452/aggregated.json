@@ -1,0 +1,16 @@
+{
+  "asn": 24452,
+  "metadata": {
+    "handle": "AS-EONFMEDA",
+    "description": "EonF Meda SL",
+    "countryCode": "ES",
+    "country": "Spain",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "213.155.16.0/23", "217.179.88.0/23" ],
+    "ipv6": [ "2a13:8740::/47" ]
+  }
+}

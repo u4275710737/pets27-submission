@@ -1,0 +1,16 @@
+{
+  "asn": 198243,
+  "metadata": {
+    "handle": "GLOBALENTRY-AS",
+    "description": "GLOBAL ENTRY SOLUTIONS LTD",
+    "countryCode": "GB",
+    "country": "United Kingdom",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "154.222.86.0/24" ],
+    "ipv6": [ ]
+  }
+}

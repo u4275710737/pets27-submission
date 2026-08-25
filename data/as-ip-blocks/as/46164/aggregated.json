@@ -1,0 +1,14 @@
+{
+  "asn": 46164,
+  "metadata": {
+    "handle": "ATT-MOBILITY-LABS",
+    "description": "AT&T Enterprises LLC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

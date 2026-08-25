@@ -1,0 +1,14 @@
+{
+  "asn": 50505,
+  "metadata": {
+    "handle": "KOMPEX",
+    "description": "Gabriel Sulka trading as Firma Handlowo - Uslugowa KOMPEX Gabriel Sulka",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

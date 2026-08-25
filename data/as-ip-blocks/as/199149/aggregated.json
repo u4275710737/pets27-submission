@@ -1,0 +1,16 @@
+{
+  "asn": 199149,
+  "metadata": {
+    "handle": "SOLINTEX-INSULAR",
+    "description": "Solintex Insular SLU",
+    "countryCode": "ES",
+    "country": "Spain",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "151.246.236.0/24" ],
+    "ipv6": [ ]
+  }
+}

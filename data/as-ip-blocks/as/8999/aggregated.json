@@ -1,0 +1,14 @@
+{
+  "asn": 8999,
+  "metadata": {
+    "handle": "AXINET-COM",
+    "description": "Axinet Communication sarl",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

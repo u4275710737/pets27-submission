@@ -1,0 +1,16 @@
+{
+  "asn": 402284,
+  "metadata": {
+    "handle": "LEWISNY-NET",
+    "description": "Lewis County New York",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "government_admin",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "23.130.52.0/24" ],
+    "ipv6": [ ]
+  }
+}

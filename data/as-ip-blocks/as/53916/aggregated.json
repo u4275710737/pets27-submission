@@ -1,0 +1,14 @@
+{
+  "asn": 53916,
+  "metadata": {
+    "handle": "CAMPUSDOOR",
+    "description": "Campus Door Holdings Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

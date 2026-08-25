@@ -1,0 +1,14 @@
+{
+  "asn": 204305,
+  "metadata": {
+    "handle": "ANSYSTEMS",
+    "description": "LLC ANsystems",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

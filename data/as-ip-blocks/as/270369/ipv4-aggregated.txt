@@ -1,0 +1,4 @@
+# AS270369 (NAVEGANET-COMERCIO-SERVICO)
+# Naveganet Comercio e Serviço LTDA
+#
+190.89.144.0/22

@@ -1,0 +1,16 @@
+{
+  "asn": 51651,
+  "metadata": {
+    "handle": "NEFESH",
+    "description": "Nefesh B'Nefesh Aliyah (R.A.)",
+    "countryCode": "IL",
+    "country": "Israel",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "91.220.22.0/24" ],
+    "ipv6": [ ]
+  }
+}

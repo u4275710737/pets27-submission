@@ -1,0 +1,4 @@
+# AS43733 (VIVA-ARMENIA)
+# Viva Armenia CJSC
+#
+2a00:1f28::/32

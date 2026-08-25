@@ -1,0 +1,14 @@
+{
+  "asn": 151893,
+  "metadata": {
+    "handle": "SUCCESS-VN",
+    "description": "DIGI SUCCESS SERVICE COMPANY LIMITED",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "asn": 151552,
+  "metadata": {
+    "handle": "IDNIC-THREEGOTECHNOLOGY-AS-ID",
+    "description": "PT Threego Technology Indonesia",
+    "countryCode": "ID",
+    "country": "Indonesia",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "midsize_transit"
+  },
+  "prefixes": {
+    "ipv4": [ "103.68.106.0/24" ],
+    "ipv6": [ "2001:df2:9440::/48" ]
+  }
+}

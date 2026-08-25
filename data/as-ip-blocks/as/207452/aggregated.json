@@ -1,0 +1,14 @@
+{
+  "asn": 207452,
+  "metadata": {
+    "handle": "BESK",
+    "description": "UAB BESK",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

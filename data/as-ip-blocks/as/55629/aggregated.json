@@ -1,0 +1,14 @@
+{
+  "asn": 55629,
+  "metadata": {
+    "handle": "TMON-AS",
+    "description": "TMON",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 212324,
+  "metadata": {
+    "handle": "SDIS64",
+    "description": "SCE DEPARTEMENTAL INCENDIE ET SECOURS",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

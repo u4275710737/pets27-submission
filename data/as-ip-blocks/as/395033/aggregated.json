@@ -1,0 +1,16 @@
+{
+  "asn": 395033,
+  "metadata": {
+    "handle": "FIBERDROPLLC",
+    "description": "fiberdrop LLC",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ ]
+  }
+}

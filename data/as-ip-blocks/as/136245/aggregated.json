@@ -1,0 +1,14 @@
+{
+  "asn": 136245,
+  "metadata": {
+    "handle": "GOPL-AP",
+    "description": "Goodlife Operations PTY LTD",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

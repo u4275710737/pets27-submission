@@ -1,0 +1,4 @@
+# AS18043 (HCCG-AS)
+# Department of Education Hsinchu City
+#
+144.79.66.0/23

@@ -1,0 +1,5 @@
+# AS215024 (FUNTECH)
+# Direct Cursus Technology LLC
+#
+2a14:48c7::/48
+2a14:48c7:2::/48

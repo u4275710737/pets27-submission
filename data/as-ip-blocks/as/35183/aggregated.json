@@ -1,0 +1,14 @@
+{
+  "asn": 35183,
+  "metadata": {
+    "handle": "BTA",
+    "description": "Bulgarian Telegraf Agency",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

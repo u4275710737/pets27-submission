@@ -1,0 +1,16 @@
+{
+  "asn": 213559,
+  "metadata": {
+    "handle": "ASMYBV1",
+    "description": "MyOffice s.r.o.",
+    "countryCode": "CZ",
+    "country": "Czechia",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "185.60.182.0/24" ],
+    "ipv6": [ "2a14:bd00::/29" ]
+  }
+}

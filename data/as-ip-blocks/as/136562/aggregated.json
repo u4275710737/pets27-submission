@@ -1,0 +1,16 @@
+{
+  "asn": 136562,
+  "metadata": {
+    "handle": "THEWINNERIT-AS-AP",
+    "description": "The Winner IT",
+    "countryCode": "BD",
+    "country": "Bangladesh",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "103.92.212.0/23" ],
+    "ipv6": [ ]
+  }
+}

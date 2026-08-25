@@ -1,0 +1,16 @@
+{
+  "asn": 211117,
+  "metadata": {
+    "handle": "BINOTEL-AS",
+    "description": "Binotel LLC",
+    "countryCode": "UA",
+    "country": "Ukraine",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "212.23.199.0/24" ],
+    "ipv6": [ ]
+  }
+}

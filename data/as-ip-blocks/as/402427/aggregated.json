@@ -1,0 +1,16 @@
+{
+  "asn": 402427,
+  "metadata": {
+    "handle": "NXST-AS402427",
+    "description": "Nexstar Media Inc.",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "163.193.70.0/24" ],
+    "ipv6": [ ]
+  }
+}

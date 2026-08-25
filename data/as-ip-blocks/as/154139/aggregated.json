@@ -1,0 +1,14 @@
+{
+  "asn": 154139,
+  "metadata": {
+    "handle": "SNNET-IN",
+    "description": "SNNET INTERNET SERVICES PRIVATE LIMITED",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

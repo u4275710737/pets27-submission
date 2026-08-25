@@ -1,0 +1,16 @@
+{
+  "asn": 142281,
+  "metadata": {
+    "handle": "YUUTA-BACKBONE",
+    "description": "Yuuta Backbone",
+    "countryCode": "CA",
+    "country": "Canada",
+    "origin": "authoritative",
+    "category": "education_research",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "44.30.150.0/24" ],
+    "ipv6": [ "2404:f4c0:f9c3::/48", "2a0d:2580:8001::/48" ]
+  }
+}

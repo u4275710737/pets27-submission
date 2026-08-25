@@ -1,0 +1,14 @@
+{
+  "asn": 64021,
+  "metadata": {
+    "handle": "NETWORK-TRANSIT",
+    "description": "Hong Kong Business Telecom Limited",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

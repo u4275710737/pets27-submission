@@ -1,0 +1,14 @@
+{
+  "asn": 31021,
+  "metadata": {
+    "handle": "DIALOGUE-COMMUNICATIONS",
+    "description": "Dialogue Communications Ltd",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

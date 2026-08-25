@@ -1,0 +1,16 @@
+{
+  "asn": 11086,
+  "metadata": {
+    "handle": "PB-EUROPE",
+    "description": "Pitney Bowes PLC",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "193.242.234.0/24", "199.231.32.0/22", "199.231.36.0/23", "199.231.38.0/24", "199.231.40.0/23", "199.231.43.0/24", "199.231.44.0/23", "199.231.50.0/24", "206.136.84.0/24", "206.136.86.0/23" ],
+    "ipv6": [ ]
+  }
+}

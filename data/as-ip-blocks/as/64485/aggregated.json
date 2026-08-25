@@ -1,0 +1,14 @@
+{
+  "asn": 64485,
+  "metadata": {
+    "handle": "ST-UK",
+    "description": "Mitel Networks Limited",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

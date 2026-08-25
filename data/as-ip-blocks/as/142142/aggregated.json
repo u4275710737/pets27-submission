@@ -1,0 +1,14 @@
+{
+  "asn": 142142,
+  "metadata": {
+    "handle": "LING1-AS-AP",
+    "description": "Ling Cloud Corporation Limited",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

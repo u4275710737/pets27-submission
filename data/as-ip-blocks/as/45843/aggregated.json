@@ -1,0 +1,14 @@
+{
+  "asn": 45843,
+  "metadata": {
+    "handle": "TW1-AP",
+    "description": "TRANS WORLD ASSOCIATES (PVT) LIMITED",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

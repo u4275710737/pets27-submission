@@ -1,0 +1,14 @@
+{
+  "asn": 56693,
+  "metadata": {
+    "handle": "TWOTOWN",
+    "description": "Entertainment Bulgaria System EOOD",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

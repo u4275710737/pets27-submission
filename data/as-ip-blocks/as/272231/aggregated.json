@@ -1,0 +1,16 @@
+{
+  "asn": 272231,
+  "metadata": {
+    "handle": "WJNET-TELECOMUNICACOES-INFORMATICA",
+    "description": "Wjnet Telecomunicações e Informática Ltda",
+    "countryCode": "BR",
+    "country": "Brazil",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "access_provider"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ "2804:83f8::/36", "2804:83f8:8000::/36" ]
+  }
+}

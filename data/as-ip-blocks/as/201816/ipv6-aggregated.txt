@@ -1,0 +1,4 @@
+# AS201816 (KALMAR-AS)
+# Region Kalmar Lan
+#
+2001:67c:678::/48

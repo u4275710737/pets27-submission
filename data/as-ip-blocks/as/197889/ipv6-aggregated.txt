@@ -1,0 +1,5 @@
+# AS197889 (MICROSYSTEM)
+# Microsystem-Kecskemet Kft
+#
+2a10:4940::/32
+2a11:440::/32

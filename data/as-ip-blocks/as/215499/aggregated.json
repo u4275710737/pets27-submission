@@ -1,0 +1,14 @@
+{
+  "asn": 215499,
+  "metadata": {
+    "handle": "RICHARD-FRANKS",
+    "description": "Richard Franks",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

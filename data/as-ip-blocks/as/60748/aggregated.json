@@ -1,0 +1,14 @@
+{
+  "asn": 60748,
+  "metadata": {
+    "handle": "ASN-BINSTRAH",
+    "description": "VSK Insurance Joint Stock Company",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

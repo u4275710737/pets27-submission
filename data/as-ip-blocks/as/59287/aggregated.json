@@ -1,0 +1,14 @@
+{
+  "asn": 59287,
+  "metadata": {
+    "handle": "IDNIC-MAXIMEDIA-ID",
+    "description": "PT Maximedia Cakrawala",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

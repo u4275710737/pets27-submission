@@ -1,0 +1,14 @@
+{
+  "asn": 18469,
+  "metadata": {
+    "handle": "HP-POLY",
+    "description": "HP Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 142344,
+  "metadata": {
+    "handle": "IDNIC-HGC-AS-ID",
+    "description": "PT HGC Global Communication Indonesia",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

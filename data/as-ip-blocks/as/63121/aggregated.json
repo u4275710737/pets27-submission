@@ -1,0 +1,14 @@
+{
+  "asn": 63121,
+  "metadata": {
+    "handle": "CP-IX",
+    "description": "Cloud Propeller",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

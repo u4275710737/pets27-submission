@@ -1,0 +1,4 @@
+# AS268473 (LINKSUL-INTERNET)
+# LinkSul internet
+#
+2804:51bc::/32

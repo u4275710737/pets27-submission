@@ -1,0 +1,14 @@
+{
+  "asn": 148989,
+  "metadata": {
+    "handle": "APURVA-AP",
+    "description": "APURVA UNIPESSOAL LDA",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

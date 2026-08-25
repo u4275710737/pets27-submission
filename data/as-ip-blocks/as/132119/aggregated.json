@@ -1,0 +1,16 @@
+{
+  "asn": 132119,
+  "metadata": {
+    "handle": "BNP-PARIBAS-AP",
+    "description": "AS for BNP Paribas JP Ltd",
+    "countryCode": "JP",
+    "country": "Japan",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "163.61.104.0/24" ],
+    "ipv6": [ "2001:df5:12c0::/48" ]
+  }
+}

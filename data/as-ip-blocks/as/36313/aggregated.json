@@ -1,0 +1,16 @@
+{
+  "asn": 36313,
+  "metadata": {
+    "handle": "JPASN01",
+    "description": "JUNIPER PAYMENTS LLC",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "12.236.202.0/24", "63.79.0.0/24" ],
+    "ipv6": [ ]
+  }
+}

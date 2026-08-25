@@ -1,0 +1,16 @@
+{
+  "asn": 400913,
+  "metadata": {
+    "handle": "COMARCH-NET-US-2-PHX",
+    "description": "Comarch Inc",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "45.42.152.0/23" ],
+    "ipv6": [ ]
+  }
+}

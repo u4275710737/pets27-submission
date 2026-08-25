@@ -1,0 +1,14 @@
+{
+  "asn": 40720,
+  "metadata": {
+    "handle": "PORTLAND",
+    "description": "FreedomNet",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

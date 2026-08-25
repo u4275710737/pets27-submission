@@ -1,0 +1,16 @@
+{
+  "asn": 275642,
+  "metadata": {
+    "handle": "NEO-PROVEDOR",
+    "description": "Neo Provedor Ltda",
+    "countryCode": "BR",
+    "country": "Brazil",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ "2804:97bc::/32" ]
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 215948,
+  "metadata": {
+    "handle": "STAVCOM",
+    "description": "LLC STAVCOM",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

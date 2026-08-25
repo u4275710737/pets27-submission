@@ -1,0 +1,16 @@
+{
+  "asn": 203731,
+  "metadata": {
+    "handle": "BLAZEHOSTING",
+    "description": "Blazehosting LTDA",
+    "countryCode": "BR",
+    "country": "Brazil",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "151.247.155.0/24" ],
+    "ipv6": [ "2a0c:b641:450::/44" ]
+  }
+}

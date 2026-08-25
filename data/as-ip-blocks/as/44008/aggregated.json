@@ -1,0 +1,14 @@
+{
+  "asn": 44008,
+  "metadata": {
+    "handle": "RBKC",
+    "description": "Royal Borough of Kensington and Chelsea",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "asn": 197644,
+  "metadata": {
+    "handle": "BMETRIC",
+    "description": "BMETRIC SRL",
+    "countryCode": "IT",
+    "country": "Italy",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "191.44.115.0/24" ],
+    "ipv6": [ ]
+  }
+}

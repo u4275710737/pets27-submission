@@ -1,0 +1,4 @@
+# AS203995 (ICENET)
+# Lyse Tele AS
+#
+2a05:9cc0::/29

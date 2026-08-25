@@ -1,0 +1,14 @@
+{
+  "asn": 205932,
+  "metadata": {
+    "handle": "DUST",
+    "description": "DUST MOBILE SA",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,5 @@
+# AS55340 (TELECARD-AS-AP)
+# Telecard Limited
+#
+2400:a960:6::/48
+2400:a960:a::/47

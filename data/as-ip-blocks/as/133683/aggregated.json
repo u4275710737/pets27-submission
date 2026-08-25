@@ -1,0 +1,14 @@
+{
+  "asn": 133683,
+  "metadata": {
+    "handle": "ZNETCLOUD-AS",
+    "description": "ZNet Cloud Services",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

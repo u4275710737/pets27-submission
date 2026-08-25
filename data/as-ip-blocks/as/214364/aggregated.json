@@ -1,0 +1,14 @@
+{
+  "asn": 214364,
+  "metadata": {
+    "handle": "STREAMTECH-AS",
+    "description": "StreamTech Solutions EOOD",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

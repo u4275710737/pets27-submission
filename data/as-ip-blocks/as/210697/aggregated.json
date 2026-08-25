@@ -1,0 +1,14 @@
+{
+  "asn": 210697,
+  "metadata": {
+    "handle": "SOMETHINGHOST",
+    "description": "SOMETHING SINGLE MEMBER P.C.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

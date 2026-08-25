@@ -1,0 +1,14 @@
+{
+  "asn": 47841,
+  "metadata": {
+    "handle": "OXALIDE",
+    "description": "Claranet SAS",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

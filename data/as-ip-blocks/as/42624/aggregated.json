@@ -1,0 +1,16 @@
+{
+  "asn": 42624,
+  "metadata": {
+    "handle": "SWISSNETWORK02",
+    "description": "Global-Data System IT Corporation",
+    "countryCode": "SC",
+    "country": "Seychelles",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ ]
+  }
+}

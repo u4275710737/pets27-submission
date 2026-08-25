@@ -1,0 +1,16 @@
+{
+  "asn": 202734,
+  "metadata": {
+    "handle": "TIANSHOME",
+    "description": "Junqi Tian",
+    "countryCode": "CA",
+    "country": "Canada",
+    "origin": "authoritative",
+    "category": "education_research",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ ]
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 25962,
+  "metadata": {
+    "handle": "ALC",
+    "description": "Atlantic Lottery Corporation",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

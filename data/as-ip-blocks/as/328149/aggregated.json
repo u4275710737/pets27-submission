@@ -1,0 +1,16 @@
+{
+  "asn": 328149,
+  "metadata": {
+    "handle": "WEB-TRIBE-LIMITED-KE",
+    "description": "WEB-TRIBE-LIMITED-KE",
+    "countryCode": "KE",
+    "country": "Kenya",
+    "origin": "overlaid",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "196.50.21.0/24" ],
+    "ipv6": [ ]
+  }
+}

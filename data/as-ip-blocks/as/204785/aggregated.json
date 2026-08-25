@@ -1,0 +1,16 @@
+{
+  "asn": 204785,
+  "metadata": {
+    "handle": "TAKEHOST",
+    "description": "Raul Ghita trading as 'Ghita Telekom'",
+    "countryCode": "NO",
+    "country": "Norway",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "94.249.148.0/24" ],
+    "ipv6": [ "2a0f:85c1:d92::/48" ]
+  }
+}

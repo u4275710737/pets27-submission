@@ -1,0 +1,4 @@
+# AS31149 (EXPRESSNIKOPOL-AS)
+# Shtoler Vitaliy Andreevich
+#
+2001:678:5cc::/48

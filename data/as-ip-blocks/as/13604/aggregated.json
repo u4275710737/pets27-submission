@@ -1,0 +1,14 @@
+{
+  "asn": 13604,
+  "metadata": {
+    "handle": "FLC-DUN",
+    "description": "OTI Fiber LLC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

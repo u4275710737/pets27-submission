@@ -1,0 +1,6 @@
+# AS264283 (NET-TRIANGULO-TELECOM)
+# Net Triangulo Telecom Ltda - ME
+#
+138.118.240.0/22
+206.62.88.0/21
+216.28.144.0/24

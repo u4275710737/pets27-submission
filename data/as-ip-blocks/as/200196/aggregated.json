@@ -1,0 +1,16 @@
+{
+  "asn": 200196,
+  "metadata": {
+    "handle": "AZERLINK",
+    "description": "Azerlink LLC",
+    "countryCode": "AZ",
+    "country": "Azerbaijan",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "31.171.39.0/24" ],
+    "ipv6": [ ]
+  }
+}

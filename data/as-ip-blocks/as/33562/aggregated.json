@@ -1,0 +1,14 @@
+{
+  "asn": 33562,
+  "metadata": {
+    "handle": "ASSURANT-MIA01INET",
+    "description": "Assurant, Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

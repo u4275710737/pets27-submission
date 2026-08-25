@@ -1,0 +1,14 @@
+{
+  "asn": 209414,
+  "metadata": {
+    "handle": "SCALEFAIR",
+    "description": "ScaleFair Ltd",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

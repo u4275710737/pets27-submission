@@ -1,0 +1,16 @@
+{
+  "asn": 132169,
+  "metadata": {
+    "handle": "KBZONLINE-AS-AP",
+    "description": "Kbz online",
+    "countryCode": "BD",
+    "country": "Bangladesh",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "103.138.202.0/23", "103.165.187.0/24", "103.219.224.0/23" ],
+    "ipv6": [ ]
+  }
+}

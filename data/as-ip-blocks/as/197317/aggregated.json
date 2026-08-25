@@ -1,0 +1,16 @@
+{
+  "asn": 197317,
+  "metadata": {
+    "handle": "NUUDAY-ENTERTAINMENT",
+    "description": "TDC Brands A/S",
+    "countryCode": "DK",
+    "country": "Denmark",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "91.219.152.0/22" ],
+    "ipv6": [ ]
+  }
+}

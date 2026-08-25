@@ -1,0 +1,14 @@
+{
+  "asn": 209958,
+  "metadata": {
+    "handle": "MIKE-AS2",
+    "description": "Mike Marchal",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

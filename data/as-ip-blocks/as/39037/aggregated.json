@@ -1,0 +1,14 @@
+{
+  "asn": 39037,
+  "metadata": {
+    "handle": "MTO",
+    "description": "Metal Trade Overseas AG",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

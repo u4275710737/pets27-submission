@@ -1,0 +1,16 @@
+{
+  "asn": 270919,
+  "metadata": {
+    "handle": "VIANET-TELECOM",
+    "description": "VIANET TELECOM LTDA",
+    "countryCode": "BR",
+    "country": "Brazil",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "138.185.68.0/22" ],
+    "ipv6": [ "2804:7380::/33", "2804:7380:fe00::/39" ]
+  }
+}

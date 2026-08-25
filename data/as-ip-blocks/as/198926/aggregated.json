@@ -1,0 +1,14 @@
+{
+  "asn": 198926,
+  "metadata": {
+    "handle": "FAZEL",
+    "description": "Fazel Rezaei Kalantari",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

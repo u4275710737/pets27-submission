@@ -1,0 +1,14 @@
+{
+  "asn": 3178,
+  "metadata": {
+    "handle": "WIDETELECOM-AS",
+    "description": "FastLine For Communication And Information Technology Ltd",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

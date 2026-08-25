@@ -1,0 +1,6 @@
+# AS29992 (VA-TMP-CORE)
+# U.S. Department of Veterans Affairs
+#
+152.124.0.0/16
+152.130.0.0/15
+152.132.0.0/15

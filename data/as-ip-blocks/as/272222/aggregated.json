@@ -1,0 +1,16 @@
+{
+  "asn": 272222,
+  "metadata": {
+    "handle": "INFO-NET-TELECOMUNICACOES",
+    "description": "Info Net Telecomunicações ltda",
+    "countryCode": "BR",
+    "country": "Brazil",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "38.156.4.0/23" ],
+    "ipv6": [ ]
+  }
+}

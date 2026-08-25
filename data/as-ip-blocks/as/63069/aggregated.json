@@ -1,0 +1,14 @@
+{
+  "asn": 63069,
+  "metadata": {
+    "handle": "GRGE-63069",
+    "description": "Gorge Networks LLC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

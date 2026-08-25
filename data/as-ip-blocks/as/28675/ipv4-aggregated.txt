@@ -1,0 +1,4 @@
+# AS28675 (AGSMTEL-AS)
+# Magis Smart Srl
+#
+213.171.96.0/19

@@ -1,0 +1,14 @@
+{
+  "asn": 2706,
+  "metadata": {
+    "handle": "HKBNES-AP",
+    "description": "HKBN Enterprise Solutions HK Limited",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

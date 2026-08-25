@@ -1,0 +1,14 @@
+{
+  "asn": 199781,
+  "metadata": {
+    "handle": "ITTOTAL-LEGACY",
+    "description": "IT-Total Sweden AB",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

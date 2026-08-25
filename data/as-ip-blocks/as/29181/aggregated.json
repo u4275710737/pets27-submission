@@ -1,0 +1,14 @@
+{
+  "asn": 29181,
+  "metadata": {
+    "handle": "UKRANEWSAS",
+    "description": "TOV Information Agency 'Ukrainian News'",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

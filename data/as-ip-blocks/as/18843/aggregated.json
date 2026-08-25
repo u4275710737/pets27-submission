@@ -1,0 +1,14 @@
+{
+  "asn": 18843,
+  "metadata": {
+    "handle": "CHI-MANAGEMENT",
+    "description": "Crossmark",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

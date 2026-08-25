@@ -1,0 +1,14 @@
+{
+  "asn": 8935,
+  "metadata": {
+    "handle": "INTOUCH-INT",
+    "description": "InTouch N.V.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

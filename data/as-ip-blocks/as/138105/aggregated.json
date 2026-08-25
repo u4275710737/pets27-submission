@@ -1,0 +1,16 @@
+{
+  "asn": 138105,
+  "metadata": {
+    "handle": "IDNIC-KEMENDESA-AS-ID",
+    "description": "Kementerian Desa Pembangunan Daerah Tertinggal dan Transmigrasi",
+    "countryCode": "ID",
+    "country": "Indonesia",
+    "origin": "authoritative",
+    "category": "government_admin",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "103.125.202.0/23", "157.15.226.0/24" ],
+    "ipv6": [ ]
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 147261,
+  "metadata": {
+    "handle": "VIJMAX-AS-IN",
+    "description": "Durga Data Network Service",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

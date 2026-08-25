@@ -1,0 +1,14 @@
+{
+  "asn": 397984,
+  "metadata": {
+    "handle": "JOCO-JIMS-01",
+    "description": "Johnson County Kansas",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

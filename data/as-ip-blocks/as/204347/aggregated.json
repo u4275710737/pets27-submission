@@ -1,0 +1,14 @@
+{
+  "asn": 204347,
+  "metadata": {
+    "handle": "REDWIRELES-AS",
+    "description": "Netfiber Conecta 2020 SLU",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

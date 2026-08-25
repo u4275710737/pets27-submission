@@ -1,0 +1,14 @@
+{
+  "asn": 198191,
+  "metadata": {
+    "handle": "GMS",
+    "description": "Global Media Systems S.A.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

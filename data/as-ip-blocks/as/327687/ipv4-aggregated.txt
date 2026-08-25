@@ -1,0 +1,6 @@
+# AS327687 (RENU-AS)
+# Research and Education Network for Uganda Autonomous System
+#
+102.34.0.0/16
+137.63.128.0/17
+196.43.128.0/18

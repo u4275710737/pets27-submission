@@ -1,0 +1,14 @@
+{
+  "asn": 22723,
+  "metadata": {
+    "handle": "UN",
+    "description": "United Nations",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,4 @@
+# AS32534 (INSIGHT-PARTNERS)
+# Insight Venture Partners
+#
+38.94.163.0/24

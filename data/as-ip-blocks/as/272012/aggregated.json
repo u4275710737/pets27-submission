@@ -1,0 +1,16 @@
+{
+  "asn": 272012,
+  "metadata": {
+    "handle": "U-ENERGY-CORP-S-A",
+    "description": "U ENERGY CORP S. A.",
+    "countryCode": "GT",
+    "country": "Guatemala",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "38.165.224.0/22" ],
+    "ipv6": [ ]
+  }
+}

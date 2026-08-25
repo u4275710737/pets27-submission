@@ -1,0 +1,16 @@
+{
+  "asn": 154629,
+  "metadata": {
+    "handle": "IDNIC-GARUDALINK-AS-ID",
+    "description": "PT Garuda Network Nusantara Sinergi",
+    "countryCode": "ID",
+    "country": "Indonesia",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "163.128.184.0/23" ],
+    "ipv6": [ ]
+  }
+}

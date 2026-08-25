@@ -1,0 +1,14 @@
+{
+  "asn": 31033,
+  "metadata": {
+    "handle": "INVESTNET",
+    "description": "Intesa Sanpaolo S.p.A.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

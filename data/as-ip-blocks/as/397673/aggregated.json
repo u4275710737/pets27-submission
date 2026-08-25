@@ -1,0 +1,14 @@
+{
+  "asn": 397673,
+  "metadata": {
+    "handle": "AHELIOTECH",
+    "description": "AHELIOTECH",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 62477,
+  "metadata": {
+    "handle": "EEXCHANGE-1",
+    "description": "Currenex, Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

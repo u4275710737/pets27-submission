@@ -1,0 +1,14 @@
+{
+  "asn": 134249,
+  "metadata": {
+    "handle": "MARGONW-AS",
+    "description": "Margo Networks Pvt Ltd",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

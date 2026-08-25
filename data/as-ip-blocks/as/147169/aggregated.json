@@ -1,0 +1,14 @@
+{
+  "asn": 147169,
+  "metadata": {
+    "handle": "IDNIC-TOPUPGROUP-ID",
+    "description": "CV Top Up Group",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

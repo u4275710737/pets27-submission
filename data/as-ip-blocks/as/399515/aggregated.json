@@ -1,0 +1,14 @@
+{
+  "asn": 399515,
+  "metadata": {
+    "handle": "PARLEMENT-01",
+    "description": "Parlement Technologies, Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

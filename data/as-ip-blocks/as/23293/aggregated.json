@@ -1,0 +1,14 @@
+{
+  "asn": 23293,
+  "metadata": {
+    "handle": "KNAOHUS",
+    "description": "KNOAH SOLUTIONS",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

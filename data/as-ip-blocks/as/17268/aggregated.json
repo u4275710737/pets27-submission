@@ -1,0 +1,14 @@
+{
+  "asn": 17268,
+  "metadata": {
+    "handle": "WHITEHAT-US-01",
+    "description": "Synopsys Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

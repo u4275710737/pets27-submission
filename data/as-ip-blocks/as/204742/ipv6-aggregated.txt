@@ -1,0 +1,3 @@
+# AS204742 (BITARRAY)
+# Bitarray GmbH
+#

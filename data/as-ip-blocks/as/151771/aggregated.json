@@ -1,0 +1,16 @@
+{
+  "asn": 151771,
+  "metadata": {
+    "handle": "LUPIN-AS-IN",
+    "description": "Lupin Limited",
+    "countryCode": "IN",
+    "country": "India",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "103.255.223.0/24" ],
+    "ipv6": [ ]
+  }
+}

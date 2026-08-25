@@ -1,0 +1,4 @@
+# AS138485 (PRIMECREDITLIMITED-AS-AP)
+# PrimeCredit Limited
+#
+103.126.227.0/24

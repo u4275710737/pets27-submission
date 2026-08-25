@@ -1,0 +1,14 @@
+{
+  "asn": 36043,
+  "metadata": {
+    "handle": "STARRTECHASN",
+    "description": "Starr Computer Solutions, Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

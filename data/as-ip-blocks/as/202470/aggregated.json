@@ -1,0 +1,14 @@
+{
+  "asn": 202470,
+  "metadata": {
+    "handle": "CLOUD",
+    "description": "Eurotelecom SRL",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

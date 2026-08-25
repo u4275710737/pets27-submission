@@ -1,0 +1,16 @@
+{
+  "asn": 32658,
+  "metadata": {
+    "handle": "PINELLAS-COUNTY-SO",
+    "description": "Pinellas County Government",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "government_admin",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "136.174.51.0/24" ],
+    "ipv6": [ ]
+  }
+}

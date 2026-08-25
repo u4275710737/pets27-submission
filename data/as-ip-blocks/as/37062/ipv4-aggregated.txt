@@ -1,0 +1,4 @@
+# AS37062 (AS37062)
+# ASN - Banco de Negocios Internacional - Angola
+#
+196.216.248.0/23

@@ -1,0 +1,16 @@
+{
+  "asn": 397441,
+  "metadata": {
+    "handle": "ORBITAL",
+    "description": "Nebula Mods",
+    "countryCode": "CA",
+    "country": "Canada",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "166.88.20.0/24" ],
+    "ipv6": [ ]
+  }
+}

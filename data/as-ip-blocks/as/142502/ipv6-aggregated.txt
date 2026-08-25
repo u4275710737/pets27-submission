@@ -1,0 +1,11 @@
+# AS142502 (BHARAT-PUBLIC-DNS)
+# BHARAT-PUBLIC-DNS
+#
+2407:ca40:136::/48
+2409:e:e3::/48
+2409:e:e5::/48
+2409:e:e7::/48
+2409:f:f2::/48
+2409:f:f4::/48
+240a:eabc:abce::/47
+240a:eabc:dabc::/47

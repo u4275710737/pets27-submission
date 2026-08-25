@@ -1,0 +1,6 @@
+# AS393448 (LIBERALLY-SINGAPORE)
+# Liberally Network LLC
+#
+2001:df3:ed40::/48
+2602:f96c:de::/48
+2a14:7dc0:1100::/48

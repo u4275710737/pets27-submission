@@ -1,0 +1,16 @@
+{
+  "asn": 142222,
+  "metadata": {
+    "handle": "IRINN-JKS123-AS-IN",
+    "description": "JKS BROADBAND SERVICES PRIVATE LIMITED",
+    "countryCode": "IN",
+    "country": "India",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "170.62.143.0/24", "189.31.223.0/24" ],
+    "ipv6": [ ]
+  }
+}

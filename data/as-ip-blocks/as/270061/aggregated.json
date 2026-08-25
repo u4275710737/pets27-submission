@@ -1,0 +1,14 @@
+{
+  "asn": 270061,
+  "metadata": {
+    "handle": "TWAINSAT",
+    "description": "TWAINSAT SRL",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 135068,
+  "metadata": {
+    "handle": "HODMC-AS-AP",
+    "description": "HOD Media Co. Ltd",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

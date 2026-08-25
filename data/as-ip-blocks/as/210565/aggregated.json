@@ -1,0 +1,14 @@
+{
+  "asn": 210565,
+  "metadata": {
+    "handle": "MATTHIASSCHMIDT",
+    "description": "Matthias Schmidt",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

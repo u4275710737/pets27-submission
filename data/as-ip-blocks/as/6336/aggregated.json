@@ -1,0 +1,16 @@
+{
+  "asn": 6336,
+  "metadata": {
+    "handle": "TURN-US-ASN",
+    "description": "Turn Inc.",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "192.208.220.0/22" ],
+    "ipv6": [ "2620:112:f006::/48" ]
+  }
+}

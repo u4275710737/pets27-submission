@@ -1,0 +1,16 @@
+{
+  "asn": 153968,
+  "metadata": {
+    "handle": "IDNIC-MTC-ID",
+    "description": "PT MERDEKA TELEKOMUNIKASI CENTER",
+    "countryCode": "ID",
+    "country": "Indonesia",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "165.99.238.0/23" ],
+    "ipv6": [ "2001:df5:b4c0::/48" ]
+  }
+}

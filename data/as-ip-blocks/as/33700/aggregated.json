@@ -1,0 +1,14 @@
+{
+  "asn": 33700,
+  "metadata": {
+    "handle": "SMART-CITY-CNCC",
+    "description": "SMART CITY NETWORKS, LIMITED PARTNERSHIP",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

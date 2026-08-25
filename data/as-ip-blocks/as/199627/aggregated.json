@@ -1,0 +1,14 @@
+{
+  "asn": 199627,
+  "metadata": {
+    "handle": "AFENIOUX",
+    "description": "HASGARD s.a.r.l.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

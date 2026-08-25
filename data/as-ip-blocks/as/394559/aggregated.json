@@ -1,0 +1,14 @@
+{
+  "asn": 394559,
+  "metadata": {
+    "handle": "ACHIEVERS-NET2",
+    "description": "Achievers",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

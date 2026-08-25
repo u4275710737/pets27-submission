@@ -1,0 +1,14 @@
+{
+  "asn": 206252,
+  "metadata": {
+    "handle": "GLEVENTS",
+    "description": "Generale Location Convenciones Barcelona, S.L.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

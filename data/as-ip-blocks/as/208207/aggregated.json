@@ -1,0 +1,16 @@
+{
+  "asn": 208207,
+  "metadata": {
+    "handle": "SKGELIOS-AS",
+    "description": "LLC The Insurance Company Gelios",
+    "countryCode": "RU",
+    "country": "Russia",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "193.151.229.0/24" ],
+    "ipv6": [ ]
+  }
+}

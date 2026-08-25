@@ -1,0 +1,14 @@
+{
+  "asn": 263742,
+  "metadata": {
+    "handle": "CELDA-COOPERATIVA-ELECTRICA",
+    "description": "C.E.L.Da Cooperativa Electrica Darregueira",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

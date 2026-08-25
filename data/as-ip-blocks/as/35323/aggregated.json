@@ -1,0 +1,14 @@
+{
+  "asn": 35323,
+  "metadata": {
+    "handle": "ONEFONE",
+    "description": "Onefone SA",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

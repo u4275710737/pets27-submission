@@ -1,0 +1,14 @@
+{
+  "asn": 152956,
+  "metadata": {
+    "handle": "DPTCLOUD-VN",
+    "description": "Duc Kien Technology Company Limited",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

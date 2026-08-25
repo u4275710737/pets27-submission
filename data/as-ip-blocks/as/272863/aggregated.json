@@ -1,0 +1,14 @@
+{
+  "asn": 272863,
+  "metadata": {
+    "handle": "SISTEMAS-GLOBALES-COMUNICACION",
+    "description": "SISTEMAS GLOBALES DE COMUNICACION HCGLOBAL S.A.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

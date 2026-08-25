@@ -1,0 +1,4 @@
+# AS140025 (IDNIC-IAINPONOROGO-AS-ID)
+# Universitas Islam Negeri Kiai Ageng Muhammad Besari Ponorogo
+#
+2001:df3:780::/48

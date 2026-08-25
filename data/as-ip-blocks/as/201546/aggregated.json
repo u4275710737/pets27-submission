@@ -1,0 +1,14 @@
+{
+  "asn": 201546,
+  "metadata": {
+    "handle": "AMELIA-2AS",
+    "description": "Amelia NL BV",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

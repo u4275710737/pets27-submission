@@ -1,0 +1,14 @@
+{
+  "asn": 63063,
+  "metadata": {
+    "handle": "SINGULAR",
+    "description": "Singular Labs, Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

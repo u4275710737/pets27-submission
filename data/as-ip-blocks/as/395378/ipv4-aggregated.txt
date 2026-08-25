@@ -1,0 +1,5 @@
+# AS395378 (CASCADEDIVIDE-DC)
+# Cascade Divide Partners LLC
+#
+104.152.216.0/22
+104.152.220.0/23

@@ -1,0 +1,14 @@
+{
+  "asn": 32828,
+  "metadata": {
+    "handle": "WEN",
+    "description": "Wyoming Community College Commission",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

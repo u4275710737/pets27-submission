@@ -1,0 +1,4 @@
+# AS36926 (CELTEL-KE-AS)
+# Airtetl Networks Kenya Limited
+#
+2c0f:e9c8::/32

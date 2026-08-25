@@ -1,0 +1,4 @@
+# AS50247 (ITCOMP)
+# ITCOMP sp. z o.o
+#
+2a0a:7080::/29

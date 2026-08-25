@@ -1,0 +1,4 @@
+# AS56888 (KRNET-AS)
+# JSC Intellin
+#
+91.228.180.0/23

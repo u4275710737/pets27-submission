@@ -1,0 +1,14 @@
+{
+  "asn": 41136,
+  "metadata": {
+    "handle": "NJ-AS",
+    "description": "Wolters Kluwer Scandinavia AB",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

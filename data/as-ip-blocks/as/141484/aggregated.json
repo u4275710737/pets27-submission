@@ -1,0 +1,14 @@
+{
+  "asn": 141484,
+  "metadata": {
+    "handle": "DNCOMP-AS-IN",
+    "description": "D N Computer",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

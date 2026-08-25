@@ -1,0 +1,14 @@
+{
+  "asn": 18926,
+  "metadata": {
+    "handle": "PROVDC",
+    "description": "PROVDC",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

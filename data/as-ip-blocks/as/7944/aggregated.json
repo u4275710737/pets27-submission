@@ -1,0 +1,14 @@
+{
+  "asn": 7944,
+  "metadata": {
+    "handle": "DMVOL",
+    "description": "DELMARVA ONLINE",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

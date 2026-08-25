@@ -1,0 +1,4 @@
+# AS396314 (IFS-INDUSTRIAL)
+# IFS Industrial and Financial Systems Inc
+#
+192.198.30.0/24

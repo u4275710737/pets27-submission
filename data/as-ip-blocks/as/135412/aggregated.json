@@ -1,0 +1,14 @@
+{
+  "asn": 135412,
+  "metadata": {
+    "handle": "SGNIC-AP",
+    "description": "Singapore Network Information Centre",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

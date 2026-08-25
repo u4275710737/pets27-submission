@@ -1,0 +1,14 @@
+{
+  "asn": 16500,
+  "metadata": {
+    "handle": "APCI",
+    "description": "Air Products & Chemicals, Inc.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

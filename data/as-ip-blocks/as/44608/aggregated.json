@@ -1,0 +1,16 @@
+{
+  "asn": 44608,
+  "metadata": {
+    "handle": "UBF-AS",
+    "description": "EMG Nederland B.V.",
+    "countryCode": "NL",
+    "country": "Netherlands",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "content_network"
+  },
+  "prefixes": {
+    "ipv4": [ "91.199.177.0/24", "91.230.46.0/24" ],
+    "ipv6": [ ]
+  }
+}

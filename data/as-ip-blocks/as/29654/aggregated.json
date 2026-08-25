@@ -1,0 +1,14 @@
+{
+  "asn": 29654,
+  "metadata": {
+    "handle": "BACKBONE",
+    "description": "7 REASONS S.R.L.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

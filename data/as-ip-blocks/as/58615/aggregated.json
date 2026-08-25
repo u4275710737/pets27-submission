@@ -1,0 +1,14 @@
+{
+  "asn": 58615,
+  "metadata": {
+    "handle": "DMSHUB-AS-AP",
+    "description": "DMS HUB",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

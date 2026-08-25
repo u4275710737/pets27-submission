@@ -1,0 +1,14 @@
+{
+  "asn": 206830,
+  "metadata": {
+    "handle": "DIGAMAX",
+    "description": "DIGAMAX GESTION DE TELECOMUNICACIONES SL",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,6 @@
+# AS25081 (HDIT-AS)
+# Heidelberg IT Management GmbH & Co.KG
+#
+81.89.192.0/20
+195.234.216.0/22
+195.248.252.0/23

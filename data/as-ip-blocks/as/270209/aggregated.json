@@ -1,0 +1,16 @@
+{
+  "asn": 270209,
+  "metadata": {
+    "handle": "JESUS-MANUEL-OLGUIN-GUZMAN",
+    "description": "JESUS MANUEL OLGUIN GUZMAN",
+    "countryCode": "MX",
+    "country": "Mexico",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "38.45.248.0/23", "38.94.74.0/24", "38.199.246.0/23" ],
+    "ipv6": [ "2806:3fa::/32" ]
+  }
+}

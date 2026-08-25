@@ -1,0 +1,16 @@
+{
+  "asn": 204346,
+  "metadata": {
+    "handle": "INTERWIFI-AS",
+    "description": "Marcin Borowski trading as INTERWIFI",
+    "countryCode": "PL",
+    "country": "Poland",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "185.151.119.0/24" ],
+    "ipv6": [ ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "asn": 215683,
+  "metadata": {
+    "handle": "RID-AS",
+    "description": "Ridwanulloh",
+    "countryCode": "ID",
+    "country": "Indonesia",
+    "origin": "authoritative",
+    "category": "education_research",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ ]
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 198106,
+  "metadata": {
+    "handle": "SZYMCZAS-NET",
+    "description": "P.P.H.U. Szymczas Maciej Szymczyk",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

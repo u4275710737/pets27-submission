@@ -1,0 +1,16 @@
+{
+  "asn": 200340,
+  "metadata": {
+    "handle": "SKMIAC",
+    "description": "Gbuz Sk Meditsinskiy Informatsionno-Analiticheskiy Tsentr",
+    "countryCode": "RU",
+    "country": "Russia",
+    "origin": "authoritative",
+    "category": "government_admin",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "84.38.3.0/24" ],
+    "ipv6": [ ]
+  }
+}

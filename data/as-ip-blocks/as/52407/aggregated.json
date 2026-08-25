@@ -1,0 +1,14 @@
+{
+  "asn": 52407,
+  "metadata": {
+    "handle": "COMERCIALIZADORA-ASESORIA-ESTENO",
+    "description": "Comercializadora Y Asesoria Esteno Chile Limitada",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

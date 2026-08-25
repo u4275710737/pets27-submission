@@ -1,0 +1,5 @@
+# AS131778 (DINUSTECH-AS-ID)
+# PT Dian Nuswantoro Teknologi
+#
+2001:df0:229::/48
+2401:7aa0::/32

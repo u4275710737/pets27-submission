@@ -1,0 +1,14 @@
+{
+  "asn": 147232,
+  "metadata": {
+    "handle": "SWANSFIBE-AS-IN",
+    "description": "SWANS WEBSITES AND NETWORKING SOLUTIONS PRIVATE LIMITED",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

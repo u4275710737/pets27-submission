@@ -1,0 +1,14 @@
+{
+  "asn": 212356,
+  "metadata": {
+    "handle": "WISPNET",
+    "description": "WISPNET TELECOMMUNICATIONS IKE",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

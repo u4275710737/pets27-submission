@@ -1,0 +1,4 @@
+# AS31222 (ASN-TERRA)
+# Mewecom Italia spa
+#
+2a02:7320::/32

@@ -1,0 +1,14 @@
+{
+  "asn": 24049,
+  "metadata": {
+    "handle": "ISC-MAA1",
+    "description": "Internet Systems Consortium",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "asn": 50263,
+  "metadata": {
+    "handle": "IXP-1-IX-EU",
+    "description": "A-Systems Sp. z o.o.",
+    "countryCode": "PL",
+    "country": "Poland",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "major_transit"
+  },
+  "prefixes": {
+    "ipv4": [ ],
+    "ipv6": [ ]
+  }
+}

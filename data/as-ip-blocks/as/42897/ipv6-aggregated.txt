@@ -1,0 +1,4 @@
+# AS42897 (TELNET-LTD-AS)
+# Telnet LLC
+#
+2a0e:f400::/29

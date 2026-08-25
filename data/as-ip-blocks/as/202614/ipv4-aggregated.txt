@@ -1,0 +1,4 @@
+# AS202614 (KINESCOPE-AS)
+# Kinescope B.V.
+#
+46.102.104.0/24

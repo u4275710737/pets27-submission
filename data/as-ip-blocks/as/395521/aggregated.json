@@ -1,0 +1,14 @@
+{
+  "asn": 395521,
+  "metadata": {
+    "handle": "AH4R-A",
+    "description": "American Homes 4 Rent, LP",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 206788,
+  "metadata": {
+    "handle": "RAZVAN-ZECES",
+    "description": "Razvan Zeces",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "asn": 204763,
+  "metadata": {
+    "handle": "STRATOSCALE",
+    "description": "ZADARA TECHNOLOGIES LTD",
+    "countryCode": "IL",
+    "country": "Israel",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "185.241.24.0/22" ],
+    "ipv6": [ ]
+  }
+}

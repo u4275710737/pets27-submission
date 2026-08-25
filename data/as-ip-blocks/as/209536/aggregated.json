@@ -1,0 +1,14 @@
+{
+  "asn": 209536,
+  "metadata": {
+    "handle": "OTCEX",
+    "description": "OTCEX SA",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

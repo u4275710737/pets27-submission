@@ -1,0 +1,14 @@
+{
+  "asn": 137141,
+  "metadata": {
+    "handle": "FIVEINT",
+    "description": "Five Internet Solutions Pvt. Ltd.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

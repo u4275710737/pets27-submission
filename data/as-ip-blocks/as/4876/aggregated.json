@@ -1,0 +1,14 @@
+{
+  "asn": 4876,
+  "metadata": {
+    "handle": "DRIFTWOOD-NETWORKS",
+    "description": "Driftwood Networks Inc",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

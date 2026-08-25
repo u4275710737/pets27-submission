@@ -1,0 +1,16 @@
+{
+  "asn": 40356,
+  "metadata": {
+    "handle": "TECHNET-DE-IPIRA-LTDA-ME",
+    "description": "TECHNET DE IPIRA LTDA ME",
+    "countryCode": "BR",
+    "country": "Brazil",
+    "origin": "inferred",
+    "category": null,
+    "networkRole": null
+  },
+  "prefixes": {
+    "ipv4": [ "189.126.137.0/24" ],
+    "ipv6": [ ]
+  }
+}

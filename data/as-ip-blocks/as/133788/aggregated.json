@@ -1,0 +1,14 @@
+{
+  "asn": 133788,
+  "metadata": {
+    "handle": "UNN-BN",
+    "description": "Unified National Networks",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

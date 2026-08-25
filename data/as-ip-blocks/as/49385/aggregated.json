@@ -1,0 +1,14 @@
+{
+  "asn": 49385,
+  "metadata": {
+    "handle": "STYX-IT",
+    "description": "Windmill Telecom OU",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

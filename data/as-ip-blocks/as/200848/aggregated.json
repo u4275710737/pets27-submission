@@ -1,0 +1,14 @@
+{
+  "asn": 200848,
+  "metadata": {
+    "handle": "LUMINET2",
+    "description": "ISP Alliance a.s.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

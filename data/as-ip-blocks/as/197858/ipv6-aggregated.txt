@@ -1,0 +1,4 @@
+# AS197858 (HUMAIN)
+# Almustaqbal Company For Artificial Intelligence JSC
+#
+2a03:bb00::/48

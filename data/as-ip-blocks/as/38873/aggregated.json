@@ -1,0 +1,14 @@
+{
+  "asn": 38873,
+  "metadata": {
+    "handle": "CIL-AS-HK-AP",
+    "description": "Collinson International (Hong Kong) Limited",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

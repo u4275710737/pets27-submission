@@ -1,0 +1,16 @@
+{
+  "asn": 400918,
+  "metadata": {
+    "handle": "TWOROCKLAN",
+    "description": "Two Rock LAN",
+    "countryCode": "US",
+    "country": "United States",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "23.176.232.0/24", "131.143.90.0/24" ],
+    "ipv6": [ ]
+  }
+}

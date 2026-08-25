@@ -1,0 +1,14 @@
+{
+  "asn": 54409,
+  "metadata": {
+    "handle": "BDO-USA-LLP",
+    "description": "BDO USA",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

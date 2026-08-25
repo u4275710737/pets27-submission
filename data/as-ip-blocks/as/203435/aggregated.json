@@ -1,0 +1,14 @@
+{
+  "asn": 203435,
+  "metadata": {
+    "handle": "VMPL",
+    "description": "P4 Sp. z o.o.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

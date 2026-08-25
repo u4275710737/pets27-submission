@@ -1,0 +1,14 @@
+{
+  "asn": 31172,
+  "metadata": {
+    "handle": "QFAST",
+    "description": "Dragonfly Holding B.V.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "asn": 398488,
+  "metadata": {
+    "handle": "CANFIBE-01",
+    "description": "QUAENET Fi",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "asn": 49612,
+  "metadata": {
+    "handle": "COGNITIVE-CLOUD-NET",
+    "description": "DDOS-GUARD LTD",
+    "countryCode": "RU",
+    "country": "Russia",
+    "origin": "authoritative",
+    "category": "hosting",
+    "networkRole": "midsize_transit"
+  },
+  "prefixes": {
+    "ipv4": [ "185.178.211.0/24" ],
+    "ipv6": [ ]
+  }
+}

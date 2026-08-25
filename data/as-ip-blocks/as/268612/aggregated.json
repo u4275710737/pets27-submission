@@ -1,0 +1,14 @@
+{
+  "asn": 268612,
+  "metadata": {
+    "handle": "CASA-MOEDA-BRASIL-CMB",
+    "description": "CASA DA MOEDA DO BRASIL CMB",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

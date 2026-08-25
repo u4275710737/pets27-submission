@@ -1,0 +1,14 @@
+{
+  "asn": 40609,
+  "metadata": {
+    "handle": "KOFC",
+    "description": "Knights of Columbus",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "asn": 263320,
+  "metadata": {
+    "handle": "SANSARA-TELECOM",
+    "description": "Sansara Telecom",
+    "countryCode": "BR",
+    "country": "Brazil",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "access_provider"
+  },
+  "prefixes": {
+    "ipv4": [ "45.171.3.0/24", "187.45.133.0/24", "191.7.144.0/20" ],
+    "ipv6": [ "2804:143c::/32" ]
+  }
+}

@@ -1,0 +1,4 @@
+# AS265895 (ATITUS-EDUCACAO)
+# Atitus Educação S.A
+#
+192.140.127.0/24

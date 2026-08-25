@@ -1,0 +1,14 @@
+{
+  "asn": 212828,
+  "metadata": {
+    "handle": "TWOPEAKS",
+    "description": "Tom Hatzer trading as twopeaks digital e.U.",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

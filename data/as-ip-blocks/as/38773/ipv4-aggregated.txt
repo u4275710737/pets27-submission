@@ -1,0 +1,4 @@
+# AS38773 (CIPUTRA-AS-ID)
+# CiputraNet
+#
+114.141.88.0/21

@@ -1,0 +1,4 @@
+# AS40118 (THIRD-POINT-LLC)
+# Third Point LLC
+#
+63.116.22.0/24

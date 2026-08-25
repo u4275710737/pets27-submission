@@ -1,0 +1,14 @@
+{
+  "asn": 209496,
+  "metadata": {
+    "handle": "SPLINTERNET",
+    "description": "Joseph Sensibaugh",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

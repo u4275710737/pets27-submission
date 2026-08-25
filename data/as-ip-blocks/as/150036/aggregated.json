@@ -1,0 +1,14 @@
+{
+  "asn": 150036,
+  "metadata": {
+    "handle": "HEEBS-IN",
+    "description": "HEEBS HEALTHCARE PRIVATE LIMITED",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

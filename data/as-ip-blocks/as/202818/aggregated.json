@@ -1,0 +1,14 @@
+{
+  "asn": 202818,
+  "metadata": {
+    "handle": "LEVEL3COMMUNICATIONS",
+    "description": "LUMEN TECHNOLOGIES UK LIMITED",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

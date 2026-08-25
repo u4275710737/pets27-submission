@@ -1,0 +1,4 @@
+# AS139927 (GALAXYNET-AS-AP)
+# Galaxy Net
+#
+103.147.106.0/23

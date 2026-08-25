@@ -1,0 +1,14 @@
+{
+  "asn": 214518,
+  "metadata": {
+    "handle": "TECHMENTORTEENS",
+    "description": "TechMentor Teens",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

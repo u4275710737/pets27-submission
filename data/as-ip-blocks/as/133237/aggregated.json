@@ -1,0 +1,16 @@
+{
+  "asn": 133237,
+  "metadata": {
+    "handle": "APEXNETCOMM-AS-IN",
+    "description": "Apex Netcom India Pvt. Ltd.",
+    "countryCode": "IN",
+    "country": "India",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "144.48.168.0/24", "144.48.170.0/23" ],
+    "ipv6": [ ]
+  }
+}

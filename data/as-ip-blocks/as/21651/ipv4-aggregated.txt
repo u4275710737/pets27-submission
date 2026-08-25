@@ -1,0 +1,5 @@
+# AS21651 (THRIVENTFINANCIAL)
+# Thrivent Financial for Lutherans
+#
+12.145.188.0/24
+199.21.132.0/22

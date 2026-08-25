@@ -1,0 +1,14 @@
+{
+  "asn": 45828,
+  "metadata": {
+    "handle": "DIVERSE-AU-AP",
+    "description": "DIVERSE SERVICES (WA) PTY LTD",
+    "countryCode": null,
+    "country": null,
+    "origin": "authoritative"
+  },
+  "prefixes": {
+    "ipv4": [],
+    "ipv6": []
+  }
+}

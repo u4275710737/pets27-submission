@@ -1,0 +1,16 @@
+{
+  "asn": 204695,
+  "metadata": {
+    "handle": "ASSERVAN",
+    "description": "MARIA JOSEFA SILVERO PARRA",
+    "countryCode": "ES",
+    "country": "Spain",
+    "origin": "authoritative",
+    "category": "business",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "185.242.103.0/24" ],
+    "ipv6": [ ]
+  }
+}

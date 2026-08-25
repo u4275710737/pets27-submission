@@ -1,0 +1,16 @@
+{
+  "asn": 264494,
+  "metadata": {
+    "handle": "CONNECT-UP-PROVEDOR",
+    "description": "F. DOS S. DOURADO",
+    "countryCode": "BR",
+    "country": "Brazil",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "131.255.216.0/22" ],
+    "ipv6": [ "2804:2080::/32" ]
+  }
+}

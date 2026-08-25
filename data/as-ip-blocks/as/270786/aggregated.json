@@ -1,0 +1,16 @@
+{
+  "asn": 270786,
+  "metadata": {
+    "handle": "CITYNET-COM-PROD",
+    "description": "SEA TELECOM LTDA",
+    "countryCode": "BR",
+    "country": "Brazil",
+    "origin": "authoritative",
+    "category": "isp",
+    "networkRole": "stub"
+  },
+  "prefixes": {
+    "ipv4": [ "200.39.150.0/23" ],
+    "ipv6": [ "2804:7164::/32" ]
+  }
+}
